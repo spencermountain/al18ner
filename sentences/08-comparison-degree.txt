@@ -1,0 +1,100 @@
+He is taller than his brother. {Noun,Vb,Adj,Prep,Noun,Noun}
+This box is heavier than that one. {Det,Noun,Vb,Adj,Prep,Det,Val}
+Winter is colder than autumn. {Noun,Vb,Adj,Prep,Noun}
+My car is older than yours. {Noun,Noun,Vb,Adj,Prep,Noun}
+She runs faster than me. {Noun,Vb,Adj,Prep,Noun}
+The test was harder than the homework. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Today is warmer than yesterday. {Date,Vb,Adj,Prep,Date}
+This road is shorter than the highway. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Her hair is longer than mine. {Noun,Noun,Vb,Adj,Prep,Noun}
+The blue shirt is cheaper than the red one. {Det,Adj,Noun,Vb,Adj,Prep,Det,Adj,Val}
+He is younger than his sister. {Noun,Vb,Adj,Prep,Noun,Noun}
+The second half was better than the first. {Det,Val,Noun,Vb,Adj,Prep,Det,Val}
+Trains are safer than cars. {Noun,Vb,Adj,Prep,Noun}
+My soup is hotter than yours. {Noun,Noun,Vb,Adj,Prep,Noun}
+The room grew quiet. {Det,Noun,Vb,Adj}
+The movie was more interesting than the book. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+This puzzle is more difficult than it looks. {Det,Noun,Vb,Adv,Adj,Prep,Noun,Vb}
+Her plan was more practical than his. {Noun,Noun,Vb,Adv,Adj,Prep,Noun}
+The city is more lively in summer. {Det,Noun,Vb,Adv,Adj,Prep,Noun}
+This chair is more comfortable than the sofa. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+He spoke more slowly than usual. {Noun,Vb,Adv,Adv,Prep,Adj}
+She sings more sweetly than anyone. {Noun,Vb,Adv,Adv,Prep,Noun}
+The weather was worse than last year. {Det,Noun,Vb,Adj,Prep,Adj,Date}
+This is the best pizza in town. {Det,Vb,Det,Adj,Noun,Prep,Noun}
+She is the tallest girl in the class. {Noun,Vb,Det,Adj,Noun,Prep,Det,Noun}
+That was the worst storm in years. {Det,Vb,Det,Adj,Noun,Prep,Noun}
+He is the fastest runner on the team. {Noun,Vb,Det,Adj,Noun,Prep,Det,Noun}
+This is the most expensive watch. {Det,Vb,Det,Adv,Adj,Noun}
+She bought the cheapest ticket. {Noun,Vb,Det,Adj,Noun}
+It was the happiest day of my life. {Noun,Vb,Det,Adj,Noun,Prep,Noun,Noun}
+The oldest building is the church. {Det,Adj,Noun,Vb,Det,Noun}
+He told the funniest joke. {Noun,Vb,Det,Adj,Noun}
+This is the most beautiful garden in the city. {Det,Vb,Det,Adv,Adj,Noun,Prep,Det,Noun}
+She is the smartest student in school. {Noun,Vb,Det,Adj,Noun,Prep,Noun}
+The simplest answer is often correct. {Det,Adj,Noun,Vb,Adv,Adj}
+She is as tall as her sister. {Noun,Vb,Prep,Adj,Prep,Noun,Noun}
+The water is as clear as glass. {Det,Noun,Vb,Prep,Adj,Prep,Noun}
+He is as stubborn as a mule. {Noun,Vb,Prep,Adj,Prep,Det,Noun}
+The room was as quiet as a library. {Det,Noun,Vb,Prep,Adj,Prep,Det,Noun}
+Her hands were as cold as ice. {Noun,Noun,Vb,Prep,Adj,Prep,Noun}
+This bag is not as heavy as it looks. {Det,Noun,Vb,Negative,Prep,Adj,Prep,Noun,Vb}
+The box was too heavy to lift. {Det,Noun,Vb,Adv,Adj,Conj,Vb}
+The coffee is too hot to drink. {Det,Noun,Vb,Adv,Adj,Conj,Vb}
+He is old enough to drive. {Noun,Vb,Adj,Adv,Conj,Vb}
+The water is warm enough for swimming. {Det,Noun,Vb,Adj,Adv,Prep,Noun}
+It is too early for dinner. {Noun,Vb,Adv,Adj,Prep,Noun}
+She is too busy to talk. {Noun,Vb,Adv,Adj,Conj,Vb}
+The shelf is too high to reach. {Det,Noun,Vb,Adv,Adj,Conj,Vb}
+We have enough chairs for everyone. {Noun,Vb,Adj,Noun,Prep,Noun}
+She is very happy. {Noun,Vb,Adv,Adj}
+The box is quite heavy. {Det,Noun,Vb,Adv,Adj}
+He was really tired. {Noun,Vb,Adv,Adj}
+The soup is extremely hot. {Det,Noun,Vb,Adv,Adj}
+It was so cold. {Noun,Vb,Adv,Adj}
+The movie was rather slow. {Det,Noun,Vb,Adv,Adj}
+I am fairly certain. {Noun,Vb,Adv,Adj}
+The path is slightly steep. {Det,Noun,Vb,Adv,Adj}
+She was deeply moved. {Noun,Vb,Adv,Vb}
+The instructions were pretty clear. {Det,Noun,Vb,Adv,Adj}
+There is a cat on the roof. {There,Vb,Det,Noun,Prep,Det,Noun}
+There are five eggs in the fridge. {There,Vb,Val,Noun,Prep,Det,Noun}
+There was a storm last night. {There,Vb,Det,Noun,Adj,Noun}
+There were many people at the party. {There,Vb,Adj,Noun,Prep,Det,Noun}
+There is a message for you. {There,Vb,Det,Noun,Prep,Noun}
+There are two ways to solve this. {There,Vb,Val,Noun,Conj,Vb,Det}
+There was nothing in the box. {There,Vb,Noun,Prep,Det,Noun}
+There is someone at the door. {There,Vb,Noun,Prep,Det,Noun}
+There are plenty of options. {There,Vb,Noun,Prep,Noun}
+There is milk in the fridge. {There,Vb,Noun,Prep,Det,Noun}
+There were few clouds in the sky. {There,Vb,Det,Noun,Prep,Det,Noun}
+There is a spider in the bathtub. {There,Vb,Det,Noun,Prep,Det,Noun}
+There are three houses on this street. {There,Vb,Val,Noun,Prep,Det,Noun}
+There was a long line at the bakery. {There,Vb,Det,Adj,Noun,Prep,Det,Noun}
+There is always another chance. {There,Vb,Adv,Det,Noun}
+Most people agree. {Adj,Noun,Vb}
+Many students passed the exam. {Adj,Noun,Vb,Det,Noun}
+Some birds cannot fly. {Det,Noun,Vb,Negative,Vb}
+Each player gets a turn. {Det,Noun,Vb,Det,Noun}
+Every seat was taken. {Det,Noun,Vb,Vb}
+Both answers are correct. {Det,Noun,Vb,Adj}
+Several windows were open. {Det,Noun,Vb,Adj}
+Few people know this secret. {Det,Noun,Vb,Det,Noun}
+Much time has passed. {Det,Noun,Vb,Vb}
+All the cookies are gone. {Noun,Det,Noun,Vb,Vb}
+Half the class was absent. {Val,Det,Noun,Vb,Adj}
+Most of the guests left early. {Adj,Prep,Det,Noun,Vb,Adv}
+The coffee is strong enough. {Det,Noun,Vb,Adj,Adv}
+She almost missed the bus. {Noun,Adv,Vb,Det,Noun}
+The tank is nearly full. {Det,Noun,Vb,Adv,Adj}
+I completely forgot. {Noun,Adv,Vb}
+He barely slept. {Noun,Adv,Vb}
+The glass is half full. {Det,Noun,Vb,Adj,Adj}
+We hardly know them. {Noun,Adv,Vb,Noun}
+The story is absolutely true. {Det,Noun,Vb,Adv,Adj}
+Her answer was exactly right. {Noun,Noun,Vb,Adv,Adj}
+The two bags weigh ten pounds. {Det,Val,Noun,Vb,Val,Noun}
+The rent doubled last year. {Det,Noun,Vb,Adj,Date}
+It is much colder today. {Noun,Vb,Adv,Adj,Date}
+She feels a little better. {Noun,Vb,Det,Adv,Adj}
+The line moved very slowly. {Det,Noun,Vb,Adv,Adv}

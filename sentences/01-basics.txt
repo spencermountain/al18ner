@@ -1,0 +1,100 @@
+The baby slept. {Det,Noun,Vb}
+The phone rang. {Det,Noun,Vb}
+Birds sing. {Noun,Vb}
+The rain stopped. {Det,Noun,Vb}
+Everyone laughed. {Noun,Vb}
+The engine started. {Det,Noun,Vb}
+Snow fell. {Noun,Vb}
+The children waited. {Det,Noun,Vb}
+My head hurts. {Noun,Noun,Vb}
+The crowd cheered. {Det,Noun,Vb}
+The boy kicked the ball. {Det,Noun,Vb,Det,Noun}
+She reads the newspaper. {Noun,Vb,Det,Noun}
+Tom opened the window. {Noun,Vb,Det,Noun}
+The cat chased a mouse. {Det,Noun,Vb,Det,Noun}
+We watched a movie. {Noun,Vb,Det,Noun}
+He wrote a letter. {Noun,Vb,Det,Noun}
+Maria baked a cake. {Noun,Vb,Det,Noun}
+The farmer feeds the chickens. {Det,Noun,Vb,Det,Noun}
+I lost my keys. {Noun,Vb,Noun,Noun}
+They built a house. {Noun,Vb,Det,Noun}
+She closed the door. {Noun,Vb,Det,Noun}
+The teacher praised the students. {Det,Noun,Vb,Det,Noun}
+He carried the boxes. {Noun,Vb,Det,Noun}
+The waiter brought our food. {Det,Noun,Vb,Noun,Noun}
+I heard a noise. {Noun,Vb,Det,Noun}
+She answered the question. {Noun,Vb,Det,Noun}
+The dog buried a bone. {Det,Noun,Vb,Det,Noun}
+We cleaned the kitchen. {Noun,Vb,Det,Noun}
+He fixed the leak. {Noun,Vb,Det,Noun}
+The students solved the puzzle. {Det,Noun,Vb,Det,Noun}
+The soup is hot. {Det,Noun,Vb,Adj}
+The sky was gray. {Det,Noun,Vb,Adj}
+Her voice is soft. {Noun,Noun,Vb,Adj}
+The streets were empty. {Det,Noun,Vb,Adj}
+I am hungry. {Noun,Vb,Adj}
+You are kind. {Noun,Vb,Adj}
+The test was difficult. {Det,Noun,Vb,Adj}
+His hands were dirty. {Noun,Noun,Vb,Adj}
+The room feels warm. {Det,Noun,Vb,Adj}
+The story sounds strange. {Det,Noun,Vb,Adj}
+My father is a doctor. {Noun,Noun,Vb,Det,Noun}
+She is an engineer. {Noun,Vb,Det,Noun}
+The whale is a mammal. {Det,Noun,Vb,Det,Noun}
+They are teachers. {Noun,Vb,Noun}
+This is my favorite song. {Det,Vb,Noun,Adj,Noun}
+That was a mistake. {Det,Vb,Det,Noun}
+He became a lawyer. {Noun,Vb,Det,Noun}
+The building is a museum. {Det,Noun,Vb,Det,Noun}
+Those were happy days. {Det,Vb,Adj,Noun}
+It is a gift. {Noun,Vb,Det,Noun}
+She gave him a book. {Noun,Vb,Noun,Det,Noun}
+He sent her a postcard. {Noun,Vb,Noun,Det,Noun}
+The teacher told us a story. {Det,Noun,Vb,Noun,Det,Noun}
+I showed them the photos. {Noun,Vb,Noun,Det,Noun}
+Mom made us breakfast. {Noun,Vb,Noun,Noun}
+He offered her a ride. {Noun,Vb,Noun,Det,Noun}
+She taught the class a lesson. {Noun,Vb,Det,Noun,Det,Noun}
+They handed me the report. {Noun,Vb,Noun,Det,Noun}
+He bought his son a bicycle. {Noun,Vb,Noun,Noun,Det,Noun}
+She wrote her friend a note. {Noun,Vb,Noun,Noun,Det,Noun}
+They named the baby Lucy. {Noun,Vb,Det,Noun,Noun}
+We elected her captain. {Noun,Vb,Noun,Noun}
+The news made him happy. {Det,Noun,Vb,Noun,Adj}
+She painted the fence white. {Noun,Vb,Det,Noun,Adj}
+I found the movie boring. {Noun,Vb,Det,Noun,Adj}
+The dog's tail wagged. {Det,Noun,Noun,Vb}
+Tom's car is blue. {Noun,Noun,Vb,Adj}
+My sister's room is tidy. {Noun,Noun,Noun,Vb,Adj}
+The teacher's desk was clean. {Det,Noun,Noun,Vb,Adj}
+Anna's cat sleeps all day. {Noun,Noun,Vb,Adj,Date}
+Our neighbor's garden looks lovely. {Noun,Noun,Noun,Vb,Adj}
+His brother's team won. {Noun,Noun,Noun,Vb}
+The city's streets are busy. {Det,Noun,Noun,Vb,Adj}
+Her parents own a bakery. {Noun,Noun,Vb,Det,Noun}
+Their house has a red roof. {Noun,Noun,Vb,Det,Adj,Noun}
+The old clock ticks loudly. {Det,Adj,Noun,Vb,Adv}
+A little girl waved. {Det,Adj,Noun,Vb}
+The tall man wore a black coat. {Det,Adj,Noun,Vb,Det,Adj,Noun}
+She bought a beautiful old lamp. {Noun,Vb,Det,Adj,Adj,Noun}
+The small brown dog barked. {Det,Adj,Adj,Noun,Vb}
+He told a funny story. {Noun,Vb,Det,Adj,Noun}
+The busy street was noisy. {Det,Adj,Noun,Vb,Adj}
+A strong wind blew. {Det,Adj,Noun,Vb}
+The young couple smiled. {Det,Adj,Noun,Vb}
+Fresh bread smells wonderful. {Adj,Noun,Vb,Adj}
+The children played games. {Det,Noun,Vb,Noun}
+Leaves covered the ground. {Noun,Vb,Det,Noun}
+The women shared ideas. {Det,Noun,Vb,Noun}
+Rice needs water. {Noun,Vb,Noun}
+Music fills the room. {Noun,Vb,Det,Noun}
+The men moved the furniture. {Det,Noun,Vb,Det,Noun}
+Coffee keeps me awake. {Noun,Vb,Noun,Adj}
+The geese crossed the road. {Det,Noun,Vb,Det,Noun}
+Winter arrived. {Noun,Vb}
+Traffic slows everything. {Noun,Vb,Noun}
+She likes him. {Noun,Vb,Noun}
+They invited us. {Noun,Vb,Noun}
+I believe you. {Noun,Vb,Noun}
+He thanked them. {Noun,Vb,Noun}
+It surprised me. {Noun,Vb,Noun}

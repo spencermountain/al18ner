@@ -1,0 +1,100 @@
+She bought apples and oranges. {Noun,Vb,Noun,Conj,Noun}
+He plays guitar and piano. {Noun,Vb,Noun,Conj,Noun}
+We packed shirts, socks, and shoes. {Noun,Vb,Noun,Noun,Conj,Noun}
+The cat and the dog are friends. {Det,Noun,Conj,Det,Noun,Vb,Noun}
+You can have tea or coffee. {Noun,Vb,Vb,Noun,Conj,Noun}
+Is it blue or green? {Vb,Noun,Adj,Conj,Adj}
+She opened the door and smiled. {Noun,Vb,Det,Noun,Conj,Vb}
+He washed the car and mowed the lawn. {Noun,Vb,Det,Noun,Conj,Vb,Det,Noun}
+I called, but nobody answered. {Noun,Vb,Conj,Noun,Vb}
+The food was cheap but tasty. {Det,Noun,Vb,Adj,Conj,Adj}
+She is small but strong. {Noun,Vb,Adj,Conj,Adj}
+We wanted to stay, but we had to go. {Noun,Vb,Conj,Vb,Conj,Noun,Vb,Vb,Vb}
+Hurry, or we will miss the bus. {Vb,Conj,Noun,Vb,Vb,Det,Noun}
+He neither smiled nor spoke. {Noun,Det,Vb,Conj,Vb}
+Either you or I will win. {Conj,Noun,Conj,Noun,Vb,Vb}
+Both the boys and the girls cheered. {Noun,Det,Noun,Conj,Det,Noun,Vb}
+She speaks French and a little Spanish. {Noun,Vb,Noun,Conj,Det,Adj,Noun}
+The movie was long, but we enjoyed it. {Det,Noun,Vb,Adj,Conj,Noun,Vb,Noun}
+Bring a pen and some paper. {Vb,Det,Noun,Conj,Det,Noun}
+He tried hard, yet he failed. {Noun,Vb,Adv,Conj,Noun,Vb}
+The book that she wrote is long. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+The woman that I met was friendly. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+The house that they built is huge. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+The cake that you baked was delicious. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+The song that she sang made me cry. {Det,Noun,Det,Noun,Vb,Vb,Noun,Vb}
+The girl whose bike broke cried. {Det,Noun,QuestionWord,Noun,Vb,Vb}
+The author whose book won gave a talk. {Det,Noun,QuestionWord,Noun,Vb,Vb,Det,Noun}
+The man whose car was stolen called the police. {Det,Noun,QuestionWord,Noun,Vb,Vb,Vb,Det,Noun}
+I visited the city where he was born. {Noun,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
+This is the town where she grew up. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
+We found a park where the kids can play. {Noun,Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
+I remember the day when we met. {Noun,Vb,Det,Date,QuestionWord,Noun,Vb}
+The man who lives next door is kind. {Det,Noun,QuestionWord,Vb,Adj,Noun,Vb,Adj}
+The woman who called left a message. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun}
+The boy who won the race smiled. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb}
+The people who came early found seats. {Det,Noun,QuestionWord,Vb,Adv,Vb,Noun}
+The girl who found the wallet returned it. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Noun}
+The movie which won the award was long. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
+The road which crosses the river is narrow. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
+The letter which arrived today was from Tom. {Det,Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
+Everyone who came had a good time. {Noun,QuestionWord,Vb,Vb,Det,Adj,Noun}
+The neighbors that we invited arrived first. {Det,Noun,Det,Noun,Vb,Vb,Val}
+The tools that he borrowed were rusty. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+She married a man that everyone admired. {Noun,Vb,Det,Noun,Det,Noun,Vb}
+The dress that she chose was perfect. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+He said that he was tired. {Noun,Vb,Conj,Noun,Vb,Adj}
+She said that it was canceled. {Noun,Vb,Conj,Noun,Vb,Vb}
+They said that the road was closed. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+He said that he would move. {Noun,Vb,Conj,Noun,Vb,Vb}
+She told us that dinner was ready. {Noun,Vb,Noun,Conj,Noun,Vb,Adj}
+The teacher said that it was easy. {Det,Noun,Vb,Conj,Noun,Vb,Adj}
+He whispered that she was asleep. {Noun,Vb,Conj,Noun,Vb,Adj}
+She explained that they were late. {Noun,Vb,Conj,Noun,Vb,Adj}
+He admitted that he was wrong. {Noun,Vb,Conj,Noun,Vb,Adj}
+She promised that she would help. {Noun,Vb,Conj,Noun,Vb,Vb}
+He says that it is true. {Noun,Vb,Conj,Noun,Vb,Adj}
+I heard that you got a new job. {Noun,Vb,Conj,Noun,Vb,Det,Adj,Noun}
+She mentioned that he was busy. {Noun,Vb,Conj,Noun,Vb,Adj}
+He claimed that it was safe. {Noun,Vb,Conj,Noun,Vb,Adj}
+They announced that it was starting. {Noun,Vb,Conj,Noun,Vb,Vb}
+I think you are right. {Noun,Vb,Noun,Vb,Adj}
+I hope she wins. {Noun,Vb,Noun,Vb}
+He believes the earth is round. {Noun,Vb,Det,Noun,Vb,Adj}
+She knows the answer is wrong. {Noun,Vb,Det,Noun,Vb,Adj}
+I guess we should go. {Noun,Vb,Noun,Vb,Vb}
+He thinks the plan will fail. {Noun,Vb,Det,Noun,Vb,Vb}
+We assume the store is open. {Noun,Vb,Det,Noun,Vb,Adj}
+She feels the team can win. {Noun,Vb,Det,Noun,Vb,Vb}
+I bet it snows tomorrow. {Noun,Vb,Noun,Vb,Date}
+They say the castle is haunted. {Noun,Vb,Det,Noun,Vb,Adj}
+My brother, who lives in Denver, is visiting. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Vb}
+The house, which was empty, felt cold. {Det,Noun,QuestionWord,Vb,Adj,Vb,Adj}
+Her car, which was new, broke down. {Noun,Noun,QuestionWord,Vb,Adj,Vb,Vb}
+Our teacher, who speaks four languages, is famous. {Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
+The bridge, which was built in 1900, is still open. {Det,Noun,QuestionWord,Vb,Vb,Prep,Val,Vb,Adv,Adj}
+I know that she is busy. {Noun,Vb,Conj,Noun,Vb,Adj}
+It seems that he is right. {Noun,Vb,Conj,Noun,Vb,Adj}
+The problem is that we are late. {Det,Noun,Vb,Conj,Noun,Vb,Adj}
+The truth is that we may never know. {Det,Noun,Vb,Conj,Noun,Vb,Negative,Vb}
+He forgot that they were closed. {Noun,Vb,Conj,Noun,Vb,Adj}
+She noticed that it was open. {Noun,Vb,Conj,Noun,Vb,Adj}
+Remember that we leave at five. {Vb,Conj,Noun,Vb,Prep,Val}
+I doubt that he will come. {Noun,Vb,Conj,Noun,Vb,Vb}
+We agreed that the price was fair. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+It appears that she was correct. {Noun,Vb,Conj,Noun,Vb,Adj}
+We visited Rome, Florence, and Venice. {Noun,Vb,Noun,Noun,Conj,Noun}
+She can read, write, and swim. {Noun,Vb,Vb,Vb,Conj,Vb}
+The flag is red, white, and blue. {Det,Noun,Vb,Adj,Adj,Conj,Adj}
+He ordered soup, salad, and bread. {Noun,Vb,Noun,Noun,Conj,Noun}
+The morning was cold, wet, and windy. {Det,Noun,Vb,Adj,Adj,Conj,Adj}
+She grabbed her coat, hat, and gloves. {Noun,Vb,Noun,Noun,Noun,Conj,Noun}
+Do you want rice or noodles? {Vb,Noun,Vb,Noun,Conj,Noun}
+Neither the cat nor the dog moved. {Det,Det,Noun,Conj,Det,Noun,Vb}
+We can walk, or we can take the bus. {Noun,Vb,Vb,Conj,Noun,Vb,Vb,Det,Noun}
+The soup was hot, and the bread was fresh. {Det,Noun,Vb,Adj,Conj,Det,Noun,Vb,Adj}
+He knocked, and she opened the door. {Noun,Vb,Conj,Noun,Vb,Det,Noun}
+Study hard, and you will succeed. {Vb,Adv,Conj,Noun,Vb,Vb}
+The team played well and won the title. {Det,Noun,Vb,Adv,Conj,Vb,Det,Noun}
+I drink tea, and my sister drinks coffee. {Noun,Vb,Noun,Conj,Noun,Noun,Vb,Noun}
+She smiled and waved at the crowd. {Noun,Vb,Conj,Vb,Prep,Det,Noun}

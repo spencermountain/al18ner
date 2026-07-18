@@ -1,0 +1,100 @@
+She can swim. {Noun,Vb,Vb}
+He can speak three languages. {Noun,Vb,Vb,Val,Noun}
+I can hear you. {Noun,Vb,Vb,Noun}
+We can meet on Tuesday. {Noun,Vb,Vb,Prep,Date}
+Birds can fly. {Noun,Vb,Vb}
+You can sit with us. {Noun,Vb,Vb,Prep,Noun}
+She can drive a truck. {Noun,Vb,Vb,Det,Noun}
+I can smell smoke. {Noun,Vb,Vb,Noun}
+He could read at four. {Noun,Vb,Vb,Prep,Val}
+She could hear the music. {Noun,Vb,Vb,Det,Noun}
+We could see the mountains. {Noun,Vb,Vb,Det,Noun}
+You could try the other door. {Noun,Vb,Vb,Det,Adj,Noun}
+They could arrive at any moment. {Noun,Vb,Vb,Prep,Det,Noun}
+I could eat a whole pizza. {Noun,Vb,Vb,Det,Adj,Noun}
+It may rain this evening. {Noun,Vb,Vb,Det,Noun}
+She may join us for dinner. {Noun,Vb,Vb,Noun,Prep,Noun}
+You may leave the table. {Noun,Vb,Vb,Det,Noun}
+The plan might change. {Det,Noun,Vb,Vb}
+He might know the answer. {Noun,Vb,Vb,Det,Noun}
+We might visit the museum. {Noun,Vb,Vb,Det,Noun}
+You must wear a helmet. {Noun,Vb,Vb,Det,Noun}
+Students must finish the test by noon. {Noun,Vb,Vb,Det,Noun,Prep,Noun}
+We must protect the forest. {Noun,Vb,Vb,Det,Noun}
+He must be hungry. {Noun,Vb,Vb,Adj}
+She must have missed the bus. {Noun,Vb,Vb,Vb,Det,Noun}
+He must be very proud. {Noun,Vb,Vb,Adv,Adj}
+You should drink more water. {Noun,Vb,Vb,Adj,Noun}
+He should apologize to her. {Noun,Vb,Vb,Prep,Noun}
+We should leave early. {Noun,Vb,Vb,Adv}
+They should plant many trees. {Noun,Vb,Vb,Adj,Noun}
+You should see a doctor. {Noun,Vb,Vb,Det,Noun}
+She should rest today. {Noun,Vb,Vb,Date}
+I would like a cup of tea. {Noun,Vb,Vb,Det,Noun,Prep,Noun}
+He would help if he could. {Noun,Vb,Vb,Conj,Noun,Vb}
+She would never lie. {Noun,Vb,Negative,Vb}
+We would love to join you. {Noun,Vb,Vb,Conj,Vb,Noun}
+That would be wonderful. {Det,Vb,Vb,Adj}
+They would rather walk. {Noun,Vb,Adv,Vb}
+Shall we begin? {Vb,Noun,Vb}
+Shall I open a window? {Vb,Noun,Vb,Det,Noun}
+We shall see. {Noun,Vb,Vb}
+You shall have your reward. {Noun,Vb,Vb,Noun,Noun}
+I have to leave early. {Noun,Vb,Vb,Vb,Adv}
+She has to work on Saturday. {Noun,Vb,Vb,Vb,Prep,Date}
+We had to cancel the trip. {Noun,Vb,Vb,Vb,Det,Noun}
+You ought to apologize. {Noun,Vb,Vb,Vb}
+He had better hurry. {Noun,Vb,Vb,Vb}
+They need to find a new apartment. {Noun,Vb,Conj,Vb,Det,Adj,Noun}
+I need to buy groceries. {Noun,Vb,Conj,Vb,Noun}
+She doesn't have to come. {Noun,Vb,Negative,Vb,Vb,Vb}
+I don't understand. {Noun,Vb,Negative,Vb}
+She doesn't eat meat. {Noun,Vb,Negative,Vb,Noun}
+We didn't hear the alarm. {Noun,Vb,Negative,Vb,Det,Noun}
+They don't own a car. {Noun,Vb,Negative,Vb,Det,Noun}
+He didn't answer my call. {Noun,Vb,Negative,Vb,Noun,Noun}
+I don't know her name. {Noun,Vb,Negative,Vb,Noun,Noun}
+It doesn't matter. {Noun,Vb,Negative,Vb}
+You don't need a ticket. {Noun,Vb,Negative,Vb,Det,Noun}
+The printer doesn't work. {Det,Noun,Vb,Negative,Vb}
+We didn't expect rain. {Noun,Vb,Negative,Vb,Noun}
+He isn't ready. {Noun,Vb,Negative,Adj}
+The soup isn't hot enough. {Det,Noun,Vb,Negative,Adj,Adv}
+They aren't home. {Noun,Vb,Negative,Noun}
+I wasn't ready. {Noun,Vb,Negative,Adj}
+The keys weren't in my bag. {Det,Noun,Vb,Negative,Prep,Noun,Noun}
+She isn't a nurse. {Noun,Vb,Negative,Det,Noun}
+I can't find my glasses. {Noun,Vb,Negative,Vb,Noun,Noun}
+She can't come to the party. {Noun,Vb,Negative,Vb,Prep,Det,Noun}
+He won't listen. {Noun,Vb,Negative,Vb}
+They won't sell the farm. {Noun,Vb,Negative,Vb,Det,Noun}
+We couldn't open the jar. {Noun,Vb,Negative,Vb,Det,Noun}
+You shouldn't worry so much. {Noun,Vb,Negative,Vb,Adv,Det}
+I wouldn't do that. {Noun,Vb,Negative,Vb,Det}
+You mustn't tell anyone. {Noun,Vb,Negative,Vb,Noun}
+He cannot swim. {Noun,Vb,Negative,Vb}
+We cannot wait any longer. {Noun,Vb,Negative,Vb,Det,Adj}
+She never complains. {Noun,Negative,Vb}
+I never eat breakfast. {Noun,Negative,Vb,Noun}
+He has never flown. {Noun,Vb,Negative,Vb}
+We will never know. {Noun,Vb,Negative,Vb}
+Nothing happened. {Noun,Vb}
+Nobody answered the door. {Noun,Vb,Det,Noun}
+Nothing was missing. {Noun,Vb,Adj}
+Nobody knows the truth. {Noun,Vb,Det,Noun}
+Neither answer is correct. {Det,Noun,Vb,Adj}
+Neither of us slept. {Det,Prep,Noun,Vb}
+The story is not true. {Det,Noun,Vb,Negative,Adj}
+He is not my brother. {Noun,Vb,Negative,Noun,Noun}
+That was not fair. {Det,Vb,Negative,Adj}
+The milk is not fresh. {Det,Noun,Vb,Negative,Adj}
+I am not angry. {Noun,Vb,Negative,Adj}
+Do not touch the stove. {Vb,Negative,Vb,Det,Noun}
+They were not invited. {Noun,Vb,Negative,Adj}
+She decided not to answer. {Noun,Vb,Negative,Conj,Vb}
+She has no idea. {Noun,Vb,Negative,Noun}
+There are no seats left. {There,Vb,Negative,Noun,Vb}
+He has no money. {Noun,Vb,Negative,Noun}
+Would you like some water? {Vb,Noun,Vb,Det,Noun}
+Could you repeat that? {Vb,Noun,Vb,Det}
+May I ask a question? {Vb,Noun,Vb,Det,Noun}

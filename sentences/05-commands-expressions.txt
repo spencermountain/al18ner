@@ -1,0 +1,100 @@
+Close the door. {Vb,Det,Noun}
+Open your books. {Vb,Noun,Noun}
+Sit down. {Vb,Vb}
+Stand up. {Vb,Vb}
+Come in. {Vb,Vb}
+Take a seat. {Vb,Det,Noun}
+Wash your hands. {Vb,Noun,Noun}
+Listen carefully. {Vb,Adv}
+Wait for me. {Vb,Prep,Noun}
+Bring your umbrella. {Vb,Noun,Noun}
+Turn off the lights. {Vb,Vb,Det,Noun}
+Put the box on the shelf. {Vb,Det,Noun,Prep,Det,Noun}
+Give me a hand. {Vb,Noun,Det,Noun}
+Tell us a story. {Vb,Noun,Det,Noun}
+Call me tomorrow. {Vb,Noun,Date}
+Pass the butter. {Vb,Det,Noun}
+Try again. {Vb,Adv}
+Keep the change. {Vb,Det,Noun}
+Follow that car. {Vb,Det,Noun}
+Speak slowly. {Vb,Adv}
+Hold on. {Vb,Vb}
+Look at this photo. {Vb,Prep,Det,Noun}
+Read the instructions first. {Vb,Det,Noun,Val}
+Answer the phone. {Vb,Det,Noun}
+Feed the cat before you leave. {Vb,Det,Noun,Conj,Noun,Vb}
+Do not open that box. {Vb,Negative,Vb,Det,Noun}
+Don't be afraid. {Vb,Negative,Vb,Adj}
+Don't forget your keys. {Vb,Negative,Vb,Noun,Noun}
+Don't move. {Vb,Negative,Vb}
+Do not feed the animals. {Vb,Negative,Vb,Det,Noun}
+Don't touch that. {Vb,Negative,Vb,Det}
+Never give up. {Negative,Vb,Vb}
+Don't be late for class. {Vb,Negative,Vb,Adj,Prep,Noun}
+Please close the window. {Expr,Vb,Det,Noun}
+Please remove your shoes. {Expr,Vb,Noun,Noun}
+Please wait here. {Expr,Vb,Adv}
+Please be quiet. {Expr,Vb,Adj}
+Please help yourself. {Expr,Vb,Noun}
+Please sign your name at the bottom. {Expr,Vb,Noun,Noun,Prep,Det,Noun}
+Please forgive me. {Expr,Vb,Noun}
+Please pay attention. {Expr,Vb,Noun}
+Let's go home. {Vb,Noun,Vb,Noun}
+Let's take a break. {Vb,Noun,Vb,Det,Noun}
+Let's start the meeting. {Vb,Noun,Vb,Det,Noun}
+Let's meet at the cafe. {Vb,Noun,Vb,Prep,Det,Noun}
+Let us pray. {Vb,Noun,Vb}
+Let's not argue. {Vb,Noun,Negative,Vb}
+Hello, my name is Maria. {Expr,Noun,Noun,Vb,Noun}
+Hi, how are you? {Expr,QuestionWord,Vb,Noun}
+Wow, that was amazing! {Expr,Det,Vb,Adj}
+Oh, I forgot my keys. {Expr,Noun,Vb,Noun,Noun}
+Ouch, that hurt! {Expr,Det,Vb}
+Yes, I agree. {Expr,Noun,Vb}
+No, thank you. {Expr,Vb,Noun}
+Well, we tried. {Expr,Noun,Vb}
+Hey, watch out! {Expr,Vb,Vb}
+Oops, I dropped it. {Expr,Noun,Vb,Noun}
+Hooray, we won! {Expr,Noun,Vb}
+Goodbye, see you tomorrow. {Expr,Vb,Noun,Date}
+Good morning, everyone. {Adj,Noun,Noun}
+Good night, sleep well. {Adj,Noun,Vb,Adv}
+Happy birthday! {Adj,Noun}
+Congratulations on your new job! {Expr,Prep,Noun,Adj,Noun}
+Welcome to our home. {Vb,Prep,Noun,Noun}
+Excuse me, is this seat free? {Expr,Expr,Vb,Det,Noun,Adj}
+Thank you for your help. {Vb,Noun,Prep,Noun,Noun}
+Sorry, I am late. {Adj,Noun,Vb,Adj}
+Of course, you can come. {Adv,Adv,Noun,Vb,Vb}
+Yes, please. {Expr,Expr}
+No, thanks. {Expr,Vb}
+Me too. {Noun,Adv}
+So do I. {Expr,Vb,Noun}
+Neither do I. {Det,Vb,Noun}
+I think so. {Noun,Vb,Adv}
+I hope not. {Noun,Vb,Negative}
+Maybe tomorrow. {Adv,Date}
+Not really. {Negative,Adv}
+No problem. {Expr,Noun}
+Fine, you win. {Adj,Noun,Vb}
+Good luck! {Adj,Noun}
+Everyone, please sit down. {Noun,Expr,Vb,Vb}
+Children, dinner is ready! {Noun,Noun,Vb,Adj}
+Watch your step. {Vb,Noun,Noun}
+Mind the gap. {Vb,Det,Noun}
+Help me with these bags. {Vb,Noun,Prep,Det,Noun}
+Hurry up, we are late. {Vb,Vb,Noun,Vb,Adj}
+Be careful. {Vb,Adj}
+Be patient with him. {Vb,Adj,Prep,Noun}
+Stay calm. {Vb,Adj}
+Enjoy the party. {Vb,Det,Noun}
+Meet me at the corner. {Vb,Noun,Prep,Det,Noun}
+Take the second street. {Vb,Det,Val,Noun}
+Check your email. {Vb,Noun,Noun}
+Save your work often. {Vb,Noun,Noun,Adv}
+Ask your teacher for help. {Vb,Noun,Noun,Prep,Noun}
+Add two cups of sugar. {Vb,Val,Noun,Prep,Noun}
+Cut the paper into two pieces. {Vb,Det,Noun,Prep,Val,Noun}
+Mix the flour and the eggs. {Vb,Det,Noun,Conj,Det,Noun}
+Leave a message after the beep. {Vb,Det,Noun,Prep,Det,Noun}
+Drive safely. {Vb,Adv}

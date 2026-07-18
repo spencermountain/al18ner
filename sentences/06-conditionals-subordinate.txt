@@ -1,0 +1,100 @@
+If it rains, we will stay home. {Condition,Noun,Vb,Noun,Vb,Vb,Noun}
+If you heat ice, it melts. {Condition,Noun,Vb,Noun,Noun,Vb}
+If she calls, tell her the truth. {Condition,Noun,Vb,Vb,Noun,Det,Noun}
+If I were rich, I would travel. {Condition,Noun,Vb,Adj,Noun,Vb,Vb}
+If we leave early, we will catch the train. {Condition,Noun,Vb,Adj,Noun,Vb,Vb,Det,Noun}
+If you study, you will pass. {Condition,Noun,Vb,Noun,Vb,Vb}
+If the weather is nice, we will walk. {Condition,Det,Noun,Vb,Adj,Noun,Vb,Vb}
+If he had studied, he would have passed. {Condition,Noun,Vb,Vb,Noun,Vb,Vb,Vb}
+If I had known, I would have helped. {Condition,Noun,Vb,Vb,Noun,Vb,Vb,Vb}
+If you need anything, ask me. {Condition,Noun,Vb,Noun,Vb,Noun}
+If it snows, the buses will stop. {Condition,Noun,Vb,Det,Noun,Vb,Vb}
+If you see her, say hello. {Condition,Noun,Vb,Noun,Vb,Expr}
+If the bus is late, we will miss the show. {Condition,Det,Noun,Vb,Adj,Noun,Vb,Vb,Det,Noun}
+You can come if you want. {Noun,Vb,Vb,Condition,Noun,Vb}
+We will cancel the picnic if it rains. {Noun,Vb,Vb,Det,Noun,Condition,Noun,Vb}
+Call me if you get lost. {Vb,Noun,Condition,Noun,Vb,Adj}
+If necessary, we can reschedule. {Condition,Adj,Noun,Vb,Vb}
+If possible, arrive before eight. {Condition,Adj,Vb,Conj,Val}
+Even if he apologizes, she will not forgive him. {Conj,Condition,Noun,Vb,Noun,Vb,Negative,Vb,Noun}
+What happens if we fail? {QuestionWord,Vb,Condition,Noun,Vb}
+If in doubt, ask. {Condition,Prep,Noun,Vb}
+If the light is red, stop the car. {Condition,Det,Noun,Vb,Adj,Vb,Det,Noun}
+She will help if you ask politely. {Noun,Vb,Vb,Condition,Noun,Vb,Adv}
+If she agrees, we will sign the contract. {Condition,Noun,Vb,Noun,Vb,Vb,Det,Noun}
+Unless it rains, we will have a picnic. {Condition,Noun,Vb,Noun,Vb,Vb,Det,Noun}
+Unless you hurry, we will be late. {Condition,Noun,Vb,Noun,Vb,Vb,Adv}
+I will go alone unless you join me. {Noun,Vb,Vb,Adj,Condition,Noun,Vb,Noun}
+Unless he improves, he will lose his job. {Condition,Noun,Vb,Noun,Vb,Vb,Noun,Noun}
+When it rains, the street floods. {Conj,Noun,Vb,Det,Noun,Vb}
+I was cooking when you called. {Noun,Vb,Vb,Conj,Noun,Vb}
+Whenever she visits, we bake cookies. {Conj,Noun,Vb,Noun,Vb,Noun}
+Whenever he travels, he sends postcards. {Conj,Noun,Vb,Noun,Vb,Noun}
+While you were sleeping, the mail came. {Conj,Noun,Vb,Vb,Det,Noun,Vb}
+While she cooked, he cleaned the table. {Conj,Noun,Vb,Noun,Vb,Det,Noun}
+As soon as we arrived, the show began. {Conj,Conj,Conj,Noun,Vb,Det,Noun,Vb}
+As soon as she finishes, we can leave. {Conj,Conj,Conj,Noun,Vb,Noun,Vb,Vb}
+While the baby slept, we cleaned the house. {Conj,Det,Noun,Vb,Noun,Vb,Det,Noun}
+Because the road was icy, we drove slowly. {Conj,Det,Noun,Vb,Adj,Noun,Vb,Adv}
+We stayed home because it was raining. {Noun,Vb,Noun,Conj,Noun,Vb,Vb}
+She smiled because she was proud. {Noun,Vb,Conj,Noun,Vb,Adj}
+He left because he was bored. {Noun,Vb,Conj,Noun,Vb,Adj}
+Because of the storm, the flight was delayed. {Conj,Prep,Det,Noun,Det,Noun,Vb,Adj}
+I trust her because she is honest. {Noun,Vb,Noun,Conj,Noun,Vb,Adj}
+Although it was cold, we went swimming. {Conj,Noun,Vb,Adj,Noun,Vb,Vb}
+Although she was sleepy, she kept working. {Conj,Noun,Vb,Adj,Noun,Vb,Vb}
+Though he is young, he is wise. {Conj,Noun,Vb,Adj,Noun,Vb,Adj}
+Although the test was hard, everyone passed. {Conj,Det,Noun,Vb,Adj,Noun,Vb}
+He came to the party although he was sick. {Noun,Vb,Prep,Det,Noun,Conj,Noun,Vb,Adj}
+Although we lost, we played well. {Conj,Noun,Vb,Noun,Vb,Adv}
+She kept running although her legs ached. {Noun,Vb,Vb,Conj,Noun,Noun,Vb}
+Though it rained, the game continued. {Conj,Noun,Vb,Det,Noun,Vb}
+She studied hard, so she passed the test. {Noun,Vb,Adv,Conj,Noun,Vb,Det,Noun}
+It was late, so we left early. {Noun,Vb,Adj,Conj,Noun,Vb,Adv}
+The store was empty, so we left. {Det,Noun,Vb,Adj,Conj,Noun,Vb}
+He was hungry, so he made a sandwich. {Noun,Vb,Adj,Conj,Noun,Vb,Det,Noun}
+The music was loud, so we covered our ears. {Det,Noun,Vb,Adj,Conj,Noun,Vb,Noun,Noun}
+I was thirsty, so I drank some juice. {Noun,Vb,Adj,Conj,Noun,Vb,Det,Noun}
+We waited until midnight. {Noun,Vb,Prep,Noun}
+The shop is open until nine. {Det,Noun,Vb,Adj,Prep,Val}
+Finish your homework before dinner. {Vb,Noun,Noun,Conj,Noun}
+After the movie, we ate dessert. {Prep,Det,Noun,Noun,Vb,Noun}
+After lunch, they took a nap. {Prep,Noun,Noun,Vb,Det,Noun}
+We left after the speech. {Noun,Vb,Prep,Det,Noun}
+Brush your teeth before bed. {Vb,Noun,Noun,Conj,Noun}
+The party continued after sunset. {Det,Noun,Vb,Prep,Noun}
+After we arrived, the movie started. {Prep,Noun,Vb,Det,Noun,Vb}
+After she graduated, she moved abroad. {Prep,Noun,Vb,Noun,Vb,Adv}
+Once you learn the rules, the game is easy. {Adv,Noun,Vb,Det,Noun,Det,Noun,Vb,Adj}
+After they left, the house felt quiet. {Prep,Noun,Vb,Det,Noun,Vb,Adj}
+He asked if I was ready. {Noun,Vb,Conj,Noun,Vb,Adj}
+I do not know if she will come. {Noun,Vb,Negative,Vb,Conj,Noun,Vb,Vb}
+See if dinner is ready. {Vb,Conj,Noun,Vb,Adj}
+He wondered if the story was true. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Whether we win or lose, I am proud. {Conj,Noun,Vb,Conj,Vb,Noun,Vb,Adj}
+Since 2020, she has run a small business. {Prep,Val,Noun,Vb,Vb,Det,Adj,Noun}
+Since Monday, it has rained every day. {Prep,Date,Noun,Vb,Vb,Det,Date}
+During the storm, the lights went out. {Prep,Det,Noun,Det,Noun,Vb,Prep}
+Despite the rain, the match continued. {Prep,Det,Noun,Det,Noun,Vb}
+Despite her fear, she gave the speech. {Prep,Noun,Noun,Noun,Vb,Det,Noun}
+Without a map, we got lost. {Prep,Det,Noun,Noun,Vb,Adj}
+Before the show, we grabbed dinner. {Conj,Det,Noun,Noun,Vb,Noun}
+By the time we arrived, the food was cold. {Conj,Conj,Conj,Noun,Vb,Det,Noun,Vb,Adj}
+The sooner, the better. {Det,Adj,Det,Adj}
+Wherever she goes, her dog follows. {Conj,Noun,Vb,Noun,Noun,Vb}
+Whoever arrives first gets a prize. {Conj,Vb,Val,Vb,Det,Noun}
+Everywhere we looked, we saw flowers. {Adv,Noun,Vb,Noun,Vb,Noun}
+He acts as if he owns the place. {Noun,Vb,Conj,Conj,Noun,Vb,Det,Noun}
+It looks as though it might snow. {Noun,Vb,Conj,Conj,Noun,Vb,Vb}
+She sings while she cooks. {Noun,Vb,Conj,Noun,Vb}
+As night fell, the city lit up. {Prep,Noun,Vb,Det,Noun,Vb,Vb}
+He behaves as though nothing happened. {Noun,Vb,Conj,Conj,Noun,Vb}
+Take an umbrella in case it rains. {Vb,Det,Noun,Conj,Conj,Noun,Vb}
+We left early so we could park. {Noun,Vb,Adv,Conj,Noun,Vb,Vb}
+The dog barked whenever the bell rang. {Det,Noun,Vb,Conj,Det,Noun,Vb}
+If you break it, you buy it. {Condition,Noun,Vb,Noun,Noun,Vb,Noun}
+If I forget, remind me. {Condition,Noun,Vb,Vb,Noun}
+Bring a jacket in case it gets cold. {Vb,Det,Noun,Conj,Conj,Noun,Vb,Adj}
+Although he apologized, she stayed angry. {Conj,Noun,Vb,Noun,Vb,Adj}
+Because we arrived late, we missed the speech. {Conj,Noun,Vb,Adj,Noun,Vb,Det,Noun}
+If everything goes well, we will buy a house. {Condition,Noun,Vb,Adv,Noun,Vb,Vb,Det,Noun}
