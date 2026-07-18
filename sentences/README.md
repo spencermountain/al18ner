@@ -38,8 +38,9 @@ compromise's lexicon (many → `Adj`, few/much → `Det`, half → `Val`/`Adj` b
 ## Deliberate disagreements with the current tagger (65 lines)
 
 These lines keep the linguistically-correct tag where compromise v14.16.0 tags
-differently — each one fails `testSpec()` on exactly that word. They may point at
-lexicon gaps worth fixing:
+differently — each one fails `testSpec()` on exactly that word. The full list, with
+compromise's actual output and the per-word diff for every line, is in
+[disagreements.md](./disagreements.md). They may point at lexicon gaps worth fixing:
 
 1. **Conditional "if" → `Condition`** (26 lines, file 06) — compromise tags every "if"
    as `Conjunction`; only "unless" carries `Condition`. Embedded "if" (= whether:
