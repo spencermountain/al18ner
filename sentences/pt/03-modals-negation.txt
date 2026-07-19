@@ -1,0 +1,100 @@
+Ela sabe nadar. {Noun,Vb,Vb}
+Ele sabe falar três línguas. {Noun,Vb,Vb,Val,Noun}
+Eu consigo ouvir você. {Noun,Vb,Vb,Noun}
+Nós podemos nos encontrar na terça. {Noun,Vb,Noun,Vb,Prep,Date}
+Os pássaros podem voar. {Det,Noun,Vb,Vb}
+Você pode sentar com a gente. {Noun,Vb,Vb,Prep,Det,Noun}
+Ela sabe dirigir um caminhão. {Noun,Vb,Vb,Det,Noun}
+Eu consigo sentir cheiro de fumaça. {Noun,Vb,Vb,Noun,Prep,Noun}
+Ele sabia ler aos quatro anos. {Noun,Vb,Vb,Prep,Val,Noun}
+Ela conseguia ouvir a música. {Noun,Vb,Vb,Det,Noun}
+Nós conseguíamos ver as montanhas. {Noun,Vb,Vb,Det,Noun}
+Você poderia tentar a outra porta. {Noun,Vb,Vb,Det,Adj,Noun}
+Eles podiam chegar a qualquer momento. {Noun,Vb,Vb,Prep,Det,Noun}
+Eu poderia comer uma pizza inteira. {Noun,Vb,Vb,Det,Noun,Adj}
+Pode chover hoje à noite. {Vb,Vb,Date,Prep,Noun}
+Ela pode jantar com a gente. {Noun,Vb,Vb,Prep,Det,Noun}
+Você pode sair da mesa. {Noun,Vb,Vb,Prep,Noun}
+O plano pode mudar. {Det,Noun,Vb,Vb}
+Ele pode saber a resposta. {Noun,Vb,Vb,Det,Noun}
+Talvez a gente visite o museu. {Adv,Det,Noun,Vb,Det,Noun}
+Você deve usar capacete. {Noun,Vb,Vb,Noun}
+Os alunos devem terminar a prova até o meio-dia. {Det,Noun,Vb,Vb,Det,Noun,Prep,Det,Adj,Noun}
+Nós devemos proteger a floresta. {Noun,Vb,Vb,Det,Noun}
+Ele deve estar com fome. {Noun,Vb,Vb,Prep,Noun}
+Ela deve ter perdido o ônibus. {Noun,Vb,Vb,Vb,Det,Noun}
+Ele deve estar muito orgulhoso. {Noun,Vb,Vb,Adv,Adj}
+Você deveria beber mais água. {Noun,Vb,Vb,Adj,Noun}
+Ele deveria pedir desculpas para ela. {Noun,Vb,Vb,Noun,Prep,Noun}
+Nós deveríamos sair cedo. {Noun,Vb,Vb,Adv}
+Eles deveriam plantar muitas árvores. {Noun,Vb,Vb,Adj,Noun}
+Você deveria ir ao médico. {Noun,Vb,Vb,Prep,Noun}
+Ela deveria descansar hoje. {Noun,Vb,Vb,Date}
+Eu gostaria de uma xícara de chá. {Noun,Vb,Prep,Det,Noun,Prep,Noun}
+Ele ajudaria se pudesse. {Noun,Vb,Conj,Vb}
+Ela nunca mentiria. {Noun,Negative,Vb}
+Nós adoraríamos ir com você. {Noun,Vb,Vb,Prep,Noun}
+Isso seria maravilhoso. {Det,Vb,Adj}
+Eles preferem ir a pé. {Noun,Vb,Vb,Prep,Noun}
+Vamos começar? {Vb,Vb}
+Quer que eu abra uma janela? {Vb,Conj,Noun,Vb,Det,Noun}
+Vamos ver. {Vb,Vb}
+Você terá sua recompensa. {Noun,Vb,Noun,Noun}
+Eu tenho que sair cedo. {Noun,Vb,Conj,Vb,Adv}
+Ela tem que trabalhar no sábado. {Noun,Vb,Conj,Vb,Prep,Date}
+Nós tivemos que cancelar a viagem. {Noun,Vb,Conj,Vb,Det,Noun}
+Você devia pedir desculpas. {Noun,Vb,Vb,Noun}
+É melhor ele se apressar. {Vb,Adj,Noun,Noun,Vb}
+Eles precisam encontrar um apartamento novo. {Noun,Vb,Vb,Det,Noun,Adj}
+Eu preciso fazer compras. {Noun,Vb,Vb,Noun}
+Ela não precisa vir. {Noun,Negative,Vb,Vb}
+Eu não entendo. {Noun,Negative,Vb}
+Ela não come carne. {Noun,Negative,Vb,Noun}
+Nós não ouvimos o alarme. {Noun,Negative,Vb,Det,Noun}
+Eles não têm carro. {Noun,Negative,Vb,Noun}
+Ele não atendeu minha ligação. {Noun,Negative,Vb,Noun,Noun}
+Eu não sei o nome dela. {Noun,Negative,Vb,Det,Noun,Noun}
+Não importa. {Negative,Vb}
+Você não precisa de ingresso. {Noun,Negative,Vb,Prep,Noun}
+A impressora não funciona. {Det,Noun,Negative,Vb}
+Nós não esperávamos chuva. {Noun,Negative,Vb,Noun}
+Ele não está pronto. {Noun,Negative,Vb,Adj}
+A sopa não está quente o suficiente. {Det,Noun,Negative,Vb,Adj,Det,Adv}
+Eles não estão em casa. {Noun,Negative,Vb,Prep,Noun}
+Eu não estava pronto. {Noun,Negative,Vb,Adj}
+As chaves não estavam na minha bolsa. {Det,Noun,Negative,Vb,Prep,Noun,Noun}
+Ela não é enfermeira. {Noun,Negative,Vb,Noun}
+Eu não consigo achar meus óculos. {Noun,Negative,Vb,Vb,Noun,Noun}
+Ela não pode vir à festa. {Noun,Negative,Vb,Vb,Prep,Noun}
+Ele não quer ouvir. {Noun,Negative,Vb,Vb}
+Eles não vão vender a fazenda. {Noun,Negative,Vb,Vb,Det,Noun}
+Nós não conseguimos abrir o pote. {Noun,Negative,Vb,Vb,Det,Noun}
+Você não deveria se preocupar tanto. {Noun,Negative,Vb,Noun,Vb,Adv}
+Eu não faria isso. {Noun,Negative,Vb,Det}
+Você não pode contar para ninguém. {Noun,Negative,Vb,Vb,Prep,Noun}
+Ele não sabe nadar. {Noun,Negative,Vb,Vb}
+Nós não podemos esperar mais. {Noun,Negative,Vb,Vb,Adv}
+Ela nunca reclama. {Noun,Negative,Vb}
+Eu nunca tomo café da manhã. {Noun,Negative,Vb,Noun,Prep,Noun}
+Ele nunca andou de avião. {Noun,Negative,Vb,Prep,Noun}
+Nós nunca vamos saber. {Noun,Negative,Vb,Vb}
+Não aconteceu nada. {Negative,Vb,Noun}
+Ninguém atendeu a porta. {Noun,Vb,Det,Noun}
+Não faltava nada. {Negative,Vb,Noun}
+Ninguém sabe a verdade. {Noun,Vb,Det,Noun}
+Nenhuma resposta está certa. {Det,Noun,Vb,Adj}
+Nenhum de nós dormiu. {Det,Prep,Noun,Vb}
+A história não é verdadeira. {Det,Noun,Negative,Vb,Adj}
+Ele não é meu irmão. {Noun,Negative,Vb,Noun,Noun}
+Isso não foi justo. {Det,Negative,Vb,Adj}
+O leite não está fresco. {Det,Noun,Negative,Vb,Adj}
+Eu não estou bravo. {Noun,Negative,Vb,Adj}
+Não toque no fogão. {Negative,Vb,Prep,Noun}
+Eles não foram convidados. {Noun,Negative,Vb,Adj}
+Ela decidiu não responder. {Noun,Vb,Negative,Vb}
+Ela não faz ideia. {Noun,Negative,Vb,Noun}
+Não sobrou nenhum lugar. {Negative,Vb,Negative,Noun}
+Ele não tem dinheiro nenhum. {Noun,Negative,Vb,Noun,Negative}
+Você aceita uma água? {Noun,Vb,Det,Noun}
+Você poderia repetir? {Noun,Vb,Vb}
+Posso fazer uma pergunta? {Vb,Vb,Det,Noun}

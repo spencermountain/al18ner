@@ -1,0 +1,100 @@
+Você bebe café? {Noun,Vb,Noun}
+Ela joga tênis? {Noun,Vb,Noun}
+Eles ganharam a partida? {Noun,Vb,Det,Noun}
+Nós temos tempo suficiente? {Noun,Vb,Noun,Adj}
+Ele fala inglês? {Noun,Vb,Noun}
+Você viu o jogo? {Noun,Vb,Det,Noun}
+Eles vendem selos? {Noun,Vb,Noun}
+Ela ligou de volta para você? {Noun,Vb,Prep,Noun,Prep,Noun}
+Você se lembra de mim? {Noun,Noun,Vb,Prep,Noun}
+Doeu? {Vb}
+Isso pertence a você? {Det,Vb,Prep,Noun}
+Eu conheço você? {Noun,Vb,Noun}
+Ela é professora? {Noun,Vb,Noun}
+Você está com fome? {Noun,Vb,Prep,Noun}
+O filme foi bom? {Det,Noun,Vb,Adj}
+Eles estavam bravos? {Noun,Vb,Adj}
+Está chovendo? {Vb,Vb}
+Ela está trabalhando hoje? {Noun,Vb,Vb,Date}
+Esse lugar está ocupado? {Det,Noun,Vb,Adj}
+Eu estou errado? {Noun,Vb,Adj}
+Tem algum problema? {Vb,Det,Noun}
+Tem alguma pergunta? {Vb,Det,Noun}
+Você já comeu? {Noun,Adv,Vb}
+O correio já chegou? {Det,Noun,Adv,Vb}
+Você pode me ajudar? {Noun,Vb,Noun,Vb}
+Você poderia passar o sal? {Noun,Vb,Vb,Det,Noun}
+Posso entrar? {Vb,Vb}
+Devemos esperar? {Vb,Vb}
+Você vem com a gente? {Noun,Vb,Prep,Det,Noun}
+Eles concordariam? {Noun,Vb}
+Posso pegar sua caneta emprestada? {Vb,Vb,Noun,Noun,Adj}
+Já temos que ir? {Adv,Vb,Conj,Vb}
+O que aconteceu? {Det,QuestionWord,Vb}
+Qual é o seu nome? {QuestionWord,Vb,Det,Noun,Noun}
+Que horas são? {QuestionWord,Noun,Vb}
+O que você quer? {Det,QuestionWord,Noun,Vb}
+O que ela disse? {Det,QuestionWord,Noun,Vb}
+O que você está fazendo? {Det,QuestionWord,Noun,Vb,Vb}
+Qual é a cor do seu carro? {QuestionWord,Vb,Det,Noun,Prep,Noun,Noun}
+O que essa placa diz? {Det,QuestionWord,Det,Noun,Vb}
+Que tipo de música você gosta? {QuestionWord,Noun,Prep,Noun,Noun,Vb}
+O que fez esse barulho? {Det,QuestionWord,Vb,Det,Noun}
+Quem ligou? {QuestionWord,Vb}
+Quem está na porta? {QuestionWord,Vb,Prep,Noun}
+Quem quer sobremesa? {QuestionWord,Vb,Noun}
+Quem contou a notícia para você? {QuestionWord,Vb,Det,Noun,Prep,Noun}
+Quem você convidou? {QuestionWord,Noun,Vb}
+De quem é esse casaco? {Prep,QuestionWord,Vb,Det,Noun}
+De quem é a vez? {Prep,QuestionWord,Vb,Det,Noun}
+Qual cor você prefere? {QuestionWord,Noun,Noun,Vb}
+Qual estrada vai para o lago? {QuestionWord,Noun,Vb,Prep,Det,Noun}
+Qual é mais barato? {QuestionWord,Vb,Adv,Adj}
+Quem ganhou a corrida? {QuestionWord,Vb,Det,Noun}
+De quem é a bolsa em cima da mesa? {Prep,QuestionWord,Vb,Det,Noun,Prep,Noun,Prep,Noun}
+Onde estão minhas chaves? {QuestionWord,Vb,Noun,Noun}
+Onde você mora? {QuestionWord,Noun,Vb}
+Aonde eles foram? {QuestionWord,Noun,Vb}
+Onde fica a estação? {QuestionWord,Vb,Det,Noun}
+Quando começa o jogo? {QuestionWord,Vb,Det,Noun}
+Quando você chegou? {QuestionWord,Noun,Vb}
+Quando é o seu aniversário? {QuestionWord,Vb,Det,Noun,Noun}
+Por que você foi embora? {Prep,QuestionWord,Noun,Vb,Adv}
+Por que o céu é azul? {Prep,QuestionWord,Det,Noun,Vb,Adj}
+Por que eles estão gritando? {Prep,QuestionWord,Noun,Vb,Vb}
+Como isso aconteceu? {QuestionWord,Det,Vb}
+Como se escreve isso? {QuestionWord,Noun,Vb,Det}
+Como foi sua viagem? {QuestionWord,Vb,Noun,Noun}
+Como está sua mãe? {QuestionWord,Vb,Noun,Noun}
+Quantas maçãs você tem? {QuestionWord,Noun,Noun,Vb}
+Quanto custa? {QuestionWord,Vb}
+Quantos anos sua irmã tem? {QuestionWord,Noun,Noun,Noun,Vb}
+Quanto tempo dura o voo? {QuestionWord,Noun,Vb,Det,Noun}
+A que distância fica a praia? {Prep,QuestionWord,Noun,Vb,Det,Noun}
+Com que frequência você se exercita? {Prep,QuestionWord,Noun,Noun,Noun,Vb}
+Qual é a altura daquele prédio? {QuestionWord,Vb,Det,Noun,Prep,Noun}
+Quão rápido ela consegue correr? {QuestionWord,Adv,Noun,Vb,Vb}
+Ela canta bem, né? {Noun,Vb,Adv,Expr}
+Ele saiu cedo, né? {Noun,Vb,Adv,Expr}
+Está frio hoje, né? {Vb,Adj,Date,Expr}
+Você vem, né? {Noun,Vb,Expr}
+Eles moram em Boston, né? {Noun,Vb,Prep,Noun,Expr}
+Nós ganhamos, né? {Noun,Vb,Expr}
+Você sabe aonde ela foi? {Noun,Vb,QuestionWord,Noun,Vb}
+Eu me pergunto por que ele foi embora. {Noun,Noun,Vb,Prep,QuestionWord,Noun,Vb,Adv}
+Ela perguntou se estávamos prontos. {Noun,Vb,Conj,Vb,Adj}
+Ele perguntou se ia chover. {Noun,Vb,Conj,Vb,Vb}
+Você pode me contar como aconteceu? {Noun,Vb,Noun,Vb,QuestionWord,Vb}
+Eu não sei quando eles vão chegar. {Noun,Negative,Vb,QuestionWord,Noun,Vb,Vb}
+Você sabe o que isso significa? {Noun,Vb,Det,QuestionWord,Det,Vb}
+Me diga o que você acha. {Noun,Vb,Det,QuestionWord,Noun,Vb}
+Eu perguntei para ela onde ficava a biblioteca. {Noun,Vb,Prep,Noun,QuestionWord,Vb,Det,Noun}
+Ninguém sabe quem escreveu isso. {Noun,Vb,QuestionWord,Vb,Noun}
+Você não quer? {Noun,Negative,Vb}
+Você não está com frio? {Noun,Negative,Vb,Prep,Noun}
+Ela não contou para você? {Noun,Negative,Vb,Prep,Noun}
+Não foi ótimo? {Negative,Vb,Adj}
+Tem alguém em casa? {Vb,Noun,Prep,Noun}
+Está tudo bem? {Vb,Noun,Adv}
+Você já experimentou ioga? {Noun,Adv,Vb,Noun}
+Todo mundo encontrou um lugar? {Det,Noun,Vb,Det,Noun}

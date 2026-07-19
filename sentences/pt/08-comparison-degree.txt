@@ -1,0 +1,100 @@
+Ele é mais alto que o irmão dele. {Noun,Vb,Adv,Adj,Prep,Det,Noun,Noun}
+Essa caixa é mais pesada que aquela. {Det,Noun,Vb,Adv,Adj,Prep,Det}
+O inverno é mais frio que o outono. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Meu carro é mais velho que o seu. {Noun,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Ela corre mais rápido que eu. {Noun,Vb,Adv,Adj,Prep,Noun}
+A prova foi mais difícil que a lição de casa. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun,Prep,Noun}
+Hoje está mais quente que ontem. {Date,Vb,Adv,Adj,Prep,Date}
+Essa estrada é mais curta que a rodovia. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+O cabelo dela é mais comprido que o meu. {Det,Noun,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+A camisa azul é mais barata que a vermelha. {Det,Noun,Adj,Vb,Adv,Adj,Prep,Det,Adj}
+Ele é mais novo que a irmã dele. {Noun,Vb,Adv,Adj,Prep,Det,Noun,Noun}
+O segundo tempo foi melhor que o primeiro. {Det,Val,Noun,Vb,Adj,Prep,Det,Val}
+Os trens são mais seguros que os carros. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Minha sopa está mais quente que a sua. {Noun,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+A sala ficou silenciosa. {Det,Noun,Vb,Adj}
+O filme foi mais interessante que o livro. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Esse enigma é mais difícil do que parece. {Det,Noun,Vb,Adv,Adj,Prep,Prep,Vb}
+O plano dela era mais prático que o dele. {Det,Noun,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+A cidade é mais animada no verão. {Det,Noun,Vb,Adv,Adj,Prep,Noun}
+Essa cadeira é mais confortável que o sofá. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Ele falou mais devagar que o normal. {Noun,Vb,Adv,Adv,Prep,Det,Adj}
+Ela canta mais docemente que qualquer pessoa. {Noun,Vb,Adv,Adv,Prep,Det,Noun}
+O clima estava pior que no ano passado. {Det,Noun,Vb,Adj,Prep,Prep,Date,Adj}
+Essa é a melhor pizza da cidade. {Det,Vb,Det,Adj,Noun,Prep,Noun}
+Ela é a menina mais alta da turma. {Noun,Vb,Det,Noun,Adv,Adj,Prep,Noun}
+Aquela foi a pior tempestade em anos. {Det,Vb,Det,Adj,Noun,Prep,Noun}
+Ele é o corredor mais rápido do time. {Noun,Vb,Det,Noun,Adv,Adj,Prep,Noun}
+Esse é o relógio mais caro. {Det,Vb,Det,Noun,Adv,Adj}
+Ela comprou a passagem mais barata. {Noun,Vb,Det,Noun,Adv,Adj}
+Foi o dia mais feliz da minha vida. {Vb,Det,Noun,Adv,Adj,Prep,Noun,Noun}
+O prédio mais antigo é a igreja. {Det,Noun,Adv,Adj,Vb,Det,Noun}
+Ele contou a piada mais engraçada. {Noun,Vb,Det,Noun,Adv,Adj}
+Esse é o jardim mais bonito da cidade. {Det,Vb,Det,Noun,Adv,Adj,Prep,Noun}
+Ela é a aluna mais inteligente da escola. {Noun,Vb,Det,Noun,Adv,Adj,Prep,Noun}
+A resposta mais simples geralmente está correta. {Det,Noun,Adv,Adj,Adv,Vb,Adj}
+Ela é tão alta quanto a irmã dela. {Noun,Vb,Adv,Adj,Prep,Det,Noun,Noun}
+A água é tão transparente quanto vidro. {Det,Noun,Vb,Adv,Adj,Prep,Noun}
+Ele é tão teimoso quanto uma mula. {Noun,Vb,Adv,Adj,Prep,Det,Noun}
+A sala estava tão silenciosa quanto uma biblioteca. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+As mãos dela estavam tão frias quanto gelo. {Det,Noun,Noun,Vb,Adv,Adj,Prep,Noun}
+Essa bolsa não é tão pesada quanto parece. {Det,Noun,Negative,Vb,Adv,Adj,Prep,Vb}
+A caixa era pesada demais para levantar. {Det,Noun,Vb,Adj,Adv,Conj,Vb}
+O café está quente demais para beber. {Det,Noun,Vb,Adj,Adv,Conj,Vb}
+Ele tem idade suficiente para dirigir. {Noun,Vb,Noun,Adj,Conj,Vb}
+A água está quente o suficiente para nadar. {Det,Noun,Vb,Adj,Det,Adj,Prep,Vb}
+É cedo demais para o jantar. {Vb,Adv,Adv,Prep,Det,Noun}
+Ela está ocupada demais para conversar. {Noun,Vb,Adj,Adv,Conj,Vb}
+A prateleira é alta demais para alcançar. {Det,Noun,Vb,Adj,Adv,Conj,Vb}
+Nós temos cadeiras suficientes para todos. {Noun,Vb,Noun,Adj,Prep,Noun}
+Ela está muito feliz. {Noun,Vb,Adv,Adj}
+A caixa é bem pesada. {Det,Noun,Vb,Adv,Adj}
+Ele estava realmente cansado. {Noun,Vb,Adv,Adj}
+A sopa está extremamente quente. {Det,Noun,Vb,Adv,Adj}
+Estava tão frio. {Vb,Adv,Adj}
+O filme foi meio lento. {Det,Noun,Vb,Adv,Adj}
+Eu tenho quase certeza. {Noun,Vb,Adv,Noun}
+A trilha é um pouco íngreme. {Det,Noun,Vb,Det,Adv,Adj}
+Ela ficou profundamente comovida. {Noun,Vb,Adv,Vb}
+As instruções eram bem claras. {Det,Noun,Vb,Adv,Adj}
+Tem um gato no telhado. {Vb,Det,Noun,Prep,Noun}
+Tem cinco ovos na geladeira. {Vb,Val,Noun,Prep,Noun}
+Teve uma tempestade ontem à noite. {Vb,Det,Noun,Date,Prep,Noun}
+Tinha muita gente na festa. {Vb,Adj,Noun,Prep,Noun}
+Tem um recado para você. {Vb,Det,Noun,Prep,Noun}
+Tem duas maneiras de resolver isso. {Vb,Val,Noun,Conj,Vb,Det}
+Não tinha nada na caixa. {Negative,Vb,Noun,Prep,Noun}
+Tem alguém na porta. {Vb,Noun,Prep,Noun}
+Tem opções de sobra. {Vb,Noun,Prep,Noun}
+Tem leite na geladeira. {Vb,Noun,Prep,Noun}
+Tinha poucas nuvens no céu. {Vb,Det,Noun,Prep,Noun}
+Tem uma aranha na banheira. {Vb,Det,Noun,Prep,Noun}
+Tem três casas nessa rua. {Vb,Val,Noun,Prep,Noun}
+Tinha uma fila comprida na padaria. {Vb,Det,Noun,Adj,Prep,Noun}
+Sempre tem outra chance. {Adv,Vb,Det,Noun}
+A maioria das pessoas concorda. {Det,Noun,Prep,Noun,Vb}
+Muitos alunos passaram na prova. {Adj,Noun,Vb,Prep,Noun}
+Alguns pássaros não conseguem voar. {Det,Noun,Negative,Vb,Vb}
+Cada jogador tem sua vez. {Det,Noun,Vb,Noun,Noun}
+Todos os lugares estavam ocupados. {Noun,Det,Noun,Vb,Vb}
+As duas respostas estão corretas. {Det,Val,Noun,Vb,Adj}
+Várias janelas estavam abertas. {Det,Noun,Vb,Adj}
+Poucas pessoas conhecem esse segredo. {Det,Noun,Vb,Det,Noun}
+Muito tempo se passou. {Det,Noun,Noun,Vb}
+Todos os biscoitos acabaram. {Noun,Det,Noun,Vb}
+Metade da turma faltou. {Val,Prep,Noun,Vb}
+A maioria dos convidados saiu cedo. {Det,Noun,Prep,Noun,Vb,Adv}
+O café está forte o suficiente. {Det,Noun,Vb,Adj,Det,Adj}
+Ela quase perdeu o ônibus. {Noun,Adv,Vb,Det,Noun}
+O tanque está quase cheio. {Det,Noun,Vb,Adv,Adj}
+Eu esqueci completamente. {Noun,Vb,Adv}
+Ele mal dormiu. {Noun,Adv,Vb}
+O copo está meio cheio. {Det,Noun,Vb,Adv,Adj}
+Nós mal os conhecemos. {Noun,Adv,Noun,Vb}
+A história é absolutamente verdadeira. {Det,Noun,Vb,Adv,Adj}
+A resposta dela estava exatamente certa. {Det,Noun,Noun,Vb,Adv,Adj}
+As duas malas pesam dez quilos. {Det,Val,Noun,Vb,Val,Noun}
+O aluguel dobrou no ano passado. {Det,Noun,Vb,Prep,Date,Adj}
+Está muito mais frio hoje. {Vb,Adv,Adv,Adj,Date}
+Ela se sente um pouco melhor. {Noun,Noun,Vb,Det,Adv,Adj}
+A fila andou muito devagar. {Det,Noun,Vb,Adv,Adv}

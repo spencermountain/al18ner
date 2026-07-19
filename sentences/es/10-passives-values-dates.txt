@@ -1,0 +1,100 @@
+La ventana fue rota por la tormenta. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+La carta fue escrita a mano. {Det,Noun,Vb,Vb,Prep,Noun}
+El puente fue construido en 1930. {Det,Noun,Vb,Vb,Prep,Val}
+El pastel fue comido antes del mediodía. {Det,Noun,Vb,Vb,Conj,Prep,Noun}
+El ladrón fue atrapado por la policía. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+La canción fue cantada por un coro. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+La carretera fue reparada el mes pasado. {Det,Noun,Vb,Vb,Det,Date,Adj}
+Este idioma se habla en muchos países. {Det,Noun,Noun,Vb,Prep,Adj,Noun}
+El correo se entrega cada mañana. {Det,Noun,Noun,Vb,Det,Noun}
+La cena se sirve a las siete. {Det,Noun,Noun,Vb,Prep,Det,Val}
+Las reglas se explican en el libro. {Det,Noun,Noun,Vb,Prep,Det,Noun}
+Los ganadores serán anunciados mañana. {Det,Noun,Vb,Vb,Date}
+El paquete será entregado el viernes. {Det,Noun,Vb,Vb,Det,Date}
+La casa ya se vendió. {Det,Noun,Adv,Noun,Vb}
+Los boletos han sido impresos. {Det,Noun,Vb,Vb,Vb}
+El museo fue inaugurado por el alcalde. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+Me robaron la bicicleta la semana pasada. {Noun,Vb,Det,Noun,Det,Date,Adj}
+El incendio fue causado por una vela. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+El partido fue cancelado por la lluvia. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+Lo ascendieron el mes pasado. {Noun,Vb,Det,Date,Adj}
+El pastel se acabó rápido. {Det,Noun,Noun,Vb,Adv}
+La historia fue contada por mi abuelo. {Det,Noun,Vb,Vb,Prep,Noun,Noun}
+Estos zapatos fueron hechos en Italia. {Det,Noun,Vb,Vb,Prep,Noun}
+El problema se resolvió rápidamente. {Det,Noun,Noun,Vb,Adv}
+Se está construyendo un nuevo hospital. {Noun,Vb,Vb,Det,Adj,Noun}
+Él compró tres manzanas. {Noun,Vb,Val,Noun}
+Ella tiene doscientos libros. {Noun,Vb,Val,Noun}
+La receta necesita dos tazas de harina. {Det,Noun,Vb,Val,Noun,Prep,Noun}
+Pagué veinte dólares. {Vb,Val,Noun}
+El boleto cuesta cincuenta dólares. {Det,Noun,Vb,Val,Noun}
+Ella tiene veinte años. {Noun,Vb,Val,Noun}
+Mi hijo tiene siete años. {Noun,Noun,Vb,Val,Noun}
+La torre mide trescientos metros de altura. {Det,Noun,Vb,Val,Noun,Prep,Noun}
+Esperamos cuarenta minutos. {Vb,Val,Noun}
+La tercera puerta está abierta. {Det,Val,Noun,Vb,Adj}
+Ella terminó en segundo lugar. {Noun,Vb,Prep,Val,Noun}
+Esta es mi primera visita. {Det,Vb,Noun,Val,Noun}
+Él anotó noventa puntos. {Noun,Vb,Val,Noun}
+El libro tiene trescientas páginas. {Det,Noun,Vb,Val,Noun}
+Falta la mitad de la pizza. {Vb,Det,Noun,Prep,Det,Noun}
+Una docena de huevos cuesta cuatro dólares. {Det,Noun,Prep,Noun,Vb,Val,Noun}
+La clase tiene treinta estudiantes. {Det,Noun,Vb,Val,Noun}
+Él corrió cinco kilómetros. {Noun,Vb,Val,Noun}
+El número del cuarto es doce. {Det,Noun,Prep,Noun,Vb,Val}
+Dos más dos son cuatro. {Val,Conj,Val,Vb,Val}
+Mi cumpleaños es en junio. {Noun,Noun,Vb,Prep,Date}
+La reunión es el lunes. {Det,Noun,Vb,Det,Date}
+Salimos el viernes por la mañana. {Vb,Det,Date,Prep,Det,Noun}
+La Navidad cae en jueves este año. {Det,Noun,Vb,Prep,Date,Det,Date}
+Ella nació el 4 de junio. {Noun,Vb,Det,Val,Prep,Date}
+La tienda abre a las 9 de la mañana. {Det,Noun,Vb,Prep,Det,Val,Prep,Det,Noun}
+El tren sale a las 6 de la tarde. {Det,Noun,Vb,Prep,Det,Val,Prep,Det,Noun}
+Hoy es miércoles. {Date,Vb,Date}
+Ayer fue feriado. {Date,Vb,Noun}
+Mañana es otro día. {Date,Vb,Det,Noun}
+El examen es el próximo martes. {Det,Noun,Vb,Det,Adj,Date}
+Nos conocimos en abril. {Noun,Vb,Prep,Date}
+El contrato de alquiler termina en marzo. {Det,Noun,Prep,Noun,Vb,Prep,Date}
+Las vacaciones de verano empiezan en julio. {Det,Noun,Prep,Noun,Vb,Prep,Date}
+La fiesta es este sábado. {Det,Noun,Vb,Det,Date}
+Él trabaja de lunes a viernes. {Noun,Vb,Prep,Date,Prep,Date}
+Octubre fue lluvioso este año. {Date,Vb,Adj,Det,Date}
+La cita es el martes al mediodía. {Det,Noun,Vb,Det,Date,Prep,Noun}
+Las clases terminan a principios de junio. {Det,Noun,Vb,Prep,Noun,Prep,Date}
+La boda es en septiembre. {Det,Noun,Vb,Prep,Date}
+Mi famoso amigo llegó. {Noun,Adj,Noun,Vb}
+Es un viaje de dos horas. {Vb,Det,Noun,Prep,Val,Date}
+Era un plan a largo plazo. {Vb,Det,Noun,Prep,Adj,Noun}
+Él es un niño bien educado. {Noun,Vb,Det,Noun,Adv,Adj}
+Ellos viven en una casa de dos pisos. {Noun,Vb,Prep,Det,Noun,Prep,Val,Noun}
+Ella tiene un trabajo de medio tiempo. {Noun,Vb,Det,Noun,Prep,Adj,Noun}
+El hombre bien vestido esperó. {Det,Noun,Adv,Adj,Vb}
+Fue una decisión de último minuto. {Vb,Det,Noun,Prep,Adj,Date}
+Él se lastimó. {Noun,Noun,Vb}
+Ella aprendió italiano por sí misma. {Noun,Vb,Noun,Prep,Noun,Adj}
+Nos divertimos. {Noun,Vb}
+El gato se limpia. {Det,Noun,Noun,Vb}
+Ellos se vieron. {Noun,Noun,Vb}
+Sírvanse los bocadillos. {Vb,Det,Noun}
+Hice esto yo mismo. {Vb,Det,Noun,Adj}
+Mi amigo Tom toca la batería. {Noun,Noun,Noun,Vb,Det,Noun}
+Uno de los huevos se rompió. {Val,Prep,Det,Noun,Noun,Vb}
+Cada uno de nosotros pagó diez dólares. {Det,Val,Prep,Noun,Vb,Val,Noun}
+Parte de la leche se derramó. {Noun,Prep,Det,Noun,Noun,Vb}
+El resto del equipo se quedó. {Det,Noun,Prep,Noun,Noun,Vb}
+Ambos estuvieron de acuerdo. {Det,Vb,Prep,Noun}
+El precio de la gasolina bajó otra vez. {Det,Noun,Prep,Det,Noun,Vb,Det,Noun}
+El color del cielo cambió. {Det,Noun,Prep,Noun,Vb}
+Un amigo mío llamó. {Det,Noun,Noun,Vb}
+La cima de la montaña estaba blanca. {Det,Noun,Prep,Det,Noun,Vb,Adj}
+Toma dos horas llegar a casa. {Vb,Val,Noun,Vb,Prep,Noun}
+El letrero no dice nada. {Det,Noun,Negative,Vb,Noun}
+Su sueño es viajar por el mundo. {Noun,Noun,Vb,Vb,Prep,Det,Noun}
+Para ganar, debes practicar. {Conj,Vb,Vb,Vb}
+La meta es terminar para el viernes. {Det,Noun,Vb,Vb,Prep,Det,Date}
+Su cola es esponjosa. {Noun,Noun,Vb,Adj}
+El equipo celebró su victoria. {Det,Noun,Vb,Noun,Noun}
+Todos trajeron algo. {Noun,Vb,Noun}
+Cualquiera puede aprender esta habilidad. {Noun,Vb,Vb,Det,Noun}
+Cada año, el festival crece. {Det,Date,Det,Noun,Vb}

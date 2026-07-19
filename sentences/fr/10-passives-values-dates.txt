@@ -1,0 +1,100 @@
+La fenêtre a été cassée par la tempête. {Det,Noun,Vb,Vb,Vb,Prep,Det,Noun}
+La lettre a été écrite à la main. {Det,Noun,Vb,Vb,Vb,Prep,Det,Noun}
+Le pont a été construit en 1930. {Det,Noun,Vb,Vb,Vb,Prep,Val}
+Le gâteau a été mangé avant midi. {Det,Noun,Vb,Vb,Vb,Conj,Noun}
+Le voleur a été attrapé par la police. {Det,Noun,Vb,Vb,Vb,Prep,Det,Noun}
+La chanson a été chantée par une chorale. {Det,Noun,Vb,Vb,Vb,Prep,Det,Noun}
+La route a été réparée le mois dernier. {Det,Noun,Vb,Vb,Vb,Det,Date,Adj}
+Cette langue est parlée dans de nombreux pays. {Det,Noun,Vb,Vb,Prep,Det,Adj,Noun}
+Le courrier est distribué chaque matin. {Det,Noun,Vb,Vb,Det,Noun}
+Le dîner est servi à sept heures. {Det,Noun,Vb,Vb,Prep,Val,Noun}
+Les règles sont expliquées dans le livre. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+Les gagnants seront annoncés demain. {Det,Noun,Vb,Vb,Date}
+Le colis sera livré vendredi. {Det,Noun,Vb,Vb,Date}
+La maison a été vendue. {Det,Noun,Vb,Vb,Vb}
+Les billets ont été imprimés. {Det,Noun,Vb,Vb,Vb}
+Le musée a été inauguré par le maire. {Det,Noun,Vb,Vb,Vb,Prep,Det,Noun}
+Mon vélo a été volé la semaine dernière. {Noun,Noun,Vb,Vb,Vb,Det,Date,Adj}
+L'incendie a été causé par une bougie. {Det,Noun,Vb,Vb,Vb,Prep,Det,Noun}
+Le match a été annulé à cause de la pluie. {Det,Noun,Vb,Vb,Vb,Prep,Noun,Prep,Det,Noun}
+Il a été promu le mois dernier. {Noun,Vb,Vb,Vb,Det,Date,Adj}
+Le gâteau a été mangé rapidement. {Det,Noun,Vb,Vb,Vb,Adv}
+L'histoire a été racontée par mon grand-père. {Det,Noun,Vb,Vb,Vb,Prep,Noun,Adj,Noun}
+Ces chaussures ont été fabriquées en Italie. {Det,Noun,Vb,Vb,Vb,Prep,Noun}
+Le problème a été résolu rapidement. {Det,Noun,Vb,Vb,Vb,Adv}
+Un nouvel hôpital est en construction. {Det,Adj,Noun,Vb,Prep,Noun}
+Il a acheté trois pommes. {Noun,Vb,Vb,Val,Noun}
+Elle possède deux cents livres. {Noun,Vb,Val,Val,Noun}
+La recette demande deux tasses de farine. {Det,Noun,Vb,Val,Noun,Prep,Noun}
+J'ai payé vingt dollars. {Noun,Vb,Vb,Val,Noun}
+Le billet coûte cinquante dollars. {Det,Noun,Vb,Val,Noun}
+Elle a vingt ans. {Noun,Vb,Val,Noun}
+Mon fils a sept ans. {Noun,Noun,Vb,Val,Noun}
+La tour fait trois cents mètres de haut. {Det,Noun,Vb,Val,Val,Noun,Prep,Noun}
+On a attendu quarante minutes. {Noun,Vb,Vb,Val,Noun}
+La troisième porte est ouverte. {Det,Val,Noun,Vb,Adj}
+Elle a terminé à la deuxième place. {Noun,Vb,Vb,Prep,Det,Val,Noun}
+C'est ma première visite. {Det,Vb,Noun,Val,Noun}
+Il a marqué quatre-vingt-dix points. {Noun,Vb,Vb,Val,Val,Val,Noun}
+Le livre fait trois cents pages. {Det,Noun,Vb,Val,Val,Noun}
+La moitié de la pizza a disparu. {Det,Noun,Prep,Det,Noun,Vb,Vb}
+Une douzaine d'œufs coûte quatre dollars. {Det,Noun,Prep,Noun,Vb,Val,Noun}
+La classe compte trente élèves. {Det,Noun,Vb,Val,Noun}
+Il a couru cinq kilomètres. {Noun,Vb,Vb,Val,Noun}
+Le numéro de la chambre est le douze. {Det,Noun,Prep,Det,Noun,Vb,Det,Val}
+Deux plus deux font quatre. {Val,Conj,Val,Vb,Val}
+Mon anniversaire est en juin. {Noun,Noun,Vb,Prep,Date}
+La réunion est lundi. {Det,Noun,Vb,Date}
+On part vendredi matin. {Noun,Vb,Date,Noun}
+Noël tombe un jeudi cette année. {Noun,Vb,Det,Date,Det,Date}
+Elle est née le 4 juin. {Noun,Vb,Vb,Det,Val,Date}
+Le magasin ouvre à 9 heures. {Det,Noun,Vb,Prep,Val,Noun}
+Le train part à 6 heures du soir. {Det,Noun,Vb,Prep,Val,Noun,Prep,Noun}
+Aujourd'hui, c'est mercredi. {Date,Det,Vb,Date}
+Hier, c'était un jour férié. {Date,Det,Vb,Det,Noun,Adj}
+Demain est un autre jour. {Date,Vb,Det,Adj,Noun}
+L'examen est mardi prochain. {Det,Noun,Vb,Date,Adj}
+On s'est rencontrés en avril. {Noun,Noun,Vb,Vb,Prep,Date}
+Le bail se termine en mars. {Det,Noun,Noun,Vb,Prep,Date}
+Les vacances d'été commencent en juillet. {Det,Noun,Prep,Noun,Vb,Prep,Date}
+La fête est ce samedi. {Det,Noun,Vb,Det,Date}
+Il travaille du lundi au vendredi. {Noun,Vb,Prep,Date,Prep,Date}
+Octobre a été pluvieux cette année. {Date,Vb,Vb,Adj,Det,Date}
+Le rendez-vous est mardi à midi. {Det,Noun,Noun,Vb,Date,Prep,Noun}
+L'école finit début juin. {Det,Noun,Vb,Noun,Date}
+Le mariage est en septembre. {Det,Noun,Vb,Prep,Date}
+Mon célèbre ami est arrivé. {Noun,Adj,Noun,Vb,Vb}
+C'est un trajet de deux heures. {Det,Vb,Det,Noun,Prep,Val,Date}
+C'était un plan à long terme. {Det,Vb,Det,Noun,Prep,Adj,Noun}
+C'est un enfant bien élevé. {Det,Vb,Det,Noun,Adv,Adj}
+Ils vivent dans une maison à deux étages. {Noun,Vb,Prep,Det,Noun,Prep,Val,Noun}
+Elle a un travail à temps partiel. {Noun,Vb,Det,Noun,Prep,Noun,Adj}
+L'homme bien habillé a attendu. {Det,Noun,Adv,Adj,Vb,Vb}
+C'était une décision de dernière minute. {Det,Vb,Det,Noun,Prep,Adj,Date}
+Il s'est blessé. {Noun,Noun,Vb,Vb}
+Elle a appris l'italien toute seule. {Noun,Vb,Vb,Det,Noun,Adv,Adj}
+On s'est bien amusés. {Noun,Noun,Vb,Adv,Vb}
+Le chat se lave. {Det,Noun,Noun,Vb}
+Ils se sont vus. {Noun,Noun,Vb,Vb}
+Servez-vous en snacks. {Vb,Noun,Prep,Noun}
+J'ai fait ça moi-même. {Noun,Vb,Vb,Det,Noun,Adv}
+Mon ami Tom joue de la batterie. {Noun,Noun,Noun,Vb,Prep,Det,Noun}
+Un des œufs s'est cassé. {Val,Prep,Noun,Noun,Vb,Vb}
+Chacun de nous a payé dix dollars. {Det,Prep,Noun,Vb,Vb,Val,Noun}
+Une partie du lait s'est renversée. {Det,Noun,Prep,Noun,Noun,Vb,Vb}
+Le reste de l'équipe est resté. {Det,Noun,Prep,Det,Noun,Vb,Vb}
+Tous les deux étaient d'accord. {Det,Det,Val,Vb,Prep,Noun}
+Le prix de l'essence a encore baissé. {Det,Noun,Prep,Det,Noun,Vb,Adv,Vb}
+La couleur du ciel a changé. {Det,Noun,Prep,Noun,Vb,Vb}
+Un ami à moi a appelé. {Det,Noun,Prep,Noun,Vb,Vb}
+Le sommet de la montagne était blanc. {Det,Noun,Prep,Det,Noun,Vb,Adj}
+Il faut deux heures pour rentrer à la maison. {Noun,Vb,Val,Noun,Conj,Vb,Prep,Det,Noun}
+Le panneau ne dit rien. {Det,Noun,Negative,Vb,Noun}
+Son rêve est de parcourir le monde. {Noun,Noun,Vb,Conj,Vb,Det,Noun}
+Pour gagner, tu dois t'entraîner. {Conj,Vb,Noun,Vb,Noun,Vb}
+Le but est de finir avant vendredi. {Det,Noun,Vb,Conj,Vb,Prep,Date}
+Sa queue est touffue. {Noun,Noun,Vb,Adj}
+L'équipe a fêté sa victoire. {Det,Noun,Vb,Vb,Noun,Noun}
+Tout le monde a apporté quelque chose. {Det,Det,Noun,Vb,Vb,Det,Noun}
+N'importe qui peut apprendre cette compétence. {Negative,Vb,Noun,Vb,Vb,Det,Noun}
+Chaque année, le festival grandit. {Det,Date,Det,Noun,Vb}

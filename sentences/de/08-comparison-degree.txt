@@ -1,0 +1,100 @@
+Er ist größer als sein Bruder. {Noun,Vb,Adj,Prep,Noun,Noun}
+Diese Kiste ist schwerer als die da. {Det,Noun,Vb,Adj,Prep,Det,Adv}
+Der Winter ist kälter als der Herbst. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Mein Auto ist älter als deins. {Noun,Noun,Vb,Adj,Prep,Noun}
+Sie läuft schneller als ich. {Noun,Vb,Adj,Prep,Noun}
+Der Test war schwieriger als die Hausaufgaben. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Heute ist es wärmer als gestern. {Date,Vb,Noun,Adj,Prep,Date}
+Diese Straße ist kürzer als die Autobahn. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Ihre Haare sind länger als meine. {Noun,Noun,Vb,Adj,Prep,Noun}
+Das blaue Hemd ist billiger als das rote. {Det,Adj,Noun,Vb,Adj,Prep,Det,Adj}
+Er ist jünger als seine Schwester. {Noun,Vb,Adj,Prep,Noun,Noun}
+Die zweite Halbzeit war besser als die erste. {Det,Val,Noun,Vb,Adj,Prep,Det,Val}
+Züge sind sicherer als Autos. {Noun,Vb,Adj,Prep,Noun}
+Meine Suppe ist heißer als deine. {Noun,Noun,Vb,Adj,Prep,Noun}
+Das Zimmer wurde still. {Det,Noun,Vb,Adj}
+Der Film war interessanter als das Buch. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Dieses Rätsel ist schwieriger, als es aussieht. {Det,Noun,Vb,Adj,Prep,Noun,Vb}
+Ihr Plan war praktischer als seiner. {Noun,Noun,Vb,Adj,Prep,Noun}
+Die Stadt ist im Sommer lebhafter. {Det,Noun,Vb,Prep,Noun,Adj}
+Dieser Stuhl ist bequemer als das Sofa. {Det,Noun,Vb,Adj,Prep,Det,Noun}
+Er sprach langsamer als üblich. {Noun,Vb,Adv,Prep,Adj}
+Sie singt schöner als alle. {Noun,Vb,Adv,Prep,Noun}
+Das Wetter war schlechter als letztes Jahr. {Det,Noun,Vb,Adj,Prep,Adj,Date}
+Das ist die beste Pizza der Stadt. {Det,Vb,Det,Adj,Noun,Det,Noun}
+Sie ist das größte Mädchen in der Klasse. {Noun,Vb,Det,Adj,Noun,Prep,Det,Noun}
+Das war der schlimmste Sturm seit Jahren. {Det,Vb,Det,Adj,Noun,Prep,Noun}
+Er ist der schnellste Läufer in der Mannschaft. {Noun,Vb,Det,Adj,Noun,Prep,Det,Noun}
+Das ist die teuerste Uhr. {Det,Vb,Det,Adj,Noun}
+Sie kaufte das billigste Ticket. {Noun,Vb,Det,Adj,Noun}
+Es war der glücklichste Tag meines Lebens. {Noun,Vb,Det,Adj,Noun,Noun,Noun}
+Das älteste Gebäude ist die Kirche. {Det,Adj,Noun,Vb,Det,Noun}
+Er erzählte den lustigsten Witz. {Noun,Vb,Det,Adj,Noun}
+Das ist der schönste Garten in der Stadt. {Det,Vb,Det,Adj,Noun,Prep,Det,Noun}
+Sie ist die klügste Schülerin der Schule. {Noun,Vb,Det,Adj,Noun,Det,Noun}
+Die einfachste Antwort ist oft richtig. {Det,Adj,Noun,Vb,Adv,Adj}
+Sie ist so groß wie ihre Schwester. {Noun,Vb,Adv,Adj,Prep,Noun,Noun}
+Das Wasser ist so klar wie Glas. {Det,Noun,Vb,Adv,Adj,Prep,Noun}
+Er ist so stur wie ein Esel. {Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Das Zimmer war so still wie eine Bibliothek. {Det,Noun,Vb,Adv,Adj,Prep,Det,Noun}
+Ihre Hände waren so kalt wie Eis. {Noun,Noun,Vb,Adv,Adj,Prep,Noun}
+Diese Tasche ist nicht so schwer, wie sie aussieht. {Det,Noun,Vb,Negative,Adv,Adj,Prep,Noun,Vb}
+Die Kiste war zu schwer, um sie zu heben. {Det,Noun,Vb,Adv,Adj,Conj,Noun,Conj,Vb}
+Der Kaffee ist zu heiß zum Trinken. {Det,Noun,Vb,Adv,Adj,Prep,Noun}
+Er ist alt genug, um Auto zu fahren. {Noun,Vb,Adj,Adv,Conj,Noun,Conj,Vb}
+Das Wasser ist warm genug zum Schwimmen. {Det,Noun,Vb,Adj,Adv,Prep,Noun}
+Es ist zu früh fürs Abendessen. {Noun,Vb,Adv,Adj,Prep,Noun}
+Sie ist zu beschäftigt, um zu reden. {Noun,Vb,Adv,Adj,Conj,Conj,Vb}
+Das Regal ist zu hoch, um es zu erreichen. {Det,Noun,Vb,Adv,Adj,Conj,Noun,Conj,Vb}
+Wir haben genug Stühle für alle. {Noun,Vb,Adj,Noun,Prep,Noun}
+Sie ist sehr glücklich. {Noun,Vb,Adv,Adj}
+Die Kiste ist ziemlich schwer. {Det,Noun,Vb,Adv,Adj}
+Er war wirklich müde. {Noun,Vb,Adv,Adj}
+Die Suppe ist extrem heiß. {Det,Noun,Vb,Adv,Adj}
+Es war so kalt. {Noun,Vb,Adv,Adj}
+Der Film war recht langsam. {Det,Noun,Vb,Adv,Adj}
+Ich bin mir ziemlich sicher. {Noun,Vb,Noun,Adv,Adj}
+Der Weg ist etwas steil. {Det,Noun,Vb,Adv,Adj}
+Sie war tief gerührt. {Noun,Vb,Adv,Vb}
+Die Anweisungen waren ziemlich klar. {Det,Noun,Vb,Adv,Adj}
+Auf dem Dach ist eine Katze. {Prep,Det,Noun,Vb,Det,Noun}
+Es sind fünf Eier im Kühlschrank. {Noun,Vb,Val,Noun,Prep,Noun}
+Letzte Nacht gab es einen Sturm. {Adj,Noun,Vb,Noun,Det,Noun}
+Es waren viele Leute auf der Party. {Noun,Vb,Adj,Noun,Prep,Det,Noun}
+Es gibt eine Nachricht für dich. {Noun,Vb,Det,Noun,Prep,Noun}
+Es gibt zwei Möglichkeiten, das zu lösen. {Noun,Vb,Val,Noun,Det,Conj,Vb}
+In der Kiste war nichts. {Prep,Det,Noun,Vb,Noun}
+Da ist jemand an der Tür. {Adv,Vb,Noun,Prep,Det,Noun}
+Es gibt jede Menge Optionen. {Noun,Vb,Det,Noun,Noun}
+Es ist Milch im Kühlschrank. {Noun,Vb,Noun,Prep,Noun}
+Es waren wenige Wolken am Himmel. {Noun,Vb,Det,Noun,Prep,Noun}
+In der Badewanne ist eine Spinne. {Prep,Det,Noun,Vb,Det,Noun}
+In dieser Straße gibt es drei Häuser. {Prep,Det,Noun,Vb,Noun,Val,Noun}
+Vor der Bäckerei war eine lange Schlange. {Prep,Det,Noun,Vb,Det,Adj,Noun}
+Es gibt immer eine zweite Chance. {Noun,Vb,Adv,Det,Val,Noun}
+Die meisten Leute stimmen zu. {Det,Adj,Noun,Vb,Vb}
+Viele Schüler bestanden die Prüfung. {Adj,Noun,Vb,Det,Noun}
+Manche Vögel können nicht fliegen. {Det,Noun,Vb,Negative,Vb}
+Jeder Spieler kommt an die Reihe. {Det,Noun,Vb,Prep,Det,Noun}
+Jeder Platz war besetzt. {Det,Noun,Vb,Vb}
+Beide Antworten sind richtig. {Det,Noun,Vb,Adj}
+Mehrere Fenster waren offen. {Det,Noun,Vb,Adj}
+Wenige Leute kennen dieses Geheimnis. {Det,Noun,Vb,Det,Noun}
+Viel Zeit ist vergangen. {Det,Noun,Vb,Vb}
+Alle Kekse sind weg. {Noun,Noun,Vb,Adv}
+Die halbe Klasse fehlte. {Det,Val,Noun,Vb}
+Die meisten Gäste gingen früh. {Det,Adj,Noun,Vb,Adv}
+Der Kaffee ist stark genug. {Det,Noun,Vb,Adj,Adv}
+Sie verpasste fast den Bus. {Noun,Vb,Adv,Det,Noun}
+Der Tank ist fast voll. {Det,Noun,Vb,Adv,Adj}
+Ich habe es völlig vergessen. {Noun,Vb,Noun,Adv,Vb}
+Er schlief kaum. {Noun,Vb,Adv}
+Das Glas ist halb voll. {Det,Noun,Vb,Adj,Adj}
+Wir kennen sie kaum. {Noun,Vb,Noun,Adv}
+Die Geschichte ist absolut wahr. {Det,Noun,Vb,Adv,Adj}
+Ihre Antwort war genau richtig. {Noun,Noun,Vb,Adv,Adj}
+Die zwei Taschen wiegen zehn Pfund. {Det,Val,Noun,Vb,Val,Noun}
+Die Miete verdoppelte sich letztes Jahr. {Det,Noun,Vb,Noun,Adj,Date}
+Es ist heute viel kälter. {Noun,Vb,Date,Adv,Adj}
+Sie fühlt sich ein bisschen besser. {Noun,Vb,Noun,Det,Adv,Adj}
+Die Schlange bewegte sich sehr langsam. {Det,Noun,Vb,Noun,Adv,Adv}

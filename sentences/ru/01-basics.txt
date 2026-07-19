@@ -1,0 +1,100 @@
+Ребёнок спал. {Noun,Vb}
+Телефон зазвонил. {Noun,Vb}
+Птицы поют. {Noun,Vb}
+Дождь закончился. {Noun,Vb}
+Все смеялись. {Noun,Vb}
+Двигатель завёлся. {Noun,Vb}
+Выпал снег. {Vb,Noun}
+Дети ждали. {Noun,Vb}
+У меня болит голова. {Prep,Noun,Vb,Noun}
+Толпа ликовала. {Noun,Vb}
+Мальчик пнул мяч. {Noun,Vb,Noun}
+Она читает газету. {Noun,Vb,Noun}
+Том открыл окно. {Noun,Vb,Noun}
+Кошка гонялась за мышью. {Noun,Vb,Prep,Noun}
+Мы посмотрели фильм. {Noun,Vb,Noun}
+Он написал письмо. {Noun,Vb,Noun}
+Мария испекла торт. {Noun,Vb,Noun}
+Фермер кормит кур. {Noun,Vb,Noun}
+Я потерял свои ключи. {Noun,Vb,Noun,Noun}
+Они построили дом. {Noun,Vb,Noun}
+Она закрыла дверь. {Noun,Vb,Noun}
+Учитель похвалил учеников. {Noun,Vb,Noun}
+Он нёс коробки. {Noun,Vb,Noun}
+Официант принёс нашу еду. {Noun,Vb,Noun,Noun}
+Я услышал шум. {Noun,Vb,Noun}
+Она ответила на вопрос. {Noun,Vb,Prep,Noun}
+Собака зарыла кость. {Noun,Vb,Noun}
+Мы убрались на кухне. {Noun,Vb,Prep,Noun}
+Он починил протечку. {Noun,Vb,Noun}
+Ученики решили головоломку. {Noun,Vb,Noun}
+Суп горячий. {Noun,Adj}
+Небо было серым. {Noun,Vb,Adj}
+Её голос мягкий. {Noun,Noun,Adj}
+Улицы были пусты. {Noun,Vb,Adj}
+Я голоден. {Noun,Adj}
+Ты добрый. {Noun,Adj}
+Тест был сложным. {Noun,Vb,Adj}
+Его руки были грязными. {Noun,Noun,Vb,Adj}
+В комнате тепло. {Prep,Noun,Adj}
+История звучит странно. {Noun,Vb,Adv}
+Мой отец — врач. {Noun,Noun,Noun}
+Она инженер. {Noun,Noun}
+Кит — млекопитающее. {Noun,Noun}
+Они учителя. {Noun,Noun}
+Это моя любимая песня. {Det,Noun,Adj,Noun}
+Это была ошибка. {Det,Vb,Noun}
+Он стал юристом. {Noun,Vb,Noun}
+Это здание — музей. {Det,Noun,Noun}
+Это были счастливые дни. {Det,Vb,Adj,Noun}
+Это подарок. {Noun,Noun}
+Она дала ему книгу. {Noun,Vb,Noun,Noun}
+Он отправил ей открытку. {Noun,Vb,Noun,Noun}
+Учитель рассказал нам историю. {Noun,Vb,Noun,Noun}
+Я показал им фотографии. {Noun,Vb,Noun,Noun}
+Мама приготовила нам завтрак. {Noun,Vb,Noun,Noun}
+Он предложил её подвезти. {Noun,Vb,Noun,Vb}
+Она преподала классу урок. {Noun,Vb,Noun,Noun}
+Они вручили мне отчёт. {Noun,Vb,Noun,Noun}
+Он купил сыну велосипед. {Noun,Vb,Noun,Noun}
+Она написала подруге записку. {Noun,Vb,Noun,Noun}
+Они назвали малышку Люси. {Noun,Vb,Noun,Noun}
+Мы выбрали её капитаном. {Noun,Vb,Noun,Noun}
+Новость его обрадовала. {Noun,Noun,Vb}
+Она покрасила забор в белый цвет. {Noun,Vb,Noun,Prep,Adj,Noun}
+Фильм показался мне скучным. {Noun,Vb,Noun,Adj}
+Собака виляла хвостом. {Noun,Vb,Noun}
+Машина Тома синяя. {Noun,Noun,Adj}
+Комната моей сестры аккуратная. {Noun,Noun,Noun,Adj}
+Стол учителя был чистым. {Noun,Noun,Vb,Adj}
+Кошка Анны спит весь день. {Noun,Noun,Vb,Adj,Date}
+Сад нашего соседа выглядит чудесно. {Noun,Noun,Noun,Vb,Adv}
+Команда его брата выиграла. {Noun,Noun,Noun,Vb}
+Улицы города оживлённые. {Noun,Noun,Adj}
+Её родители владеют пекарней. {Noun,Noun,Vb,Noun}
+У их дома красная крыша. {Prep,Noun,Noun,Adj,Noun}
+Старые часы громко тикают. {Adj,Noun,Adv,Vb}
+Маленькая девочка помахала рукой. {Adj,Noun,Vb,Noun}
+Высокий мужчина носил чёрное пальто. {Adj,Noun,Vb,Adj,Noun}
+Она купила красивую старую лампу. {Noun,Vb,Adj,Adj,Noun}
+Маленькая коричневая собака залаяла. {Adj,Adj,Noun,Vb}
+Он рассказал смешную историю. {Noun,Vb,Adj,Noun}
+Оживлённая улица была шумной. {Adj,Noun,Vb,Adj}
+Дул сильный ветер. {Vb,Adj,Noun}
+Молодая пара улыбнулась. {Adj,Noun,Vb}
+Свежий хлеб пахнет чудесно. {Adj,Noun,Vb,Adv}
+Дети играли в игры. {Noun,Vb,Prep,Noun}
+Листья покрыли землю. {Noun,Vb,Noun}
+Женщины делились идеями. {Noun,Vb,Noun}
+Рису нужна вода. {Noun,Adj,Noun}
+Музыка наполняет комнату. {Noun,Vb,Noun}
+Мужчины передвинули мебель. {Noun,Vb,Noun}
+Кофе не даёт мне уснуть. {Noun,Negative,Vb,Noun,Vb}
+Гуси перешли дорогу. {Noun,Vb,Noun}
+Наступила зима. {Vb,Noun}
+Пробки замедляют всё. {Noun,Vb,Noun}
+Он ей нравится. {Noun,Noun,Vb}
+Они пригласили нас. {Noun,Vb,Noun}
+Я тебе верю. {Noun,Noun,Vb}
+Он поблагодарил их. {Noun,Vb,Noun}
+Это меня удивило. {Noun,Noun,Vb}

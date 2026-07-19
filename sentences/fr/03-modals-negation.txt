@@ -1,0 +1,100 @@
+Elle sait nager. {Noun,Vb,Vb}
+Il parle trois langues. {Noun,Vb,Val,Noun}
+Je t'entends. {Noun,Noun,Vb}
+On peut se voir mardi. {Noun,Vb,Noun,Vb,Date}
+Les oiseaux savent voler. {Det,Noun,Vb,Vb}
+Tu peux t'asseoir avec nous. {Noun,Vb,Noun,Vb,Prep,Noun}
+Elle sait conduire un camion. {Noun,Vb,Vb,Det,Noun}
+Ça sent la fumée. {Noun,Vb,Det,Noun}
+Il savait lire à quatre ans. {Noun,Vb,Vb,Prep,Val,Noun}
+Elle entendait la musique. {Noun,Vb,Det,Noun}
+On voyait les montagnes. {Noun,Vb,Det,Noun}
+Tu pourrais essayer l'autre porte. {Noun,Vb,Vb,Det,Adj,Noun}
+Ils pourraient arriver à tout moment. {Noun,Vb,Vb,Prep,Det,Noun}
+Je pourrais manger une pizza entière. {Noun,Vb,Vb,Det,Noun,Adj}
+Il pourrait pleuvoir ce soir. {Noun,Vb,Vb,Det,Noun}
+Elle pourrait se joindre à nous pour le dîner. {Noun,Vb,Noun,Vb,Prep,Noun,Prep,Det,Noun}
+Tu peux sortir de table. {Noun,Vb,Vb,Prep,Noun}
+Le plan pourrait changer. {Det,Noun,Vb,Vb}
+Il pourrait connaître la réponse. {Noun,Vb,Vb,Det,Noun}
+On pourrait visiter le musée. {Noun,Vb,Vb,Det,Noun}
+Tu dois porter un casque. {Noun,Vb,Vb,Det,Noun}
+Les élèves doivent finir le contrôle avant midi. {Det,Noun,Vb,Vb,Det,Noun,Prep,Noun}
+On doit protéger la forêt. {Noun,Vb,Vb,Det,Noun}
+Il doit avoir faim. {Noun,Vb,Vb,Noun}
+Elle a dû rater le bus. {Noun,Vb,Vb,Vb,Det,Noun}
+Il doit être très fier. {Noun,Vb,Vb,Adv,Adj}
+Tu devrais boire plus d'eau. {Noun,Vb,Vb,Adj,Prep,Noun}
+Il devrait s'excuser auprès d'elle. {Noun,Vb,Noun,Vb,Prep,Prep,Noun}
+On devrait partir tôt. {Noun,Vb,Vb,Adv}
+Ils devraient planter beaucoup d'arbres. {Noun,Vb,Vb,Adj,Prep,Noun}
+Tu devrais voir un médecin. {Noun,Vb,Vb,Det,Noun}
+Elle devrait se reposer aujourd'hui. {Noun,Vb,Noun,Vb,Date}
+Je voudrais une tasse de thé. {Noun,Vb,Det,Noun,Prep,Noun}
+Il aiderait s'il pouvait. {Noun,Vb,Conj,Noun,Vb}
+Elle ne mentirait jamais. {Noun,Negative,Vb,Negative}
+On adorerait se joindre à vous. {Noun,Vb,Noun,Vb,Prep,Noun}
+Ce serait merveilleux. {Det,Vb,Adj}
+Ils aimeraient mieux marcher. {Noun,Vb,Adv,Vb}
+On commence ? {Noun,Vb}
+J'ouvre une fenêtre ? {Noun,Vb,Det,Noun}
+On verra. {Noun,Vb}
+Tu auras ta récompense. {Noun,Vb,Noun,Noun}
+Je dois partir tôt. {Noun,Vb,Vb,Adv}
+Elle doit travailler samedi. {Noun,Vb,Vb,Date}
+On a dû annuler le voyage. {Noun,Vb,Vb,Vb,Det,Noun}
+Tu devrais t'excuser. {Noun,Vb,Noun,Vb}
+Il ferait mieux de se dépêcher. {Noun,Vb,Adv,Conj,Noun,Vb}
+Ils ont besoin de trouver un nouvel appartement. {Noun,Vb,Noun,Conj,Vb,Det,Adj,Noun}
+Je dois faire les courses. {Noun,Vb,Vb,Det,Noun}
+Elle n'est pas obligée de venir. {Noun,Negative,Vb,Negative,Adj,Conj,Vb}
+Je ne comprends pas. {Noun,Negative,Vb,Negative}
+Elle ne mange pas de viande. {Noun,Negative,Vb,Negative,Det,Noun}
+On n'a pas entendu le réveil. {Noun,Negative,Vb,Negative,Vb,Det,Noun}
+Ils n'ont pas de voiture. {Noun,Negative,Vb,Negative,Det,Noun}
+Il n'a pas répondu à mon appel. {Noun,Negative,Vb,Negative,Vb,Prep,Noun,Noun}
+Je ne connais pas son nom. {Noun,Negative,Vb,Negative,Noun,Noun}
+Ça n'a pas d'importance. {Noun,Negative,Vb,Negative,Det,Noun}
+Tu n'as pas besoin de billet. {Noun,Negative,Vb,Negative,Noun,Prep,Noun}
+L'imprimante ne marche pas. {Det,Noun,Negative,Vb,Negative}
+On ne s'attendait pas à la pluie. {Noun,Negative,Noun,Vb,Negative,Prep,Det,Noun}
+Il n'est pas prêt. {Noun,Negative,Vb,Negative,Adj}
+La soupe n'est pas assez chaude. {Det,Noun,Negative,Vb,Negative,Adv,Adj}
+Ils ne sont pas chez eux. {Noun,Negative,Vb,Negative,Prep,Noun}
+Je n'étais pas prêt. {Noun,Negative,Vb,Negative,Adj}
+Les clés n'étaient pas dans mon sac. {Det,Noun,Negative,Vb,Negative,Prep,Noun,Noun}
+Elle n'est pas infirmière. {Noun,Negative,Vb,Negative,Noun}
+Je ne trouve pas mes lunettes. {Noun,Negative,Vb,Negative,Noun,Noun}
+Elle ne peut pas venir à la fête. {Noun,Negative,Vb,Negative,Vb,Prep,Det,Noun}
+Il ne veut pas écouter. {Noun,Negative,Vb,Negative,Vb}
+Ils ne vendront pas la ferme. {Noun,Negative,Vb,Negative,Det,Noun}
+On n'a pas pu ouvrir le bocal. {Noun,Negative,Vb,Negative,Vb,Vb,Det,Noun}
+Tu ne devrais pas t'inquiéter autant. {Noun,Negative,Vb,Negative,Noun,Vb,Adv}
+Je ne ferais pas ça. {Noun,Negative,Vb,Negative,Det}
+Tu ne dois le dire à personne. {Noun,Negative,Vb,Noun,Vb,Prep,Noun}
+Il ne sait pas nager. {Noun,Negative,Vb,Negative,Vb}
+On ne peut plus attendre. {Noun,Negative,Vb,Negative,Vb}
+Elle ne se plaint jamais. {Noun,Negative,Noun,Vb,Negative}
+Je ne prends jamais de petit déjeuner. {Noun,Negative,Vb,Negative,Det,Adj,Noun}
+Il n'a jamais pris l'avion. {Noun,Negative,Vb,Negative,Vb,Det,Noun}
+On ne saura jamais. {Noun,Negative,Vb,Negative}
+Rien ne s'est passé. {Noun,Negative,Noun,Vb,Vb}
+Personne n'a ouvert la porte. {Noun,Negative,Vb,Vb,Det,Noun}
+Rien ne manquait. {Noun,Negative,Vb}
+Personne ne connaît la vérité. {Noun,Negative,Vb,Det,Noun}
+Aucune des deux réponses n'est correcte. {Det,Prep,Val,Noun,Negative,Vb,Adj}
+Aucun de nous deux n'a dormi. {Det,Prep,Noun,Val,Negative,Vb,Vb}
+L'histoire n'est pas vraie. {Det,Noun,Negative,Vb,Negative,Adj}
+Il n'est pas mon frère. {Noun,Negative,Vb,Negative,Noun,Noun}
+Ce n'était pas juste. {Det,Negative,Vb,Negative,Adj}
+Le lait n'est pas frais. {Det,Noun,Negative,Vb,Negative,Adj}
+Je ne suis pas fâché. {Noun,Negative,Vb,Negative,Adj}
+Ne touche pas la cuisinière. {Negative,Vb,Negative,Det,Noun}
+Ils n'étaient pas invités. {Noun,Negative,Vb,Negative,Adj}
+Elle a décidé de ne pas répondre. {Noun,Vb,Vb,Conj,Negative,Negative,Vb}
+Elle n'a aucune idée. {Noun,Negative,Vb,Negative,Noun}
+Il n'y a plus de places. {Noun,Negative,There,Vb,Negative,Det,Noun}
+Il n'a pas d'argent. {Noun,Negative,Vb,Negative,Det,Noun}
+Veux-tu de l'eau ? {Vb,Noun,Det,Det,Noun}
+Peux-tu répéter ça ? {Vb,Noun,Vb,Det}
+Puis-je poser une question ? {Vb,Noun,Vb,Det,Noun}

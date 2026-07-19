@@ -1,0 +1,100 @@
+Ключи на столе. {Noun,Prep,Noun}
+Кошка спряталась под кроватью. {Noun,Vb,Prep,Noun}
+Банк находится между кафе и книжным магазином. {Noun,Vb,Prep,Noun,Conj,Adj,Noun}
+Самолёт летел над облаками. {Noun,Vb,Prep,Noun}
+Мяч покатился через улицу. {Noun,Vb,Prep,Noun}
+Мы гуляли вдоль реки. {Noun,Vb,Prep,Noun}
+Она стояла возле своей матери. {Noun,Vb,Prep,Noun,Noun}
+Корабль вошёл в гавань. {Noun,Vb,Prep,Noun}
+Он прислонился к стене. {Noun,Vb,Prep,Noun}
+Мы проехали через тоннель. {Noun,Vb,Prep,Noun}
+Температура упала ниже нуля. {Noun,Vb,Prep,Val}
+Наш дом около школы. {Noun,Noun,Prep,Noun}
+Сад за домом. {Noun,Prep,Noun}
+Птица сидела на заборе. {Noun,Vb,Prep,Noun}
+Письмо внутри конверта. {Noun,Prep,Noun}
+Мы встретились в полдень. {Noun,Vb,Prep,Noun}
+Урок начинается через десять минут. {Noun,Vb,Prep,Val,Noun}
+Она работала до полуночи. {Noun,Vb,Prep,Noun}
+Он говорил о бюджете. {Noun,Vb,Prep,Noun}
+Этот подарок — от моей тёти. {Det,Noun,Prep,Noun,Noun}
+Эта книга — о пропавшей собаке. {Det,Noun,Prep,Adj,Noun}
+Она спорила с хозяином квартиры. {Noun,Vb,Prep,Noun,Noun}
+Он порезал хлеб ножом. {Noun,Vb,Noun,Noun}
+Команда ехала на автобусе. {Noun,Vb,Prep,Noun}
+Я сделал это для тебя. {Noun,Vb,Noun,Prep,Noun}
+Пожалуйста, включи радио. {Expr,Vb,Noun}
+Она отклонила предложение. {Noun,Vb,Noun}
+Он проснулся в шесть. {Noun,Vb,Prep,Val}
+Я отказался от сахара. {Noun,Vb,Prep,Noun}
+Она посмотрела слово в словаре. {Noun,Vb,Noun,Prep,Noun}
+У нас закончилось молоко. {Prep,Noun,Vb,Noun}
+Он надел куртку. {Noun,Vb,Noun}
+Сними шляпу. {Vb,Noun}
+Запиши адрес. {Vb,Noun}
+Она узнала правду. {Noun,Vb,Noun}
+Машина сломалась на шоссе. {Noun,Vb,Prep,Noun}
+Собери свои игрушки. {Vb,Noun,Noun}
+Он сдал домашнее задание. {Noun,Vb,Adj,Noun}
+Самолёт взлетел вовремя. {Noun,Vb,Adv}
+Она выбросила старые газеты. {Noun,Vb,Adj,Noun}
+Мы поставили палатку. {Noun,Vb,Noun}
+Он заполнил анкету. {Noun,Vb,Noun}
+Собрание длилось часами. {Noun,Vb,Noun}
+Повесь пальто. {Vb,Noun}
+Она высказала хорошую мысль. {Noun,Vb,Adj,Noun}
+Притормози у перехода. {Vb,Prep,Noun}
+Он присматривал за своей младшей сестрой. {Noun,Vb,Prep,Noun,Adj,Noun}
+Огонь угас. {Noun,Vb}
+Возвращайся завтра. {Vb,Date}
+Прибавь громкость. {Vb,Noun}
+Плавание — хорошая тренировка. {Noun,Adj,Noun}
+Йога помогает мне расслабиться. {Noun,Vb,Noun,Vb}
+Я люблю читать книги. {Noun,Vb,Vb,Noun}
+Она любит танцевать. {Noun,Vb,Vb}
+Он бросил курить в прошлом году. {Noun,Vb,Vb,Prep,Adj,Date}
+Они занимаются пением каждый день. {Noun,Vb,Noun,Det,Date}
+Готовка требует терпения. {Noun,Vb,Noun}
+Она боится летать. {Noun,Vb,Vb}
+У него хорошо получается чинить вещи. {Prep,Noun,Adv,Vb,Vb,Noun}
+Мы говорили о переезде. {Noun,Vb,Prep,Noun}
+Спасибо, что пришёл. {Expr,Conj,Vb}
+Бег помогает ему оставаться здоровым. {Noun,Vb,Noun,Vb,Adj}
+Я хочу пообедать. {Noun,Vb,Vb}
+Она решила остаться. {Noun,Vb,Vb}
+Они планируют съездить в Японию. {Noun,Vb,Vb,Prep,Noun}
+Он надеется выиграть приз. {Noun,Vb,Vb,Noun}
+Нам нужно поговорить. {Noun,Adj,Vb}
+Она обещала написать. {Noun,Vb,Vb}
+Он предложил нас подвезти. {Noun,Vb,Noun,Vb}
+Я забыл запереть дверь. {Noun,Vb,Vb,Noun}
+Они договорились встретиться в полдень. {Noun,Vb,Vb,Prep,Noun}
+Она научилась играть на скрипке. {Noun,Vb,Vb,Prep,Noun}
+Он пошёл в магазин, чтобы купить молоко. {Noun,Vb,Prep,Noun,Conj,Vb,Noun}
+Она позвонила, чтобы задать вопрос. {Noun,Vb,Conj,Vb,Noun}
+Трудно выбрать. {Adj,Vb}
+Ошибиться легко. {Vb,Adj}
+У нас есть дела. {Prep,Noun,Vb,Noun}
+Она меня рассмешила. {Noun,Noun,Vb}
+Я видел, как мужчина перешёл улицу. {Noun,Vb,Conj,Noun,Vb,Noun}
+Он помог мне донести сумки. {Noun,Vb,Noun,Vb,Noun}
+Забор нужно покрасить. {Noun,Adj,Vb}
+Она хочет, чтобы он извинился. {Noun,Vb,Conj,Noun,Vb}
+Я попросил её подождать. {Noun,Vb,Noun,Vb}
+Они пригласили нас присоединиться к ним. {Noun,Vb,Noun,Vb,Prep,Noun}
+Он научил меня водить. {Noun,Vb,Noun,Vb}
+Собака перепрыгнула через забор. {Noun,Vb,Prep,Noun}
+Она налила чай в чашку. {Noun,Vb,Noun,Prep,Noun}
+Он залез на крышу. {Noun,Vb,Prep,Noun}
+Мышь проползла по полу. {Noun,Vb,Prep,Noun}
+Мы ехали к побережью. {Noun,Vb,Prep,Noun}
+Лодку отнесло от причала. {Noun,Vb,Prep,Noun}
+Она вошла в комнату. {Noun,Vb,Prep,Noun}
+Дети спрятались в шкафу. {Noun,Vb,Prep,Noun}
+Дождь капал с крыши. {Noun,Vb,Prep,Noun}
+Тропинка ведёт к озеру. {Noun,Vb,Prep,Noun}
+Он помахал рукой с балкона. {Noun,Vb,Noun,Prep,Noun}
+Магазин через дорогу продаёт цветы. {Noun,Prep,Noun,Vb,Noun}
+Мужчина в сером костюме ушёл. {Noun,Prep,Adj,Noun,Vb}
+Девочка с красным зонтиком улыбнулась. {Noun,Prep,Adj,Noun,Vb}
+Мост через реку соединяет города. {Noun,Prep,Noun,Vb,Noun}

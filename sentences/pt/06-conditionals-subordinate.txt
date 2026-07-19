@@ -1,0 +1,100 @@
+Se chover, nós vamos ficar em casa. {Condition,Vb,Noun,Vb,Vb,Prep,Noun}
+Se você esquentar o gelo, ele derrete. {Condition,Noun,Vb,Det,Noun,Noun,Vb}
+Se ela ligar, diga a verdade para ela. {Condition,Noun,Vb,Vb,Det,Noun,Prep,Noun}
+Se eu fosse rico, eu viajaria. {Condition,Noun,Vb,Adj,Noun,Vb}
+Se nós sairmos cedo, nós vamos pegar o trem. {Condition,Noun,Vb,Adv,Noun,Vb,Vb,Det,Noun}
+Se você estudar, você vai passar. {Condition,Noun,Vb,Noun,Vb,Vb}
+Se o tempo estiver bom, nós vamos caminhar. {Condition,Det,Noun,Vb,Adj,Noun,Vb,Vb}
+Se ele tivesse estudado, ele teria passado. {Condition,Noun,Vb,Vb,Noun,Vb,Vb}
+Se eu soubesse, eu teria ajudado. {Condition,Noun,Vb,Noun,Vb,Vb}
+Se você precisar de alguma coisa, me peça. {Condition,Noun,Vb,Prep,Det,Noun,Noun,Vb}
+Se nevar, os ônibus vão parar. {Condition,Vb,Det,Noun,Vb,Vb}
+Se você a vir, diga oi. {Condition,Noun,Noun,Vb,Vb,Expr}
+Se o ônibus estiver atrasado, nós vamos perder o show. {Condition,Det,Noun,Vb,Adj,Noun,Vb,Vb,Det,Noun}
+Você pode vir se quiser. {Noun,Vb,Vb,Condition,Vb}
+Nós vamos cancelar o piquenique se chover. {Noun,Vb,Vb,Det,Noun,Condition,Vb}
+Me ligue se você se perder. {Noun,Vb,Condition,Noun,Noun,Vb}
+Se necessário, nós podemos remarcar. {Condition,Adj,Noun,Vb,Vb}
+Se possível, chegue antes das oito. {Condition,Adj,Vb,Conj,Prep,Val}
+Mesmo se ele se desculpar, ela não vai perdoá-lo. {Conj,Condition,Noun,Noun,Vb,Noun,Negative,Vb,Vb,Noun}
+O que acontece se nós falharmos? {QuestionWord,QuestionWord,Vb,Condition,Noun,Vb}
+Se estiver em dúvida, pergunte. {Condition,Vb,Prep,Noun,Vb}
+Se o sinal estiver vermelho, pare o carro. {Condition,Det,Noun,Vb,Adj,Vb,Det,Noun}
+Ela vai ajudar se você pedir educadamente. {Noun,Vb,Vb,Condition,Noun,Vb,Adv}
+Se ela concordar, nós vamos assinar o contrato. {Condition,Noun,Vb,Noun,Vb,Vb,Det,Noun}
+A menos que chova, nós vamos fazer um piquenique. {Prep,Condition,Conj,Vb,Noun,Vb,Vb,Det,Noun}
+A menos que você se apresse, nós vamos chegar tarde. {Prep,Condition,Conj,Noun,Noun,Vb,Noun,Vb,Vb,Adv}
+Eu vou sozinho, a menos que você venha comigo. {Noun,Vb,Adj,Prep,Condition,Conj,Noun,Vb,Noun}
+A menos que ele melhore, ele vai perder o emprego. {Prep,Condition,Conj,Noun,Vb,Noun,Vb,Vb,Det,Noun}
+Quando chove, a rua alaga. {Conj,Vb,Det,Noun,Vb}
+Eu estava cozinhando quando você ligou. {Noun,Vb,Vb,Conj,Noun,Vb}
+Sempre que ela nos visita, nós assamos biscoitos. {Conj,Conj,Noun,Noun,Vb,Noun,Vb,Noun}
+Sempre que ele viaja, ele manda cartões-postais. {Conj,Conj,Noun,Vb,Noun,Vb,Noun,Adj}
+Enquanto você dormia, a correspondência chegou. {Conj,Noun,Vb,Det,Noun,Vb}
+Enquanto ela cozinhava, ele limpava a mesa. {Conj,Noun,Vb,Noun,Vb,Det,Noun}
+Assim que nós chegamos, o show começou. {Conj,Conj,Noun,Vb,Det,Noun,Vb}
+Assim que ela terminar, nós podemos sair. {Conj,Conj,Noun,Vb,Noun,Vb,Vb}
+Enquanto o bebê dormia, nós limpamos a casa. {Conj,Det,Noun,Vb,Noun,Vb,Det,Noun}
+Como a estrada estava congelada, nós dirigimos devagar. {Conj,Det,Noun,Vb,Adj,Noun,Vb,Adv}
+Nós ficamos em casa porque estava chovendo. {Noun,Vb,Prep,Noun,Conj,Vb,Vb}
+Ela sorriu porque estava orgulhosa. {Noun,Vb,Conj,Vb,Adj}
+Ele saiu porque estava entediado. {Noun,Vb,Conj,Vb,Adj}
+Por causa da tempestade, o voo atrasou. {Prep,Noun,Prep,Noun,Det,Noun,Vb}
+Eu confio nela porque ela é honesta. {Noun,Vb,Noun,Conj,Noun,Vb,Adj}
+Embora estivesse frio, nós fomos nadar. {Conj,Vb,Adj,Noun,Vb,Vb}
+Embora ela estivesse com sono, ela continuou trabalhando. {Conj,Noun,Vb,Prep,Noun,Noun,Vb,Vb}
+Embora seja jovem, ele é sábio. {Conj,Vb,Adj,Noun,Vb,Adj}
+Embora a prova fosse difícil, todos passaram. {Conj,Det,Noun,Vb,Adj,Noun,Vb}
+Ele veio para a festa embora estivesse doente. {Noun,Vb,Prep,Det,Noun,Conj,Vb,Adj}
+Embora tenhamos perdido, nós jogamos bem. {Conj,Vb,Vb,Noun,Vb,Adv}
+Ela continuou correndo embora as pernas dela doessem. {Noun,Vb,Vb,Conj,Det,Noun,Noun,Vb}
+Embora chovesse, o jogo continuou. {Conj,Vb,Det,Noun,Vb}
+Ela estudou muito, então ela passou na prova. {Noun,Vb,Adv,Conj,Noun,Vb,Prep,Noun}
+Era tarde, então nós saímos cedo. {Vb,Adj,Conj,Noun,Vb,Adv}
+A loja estava vazia, então nós fomos embora. {Det,Noun,Vb,Adj,Conj,Noun,Vb,Adv}
+Ele estava com fome, então ele fez um sanduíche. {Noun,Vb,Prep,Noun,Conj,Noun,Vb,Det,Noun}
+A música estava alta, então nós tapamos os ouvidos. {Det,Noun,Vb,Adj,Conj,Noun,Vb,Det,Noun}
+Eu estava com sede, então eu bebi um suco. {Noun,Vb,Prep,Noun,Conj,Noun,Vb,Det,Noun}
+Nós esperamos até a meia-noite. {Noun,Vb,Prep,Det,Adj,Noun}
+A loja fica aberta até as nove. {Det,Noun,Vb,Adj,Prep,Det,Val}
+Termine sua lição de casa antes do jantar. {Vb,Noun,Noun,Prep,Noun,Conj,Prep,Noun}
+Depois do filme, nós comemos sobremesa. {Prep,Prep,Noun,Noun,Vb,Noun}
+Depois do almoço, eles tiraram uma soneca. {Prep,Prep,Noun,Noun,Vb,Det,Noun}
+Nós saímos depois do discurso. {Noun,Vb,Prep,Prep,Noun}
+Escove os dentes antes de dormir. {Vb,Det,Noun,Conj,Prep,Vb}
+A festa continuou depois do pôr do sol. {Det,Noun,Vb,Prep,Prep,Noun,Prep,Noun}
+Depois que nós chegamos, o filme começou. {Prep,Conj,Noun,Vb,Det,Noun,Vb}
+Depois que ela se formou, ela se mudou para o exterior. {Prep,Conj,Noun,Noun,Vb,Noun,Noun,Vb,Prep,Det,Noun}
+Depois que você aprende as regras, o jogo é fácil. {Prep,Conj,Noun,Vb,Det,Noun,Det,Noun,Vb,Adj}
+Depois que eles saíram, a casa ficou silenciosa. {Prep,Conj,Noun,Vb,Det,Noun,Vb,Adj}
+Ele perguntou se eu estava pronto. {Noun,Vb,Conj,Noun,Vb,Adj}
+Eu não sei se ela vai vir. {Noun,Negative,Vb,Conj,Noun,Vb,Vb}
+Veja se o jantar está pronto. {Vb,Conj,Det,Noun,Vb,Adj}
+Ele se perguntou se a história era verdadeira. {Noun,Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Ganhando ou perdendo, eu fico orgulhoso. {Vb,Conj,Vb,Noun,Vb,Adj}
+Desde 2020, ela administra uma pequena empresa. {Prep,Val,Noun,Vb,Det,Adj,Noun}
+Desde segunda-feira, tem chovido todos os dias. {Prep,Date,Date,Vb,Vb,Det,Det,Date}
+Durante a tempestade, as luzes se apagaram. {Prep,Det,Noun,Det,Noun,Noun,Vb}
+Apesar da chuva, a partida continuou. {Prep,Prep,Noun,Det,Noun,Vb}
+Apesar do medo, ela fez o discurso. {Prep,Prep,Noun,Noun,Vb,Det,Noun}
+Sem um mapa, nós nos perdemos. {Prep,Det,Noun,Noun,Noun,Vb}
+Antes do show, nós jantamos. {Conj,Prep,Noun,Noun,Vb}
+Quando nós chegamos, a comida já estava fria. {Conj,Noun,Vb,Det,Noun,Adv,Vb,Adj}
+Quanto antes, melhor. {Det,Adv,Adj}
+Onde quer que ela vá, o cachorro dela vai atrás. {Conj,Conj,Conj,Noun,Vb,Det,Noun,Noun,Vb,Adv}
+Quem chegar primeiro ganha um prêmio. {Conj,Vb,Val,Vb,Det,Noun}
+Onde quer que nós olhássemos, nós víamos flores. {Conj,Conj,Conj,Noun,Vb,Noun,Vb,Noun}
+Ele age como se fosse o dono do lugar. {Noun,Vb,Conj,Conj,Vb,Det,Noun,Prep,Noun}
+Parece que vai nevar. {Vb,Conj,Vb,Vb}
+Ela canta enquanto cozinha. {Noun,Vb,Conj,Vb}
+Quando a noite caiu, a cidade se iluminou. {Conj,Det,Noun,Vb,Det,Noun,Noun,Vb}
+Ele se comporta como se nada tivesse acontecido. {Noun,Noun,Vb,Conj,Conj,Noun,Vb,Vb}
+Leve um guarda-chuva caso chova. {Vb,Det,Noun,Noun,Conj,Vb}
+Nós saímos cedo para poder estacionar. {Noun,Vb,Adv,Conj,Vb,Vb}
+O cachorro latia sempre que a campainha tocava. {Det,Noun,Vb,Conj,Conj,Det,Noun,Vb}
+Se você quebrar, você compra. {Condition,Noun,Vb,Noun,Vb}
+Se eu esquecer, me lembre. {Condition,Noun,Vb,Noun,Vb}
+Traga uma jaqueta caso fique frio. {Vb,Det,Noun,Conj,Vb,Adj}
+Embora ele tenha se desculpado, ela continuou brava. {Conj,Noun,Vb,Noun,Vb,Noun,Vb,Adj}
+Como nós chegamos atrasados, nós perdemos o discurso. {Conj,Noun,Vb,Adj,Noun,Vb,Det,Noun}
+Se tudo correr bem, nós vamos comprar uma casa. {Condition,Noun,Vb,Adv,Noun,Vb,Vb,Det,Noun}

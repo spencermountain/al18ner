@@ -1,0 +1,100 @@
+Tu bois du café ? {Noun,Vb,Det,Noun}
+Elle joue au tennis ? {Noun,Vb,Prep,Noun}
+Ils ont gagné le match ? {Noun,Vb,Vb,Det,Noun}
+On a assez de temps ? {Noun,Vb,Adj,Prep,Noun}
+Il parle anglais ? {Noun,Vb,Noun}
+Tu as vu le match ? {Noun,Vb,Vb,Det,Noun}
+Ils vendent des timbres ? {Noun,Vb,Det,Noun}
+Elle t'a rappelé ? {Noun,Noun,Vb,Vb}
+Tu te souviens de moi ? {Noun,Noun,Vb,Prep,Noun}
+Ça a fait mal ? {Noun,Vb,Vb,Noun}
+C'est à toi ? {Det,Vb,Prep,Noun}
+On se connaît ? {Noun,Noun,Vb}
+Elle est professeure ? {Noun,Vb,Noun}
+Tu as faim ? {Noun,Vb,Noun}
+Le film était bon ? {Det,Noun,Vb,Adj}
+Ils étaient fâchés ? {Noun,Vb,Adj}
+Il pleut ? {Noun,Vb}
+Elle travaille aujourd'hui ? {Noun,Vb,Date}
+Cette place est prise ? {Det,Noun,Vb,Vb}
+J'ai tort ? {Noun,Vb,Noun}
+Il y a un problème ? {Noun,There,Vb,Det,Noun}
+Il y a des questions ? {Noun,There,Vb,Det,Noun}
+Tu as mangé ? {Noun,Vb,Vb}
+Le courrier est arrivé ? {Det,Noun,Vb,Vb}
+Tu peux m'aider ? {Noun,Vb,Noun,Vb}
+Tu pourrais me passer le sel ? {Noun,Vb,Noun,Vb,Det,Noun}
+Je peux entrer ? {Noun,Vb,Vb}
+On devrait attendre ? {Noun,Vb,Vb}
+Tu viens avec nous ? {Noun,Vb,Prep,Noun}
+Ils seraient d'accord ? {Noun,Vb,Prep,Noun}
+Je peux emprunter ton stylo ? {Noun,Vb,Vb,Noun,Noun}
+On doit déjà partir ? {Noun,Vb,Adv,Vb}
+Qu'est-ce qui s'est passé ? {QuestionWord,Vb,Det,Conj,Noun,Vb,Vb}
+Comment tu t'appelles ? {QuestionWord,Noun,Noun,Vb}
+Il est quelle heure ? {Noun,Vb,QuestionWord,Noun}
+Qu'est-ce que tu veux ? {QuestionWord,Vb,Det,Conj,Noun,Vb}
+Qu'est-ce qu'elle a dit ? {QuestionWord,Vb,Det,Conj,Noun,Vb,Vb}
+Qu'est-ce que tu fais ? {QuestionWord,Vb,Det,Conj,Noun,Vb}
+Ta voiture est de quelle couleur ? {Noun,Noun,Vb,Prep,QuestionWord,Noun}
+Ce panneau dit quoi ? {Det,Noun,Vb,QuestionWord}
+Tu aimes quel genre de musique ? {Noun,Vb,QuestionWord,Noun,Prep,Noun}
+Qu'est-ce qui a fait ce bruit ? {QuestionWord,Vb,Det,Conj,Vb,Vb,Det,Noun}
+Qui a appelé ? {QuestionWord,Vb,Vb}
+Qui est à la porte ? {QuestionWord,Vb,Prep,Det,Noun}
+Qui veut du dessert ? {QuestionWord,Vb,Det,Noun}
+Qui t'a annoncé la nouvelle ? {QuestionWord,Noun,Vb,Vb,Det,Noun}
+Tu as invité qui ? {Noun,Vb,Vb,QuestionWord}
+À qui est ce manteau ? {Prep,QuestionWord,Vb,Det,Noun}
+C'est à qui le tour ? {Det,Vb,Prep,QuestionWord,Det,Noun}
+Tu préfères quelle couleur ? {Noun,Vb,QuestionWord,Noun}
+Quelle route va au lac ? {QuestionWord,Noun,Vb,Prep,Noun}
+Lequel est moins cher ? {QuestionWord,Vb,Adv,Adj}
+Qui a gagné la course ? {QuestionWord,Vb,Vb,Det,Noun}
+À qui est le sac sur la table ? {Prep,QuestionWord,Vb,Det,Noun,Prep,Det,Noun}
+Où sont mes clés ? {QuestionWord,Vb,Noun,Noun}
+Tu habites où ? {Noun,Vb,QuestionWord}
+Ils sont allés où ? {Noun,Vb,Vb,QuestionWord}
+Où est la gare ? {QuestionWord,Vb,Det,Noun}
+Le match commence quand ? {Det,Noun,Vb,QuestionWord}
+Tu es arrivé quand ? {Noun,Vb,Vb,QuestionWord}
+C'est quand ton anniversaire ? {Det,Vb,QuestionWord,Noun,Noun}
+Pourquoi tu es parti ? {QuestionWord,Noun,Vb,Vb}
+Pourquoi le ciel est bleu ? {QuestionWord,Det,Noun,Vb,Adj}
+Pourquoi ils crient ? {QuestionWord,Noun,Vb}
+Comment c'est arrivé ? {QuestionWord,Det,Vb,Vb}
+Comment ça s'écrit ? {QuestionWord,Det,Noun,Vb}
+C'était comment, ton voyage ? {Det,Vb,QuestionWord,Noun,Noun}
+Comment va ta mère ? {QuestionWord,Vb,Noun,Noun}
+Tu as combien de pommes ? {Noun,Vb,QuestionWord,Prep,Noun}
+Ça coûte combien ? {Noun,Vb,QuestionWord}
+Ta sœur a quel âge ? {Noun,Noun,Vb,QuestionWord,Noun}
+Le vol dure combien de temps ? {Det,Noun,Vb,QuestionWord,Prep,Noun}
+La plage est à quelle distance ? {Det,Noun,Vb,Prep,QuestionWord,Noun}
+Tu fais du sport à quelle fréquence ? {Noun,Vb,Det,Noun,Prep,QuestionWord,Noun}
+Ce bâtiment fait quelle hauteur ? {Det,Noun,Vb,QuestionWord,Noun}
+Elle peut courir à quelle vitesse ? {Noun,Vb,Vb,Prep,QuestionWord,Noun}
+Elle chante bien, non ? {Noun,Vb,Adv,Negative}
+Il est parti tôt, non ? {Noun,Vb,Vb,Adv,Negative}
+Il fait froid aujourd'hui, n'est-ce pas ? {Noun,Vb,Adj,Date,Negative,Vb,Det,Negative}
+Tu viens, non ? {Noun,Vb,Negative}
+Ils habitent à Boston, non ? {Noun,Vb,Prep,Noun,Negative}
+On a gagné, non ? {Noun,Vb,Vb,Negative}
+Tu sais où elle est allée ? {Noun,Vb,QuestionWord,Noun,Vb,Vb}
+Je me demande pourquoi il est parti. {Noun,Noun,Vb,QuestionWord,Noun,Vb,Vb}
+Elle a demandé si on était prêts. {Noun,Vb,Vb,Conj,Noun,Vb,Adj}
+Il a demandé s'il allait pleuvoir. {Noun,Vb,Vb,Conj,Noun,Vb,Vb}
+Tu peux me dire comment ça s'est passé ? {Noun,Vb,Noun,Vb,QuestionWord,Noun,Noun,Vb,Vb}
+Je ne sais pas quand ils vont arriver. {Noun,Negative,Vb,Negative,QuestionWord,Noun,Vb,Vb}
+Tu sais ce que ça veut dire ? {Noun,Vb,QuestionWord,Conj,Det,Vb,Vb}
+Dis-moi ce que tu penses. {Vb,Noun,QuestionWord,Conj,Noun,Vb}
+Je lui ai demandé où était la bibliothèque. {Noun,Noun,Vb,Vb,QuestionWord,Vb,Det,Noun}
+Personne ne sait qui l'a écrit. {Noun,Negative,Vb,QuestionWord,Noun,Vb,Vb}
+Tu n'en veux pas ? {Noun,Negative,Noun,Vb,Negative}
+Tu n'as pas froid ? {Noun,Negative,Vb,Negative,Noun}
+Elle ne te l'a pas dit ? {Noun,Negative,Noun,Noun,Vb,Negative,Vb}
+Ce n'était pas génial ? {Det,Negative,Vb,Negative,Adj}
+Il y a quelqu'un ? {Noun,There,Vb,Noun}
+Tout va bien ? {Noun,Vb,Adv}
+Tu as déjà essayé le yoga ? {Noun,Vb,Adv,Vb,Det,Noun}
+Tout le monde a trouvé une place ? {Det,Det,Noun,Vb,Vb,Det,Noun}

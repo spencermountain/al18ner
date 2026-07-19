@@ -1,0 +1,100 @@
+Она купила яблоки и апельсины. {Noun,Vb,Noun,Conj,Noun}
+Он играет на гитаре и на пианино. {Noun,Vb,Prep,Noun,Conj,Prep,Noun}
+Мы упаковали рубашки, носки и туфли. {Noun,Vb,Noun,Noun,Conj,Noun}
+Кошка и собака — друзья. {Noun,Conj,Noun,Noun}
+Ты можешь взять чай или кофе. {Noun,Vb,Vb,Noun,Conj,Noun}
+Он синий или зелёный? {Noun,Adj,Conj,Adj}
+Она открыла дверь и улыбнулась. {Noun,Vb,Noun,Conj,Vb}
+Он помыл машину и подстриг газон. {Noun,Vb,Noun,Conj,Vb,Noun}
+Я позвонил, но никто не ответил. {Noun,Vb,Conj,Noun,Negative,Vb}
+Еда была дешёвой, но вкусной. {Noun,Vb,Adj,Conj,Adj}
+Она маленькая, но сильная. {Noun,Adj,Conj,Adj}
+Мы хотели остаться, но нам пришлось уйти. {Noun,Vb,Vb,Conj,Noun,Vb,Vb}
+Поторопись, или мы опоздаем на автобус. {Vb,Conj,Noun,Vb,Prep,Noun}
+Он не улыбался и не говорил. {Noun,Negative,Vb,Conj,Negative,Vb}
+Победит либо ты, либо я. {Vb,Conj,Noun,Conj,Noun}
+И мальчики, и девочки ликовали. {Conj,Noun,Conj,Noun,Vb}
+Она говорит по-французски и немного по-испански. {Noun,Vb,Adv,Conj,Adv,Adv}
+Фильм был длинным, но он нам понравился. {Noun,Vb,Adj,Conj,Noun,Noun,Vb}
+Принеси ручку и бумагу. {Vb,Noun,Conj,Noun}
+Он очень старался, однако провалился. {Noun,Adv,Vb,Conj,Vb}
+Книга, которую она написала, длинная. {Noun,Det,Noun,Vb,Adj}
+Женщина, которую я встретил, была приветливой. {Noun,Det,Noun,Vb,Vb,Adj}
+Дом, который они построили, огромный. {Noun,Det,Noun,Vb,Adj}
+Торт, который ты испёк, был вкусным. {Noun,Det,Noun,Vb,Vb,Adj}
+Песня, которую она спела, заставила меня плакать. {Noun,Det,Noun,Vb,Vb,Noun,Vb}
+Девочка, чей велосипед сломался, заплакала. {Noun,QuestionWord,Noun,Vb,Vb}
+Автор, чья книга победила, выступил с докладом. {Noun,QuestionWord,Noun,Vb,Vb,Prep,Noun}
+Мужчина, чью машину украли, позвонил в полицию. {Noun,QuestionWord,Noun,Vb,Vb,Prep,Noun}
+Я посетил город, где он родился. {Noun,Vb,Noun,QuestionWord,Noun,Vb}
+Это городок, где она выросла. {Det,Noun,QuestionWord,Noun,Vb}
+Мы нашли парк, где дети могут играть. {Noun,Vb,Noun,QuestionWord,Noun,Vb,Vb}
+Я помню день, когда мы познакомились. {Noun,Vb,Date,QuestionWord,Noun,Vb}
+Мужчина, который живёт по соседству, добрый. {Noun,QuestionWord,Vb,Prep,Noun,Adj}
+Женщина, которая звонила, оставила сообщение. {Noun,QuestionWord,Vb,Vb,Noun}
+Мальчик, который выиграл гонку, улыбнулся. {Noun,QuestionWord,Vb,Noun,Vb}
+Люди, которые пришли рано, нашли места. {Noun,QuestionWord,Vb,Adv,Vb,Noun}
+Девочка, которая нашла кошелёк, вернула его. {Noun,QuestionWord,Vb,Noun,Vb,Noun}
+Фильм, который получил награду, был длинным. {Noun,QuestionWord,Vb,Noun,Vb,Adj}
+Дорога, которая пересекает реку, узкая. {Noun,QuestionWord,Vb,Noun,Adj}
+Письмо, которое пришло сегодня, было от Тома. {Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
+Все, кто пришёл, хорошо провели время. {Noun,QuestionWord,Vb,Adv,Vb,Noun}
+Соседи, которых мы пригласили, пришли первыми. {Noun,Det,Noun,Vb,Vb,Val}
+Инструменты, которые он позаимствовал, были ржавыми. {Noun,Det,Noun,Vb,Vb,Adj}
+Она вышла замуж за мужчину, которым все восхищались. {Noun,Vb,Adv,Prep,Noun,Det,Noun,Vb}
+Платье, которое она выбрала, было идеальным. {Noun,Det,Noun,Vb,Vb,Adj}
+Он сказал, что устал. {Noun,Vb,Conj,Vb}
+Она сказала, что это отменили. {Noun,Vb,Conj,Noun,Vb}
+Они сказали, что дорога закрыта. {Noun,Vb,Conj,Noun,Adj}
+Он сказал, что переедет. {Noun,Vb,Conj,Vb}
+Она сказала нам, что ужин готов. {Noun,Vb,Noun,Conj,Noun,Adj}
+Учитель сказал, что это легко. {Noun,Vb,Conj,Noun,Adj}
+Он прошептал, что она спит. {Noun,Vb,Conj,Noun,Vb}
+Она объяснила, что они опаздывают. {Noun,Vb,Conj,Noun,Vb}
+Он признал, что неправ. {Noun,Vb,Conj,Adj}
+Она пообещала, что поможет. {Noun,Vb,Conj,Vb}
+Он говорит, что это правда. {Noun,Vb,Conj,Noun,Noun}
+Я слышал, что ты получил новую работу. {Noun,Vb,Conj,Noun,Vb,Adj,Noun}
+Она упомянула, что он занят. {Noun,Vb,Conj,Noun,Adj}
+Он утверждал, что это безопасно. {Noun,Vb,Conj,Noun,Adj}
+Они объявили, что это начинается. {Noun,Vb,Conj,Noun,Vb}
+Я думаю, ты прав. {Noun,Vb,Noun,Adj}
+Я надеюсь, она победит. {Noun,Vb,Noun,Vb}
+Он верит, что Земля круглая. {Noun,Vb,Conj,Noun,Adj}
+Она знает, что ответ неверный. {Noun,Vb,Conj,Noun,Adj}
+Я полагаю, нам стоит пойти. {Noun,Vb,Noun,Vb,Vb}
+Он думает, что план провалится. {Noun,Vb,Conj,Noun,Vb}
+Мы предполагаем, что магазин открыт. {Noun,Vb,Conj,Noun,Adj}
+Она чувствует, что команда может победить. {Noun,Vb,Conj,Noun,Vb,Vb}
+Спорим, завтра пойдёт снег. {Vb,Date,Vb,Noun}
+Говорят, что в замке водятся привидения. {Vb,Conj,Prep,Noun,Vb,Noun}
+Мой брат, который живёт в Денвере, приехал в гости. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Prep,Noun}
+Дом, который был пустым, казался холодным. {Noun,QuestionWord,Vb,Adj,Vb,Adj}
+Её машина, которая была новой, сломалась. {Noun,Noun,QuestionWord,Vb,Adj,Vb}
+Наш учитель, который говорит на четырёх языках, знаменит. {Noun,Noun,QuestionWord,Vb,Prep,Val,Noun,Adj}
+Мост, который построили в 1900 году, всё ещё открыт. {Noun,QuestionWord,Vb,Prep,Val,Noun,Adv,Adv,Adj}
+Я знаю, что она занята. {Noun,Vb,Conj,Noun,Adj}
+Кажется, что он прав. {Vb,Conj,Noun,Adj}
+Проблема в том, что мы опаздываем. {Noun,Prep,Det,Conj,Noun,Vb}
+Правда в том, что мы, возможно, никогда не узнаем. {Noun,Prep,Det,Conj,Noun,Adv,Negative,Negative,Vb}
+Он забыл, что они закрыты. {Noun,Vb,Conj,Noun,Adj}
+Она заметила, что оно открыто. {Noun,Vb,Conj,Noun,Adj}
+Помни, что мы уезжаем в пять. {Vb,Conj,Noun,Vb,Prep,Val}
+Я сомневаюсь, что он придёт. {Noun,Vb,Conj,Noun,Vb}
+Мы согласились, что цена справедливая. {Noun,Vb,Conj,Noun,Adj}
+Похоже, что она была права. {Adj,Conj,Noun,Vb,Adj}
+Мы посетили Рим, Флоренцию и Венецию. {Noun,Vb,Noun,Noun,Conj,Noun}
+Она умеет читать, писать и плавать. {Noun,Vb,Vb,Vb,Conj,Vb}
+Флаг красный, белый и синий. {Noun,Adj,Adj,Conj,Adj}
+Он заказал суп, салат и хлеб. {Noun,Vb,Noun,Noun,Conj,Noun}
+Утро было холодным, сырым и ветреным. {Noun,Vb,Adj,Adj,Conj,Adj}
+Она схватила своё пальто, шапку и перчатки. {Noun,Vb,Noun,Noun,Noun,Conj,Noun}
+Ты хочешь рис или лапшу? {Noun,Vb,Noun,Conj,Noun}
+Ни кошка, ни собака не пошевелились. {Det,Noun,Conj,Noun,Negative,Vb}
+Мы можем пойти пешком или поехать на автобусе. {Noun,Vb,Vb,Adv,Conj,Vb,Prep,Noun}
+Суп был горячим, а хлеб — свежим. {Noun,Vb,Adj,Conj,Noun,Adj}
+Он постучал, и она открыла дверь. {Noun,Vb,Conj,Noun,Vb,Noun}
+Учись усердно, и ты добьёшься успеха. {Vb,Adv,Conj,Noun,Vb,Noun}
+Команда сыграла хорошо и выиграла титул. {Noun,Vb,Adv,Conj,Vb,Noun}
+Я пью чай, а моя сестра пьёт кофе. {Noun,Vb,Noun,Conj,Noun,Noun,Vb,Noun}
+Она улыбнулась и помахала толпе. {Noun,Vb,Conj,Vb,Noun}

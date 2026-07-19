@@ -1,0 +1,100 @@
+Закрой дверь. {Vb,Noun}
+Открой свои книги. {Vb,Noun,Noun}
+Садись. {Vb}
+Встань. {Vb}
+Заходи. {Vb}
+Присаживайся. {Vb}
+Помой руки. {Vb,Noun}
+Слушай внимательно. {Vb,Adv}
+Подожди меня. {Vb,Noun}
+Возьми свой зонт. {Vb,Noun,Noun}
+Выключи свет. {Vb,Noun}
+Поставь коробку на полку. {Vb,Noun,Prep,Noun}
+Помоги мне. {Vb,Noun}
+Расскажи нам историю. {Vb,Noun,Noun}
+Позвони мне завтра. {Vb,Noun,Date}
+Передай масло. {Vb,Noun}
+Попробуй снова. {Vb,Adv}
+Оставь сдачу себе. {Vb,Noun,Noun}
+Следуй за той машиной. {Vb,Prep,Det,Noun}
+Говори медленно. {Vb,Adv}
+Погоди. {Vb}
+Посмотри на это фото. {Vb,Prep,Det,Noun}
+Первым делом прочитай инструкцию. {Val,Noun,Vb,Noun}
+Возьми трубку. {Vb,Noun}
+Покорми кошку перед уходом. {Vb,Noun,Prep,Noun}
+Не открывай ту коробку. {Negative,Vb,Det,Noun}
+Не бойся. {Negative,Vb}
+Не забудь свои ключи. {Negative,Vb,Noun,Noun}
+Не двигайся. {Negative,Vb}
+Не корми животных. {Negative,Vb,Noun}
+Не трогай это. {Negative,Vb,Det}
+Никогда не сдавайся. {Negative,Negative,Vb}
+Не опаздывай на урок. {Negative,Vb,Prep,Noun}
+Пожалуйста, закрой окно. {Expr,Vb,Noun}
+Пожалуйста, сними обувь. {Expr,Vb,Noun}
+Пожалуйста, подожди здесь. {Expr,Vb,Adv}
+Пожалуйста, помолчи. {Expr,Vb}
+Пожалуйста, угощайся. {Expr,Vb}
+Пожалуйста, распишись внизу. {Expr,Vb,Adv}
+Пожалуйста, прости меня. {Expr,Vb,Noun}
+Пожалуйста, будь внимателен. {Expr,Vb,Adj}
+Давай пойдём домой. {Vb,Vb,Adv}
+Давай сделаем перерыв. {Vb,Vb,Noun}
+Давай начнём собрание. {Vb,Vb,Noun}
+Давай встретимся в кафе. {Vb,Vb,Prep,Noun}
+Давай помолимся. {Vb,Vb}
+Давай не будем спорить. {Vb,Negative,Vb,Vb}
+Привет, меня зовут Мария. {Expr,Noun,Vb,Noun}
+Привет, как дела? {Expr,QuestionWord,Noun}
+Ух ты, это было потрясающе! {Expr,Expr,Det,Vb,Adj}
+Ой, я забыл свои ключи. {Expr,Noun,Vb,Noun,Noun}
+Ай, больно! {Expr,Adj}
+Да, я согласен. {Expr,Noun,Adj}
+Нет, благодарю. {Expr,Vb}
+Ну, мы попытались. {Expr,Noun,Vb}
+Эй, берегись! {Expr,Vb}
+Упс, я его уронил. {Expr,Noun,Noun,Vb}
+Ура, мы выиграли! {Expr,Noun,Vb}
+Пока, увидимся завтра. {Expr,Vb,Date}
+Доброе утро всем. {Adj,Noun,Noun}
+Спокойной ночи, спи крепко. {Adj,Noun,Vb,Adv}
+С днём рождения! {Prep,Noun,Noun}
+Поздравляю с новой работой! {Vb,Prep,Adj,Noun}
+Добро пожаловать в наш дом. {Adv,Vb,Prep,Noun,Noun}
+Извини, это место свободно? {Expr,Det,Noun,Adj}
+Спасибо тебе за помощь. {Expr,Noun,Prep,Noun}
+Прости, я опоздал. {Expr,Noun,Vb}
+Конечно, ты можешь прийти. {Adv,Noun,Vb,Vb}
+Да, пожалуйста. {Expr,Expr}
+Нет, спасибо. {Expr,Expr}
+Я тоже. {Noun,Adv}
+И я тоже. {Conj,Noun,Adv}
+Я тоже нет. {Noun,Adv,Negative}
+Думаю, да. {Vb,Expr}
+Надеюсь, нет. {Vb,Negative}
+Возможно, завтра. {Adv,Date}
+Не совсем. {Negative,Adv}
+Без проблем. {Prep,Noun}
+Ладно, ты выиграл. {Expr,Noun,Vb}
+Удачи! {Noun}
+Все, пожалуйста, садитесь. {Noun,Expr,Vb}
+Дети, ужин готов! {Noun,Noun,Adj}
+Смотри под ноги. {Vb,Prep,Noun}
+Осторожно, зазор! {Adv,Noun}
+Помоги мне с этими сумками. {Vb,Noun,Prep,Det,Noun}
+Поторопись, мы опаздываем. {Vb,Noun,Vb}
+Будь осторожен. {Vb,Adj}
+Будь терпелив с ним. {Vb,Adj,Prep,Noun}
+Сохраняй спокойствие. {Vb,Noun}
+Повеселись на вечеринке. {Vb,Prep,Noun}
+Встреть меня на углу. {Vb,Noun,Prep,Noun}
+Поверни на вторую улицу. {Vb,Prep,Val,Noun}
+Проверь почту. {Vb,Noun}
+Почаще сохраняй свою работу. {Adv,Vb,Noun,Noun}
+Попроси помощи у своего учителя. {Vb,Noun,Prep,Noun,Noun}
+Добавь две чашки сахара. {Vb,Val,Noun,Noun}
+Разрежь бумагу на две части. {Vb,Noun,Prep,Val,Noun}
+Смешай муку и яйца. {Vb,Noun,Conj,Noun}
+Оставь сообщение после сигнала. {Vb,Noun,Prep,Noun}
+Езжай аккуратно. {Vb,Adv}

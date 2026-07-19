@@ -1,0 +1,100 @@
+Le bébé a dormi. {Det,Noun,Vb,Vb}
+Le téléphone a sonné. {Det,Noun,Vb,Vb}
+Les oiseaux chantent. {Det,Noun,Vb}
+La pluie s'est arrêtée. {Det,Noun,Noun,Vb,Vb}
+Tout le monde a ri. {Det,Det,Noun,Vb,Vb}
+Le moteur a démarré. {Det,Noun,Vb,Vb}
+La neige est tombée. {Det,Noun,Vb,Vb}
+Les enfants ont attendu. {Det,Noun,Vb,Vb}
+J'ai mal à la tête. {Noun,Vb,Noun,Prep,Det,Noun}
+La foule a applaudi. {Det,Noun,Vb,Vb}
+Le garçon a frappé le ballon. {Det,Noun,Vb,Vb,Det,Noun}
+Elle lit le journal. {Noun,Vb,Det,Noun}
+Tom a ouvert la fenêtre. {Noun,Vb,Vb,Det,Noun}
+Le chat a poursuivi une souris. {Det,Noun,Vb,Vb,Det,Noun}
+On a regardé un film. {Noun,Vb,Vb,Det,Noun}
+Il a écrit une lettre. {Noun,Vb,Vb,Det,Noun}
+Maria a fait un gâteau. {Noun,Vb,Vb,Det,Noun}
+Le fermier nourrit les poules. {Det,Noun,Vb,Det,Noun}
+J'ai perdu mes clés. {Noun,Vb,Vb,Noun,Noun}
+Ils ont construit une maison. {Noun,Vb,Vb,Det,Noun}
+Elle a fermé la porte. {Noun,Vb,Vb,Det,Noun}
+Le professeur a félicité les élèves. {Det,Noun,Vb,Vb,Det,Noun}
+Il a porté les cartons. {Noun,Vb,Vb,Det,Noun}
+Le serveur a apporté nos plats. {Det,Noun,Vb,Vb,Noun,Noun}
+J'ai entendu un bruit. {Noun,Vb,Vb,Det,Noun}
+Elle a répondu à la question. {Noun,Vb,Vb,Prep,Det,Noun}
+Le chien a enterré un os. {Det,Noun,Vb,Vb,Det,Noun}
+On a nettoyé la cuisine. {Noun,Vb,Vb,Det,Noun}
+Il a réparé la fuite. {Noun,Vb,Vb,Det,Noun}
+Les élèves ont résolu le puzzle. {Det,Noun,Vb,Vb,Det,Noun}
+La soupe est chaude. {Det,Noun,Vb,Adj}
+Le ciel était gris. {Det,Noun,Vb,Adj}
+Sa voix est douce. {Noun,Noun,Vb,Adj}
+Les rues étaient vides. {Det,Noun,Vb,Adj}
+J'ai faim. {Noun,Vb,Noun}
+Tu es gentil. {Noun,Vb,Adj}
+L'examen était difficile. {Det,Noun,Vb,Adj}
+Ses mains étaient sales. {Noun,Noun,Vb,Adj}
+Il fait chaud dans la pièce. {Noun,Vb,Adj,Prep,Det,Noun}
+L'histoire semble étrange. {Det,Noun,Vb,Adj}
+Mon père est médecin. {Noun,Noun,Vb,Noun}
+Elle est ingénieure. {Noun,Vb,Noun}
+La baleine est un mammifère. {Det,Noun,Vb,Det,Noun}
+Ils sont professeurs. {Noun,Vb,Noun}
+C'est ma chanson préférée. {Det,Vb,Noun,Noun,Adj}
+C'était une erreur. {Det,Vb,Det,Noun}
+Il est devenu avocat. {Noun,Vb,Vb,Noun}
+Le bâtiment est un musée. {Det,Noun,Vb,Det,Noun}
+C'étaient des jours heureux. {Det,Vb,Det,Noun,Adj}
+C'est un cadeau. {Det,Vb,Det,Noun}
+Elle lui a donné un livre. {Noun,Noun,Vb,Vb,Det,Noun}
+Il lui a envoyé une carte postale. {Noun,Noun,Vb,Vb,Det,Noun,Adj}
+Le professeur nous a raconté une histoire. {Det,Noun,Noun,Vb,Vb,Det,Noun}
+Je leur ai montré les photos. {Noun,Noun,Vb,Vb,Det,Noun}
+Maman nous a préparé le petit déjeuner. {Noun,Noun,Vb,Vb,Det,Adj,Noun}
+Il lui a proposé de la raccompagner. {Noun,Noun,Vb,Vb,Conj,Noun,Vb}
+Elle a donné une leçon à la classe. {Noun,Vb,Vb,Det,Noun,Prep,Det,Noun}
+Ils m'ont remis le rapport. {Noun,Noun,Vb,Vb,Det,Noun}
+Il a acheté un vélo à son fils. {Noun,Vb,Vb,Det,Noun,Prep,Noun,Noun}
+Elle a écrit un mot à son amie. {Noun,Vb,Vb,Det,Noun,Prep,Noun,Noun}
+Ils ont appelé le bébé Lucy. {Noun,Vb,Vb,Det,Noun,Noun}
+On l'a élue capitaine. {Noun,Noun,Vb,Vb,Noun}
+La nouvelle l'a rendu heureux. {Det,Noun,Noun,Vb,Vb,Adj}
+Elle a peint la clôture en blanc. {Noun,Vb,Vb,Det,Noun,Prep,Adj}
+J'ai trouvé le film ennuyeux. {Noun,Vb,Vb,Det,Noun,Adj}
+La queue du chien remuait. {Det,Noun,Prep,Noun,Vb}
+La voiture de Tom est bleue. {Det,Noun,Prep,Noun,Vb,Adj}
+La chambre de ma sœur est bien rangée. {Det,Noun,Prep,Noun,Noun,Vb,Adv,Adj}
+Le bureau du professeur était propre. {Det,Noun,Prep,Noun,Vb,Adj}
+Le chat d'Anna dort toute la journée. {Det,Noun,Prep,Noun,Vb,Adj,Det,Date}
+Le jardin de notre voisin a l'air magnifique. {Det,Noun,Prep,Noun,Noun,Vb,Det,Noun,Adj}
+L'équipe de son frère a gagné. {Det,Noun,Prep,Noun,Noun,Vb,Vb}
+Les rues de la ville sont animées. {Det,Noun,Prep,Det,Noun,Vb,Adj}
+Ses parents ont une boulangerie. {Noun,Noun,Vb,Det,Noun}
+Leur maison a un toit rouge. {Noun,Noun,Vb,Det,Noun,Adj}
+La vieille horloge fait tic-tac bruyamment. {Det,Adj,Noun,Vb,Noun,Noun,Adv}
+Une petite fille a fait signe. {Det,Adj,Noun,Vb,Vb,Noun}
+Le grand homme portait un manteau noir. {Det,Adj,Noun,Vb,Det,Noun,Adj}
+Elle a acheté une belle lampe ancienne. {Noun,Vb,Vb,Det,Adj,Noun,Adj}
+Le petit chien marron a aboyé. {Det,Adj,Noun,Adj,Vb,Vb}
+Il a raconté une histoire drôle. {Noun,Vb,Vb,Det,Noun,Adj}
+La rue animée était bruyante. {Det,Noun,Adj,Vb,Adj}
+Un vent fort soufflait. {Det,Noun,Adj,Vb}
+Le jeune couple a souri. {Det,Adj,Noun,Vb,Vb}
+Le pain frais sent très bon. {Det,Noun,Adj,Vb,Adv,Adj}
+Les enfants ont joué à des jeux. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+Des feuilles couvraient le sol. {Det,Noun,Vb,Det,Noun}
+Les femmes ont échangé des idées. {Det,Noun,Vb,Vb,Det,Noun}
+Le riz a besoin d'eau. {Det,Noun,Vb,Noun,Prep,Noun}
+La musique remplit la pièce. {Det,Noun,Vb,Det,Noun}
+Les hommes ont déplacé les meubles. {Det,Noun,Vb,Vb,Det,Noun}
+Le café me tient éveillé. {Det,Noun,Noun,Vb,Adj}
+Les oies ont traversé la route. {Det,Noun,Vb,Vb,Det,Noun}
+L'hiver est arrivé. {Det,Noun,Vb,Vb}
+La circulation ralentit tout. {Det,Noun,Vb,Noun}
+Elle l'aime bien. {Noun,Noun,Vb,Adv}
+Ils nous ont invités. {Noun,Noun,Vb,Vb}
+Je te crois. {Noun,Noun,Vb}
+Il les a remerciés. {Noun,Noun,Vb,Vb}
+Ça m'a surpris. {Noun,Noun,Vb,Vb}

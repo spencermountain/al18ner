@@ -1,0 +1,100 @@
+Das Baby schlief. {Det,Noun,Vb}
+Das Telefon klingelte. {Det,Noun,Vb}
+Vögel singen. {Noun,Vb}
+Der Regen hörte auf. {Det,Noun,Vb,Vb}
+Alle lachten. {Noun,Vb}
+Der Motor sprang an. {Det,Noun,Vb,Vb}
+Schnee fiel. {Noun,Vb}
+Die Kinder warteten. {Det,Noun,Vb}
+Mein Kopf tut weh. {Noun,Noun,Vb,Vb}
+Die Menge jubelte. {Det,Noun,Vb}
+Der Junge trat den Ball. {Det,Noun,Vb,Det,Noun}
+Sie liest die Zeitung. {Noun,Vb,Det,Noun}
+Tom öffnete das Fenster. {Noun,Vb,Det,Noun}
+Die Katze jagte eine Maus. {Det,Noun,Vb,Det,Noun}
+Wir schauten einen Film. {Noun,Vb,Det,Noun}
+Er schrieb einen Brief. {Noun,Vb,Det,Noun}
+Maria backte einen Kuchen. {Noun,Vb,Det,Noun}
+Der Bauer füttert die Hühner. {Det,Noun,Vb,Det,Noun}
+Ich habe meine Schlüssel verloren. {Noun,Vb,Noun,Noun,Vb}
+Sie bauten ein Haus. {Noun,Vb,Det,Noun}
+Sie schloss die Tür. {Noun,Vb,Det,Noun}
+Der Lehrer lobte die Schüler. {Det,Noun,Vb,Det,Noun}
+Er trug die Kisten. {Noun,Vb,Det,Noun}
+Der Kellner brachte unser Essen. {Det,Noun,Vb,Noun,Noun}
+Ich hörte ein Geräusch. {Noun,Vb,Det,Noun}
+Sie beantwortete die Frage. {Noun,Vb,Det,Noun}
+Der Hund vergrub einen Knochen. {Det,Noun,Vb,Det,Noun}
+Wir putzten die Küche. {Noun,Vb,Det,Noun}
+Er reparierte das Leck. {Noun,Vb,Det,Noun}
+Die Schüler lösten das Rätsel. {Det,Noun,Vb,Det,Noun}
+Die Suppe ist heiß. {Det,Noun,Vb,Adj}
+Der Himmel war grau. {Det,Noun,Vb,Adj}
+Ihre Stimme ist sanft. {Noun,Noun,Vb,Adj}
+Die Straßen waren leer. {Det,Noun,Vb,Adj}
+Ich habe Hunger. {Noun,Vb,Noun}
+Du bist nett. {Noun,Vb,Adj}
+Der Test war schwierig. {Det,Noun,Vb,Adj}
+Seine Hände waren schmutzig. {Noun,Noun,Vb,Adj}
+Das Zimmer fühlt sich warm an. {Det,Noun,Vb,Noun,Adj,Vb}
+Die Geschichte klingt seltsam. {Det,Noun,Vb,Adj}
+Mein Vater ist Arzt. {Noun,Noun,Vb,Noun}
+Sie ist Ingenieurin. {Noun,Vb,Noun}
+Der Wal ist ein Säugetier. {Det,Noun,Vb,Det,Noun}
+Sie sind Lehrer. {Noun,Vb,Noun}
+Das ist mein Lieblingslied. {Det,Vb,Noun,Noun}
+Das war ein Fehler. {Det,Vb,Det,Noun}
+Er wurde Anwalt. {Noun,Vb,Noun}
+Das Gebäude ist ein Museum. {Det,Noun,Vb,Det,Noun}
+Das waren glückliche Tage. {Det,Vb,Adj,Noun}
+Es ist ein Geschenk. {Noun,Vb,Det,Noun}
+Sie gab ihm ein Buch. {Noun,Vb,Noun,Det,Noun}
+Er schickte ihr eine Postkarte. {Noun,Vb,Noun,Det,Noun}
+Der Lehrer erzählte uns eine Geschichte. {Det,Noun,Vb,Noun,Det,Noun}
+Ich zeigte ihnen die Fotos. {Noun,Vb,Noun,Det,Noun}
+Mama machte uns Frühstück. {Noun,Vb,Noun,Noun}
+Er bot ihr an, sie mitzunehmen. {Noun,Vb,Noun,Vb,Noun,Vb}
+Sie erteilte der Klasse eine Lektion. {Noun,Vb,Det,Noun,Det,Noun}
+Sie reichten mir den Bericht. {Noun,Vb,Noun,Det,Noun}
+Er kaufte seinem Sohn ein Fahrrad. {Noun,Vb,Noun,Noun,Det,Noun}
+Sie schrieb ihrer Freundin eine Nachricht. {Noun,Vb,Noun,Noun,Det,Noun}
+Sie nannten das Baby Lucy. {Noun,Vb,Det,Noun,Noun}
+Wir wählten sie zur Kapitänin. {Noun,Vb,Noun,Prep,Noun}
+Die Nachricht machte ihn glücklich. {Det,Noun,Vb,Noun,Adj}
+Sie strich den Zaun weiß. {Noun,Vb,Det,Noun,Adj}
+Ich fand den Film langweilig. {Noun,Vb,Det,Noun,Adj}
+Der Schwanz des Hundes wedelte. {Det,Noun,Det,Noun,Vb}
+Toms Auto ist blau. {Noun,Noun,Vb,Adj}
+Das Zimmer meiner Schwester ist ordentlich. {Det,Noun,Noun,Noun,Vb,Adj}
+Der Schreibtisch des Lehrers war sauber. {Det,Noun,Det,Noun,Vb,Adj}
+Annas Katze schläft den ganzen Tag. {Noun,Noun,Vb,Det,Adj,Date}
+Der Garten unseres Nachbarn sieht schön aus. {Det,Noun,Noun,Noun,Vb,Adj,Vb}
+Die Mannschaft seines Bruders gewann. {Det,Noun,Noun,Noun,Vb}
+Die Straßen der Stadt sind belebt. {Det,Noun,Det,Noun,Vb,Adj}
+Ihre Eltern besitzen eine Bäckerei. {Noun,Noun,Vb,Det,Noun}
+Ihr Haus hat ein rotes Dach. {Noun,Noun,Vb,Det,Adj,Noun}
+Die alte Uhr tickt laut. {Det,Adj,Noun,Vb,Adv}
+Ein kleines Mädchen winkte. {Det,Adj,Noun,Vb}
+Der große Mann trug einen schwarzen Mantel. {Det,Adj,Noun,Vb,Det,Adj,Noun}
+Sie kaufte eine schöne alte Lampe. {Noun,Vb,Det,Adj,Adj,Noun}
+Der kleine braune Hund bellte. {Det,Adj,Adj,Noun,Vb}
+Er erzählte eine lustige Geschichte. {Noun,Vb,Det,Adj,Noun}
+Die belebte Straße war laut. {Det,Adj,Noun,Vb,Adj}
+Ein starker Wind wehte. {Det,Adj,Noun,Vb}
+Das junge Paar lächelte. {Det,Adj,Noun,Vb}
+Frisches Brot riecht wunderbar. {Adj,Noun,Vb,Adj}
+Die Kinder spielten Spiele. {Det,Noun,Vb,Noun}
+Blätter bedeckten den Boden. {Noun,Vb,Det,Noun}
+Die Frauen tauschten Ideen aus. {Det,Noun,Vb,Noun,Vb}
+Reis braucht Wasser. {Noun,Vb,Noun}
+Musik erfüllt den Raum. {Noun,Vb,Det,Noun}
+Die Männer verschoben die Möbel. {Det,Noun,Vb,Det,Noun}
+Kaffee hält mich wach. {Noun,Vb,Noun,Adj}
+Die Gänse überquerten die Straße. {Det,Noun,Vb,Det,Noun}
+Der Winter kam. {Det,Noun,Vb}
+Der Verkehr verlangsamt alles. {Det,Noun,Vb,Noun}
+Sie mag ihn. {Noun,Vb,Noun}
+Sie luden uns ein. {Noun,Vb,Noun,Vb}
+Ich glaube dir. {Noun,Vb,Noun}
+Er dankte ihnen. {Noun,Vb,Noun}
+Es überraschte mich. {Noun,Vb,Noun}

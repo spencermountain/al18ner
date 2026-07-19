@@ -1,0 +1,100 @@
+Ты пьёшь кофе? {Noun,Vb,Noun}
+Она играет в теннис? {Noun,Vb,Prep,Noun}
+Они выиграли матч? {Noun,Vb,Noun}
+У нас достаточно времени? {Prep,Noun,Adv,Noun}
+Он говорит по-английски? {Noun,Vb,Adv}
+Ты видел игру? {Noun,Vb,Noun}
+Они продают марки? {Noun,Vb,Noun}
+Она тебе перезвонила? {Noun,Noun,Vb}
+Ты меня помнишь? {Noun,Noun,Vb}
+Тебе было больно? {Noun,Vb,Adj}
+Это твоё? {Det,Noun}
+Я тебя знаю? {Noun,Noun,Vb}
+Она учительница? {Noun,Noun}
+Ты голоден? {Noun,Adj}
+Фильм был хороший? {Noun,Vb,Adj}
+Они были злы? {Noun,Vb,Adj}
+Дождь идёт? {Noun,Vb}
+Она сегодня работает? {Noun,Date,Vb}
+Это место занято? {Det,Noun,Vb}
+Я ошибаюсь? {Noun,Vb}
+Есть проблема? {Vb,Noun}
+Есть вопросы? {Vb,Noun}
+Ты поел? {Noun,Vb}
+Почта пришла? {Noun,Vb}
+Ты можешь мне помочь? {Noun,Vb,Noun,Vb}
+Ты можешь передать соль? {Noun,Vb,Vb,Noun}
+Можно войти? {Vb,Vb}
+Нам подождать? {Noun,Vb}
+Ты присоединишься к нам? {Noun,Vb,Prep,Noun}
+Они бы согласились? {Noun,Vb,Vb}
+Можно взять твою ручку? {Vb,Vb,Noun,Noun}
+Нам уже нужно уходить? {Noun,Adv,Adj,Vb}
+Что случилось? {QuestionWord,Vb}
+Как тебя зовут? {QuestionWord,Noun,Vb}
+Сколько времени? {QuestionWord,Noun}
+Что ты хочешь? {QuestionWord,Noun,Vb}
+Что она сказала? {QuestionWord,Noun,Vb}
+Что ты делаешь? {QuestionWord,Noun,Vb}
+Какого цвета твоя машина? {QuestionWord,Noun,Noun,Noun}
+Что написано на этом знаке? {QuestionWord,Vb,Prep,Det,Noun}
+Какую музыку ты любишь? {QuestionWord,Noun,Noun,Vb}
+Что так шумело? {QuestionWord,Adv,Vb}
+Кто звонил? {QuestionWord,Vb}
+Кто за дверью? {QuestionWord,Prep,Noun}
+Кто хочет десерт? {QuestionWord,Vb,Noun}
+Кто рассказал тебе новость? {QuestionWord,Vb,Noun,Noun}
+Кого ты пригласил? {QuestionWord,Noun,Vb}
+Чьё это пальто? {QuestionWord,Det,Noun}
+Чья очередь? {QuestionWord,Noun}
+Какой цвет ты предпочитаешь? {QuestionWord,Noun,Noun,Vb}
+Какая дорога ведёт к озеру? {QuestionWord,Noun,Vb,Prep,Noun}
+Какой из них дешевле? {QuestionWord,Prep,Noun,Adj}
+Кто выиграл гонку? {QuestionWord,Vb,Noun}
+Чья сумка на столе? {QuestionWord,Noun,Prep,Noun}
+Где мои ключи? {QuestionWord,Noun,Noun}
+Где ты живёшь? {QuestionWord,Noun,Vb}
+Куда они пошли? {QuestionWord,Noun,Vb}
+Где вокзал? {QuestionWord,Noun}
+Когда начинается игра? {QuestionWord,Vb,Noun}
+Когда ты приехал? {QuestionWord,Noun,Vb}
+Когда у тебя день рождения? {QuestionWord,Prep,Noun,Noun,Noun}
+Почему ты ушёл? {QuestionWord,Noun,Vb}
+Почему небо голубое? {QuestionWord,Noun,Adj}
+Почему они кричат? {QuestionWord,Noun,Vb}
+Как это произошло? {QuestionWord,Det,Vb}
+Как это пишется? {QuestionWord,Det,Vb}
+Как прошла твоя поездка? {QuestionWord,Vb,Noun,Noun}
+Как твоя мама? {QuestionWord,Noun,Noun}
+Сколько у тебя яблок? {QuestionWord,Prep,Noun,Noun}
+Сколько это стоит? {QuestionWord,Noun,Vb}
+Сколько лет твоей сестре? {QuestionWord,Noun,Noun,Noun}
+Сколько длится перелёт? {QuestionWord,Vb,Noun}
+Как далеко до пляжа? {QuestionWord,Adj,Prep,Noun}
+Как часто ты тренируешься? {QuestionWord,Adv,Noun,Vb}
+Какой высоты это здание? {QuestionWord,Noun,Det,Noun}
+Как быстро она может бегать? {QuestionWord,Adv,Noun,Vb,Vb}
+Она хорошо поёт, не так ли? {Noun,Adv,Vb,Negative,Adv,Conj}
+Он рано ушёл, да? {Noun,Adv,Vb,Expr}
+Сегодня холодно, да? {Date,Adj,Expr}
+Ты придёшь, да? {Noun,Vb,Expr}
+Они живут в Бостоне, не так ли? {Noun,Vb,Prep,Noun,Negative,Adv,Conj}
+Мы выиграли, да? {Noun,Vb,Expr}
+Ты знаешь, куда она пошла? {Noun,Vb,QuestionWord,Noun,Vb}
+Интересно, почему он ушёл. {Adj,QuestionWord,Noun,Vb}
+Она спросила, готовы ли мы. {Noun,Vb,Adj,Conj,Noun}
+Он спросил, будет ли дождь. {Noun,Vb,Vb,Conj,Noun}
+Ты можешь рассказать мне, как это произошло? {Noun,Vb,Vb,Noun,QuestionWord,Noun,Vb}
+Я не знаю, когда они приедут. {Noun,Negative,Vb,QuestionWord,Noun,Vb}
+Ты знаешь, что это значит? {Noun,Vb,QuestionWord,Det,Vb}
+Скажи мне, что ты думаешь. {Vb,Noun,QuestionWord,Noun,Vb}
+Я спросил её, где библиотека. {Noun,Vb,Noun,QuestionWord,Noun}
+Никто не знает, кто это написал. {Noun,Negative,Vb,QuestionWord,Noun,Vb}
+Ты его не хочешь? {Noun,Noun,Negative,Vb}
+Тебе не холодно? {Noun,Negative,Adj}
+Она тебе не сказала? {Noun,Noun,Negative,Vb}
+Разве это было не здорово? {Adv,Det,Vb,Negative,Adj}
+Кто-нибудь дома? {Noun,Adv}
+Всё в порядке? {Noun,Prep,Noun}
+Ты когда-нибудь пробовал йогу? {Noun,Adv,Vb,Noun}
+Все нашли себе место? {Noun,Vb,Noun,Noun}

@@ -1,0 +1,100 @@
+Die Schlüssel liegen auf dem Tisch. {Det,Noun,Vb,Prep,Det,Noun}
+Die Katze versteckte sich unter dem Bett. {Det,Noun,Vb,Noun,Prep,Det,Noun}
+Die Bank ist zwischen dem Café und der Buchhandlung. {Det,Noun,Vb,Prep,Det,Noun,Conj,Det,Noun}
+Ein Flugzeug flog über den Wolken. {Det,Noun,Vb,Prep,Det,Noun}
+Der Ball rollte über die Straße. {Det,Noun,Vb,Prep,Det,Noun}
+Wir gingen am Fluss entlang. {Noun,Vb,Prep,Noun,Prep}
+Sie stand neben ihrer Mutter. {Noun,Vb,Prep,Noun,Noun}
+Das Schiff segelte in den Hafen. {Det,Noun,Vb,Prep,Det,Noun}
+Er lehnte sich an die Wand. {Noun,Vb,Noun,Prep,Det,Noun}
+Wir fuhren durch den Tunnel. {Noun,Vb,Prep,Det,Noun}
+Die Temperatur fiel unter null. {Det,Noun,Vb,Prep,Val}
+Unser Haus ist in der Nähe der Schule. {Noun,Noun,Vb,Prep,Det,Noun,Det,Noun}
+Der Garten ist hinter dem Haus. {Det,Noun,Vb,Prep,Det,Noun}
+Ein Vogel saß auf dem Zaun. {Det,Noun,Vb,Prep,Det,Noun}
+Der Brief steckt im Umschlag. {Det,Noun,Vb,Prep,Noun}
+Wir trafen uns am Mittag. {Noun,Vb,Noun,Prep,Noun}
+Der Unterricht beginnt in zehn Minuten. {Det,Noun,Vb,Prep,Val,Noun}
+Sie arbeitete bis Mitternacht. {Noun,Vb,Prep,Noun}
+Er sprach über das Budget. {Noun,Vb,Prep,Det,Noun}
+Dieses Geschenk ist von meiner Tante. {Det,Noun,Vb,Prep,Noun,Noun}
+Das Buch handelt von einem verlorenen Hund. {Det,Noun,Vb,Prep,Det,Adj,Noun}
+Sie stritt mit ihrem Vermieter. {Noun,Vb,Prep,Noun,Noun}
+Er schnitt das Brot mit einem Messer. {Noun,Vb,Det,Noun,Prep,Det,Noun}
+Die Mannschaft reiste mit dem Bus. {Det,Noun,Vb,Prep,Det,Noun}
+Ich habe es für dich getan. {Noun,Vb,Noun,Prep,Noun,Vb}
+Mach bitte das Radio an. {Vb,Expr,Det,Noun,Vb}
+Sie lehnte das Angebot ab. {Noun,Vb,Det,Noun,Vb}
+Er wachte um sechs auf. {Noun,Vb,Prep,Val,Vb}
+Ich gab Zucker auf. {Noun,Vb,Noun,Vb}
+Sie schlug das Wort nach. {Noun,Vb,Det,Noun,Vb}
+Uns ist die Milch ausgegangen. {Noun,Vb,Det,Noun,Vb}
+Er zog seine Jacke an. {Noun,Vb,Noun,Noun,Vb}
+Nimm deinen Hut ab. {Vb,Noun,Noun,Vb}
+Schreib die Adresse auf. {Vb,Det,Noun,Vb}
+Sie fand die Wahrheit heraus. {Noun,Vb,Det,Noun,Vb}
+Das Auto blieb auf der Autobahn liegen. {Det,Noun,Vb,Prep,Det,Noun,Vb}
+Heb deine Spielsachen auf. {Vb,Noun,Noun,Vb}
+Er gab seine Hausaufgaben ab. {Noun,Vb,Noun,Noun,Vb}
+Das Flugzeug hob pünktlich ab. {Det,Noun,Vb,Adv,Vb}
+Sie warf die alten Zeitungen weg. {Noun,Vb,Det,Adj,Noun,Vb}
+Wir bauten das Zelt auf. {Noun,Vb,Det,Noun,Vb}
+Er füllte das Formular aus. {Noun,Vb,Det,Noun,Vb}
+Die Sitzung ging stundenlang weiter. {Det,Noun,Vb,Adv,Vb}
+Häng deinen Mantel auf. {Vb,Noun,Noun,Vb}
+Sie sprach einen guten Punkt an. {Noun,Vb,Det,Adj,Noun,Vb}
+Brems am Zebrastreifen ab. {Vb,Prep,Noun,Vb}
+Er passte auf seine kleine Schwester auf. {Noun,Vb,Prep,Noun,Adj,Noun,Vb}
+Das Feuer brannte herunter. {Det,Noun,Vb,Vb}
+Komm morgen wieder. {Vb,Date,Vb}
+Dreh die Lautstärke hoch. {Vb,Det,Noun,Vb}
+Schwimmen ist ein gutes Training. {Noun,Vb,Det,Adj,Noun}
+Yoga hilft mir beim Entspannen. {Noun,Vb,Noun,Prep,Noun}
+Ich lese gern Bücher. {Noun,Vb,Adv,Noun}
+Sie liebt das Tanzen. {Noun,Vb,Det,Noun}
+Er hat letztes Jahr mit dem Rauchen aufgehört. {Noun,Vb,Adj,Date,Prep,Det,Noun,Vb}
+Sie üben jeden Tag Gesang. {Noun,Vb,Det,Date,Noun}
+Kochen braucht Geduld. {Noun,Vb,Noun}
+Sie hat Angst vor dem Fliegen. {Noun,Vb,Noun,Prep,Det,Noun}
+Er kann Dinge gut reparieren. {Noun,Vb,Noun,Adv,Vb}
+Wir sprachen übers Umziehen. {Noun,Vb,Prep,Noun}
+Danke fürs Kommen. {Expr,Prep,Noun}
+Laufen hält ihn gesund. {Noun,Vb,Noun,Adj}
+Ich will zu Mittag essen. {Noun,Vb,Prep,Noun,Vb}
+Sie beschloss zu bleiben. {Noun,Vb,Conj,Vb}
+Sie haben vor, Japan zu besuchen. {Noun,Vb,Vb,Noun,Conj,Vb}
+Er hofft, den Preis zu gewinnen. {Noun,Vb,Det,Noun,Conj,Vb}
+Wir müssen reden. {Noun,Vb,Vb}
+Sie versprach zu schreiben. {Noun,Vb,Conj,Vb}
+Er bot an, uns zu fahren. {Noun,Vb,Vb,Noun,Conj,Vb}
+Ich habe vergessen, die Tür abzuschließen. {Noun,Vb,Vb,Det,Noun,Vb}
+Sie vereinbarten, sich am Mittag zu treffen. {Noun,Vb,Noun,Prep,Noun,Conj,Vb}
+Sie lernte Geige spielen. {Noun,Vb,Noun,Vb}
+Er ging in den Laden, um Milch zu kaufen. {Noun,Vb,Prep,Det,Noun,Conj,Noun,Conj,Vb}
+Sie rief an, um eine Frage zu stellen. {Noun,Vb,Vb,Conj,Det,Noun,Conj,Vb}
+Es ist schwer zu wählen. {Noun,Vb,Adj,Conj,Vb}
+Es ist leicht, Fehler zu machen. {Noun,Vb,Adj,Noun,Conj,Vb}
+Wir haben Arbeit zu erledigen. {Noun,Vb,Noun,Conj,Vb}
+Sie brachte mich zum Lachen. {Noun,Vb,Noun,Prep,Noun}
+Ich sah den Mann die Straße überqueren. {Noun,Vb,Det,Noun,Det,Noun,Vb}
+Er half mir, die Taschen zu tragen. {Noun,Vb,Noun,Det,Noun,Conj,Vb}
+Der Zaun muss gestrichen werden. {Det,Noun,Vb,Vb,Vb}
+Sie will, dass er sich entschuldigt. {Noun,Vb,Conj,Noun,Noun,Vb}
+Ich bat sie zu warten. {Noun,Vb,Noun,Conj,Vb}
+Sie luden uns ein, mitzukommen. {Noun,Vb,Noun,Vb,Vb}
+Er brachte mir das Fahren bei. {Noun,Vb,Noun,Det,Noun,Vb}
+Der Hund sprang über den Zaun. {Det,Noun,Vb,Prep,Det,Noun}
+Sie goss Tee in die Tasse. {Noun,Vb,Noun,Prep,Det,Noun}
+Er kletterte aufs Dach. {Noun,Vb,Prep,Noun}
+Die Maus kroch über den Boden. {Det,Noun,Vb,Prep,Det,Noun}
+Wir fuhren in Richtung Küste. {Noun,Vb,Prep,Noun,Noun}
+Das Boot trieb vom Steg weg. {Det,Noun,Vb,Prep,Noun,Vb}
+Sie ging ins Zimmer. {Noun,Vb,Prep,Noun}
+Die Kinder versteckten sich im Schrank. {Det,Noun,Vb,Noun,Prep,Noun}
+Regen tropfte vom Dach. {Noun,Vb,Prep,Noun}
+Der Weg führt zum See. {Det,Noun,Vb,Prep,Noun}
+Er winkte vom Balkon. {Noun,Vb,Prep,Noun}
+Der Laden auf der anderen Straßenseite verkauft Blumen. {Det,Noun,Prep,Det,Adj,Noun,Vb,Noun}
+Der Mann im grauen Anzug ging. {Det,Noun,Prep,Adj,Noun,Vb}
+Das Mädchen mit dem roten Regenschirm lächelte. {Det,Noun,Prep,Det,Adj,Noun,Vb}
+Eine Brücke über den Fluss verbindet die Städte. {Det,Noun,Prep,Det,Noun,Vb,Det,Noun}

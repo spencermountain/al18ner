@@ -1,0 +1,100 @@
+Он выше своего брата. {Noun,Adj,Noun,Noun}
+Эта коробка тяжелее той. {Det,Noun,Adj,Det}
+Зима холоднее осени. {Noun,Adj,Noun}
+Моя машина старше твоей. {Noun,Noun,Adj,Noun}
+Она бегает быстрее меня. {Noun,Vb,Adv,Noun}
+Тест был сложнее домашнего задания. {Noun,Vb,Adj,Adj,Noun}
+Сегодня теплее, чем вчера. {Date,Adj,Prep,Date}
+Эта дорога короче шоссе. {Det,Noun,Adj,Noun}
+Её волосы длиннее моих. {Noun,Noun,Adj,Noun}
+Синяя рубашка дешевле красной. {Adj,Noun,Adj,Adj}
+Он младше своей сестры. {Noun,Adj,Noun,Noun}
+Вторая половина была лучше первой. {Val,Noun,Vb,Adj,Val}
+Поезда безопаснее машин. {Noun,Adj,Noun}
+Мой суп горячее твоего. {Noun,Noun,Adj,Noun}
+В комнате стало тихо. {Prep,Noun,Vb,Adj}
+Фильм был интереснее, чем книга. {Noun,Vb,Adj,Prep,Noun}
+Эта головоломка сложнее, чем кажется. {Det,Noun,Adj,Prep,Vb}
+Её план был практичнее, чем его. {Noun,Noun,Vb,Adj,Prep,Noun}
+Летом город оживлённее. {Noun,Noun,Adj}
+Это кресло удобнее дивана. {Det,Noun,Adj,Noun}
+Он говорил медленнее обычного. {Noun,Vb,Adv,Adj}
+Она поёт слаще всех. {Noun,Vb,Adv,Noun}
+Погода была хуже, чем в прошлом году. {Noun,Vb,Adj,Prep,Prep,Adj,Date}
+Это лучшая пицца в городе. {Det,Adj,Noun,Prep,Noun}
+Она самая высокая девочка в классе. {Noun,Adj,Adj,Noun,Prep,Noun}
+Это была худшая буря за многие годы. {Det,Vb,Adj,Noun,Prep,Adj,Noun}
+Он самый быстрый бегун в команде. {Noun,Adj,Adj,Noun,Prep,Noun}
+Это самые дорогие часы. {Det,Adj,Adj,Noun}
+Она купила самый дешёвый билет. {Noun,Vb,Adj,Adj,Noun}
+Это был самый счастливый день в моей жизни. {Noun,Vb,Adj,Adj,Noun,Prep,Noun,Noun}
+Самое старое здание — церковь. {Adj,Adj,Noun,Noun}
+Он рассказал самую смешную шутку. {Noun,Vb,Adj,Adj,Noun}
+Это самый красивый сад в городе. {Det,Adj,Adj,Noun,Prep,Noun}
+Она самая умная ученица в школе. {Noun,Adj,Adj,Noun,Prep,Noun}
+Самый простой ответ часто верен. {Adj,Adj,Noun,Adv,Adj}
+Она так же высока, как её сестра. {Noun,Adv,Adv,Adj,Prep,Noun,Noun}
+Вода прозрачная, как стекло. {Noun,Adj,Prep,Noun}
+Он упрямый, как осёл. {Noun,Adj,Prep,Noun}
+В комнате было тихо, как в библиотеке. {Prep,Noun,Vb,Adj,Prep,Prep,Noun}
+Её руки были холодными, как лёд. {Noun,Noun,Vb,Adj,Prep,Noun}
+Эта сумка не так тяжела, как кажется. {Det,Noun,Negative,Adv,Adj,Prep,Vb}
+Коробка была слишком тяжёлой, чтобы её поднять. {Noun,Vb,Adv,Adj,Conj,Noun,Vb}
+Кофе слишком горячий, чтобы его пить. {Noun,Adv,Adj,Conj,Noun,Vb}
+Он достаточно взрослый, чтобы водить машину. {Noun,Adv,Adj,Conj,Vb,Noun}
+Вода достаточно тёплая для купания. {Noun,Adv,Adj,Prep,Noun}
+Ещё слишком рано для ужина. {Adv,Adv,Adj,Prep,Noun}
+Она слишком занята, чтобы разговаривать. {Noun,Adv,Adj,Conj,Vb}
+Полка слишком высокая, чтобы до неё дотянуться. {Noun,Adv,Adj,Conj,Prep,Noun,Vb}
+У нас достаточно стульев для всех. {Prep,Noun,Adv,Noun,Prep,Noun}
+Она очень счастлива. {Noun,Adv,Adj}
+Коробка довольно тяжёлая. {Noun,Adv,Adj}
+Он действительно устал. {Noun,Adv,Vb}
+Суп ужасно горячий. {Noun,Adv,Adj}
+Было так холодно. {Vb,Adv,Adj}
+Фильм был несколько затянутым. {Noun,Vb,Adv,Adj}
+Я вполне уверен. {Noun,Adv,Adj}
+Тропинка немного крутая. {Noun,Adv,Adj}
+Она была глубоко тронута. {Noun,Vb,Adv,Vb}
+Инструкции были довольно понятными. {Noun,Vb,Adv,Adj}
+На крыше кошка. {Prep,Noun,Noun}
+В холодильнике пять яиц. {Prep,Noun,Val,Noun}
+Прошлой ночью была гроза. {Adj,Noun,Vb,Noun}
+На вечеринке было много людей. {Prep,Noun,Vb,Adv,Noun}
+Для тебя есть сообщение. {Prep,Noun,Vb,Noun}
+Есть два способа решить это. {Vb,Val,Noun,Vb,Det}
+В коробке ничего не было. {Prep,Noun,Noun,Negative,Vb}
+За дверью кто-то есть. {Prep,Noun,Noun,Vb}
+Есть много вариантов. {Vb,Adv,Noun}
+В холодильнике есть молоко. {Prep,Noun,Vb,Noun}
+На небе было мало облаков. {Prep,Noun,Vb,Adv,Noun}
+В ванне паук. {Prep,Noun,Noun}
+На этой улице три дома. {Prep,Det,Noun,Val,Noun}
+В пекарне была длинная очередь. {Prep,Noun,Vb,Adj,Noun}
+Всегда есть ещё один шанс. {Adv,Vb,Adv,Val,Noun}
+Большинство людей согласны. {Noun,Noun,Adj}
+Многие ученики сдали экзамен. {Adj,Noun,Vb,Noun}
+Некоторые птицы не умеют летать. {Det,Noun,Negative,Vb,Vb}
+Каждый игрок получает ход. {Det,Noun,Vb,Noun}
+Каждое место было занято. {Det,Noun,Vb,Vb}
+Оба ответа верны. {Det,Noun,Adj}
+Несколько окон было открыто. {Adv,Noun,Vb,Adj}
+Мало кто знает этот секрет. {Adv,Noun,Vb,Det,Noun}
+Прошло много времени. {Vb,Adv,Noun}
+Всё печенье закончилось. {Noun,Noun,Vb}
+Половина класса отсутствовала. {Val,Noun,Vb}
+Большинство гостей ушли рано. {Noun,Noun,Vb,Adv}
+Кофе достаточно крепкий. {Noun,Adv,Adj}
+Она чуть не опоздала на автобус. {Noun,Adv,Negative,Vb,Prep,Noun}
+Бак почти полон. {Noun,Adv,Adj}
+Я совсем забыл. {Noun,Adv,Vb}
+Он почти не спал. {Noun,Adv,Negative,Vb}
+Стакан наполовину полон. {Noun,Adv,Adj}
+Мы их почти не знаем. {Noun,Noun,Adv,Negative,Vb}
+История абсолютно правдива. {Noun,Adv,Adj}
+Её ответ был совершенно верным. {Noun,Noun,Vb,Adv,Adj}
+Две сумки весят десять фунтов. {Val,Noun,Vb,Val,Noun}
+В прошлом году аренда удвоилась. {Prep,Adj,Date,Noun,Vb}
+Сегодня гораздо холоднее. {Date,Adv,Adj}
+Она чувствует себя немного лучше. {Noun,Vb,Noun,Adv,Adj}
+Очередь двигалась очень медленно. {Noun,Vb,Adv,Adv}

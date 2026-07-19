@@ -1,0 +1,100 @@
+Wenn es regnet, bleiben wir zu Hause. {Condition,Noun,Vb,Vb,Noun,Prep,Noun}
+Wenn du Eis erhitzt, schmilzt es. {Condition,Noun,Noun,Vb,Vb,Noun}
+Wenn sie anruft, sag ihr die Wahrheit. {Condition,Noun,Vb,Vb,Noun,Det,Noun}
+Wenn ich reich wäre, würde ich reisen. {Condition,Noun,Adj,Vb,Vb,Noun,Vb}
+Wenn wir früh losfahren, erwischen wir den Zug. {Condition,Noun,Adj,Vb,Vb,Noun,Det,Noun}
+Wenn du lernst, bestehst du. {Condition,Noun,Vb,Vb,Noun}
+Wenn das Wetter schön ist, gehen wir spazieren. {Condition,Det,Noun,Adj,Vb,Vb,Noun,Vb}
+Wenn er gelernt hätte, hätte er bestanden. {Condition,Noun,Vb,Vb,Vb,Noun,Vb}
+Wenn ich es gewusst hätte, hätte ich geholfen. {Condition,Noun,Noun,Vb,Vb,Vb,Noun,Vb}
+Wenn du etwas brauchst, frag mich. {Condition,Noun,Noun,Vb,Vb,Noun}
+Wenn es schneit, bleiben die Busse stehen. {Condition,Noun,Vb,Vb,Det,Noun,Vb}
+Wenn du sie siehst, sag Hallo. {Condition,Noun,Noun,Vb,Vb,Expr}
+Wenn der Bus Verspätung hat, verpassen wir die Show. {Condition,Det,Noun,Noun,Vb,Vb,Noun,Det,Noun}
+Du kannst kommen, wenn du willst. {Noun,Vb,Vb,Condition,Noun,Vb}
+Wir sagen das Picknick ab, wenn es regnet. {Noun,Vb,Det,Noun,Vb,Condition,Noun,Vb}
+Ruf mich an, wenn du dich verirrst. {Vb,Noun,Vb,Condition,Noun,Noun,Vb}
+Wenn nötig, können wir den Termin verschieben. {Condition,Adj,Vb,Noun,Det,Noun,Vb}
+Wenn möglich, komm vor acht an. {Condition,Adj,Vb,Conj,Val,Vb}
+Auch wenn er sich entschuldigt, wird sie ihm nicht verzeihen. {Conj,Condition,Noun,Noun,Vb,Vb,Noun,Noun,Negative,Vb}
+Was passiert, wenn wir scheitern? {QuestionWord,Vb,Condition,Noun,Vb}
+Wenn du unsicher bist, frag nach. {Condition,Noun,Adj,Vb,Vb,Vb}
+Wenn die Ampel rot ist, halt das Auto an. {Condition,Det,Noun,Adj,Vb,Vb,Det,Noun,Vb}
+Sie wird helfen, wenn du höflich fragst. {Noun,Vb,Vb,Condition,Noun,Adv,Vb}
+Wenn sie zustimmt, unterschreiben wir den Vertrag. {Condition,Noun,Vb,Vb,Noun,Det,Noun}
+Wenn es nicht regnet, machen wir ein Picknick. {Condition,Noun,Negative,Vb,Vb,Noun,Det,Noun}
+Wenn du dich nicht beeilst, kommen wir zu spät. {Condition,Noun,Noun,Negative,Vb,Vb,Noun,Adv,Adv}
+Ich gehe allein, wenn du nicht mitkommst. {Noun,Vb,Adj,Condition,Noun,Negative,Vb}
+Wenn er sich nicht verbessert, verliert er seinen Job. {Condition,Noun,Noun,Negative,Vb,Vb,Noun,Noun,Noun}
+Wenn es regnet, wird die Straße überflutet. {Conj,Noun,Vb,Vb,Det,Noun,Vb}
+Ich kochte gerade, als du angerufen hast. {Noun,Vb,Adv,Conj,Noun,Vb,Vb}
+Immer wenn sie uns besucht, backen wir Kekse. {Adv,Conj,Noun,Noun,Vb,Vb,Noun,Noun}
+Immer wenn er verreist, schickt er Postkarten. {Adv,Conj,Noun,Vb,Vb,Noun,Noun}
+Während du schliefst, kam die Post. {Conj,Noun,Vb,Vb,Det,Noun}
+Während sie kochte, putzte er den Tisch. {Conj,Noun,Vb,Vb,Noun,Det,Noun}
+Sobald wir ankamen, begann die Show. {Conj,Noun,Vb,Vb,Det,Noun}
+Sobald sie fertig ist, können wir gehen. {Conj,Noun,Adj,Vb,Vb,Noun,Vb}
+Während das Baby schlief, putzten wir das Haus. {Conj,Det,Noun,Vb,Vb,Noun,Det,Noun}
+Weil die Straße vereist war, fuhren wir langsam. {Conj,Det,Noun,Adj,Vb,Vb,Noun,Adv}
+Wir blieben zu Hause, weil es regnete. {Noun,Vb,Prep,Noun,Conj,Noun,Vb}
+Sie lächelte, weil sie stolz war. {Noun,Vb,Conj,Noun,Adj,Vb}
+Er ging, weil ihm langweilig war. {Noun,Vb,Conj,Noun,Adj,Vb}
+Wegen des Sturms hatte der Flug Verspätung. {Prep,Det,Noun,Vb,Det,Noun,Noun}
+Ich vertraue ihr, weil sie ehrlich ist. {Noun,Vb,Noun,Conj,Noun,Adj,Vb}
+Obwohl es kalt war, gingen wir schwimmen. {Conj,Noun,Adj,Vb,Vb,Noun,Vb}
+Obwohl sie müde war, arbeitete sie weiter. {Conj,Noun,Adj,Vb,Vb,Noun,Vb}
+Obwohl er jung ist, ist er weise. {Conj,Noun,Adj,Vb,Vb,Noun,Adj}
+Obwohl der Test schwer war, bestanden alle. {Conj,Det,Noun,Adj,Vb,Vb,Noun}
+Er kam zur Party, obwohl er krank war. {Noun,Vb,Prep,Noun,Conj,Noun,Adj,Vb}
+Obwohl wir verloren haben, haben wir gut gespielt. {Conj,Noun,Vb,Vb,Vb,Noun,Adv,Vb}
+Sie lief weiter, obwohl ihre Beine schmerzten. {Noun,Vb,Vb,Conj,Noun,Noun,Vb}
+Obwohl es regnete, ging das Spiel weiter. {Conj,Noun,Vb,Vb,Det,Noun,Vb}
+Sie lernte fleißig, also bestand sie den Test. {Noun,Vb,Adv,Conj,Vb,Noun,Det,Noun}
+Es war spät, also gingen wir früh. {Noun,Vb,Adj,Conj,Vb,Noun,Adv}
+Der Laden war leer, also gingen wir. {Det,Noun,Vb,Adj,Conj,Vb,Noun}
+Er hatte Hunger, also machte er ein Sandwich. {Noun,Vb,Noun,Conj,Vb,Noun,Det,Noun}
+Die Musik war laut, also hielten wir uns die Ohren zu. {Det,Noun,Vb,Adj,Conj,Vb,Noun,Noun,Det,Noun,Vb}
+Ich hatte Durst, also trank ich etwas Saft. {Noun,Vb,Noun,Conj,Vb,Noun,Det,Noun}
+Wir warteten bis Mitternacht. {Noun,Vb,Prep,Noun}
+Der Laden ist bis neun offen. {Det,Noun,Vb,Prep,Val,Adj}
+Erledige deine Hausaufgaben vor dem Abendessen. {Vb,Noun,Noun,Conj,Det,Noun}
+Nach dem Film aßen wir Nachtisch. {Prep,Det,Noun,Vb,Noun,Noun}
+Nach dem Mittagessen machten sie ein Nickerchen. {Prep,Det,Noun,Vb,Noun,Det,Noun}
+Wir gingen nach der Rede. {Noun,Vb,Prep,Det,Noun}
+Putz dir vor dem Schlafengehen die Zähne. {Vb,Noun,Conj,Det,Noun,Det,Noun}
+Die Party ging nach Sonnenuntergang weiter. {Det,Noun,Vb,Prep,Noun,Vb}
+Nachdem wir angekommen waren, begann der Film. {Prep,Noun,Vb,Vb,Vb,Det,Noun}
+Nachdem sie ihren Abschluss gemacht hatte, zog sie ins Ausland. {Prep,Noun,Noun,Noun,Vb,Vb,Vb,Noun,Prep,Noun}
+Sobald du die Regeln kennst, ist das Spiel einfach. {Adv,Noun,Det,Noun,Vb,Vb,Det,Noun,Adj}
+Nachdem sie gegangen waren, wirkte das Haus still. {Prep,Noun,Vb,Vb,Vb,Det,Noun,Adj}
+Er fragte, ob ich bereit war. {Noun,Vb,Conj,Noun,Adj,Vb}
+Ich weiß nicht, ob sie kommt. {Noun,Vb,Negative,Conj,Noun,Vb}
+Schau nach, ob das Abendessen fertig ist. {Vb,Vb,Conj,Det,Noun,Adj,Vb}
+Er fragte sich, ob die Geschichte wahr war. {Noun,Vb,Noun,Conj,Det,Noun,Adj,Vb}
+Ob wir gewinnen oder verlieren, ich bin stolz. {Conj,Noun,Vb,Conj,Vb,Noun,Vb,Adj}
+Seit 2020 führt sie ein kleines Unternehmen. {Prep,Val,Vb,Noun,Det,Adj,Noun}
+Seit Montag regnet es jeden Tag. {Prep,Date,Vb,Noun,Det,Date}
+Während des Sturms ging das Licht aus. {Prep,Det,Noun,Vb,Det,Noun,Vb}
+Trotz des Regens ging das Spiel weiter. {Prep,Det,Noun,Vb,Det,Noun,Vb}
+Trotz ihrer Angst hielt sie die Rede. {Prep,Noun,Noun,Vb,Noun,Det,Noun}
+Ohne eine Karte verliefen wir uns. {Prep,Det,Noun,Vb,Noun,Noun}
+Vor der Show aßen wir schnell zu Abend. {Conj,Det,Noun,Vb,Noun,Adv,Prep,Noun}
+Als wir ankamen, war das Essen schon kalt. {Conj,Noun,Vb,Vb,Det,Noun,Adv,Adj}
+Je früher, desto besser. {Det,Adj,Det,Adj}
+Wohin sie auch geht, ihr Hund folgt ihr. {Conj,Noun,Adv,Vb,Noun,Noun,Vb,Noun}
+Wer zuerst ankommt, bekommt einen Preis. {Conj,Val,Vb,Vb,Det,Noun}
+Überall, wo wir hinschauten, sahen wir Blumen. {Adv,Conj,Noun,Vb,Vb,Noun,Noun}
+Er tut so, als ob ihm der Laden gehört. {Noun,Vb,Adv,Conj,Conj,Noun,Det,Noun,Vb}
+Es sieht so aus, als ob es schneien könnte. {Noun,Vb,Adv,Vb,Conj,Conj,Noun,Vb,Vb}
+Sie singt, während sie kocht. {Noun,Vb,Conj,Noun,Vb}
+Als die Nacht hereinbrach, leuchtete die Stadt auf. {Prep,Det,Noun,Vb,Vb,Det,Noun,Vb}
+Er tut so, als ob nichts passiert wäre. {Noun,Vb,Adv,Conj,Conj,Noun,Vb,Vb}
+Nimm einen Regenschirm mit, falls es regnet. {Vb,Det,Noun,Vb,Conj,Noun,Vb}
+Wir fuhren früh los, damit wir parken konnten. {Noun,Vb,Adv,Vb,Conj,Noun,Vb,Vb}
+Der Hund bellte jedes Mal, wenn die Klingel läutete. {Det,Noun,Vb,Det,Noun,Conj,Det,Noun,Vb}
+Wenn du es kaputtmachst, kaufst du es. {Condition,Noun,Noun,Vb,Vb,Noun,Noun}
+Wenn ich es vergesse, erinnere mich daran. {Condition,Noun,Noun,Vb,Vb,Noun,Adv}
+Nimm eine Jacke mit, falls es kalt wird. {Vb,Det,Noun,Vb,Conj,Noun,Adj,Vb}
+Obwohl er sich entschuldigte, blieb sie wütend. {Conj,Noun,Noun,Vb,Vb,Noun,Adj}
+Weil wir zu spät kamen, verpassten wir die Rede. {Conj,Noun,Adv,Adj,Vb,Vb,Noun,Det,Noun}
+Wenn alles gut läuft, kaufen wir ein Haus. {Condition,Noun,Adv,Vb,Vb,Noun,Det,Noun}

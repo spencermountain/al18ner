@@ -1,0 +1,100 @@
+Ela comprou maçãs e laranjas. {Noun,Vb,Noun,Conj,Noun}
+Ele toca violão e piano. {Noun,Vb,Noun,Conj,Noun}
+Nós colocamos camisas, meias e sapatos na mala. {Noun,Vb,Noun,Noun,Conj,Noun,Prep,Noun}
+O gato e o cachorro são amigos. {Det,Noun,Conj,Det,Noun,Vb,Noun}
+Você pode tomar chá ou café. {Noun,Vb,Vb,Noun,Conj,Noun}
+É azul ou verde? {Vb,Adj,Conj,Adj}
+Ela abriu a porta e sorriu. {Noun,Vb,Det,Noun,Conj,Vb}
+Ele lavou o carro e cortou a grama. {Noun,Vb,Det,Noun,Conj,Vb,Det,Noun}
+Eu liguei, mas ninguém atendeu. {Noun,Vb,Conj,Noun,Vb}
+A comida era barata, mas gostosa. {Det,Noun,Vb,Adj,Conj,Adj}
+Ela é pequena, mas forte. {Noun,Vb,Adj,Conj,Adj}
+Nós queríamos ficar, mas tivemos que ir. {Noun,Vb,Vb,Conj,Vb,Conj,Vb}
+Corra, ou nós vamos perder o ônibus. {Vb,Conj,Noun,Vb,Vb,Det,Noun}
+Ele não sorriu nem falou. {Noun,Negative,Vb,Negative,Vb}
+Ou você ou eu vamos ganhar. {Conj,Noun,Conj,Noun,Vb,Vb}
+Tanto os meninos quanto as meninas vibraram. {Noun,Det,Noun,Conj,Det,Noun,Vb}
+Ela fala francês e um pouco de espanhol. {Noun,Vb,Noun,Conj,Det,Adj,Prep,Noun}
+O filme era longo, mas nós gostamos dele. {Det,Noun,Vb,Adj,Conj,Noun,Vb,Noun}
+Traga uma caneta e papel. {Vb,Det,Noun,Conj,Noun}
+Ele se esforçou muito, porém fracassou. {Noun,Noun,Vb,Adv,Conj,Vb}
+O livro que ela escreveu é longo. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+A mulher que eu conheci era simpática. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+A casa que eles construíram é enorme. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+O bolo que você assou estava delicioso. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+A música que ela cantou me fez chorar. {Det,Noun,Det,Noun,Vb,Noun,Vb,Vb}
+A menina cuja bicicleta quebrou chorou. {Det,Noun,QuestionWord,Noun,Vb,Vb}
+O autor cujo livro ganhou deu uma palestra. {Det,Noun,QuestionWord,Noun,Vb,Vb,Det,Noun}
+O homem cujo carro foi roubado chamou a polícia. {Det,Noun,QuestionWord,Noun,Vb,Vb,Vb,Det,Noun}
+Eu visitei a cidade onde ele nasceu. {Noun,Vb,Det,Noun,QuestionWord,Noun,Vb}
+Essa é a cidade onde ela cresceu. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb}
+Nós encontramos um parque onde as crianças podem brincar. {Noun,Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
+Eu lembro do dia em que nos conhecemos. {Noun,Vb,Prep,Date,Prep,QuestionWord,Noun,Vb}
+O homem que mora ao lado é gentil. {Det,Noun,QuestionWord,Vb,Prep,Noun,Vb,Adj}
+A mulher que ligou deixou um recado. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun}
+O menino que ganhou a corrida sorriu. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb}
+As pessoas que chegaram cedo encontraram lugares. {Det,Noun,QuestionWord,Vb,Adv,Vb,Noun}
+A menina que encontrou a carteira a devolveu. {Det,Noun,QuestionWord,Vb,Det,Noun,Noun,Vb}
+O filme que ganhou o prêmio era longo. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
+A estrada que cruza o rio é estreita. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
+A carta que chegou hoje era do Tom. {Det,Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
+Todos que vieram se divertiram. {Noun,QuestionWord,Vb,Noun,Vb}
+Os vizinhos que nós convidamos chegaram primeiro. {Det,Noun,Det,Noun,Vb,Vb,Val}
+As ferramentas que ele pegou emprestadas estavam enferrujadas. {Det,Noun,Det,Noun,Vb,Vb,Vb,Adj}
+Ela se casou com um homem que todos admiravam. {Noun,Noun,Vb,Prep,Det,Noun,Det,Noun,Vb}
+O vestido que ela escolheu era perfeito. {Det,Noun,Det,Noun,Vb,Vb,Adj}
+Ele disse que estava cansado. {Noun,Vb,Conj,Vb,Adj}
+Ela disse que foi cancelado. {Noun,Vb,Conj,Vb,Vb}
+Eles disseram que a estrada estava fechada. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Ele disse que ia se mudar. {Noun,Vb,Conj,Vb,Noun,Vb}
+Ela nos disse que o jantar estava pronto. {Noun,Noun,Vb,Conj,Det,Noun,Vb,Adj}
+O professor disse que era fácil. {Det,Noun,Vb,Conj,Vb,Adj}
+Ele sussurrou que ela estava dormindo. {Noun,Vb,Conj,Noun,Vb,Vb}
+Ela explicou que eles estavam atrasados. {Noun,Vb,Conj,Noun,Vb,Adj}
+Ele admitiu que estava errado. {Noun,Vb,Conj,Vb,Adj}
+Ela prometeu que ia ajudar. {Noun,Vb,Conj,Vb,Vb}
+Ele diz que é verdade. {Noun,Vb,Conj,Vb,Noun}
+Eu soube que você conseguiu um emprego novo. {Noun,Vb,Conj,Noun,Vb,Det,Noun,Adj}
+Ela mencionou que ele estava ocupado. {Noun,Vb,Conj,Noun,Vb,Adj}
+Ele afirmou que era seguro. {Noun,Vb,Conj,Vb,Adj}
+Eles anunciaram que estava começando. {Noun,Vb,Conj,Vb,Vb}
+Eu acho que você tem razão. {Noun,Vb,Conj,Noun,Vb,Noun}
+Eu espero que ela ganhe. {Noun,Vb,Conj,Noun,Vb}
+Ele acredita que a Terra é redonda. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Ela sabe que a resposta está errada. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Eu acho que nós deveríamos ir. {Noun,Vb,Conj,Noun,Vb,Vb}
+Ele acha que o plano vai fracassar. {Noun,Vb,Conj,Det,Noun,Vb,Vb}
+Nós supomos que a loja está aberta. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Ela sente que o time pode ganhar. {Noun,Vb,Conj,Det,Noun,Vb,Vb}
+Eu aposto que vai nevar amanhã. {Noun,Vb,Conj,Vb,Vb,Date}
+Dizem que o castelo é assombrado. {Vb,Conj,Det,Noun,Vb,Adj}
+Meu irmão, que mora em Denver, está nos visitando. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Noun,Vb}
+A casa, que estava vazia, parecia fria. {Det,Noun,QuestionWord,Vb,Adj,Vb,Adj}
+O carro dela, que era novo, quebrou. {Det,Noun,Noun,QuestionWord,Vb,Adj,Vb}
+Nosso professor, que fala quatro línguas, é famoso. {Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
+A ponte, que foi construída em 1900, ainda está aberta. {Det,Noun,QuestionWord,Vb,Vb,Prep,Val,Adv,Vb,Adj}
+Eu sei que ela está ocupada. {Noun,Vb,Conj,Noun,Vb,Adj}
+Parece que ele tem razão. {Vb,Conj,Noun,Vb,Noun}
+O problema é que nós estamos atrasados. {Det,Noun,Vb,Conj,Noun,Vb,Adj}
+A verdade é que talvez nunca saibamos. {Det,Noun,Vb,Conj,Adv,Negative,Vb}
+Ele esqueceu que eles estavam fechados. {Noun,Vb,Conj,Noun,Vb,Adj}
+Ela notou que estava aberto. {Noun,Vb,Conj,Vb,Adj}
+Lembre-se de que nós saímos às cinco. {Vb,Noun,Prep,Conj,Noun,Vb,Prep,Val}
+Eu duvido que ele venha. {Noun,Vb,Conj,Noun,Vb}
+Nós concordamos que o preço era justo. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Parece que ela estava certa. {Vb,Conj,Noun,Vb,Adj}
+Nós visitamos Roma, Florença e Veneza. {Noun,Vb,Noun,Noun,Conj,Noun}
+Ela sabe ler, escrever e nadar. {Noun,Vb,Vb,Vb,Conj,Vb}
+A bandeira é vermelha, branca e azul. {Det,Noun,Vb,Adj,Adj,Conj,Adj}
+Ele pediu sopa, salada e pão. {Noun,Vb,Noun,Noun,Conj,Noun}
+A manhã estava fria, úmida e ventosa. {Det,Noun,Vb,Adj,Adj,Conj,Adj}
+Ela pegou o casaco, o chapéu e as luvas. {Noun,Vb,Det,Noun,Det,Noun,Conj,Det,Noun}
+Você quer arroz ou macarrão? {Noun,Vb,Noun,Conj,Noun}
+Nem o gato nem o cachorro se mexeram. {Negative,Det,Noun,Negative,Det,Noun,Noun,Vb}
+Nós podemos ir a pé, ou podemos pegar o ônibus. {Noun,Vb,Vb,Prep,Noun,Conj,Vb,Vb,Det,Noun}
+A sopa estava quente, e o pão estava fresco. {Det,Noun,Vb,Adj,Conj,Det,Noun,Vb,Adj}
+Ele bateu na porta, e ela abriu. {Noun,Vb,Prep,Noun,Conj,Noun,Vb}
+Estude muito, e você vai ter sucesso. {Vb,Adv,Conj,Noun,Vb,Vb,Noun}
+O time jogou bem e ganhou o título. {Det,Noun,Vb,Adv,Conj,Vb,Det,Noun}
+Eu tomo chá, e minha irmã toma café. {Noun,Vb,Noun,Conj,Noun,Noun,Vb,Noun}
+Ela sorriu e acenou para a multidão. {Noun,Vb,Conj,Vb,Prep,Det,Noun}

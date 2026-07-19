@@ -1,0 +1,100 @@
+Если пойдёт дождь, мы останемся дома. {Condition,Vb,Noun,Noun,Vb,Noun}
+Если нагреть лёд, он растает. {Condition,Vb,Noun,Noun,Vb}
+Если она позвонит, скажи ей правду. {Condition,Noun,Vb,Vb,Noun,Noun}
+Если бы я был богат, я бы путешествовал. {Condition,Vb,Noun,Vb,Adj,Noun,Vb,Vb}
+Если мы выйдем рано, мы успеем на поезд. {Condition,Noun,Vb,Adj,Noun,Vb,Prep,Noun}
+Если ты будешь учиться, ты сдашь. {Condition,Noun,Vb,Vb,Noun,Vb}
+Если погода будет хорошей, мы погуляем. {Condition,Noun,Vb,Adj,Noun,Vb}
+Если бы он учился, он бы сдал. {Condition,Vb,Noun,Vb,Noun,Vb,Vb}
+Если бы я знал, я бы помог. {Condition,Vb,Noun,Vb,Noun,Vb,Vb}
+Если тебе что-нибудь понадобится, скажи мне. {Condition,Noun,Noun,Vb,Vb,Noun}
+Если пойдёт снег, автобусы остановятся. {Condition,Vb,Noun,Noun,Vb}
+Если увидишь её, передай привет. {Condition,Vb,Noun,Vb,Expr}
+Если автобус опоздает, мы пропустим представление. {Condition,Noun,Vb,Noun,Vb,Noun}
+Ты можешь прийти, если хочешь. {Noun,Vb,Vb,Condition,Vb}
+Мы отменим пикник, если пойдёт дождь. {Noun,Vb,Noun,Condition,Vb,Noun}
+Позвони мне, если заблудишься. {Vb,Noun,Condition,Vb}
+Если нужно, мы можем перенести. {Condition,Adj,Noun,Vb,Vb}
+Если возможно, приезжай до восьми. {Condition,Adj,Vb,Conj,Val}
+Даже если он извинится, она его не простит. {Conj,Condition,Noun,Vb,Noun,Noun,Negative,Vb}
+Что случится, если мы провалимся? {QuestionWord,Vb,Condition,Noun,Vb}
+Если сомневаешься, спрашивай. {Condition,Vb,Vb}
+Если свет красный, останови машину. {Condition,Noun,Adj,Vb,Noun}
+Она поможет, если ты вежливо попросишь. {Noun,Vb,Condition,Noun,Adv,Vb}
+Если она согласится, мы подпишем контракт. {Condition,Noun,Vb,Noun,Vb,Noun}
+Если не будет дождя, мы устроим пикник. {Condition,Negative,Vb,Noun,Noun,Vb,Noun}
+Если ты не поторопишься, мы опоздаем. {Condition,Noun,Negative,Vb,Noun,Vb}
+Я пойду один, если ты не пойдёшь со мной. {Noun,Vb,Adj,Condition,Noun,Negative,Vb,Prep,Noun}
+Если он не исправится, он потеряет свою работу. {Condition,Noun,Negative,Vb,Noun,Vb,Noun,Noun}
+Когда идёт дождь, улицу затапливает. {Conj,Vb,Noun,Noun,Vb}
+Я готовил, когда ты позвонил. {Noun,Vb,Conj,Noun,Vb}
+Каждый раз, когда она приезжает, мы печём печенье. {Det,Noun,Conj,Noun,Vb,Noun,Vb,Noun}
+Каждый раз, когда он путешествует, он отправляет открытки. {Det,Noun,Conj,Noun,Vb,Noun,Vb,Noun}
+Пока ты спал, пришла почта. {Conj,Noun,Vb,Vb,Noun}
+Пока она готовила, он протирал стол. {Conj,Noun,Vb,Noun,Vb,Noun}
+Как только мы приехали, представление началось. {Conj,Conj,Noun,Vb,Noun,Vb}
+Как только она закончит, мы можем идти. {Conj,Conj,Noun,Vb,Noun,Vb,Vb}
+Пока малыш спал, мы убрались в доме. {Conj,Noun,Vb,Noun,Vb,Prep,Noun}
+Поскольку дорога была скользкой, мы ехали медленно. {Conj,Noun,Vb,Adj,Noun,Vb,Adv}
+Мы остались дома, потому что шёл дождь. {Noun,Vb,Noun,Conj,Conj,Vb,Noun}
+Она улыбнулась, потому что гордилась собой. {Noun,Vb,Conj,Conj,Vb,Noun}
+Он ушёл, потому что ему было скучно. {Noun,Vb,Conj,Conj,Noun,Vb,Adj}
+Из-за бури рейс задержали. {Prep,Noun,Noun,Vb}
+Я доверяю ей, потому что она честная. {Noun,Vb,Noun,Conj,Conj,Noun,Adj}
+Хотя было холодно, мы пошли купаться. {Conj,Vb,Adj,Noun,Vb,Vb}
+Хотя ей хотелось спать, она продолжала работать. {Conj,Noun,Vb,Vb,Noun,Vb,Vb}
+Хотя он молод, он мудр. {Conj,Noun,Adj,Noun,Adj}
+Хотя тест был сложным, все сдали. {Conj,Noun,Vb,Adj,Noun,Vb}
+Он пришёл на вечеринку, хотя был болен. {Noun,Vb,Prep,Noun,Conj,Vb,Adj}
+Хотя мы проиграли, мы хорошо играли. {Conj,Noun,Vb,Noun,Adv,Vb}
+Она продолжала бежать, хотя её ноги болели. {Noun,Vb,Vb,Conj,Noun,Noun,Vb}
+Хотя шёл дождь, игра продолжалась. {Conj,Vb,Noun,Noun,Vb}
+Она усердно училась, так что сдала тест. {Noun,Adv,Vb,Conj,Conj,Vb,Noun}
+Было поздно, так что мы ушли рано. {Vb,Adj,Conj,Conj,Noun,Vb,Adv}
+Магазин был пуст, так что мы ушли. {Noun,Vb,Adj,Conj,Conj,Noun,Vb}
+Он был голоден, так что сделал бутерброд. {Noun,Vb,Adj,Conj,Conj,Vb,Noun}
+Музыка была громкой, так что мы закрыли уши. {Noun,Vb,Adj,Conj,Conj,Noun,Vb,Noun}
+Я хотел пить, так что выпил немного сока. {Noun,Vb,Vb,Conj,Conj,Vb,Det,Noun}
+Мы ждали до полуночи. {Noun,Vb,Prep,Noun}
+Магазин открыт до девяти. {Noun,Adj,Prep,Val}
+Закончи домашнее задание до ужина. {Vb,Adj,Noun,Conj,Noun}
+После фильма мы съели десерт. {Prep,Noun,Noun,Vb,Noun}
+После обеда они вздремнули. {Prep,Noun,Noun,Vb}
+Мы ушли после речи. {Noun,Vb,Prep,Noun}
+Почисти зубы перед сном. {Vb,Noun,Conj,Noun}
+Вечеринка продолжалась после заката. {Noun,Vb,Prep,Noun}
+После того как мы приехали, фильм начался. {Prep,Det,Conj,Noun,Vb,Noun,Vb}
+После того как она окончила университет, она переехала за границу. {Prep,Det,Conj,Noun,Vb,Noun,Noun,Vb,Prep,Noun}
+Как только выучишь правила, игра становится простой. {Conj,Conj,Vb,Noun,Noun,Vb,Adj}
+После их ухода дом казался тихим. {Prep,Noun,Noun,Noun,Vb,Adj}
+Он спросил, готов ли я. {Noun,Vb,Adj,Conj,Noun}
+Я не знаю, придёт ли она. {Noun,Negative,Vb,Vb,Conj,Noun}
+Посмотри, готов ли ужин. {Vb,Adj,Conj,Noun}
+Он задумался, правдива ли история. {Noun,Vb,Adj,Conj,Noun}
+Неважно, выиграем мы или проиграем, я горд. {Adj,Vb,Noun,Conj,Vb,Noun,Adj}
+С 2020 года она ведёт небольшой бизнес. {Prep,Val,Date,Noun,Vb,Adj,Noun}
+С понедельника каждый день идёт дождь. {Prep,Date,Det,Date,Vb,Noun}
+Во время бури погас свет. {Prep,Noun,Noun,Vb,Noun}
+Несмотря на дождь, матч продолжался. {Prep,Prep,Noun,Noun,Vb}
+Несмотря на свой страх, она произнесла речь. {Prep,Prep,Noun,Noun,Noun,Vb,Noun}
+Без карты мы заблудились. {Prep,Noun,Noun,Vb}
+Перед представлением мы поужинали. {Conj,Noun,Noun,Vb}
+Когда мы приехали, еда уже остыла. {Conj,Noun,Vb,Noun,Adv,Vb}
+Чем раньше, тем лучше. {Det,Adj,Det,Adj}
+Куда бы она ни пошла, её собака идёт следом. {Conj,Vb,Noun,Negative,Vb,Noun,Noun,Vb,Adv}
+Кто придёт первым, тот получит приз. {Conj,Vb,Val,Det,Vb,Noun}
+Куда бы мы ни смотрели, мы видели цветы. {Conj,Vb,Noun,Negative,Vb,Noun,Vb,Noun}
+Он ведёт себя, как будто он здесь хозяин. {Noun,Vb,Noun,Conj,Conj,Noun,Adv,Noun}
+Кажется, будто может пойти снег. {Vb,Conj,Vb,Vb,Noun}
+Она поёт, пока готовит. {Noun,Vb,Conj,Vb}
+С наступлением ночи город засиял огнями. {Prep,Noun,Noun,Noun,Vb,Noun}
+Он ведёт себя, как будто ничего не случилось. {Noun,Vb,Noun,Conj,Conj,Noun,Negative,Vb}
+Возьми зонт на случай, если пойдёт дождь. {Vb,Noun,Prep,Noun,Conj,Vb,Noun}
+Мы выехали рано, чтобы припарковаться. {Noun,Vb,Adv,Conj,Vb}
+Собака лаяла каждый раз, когда звонил звонок. {Noun,Vb,Det,Noun,Conj,Vb,Noun}
+Если ты это сломаешь, ты это покупаешь. {Condition,Noun,Noun,Vb,Noun,Noun,Vb}
+Если я забуду, напомни мне. {Condition,Noun,Vb,Vb,Noun}
+Возьми куртку на случай, если похолодает. {Vb,Noun,Prep,Noun,Conj,Vb}
+Хотя он извинился, она осталась злой. {Conj,Noun,Vb,Noun,Vb,Adj}
+Поскольку мы приехали поздно, мы пропустили речь. {Conj,Noun,Vb,Adj,Noun,Vb,Noun}
+Если всё пойдёт хорошо, мы купим дом. {Condition,Noun,Vb,Adv,Noun,Vb,Noun}

@@ -1,0 +1,100 @@
+Trinkst du Kaffee? {Vb,Noun,Noun}
+Spielt sie Tennis? {Vb,Noun,Noun}
+Haben sie das Match gewonnen? {Vb,Noun,Det,Noun,Vb}
+Haben wir genug Zeit? {Vb,Noun,Adj,Noun}
+Spricht er Englisch? {Vb,Noun,Noun}
+Hast du das Spiel gesehen? {Vb,Noun,Det,Noun,Vb}
+Verkaufen sie Briefmarken? {Vb,Noun,Noun}
+Hat sie dich zurückgerufen? {Vb,Noun,Noun,Vb}
+Erinnerst du dich an mich? {Vb,Noun,Noun,Prep,Noun}
+Hat es wehgetan? {Vb,Noun,Vb}
+Gehört das dir? {Vb,Det,Noun}
+Kenne ich dich? {Vb,Noun,Noun}
+Ist sie Lehrerin? {Vb,Noun,Noun}
+Hast du Hunger? {Vb,Noun,Noun}
+War der Film gut? {Vb,Det,Noun,Adj}
+Waren sie wütend? {Vb,Noun,Adj}
+Regnet es? {Vb,Noun}
+Arbeitet sie heute? {Vb,Noun,Date}
+Ist dieser Platz besetzt? {Vb,Det,Noun,Vb}
+Liege ich falsch? {Vb,Noun,Adj}
+Gibt es ein Problem? {Vb,Noun,Det,Noun}
+Gibt es noch Fragen? {Vb,Noun,Adv,Noun}
+Hast du gegessen? {Vb,Noun,Vb}
+Ist die Post gekommen? {Vb,Det,Noun,Vb}
+Kannst du mir helfen? {Vb,Noun,Noun,Vb}
+Könntest du mir das Salz reichen? {Vb,Noun,Noun,Det,Noun,Vb}
+Darf ich reinkommen? {Vb,Noun,Vb}
+Sollen wir warten? {Vb,Noun,Vb}
+Kommst du mit? {Vb,Noun,Vb}
+Würden sie zustimmen? {Vb,Noun,Vb}
+Kann ich mir deinen Stift leihen? {Vb,Noun,Noun,Noun,Noun,Vb}
+Müssen wir schon gehen? {Vb,Noun,Adv,Vb}
+Was ist passiert? {QuestionWord,Vb,Vb}
+Wie heißt du? {QuestionWord,Vb,Noun}
+Wie spät ist es? {QuestionWord,Adj,Vb,Noun}
+Was willst du? {QuestionWord,Vb,Noun}
+Was hat sie gesagt? {QuestionWord,Vb,Noun,Vb}
+Was machst du? {QuestionWord,Vb,Noun}
+Welche Farbe hat dein Auto? {QuestionWord,Noun,Vb,Noun,Noun}
+Was steht auf diesem Schild? {QuestionWord,Vb,Prep,Det,Noun}
+Welche Art von Musik magst du? {QuestionWord,Noun,Prep,Noun,Vb,Noun}
+Woher kam dieses Geräusch? {QuestionWord,Vb,Det,Noun}
+Wer hat angerufen? {QuestionWord,Vb,Vb}
+Wer ist an der Tür? {QuestionWord,Vb,Prep,Det,Noun}
+Wer möchte Nachtisch? {QuestionWord,Vb,Noun}
+Wer hat dir die Neuigkeiten erzählt? {QuestionWord,Vb,Noun,Det,Noun,Vb}
+Wen hast du eingeladen? {QuestionWord,Vb,Noun,Vb}
+Wessen Mantel ist das? {QuestionWord,Noun,Vb,Det}
+Wer ist dran? {QuestionWord,Vb,Adv}
+Welche Farbe bevorzugst du? {QuestionWord,Noun,Vb,Noun}
+Welche Straße führt zum See? {QuestionWord,Noun,Vb,Prep,Noun}
+Welches ist billiger? {QuestionWord,Vb,Adj}
+Wer hat das Rennen gewonnen? {QuestionWord,Vb,Det,Noun,Vb}
+Wessen Tasche liegt auf dem Tisch? {QuestionWord,Noun,Vb,Prep,Det,Noun}
+Wo sind meine Schlüssel? {QuestionWord,Vb,Noun,Noun}
+Wo wohnst du? {QuestionWord,Vb,Noun}
+Wohin sind sie gegangen? {QuestionWord,Vb,Noun,Vb}
+Wo ist der Bahnhof? {QuestionWord,Vb,Det,Noun}
+Wann beginnt das Spiel? {QuestionWord,Vb,Det,Noun}
+Wann bist du angekommen? {QuestionWord,Vb,Noun,Vb}
+Wann hast du Geburtstag? {QuestionWord,Vb,Noun,Noun}
+Warum bist du gegangen? {QuestionWord,Vb,Noun,Vb}
+Warum ist der Himmel blau? {QuestionWord,Vb,Det,Noun,Adj}
+Warum schreien sie? {QuestionWord,Vb,Noun}
+Wie ist das passiert? {QuestionWord,Vb,Det,Vb}
+Wie schreibt man das? {QuestionWord,Vb,Noun,Det}
+Wie war deine Reise? {QuestionWord,Vb,Noun,Noun}
+Wie geht es deiner Mutter? {QuestionWord,Vb,Noun,Noun,Noun}
+Wie viele Äpfel hast du? {QuestionWord,QuestionWord,Noun,Vb,Noun}
+Wie viel kostet es? {QuestionWord,QuestionWord,Vb,Noun}
+Wie alt ist deine Schwester? {QuestionWord,Adj,Vb,Noun,Noun}
+Wie lange dauert der Flug? {QuestionWord,Adv,Vb,Det,Noun}
+Wie weit ist der Strand entfernt? {QuestionWord,Adj,Vb,Det,Noun,Adj}
+Wie oft machst du Sport? {QuestionWord,Adv,Vb,Noun,Noun}
+Wie hoch ist dieses Gebäude? {QuestionWord,Adj,Vb,Det,Noun}
+Wie schnell kann sie laufen? {QuestionWord,Adj,Vb,Noun,Vb}
+Sie singt gut, oder? {Noun,Vb,Adv,Conj}
+Er ist früh gegangen, oder? {Noun,Vb,Adv,Vb,Conj}
+Es ist heute kalt, oder? {Noun,Vb,Date,Adj,Conj}
+Du kommst doch, oder? {Noun,Vb,Adv,Conj}
+Sie wohnen in Boston, oder? {Noun,Vb,Prep,Noun,Conj}
+Wir haben gewonnen, oder? {Noun,Vb,Vb,Conj}
+Weißt du, wohin sie gegangen ist? {Vb,Noun,QuestionWord,Noun,Vb,Vb}
+Ich frage mich, warum er gegangen ist. {Noun,Vb,Noun,QuestionWord,Noun,Vb,Vb}
+Sie fragte, ob wir bereit wären. {Noun,Vb,Conj,Noun,Adj,Vb}
+Er fragte, ob es regnen würde. {Noun,Vb,Conj,Noun,Vb,Vb}
+Kannst du mir sagen, wie es passiert ist? {Vb,Noun,Noun,Vb,QuestionWord,Noun,Vb,Vb}
+Ich weiß nicht, wann sie ankommen werden. {Noun,Vb,Negative,QuestionWord,Noun,Vb,Vb}
+Weißt du, was das bedeutet? {Vb,Noun,QuestionWord,Det,Vb}
+Sag mir, was du denkst. {Vb,Noun,QuestionWord,Noun,Vb}
+Ich fragte sie, wo die Bibliothek ist. {Noun,Vb,Noun,QuestionWord,Det,Noun,Vb}
+Niemand weiß, wer es geschrieben hat. {Noun,Vb,QuestionWord,Noun,Vb,Vb}
+Willst du es nicht? {Vb,Noun,Noun,Negative}
+Ist dir nicht kalt? {Vb,Noun,Negative,Adj}
+Hat sie es dir nicht gesagt? {Vb,Noun,Noun,Noun,Negative,Vb}
+War das nicht toll? {Vb,Det,Negative,Adj}
+Ist jemand zu Hause? {Vb,Noun,Prep,Noun}
+Ist alles okay? {Vb,Noun,Adj}
+Hast du schon mal Yoga ausprobiert? {Vb,Noun,Adv,Adv,Noun,Vb}
+Haben alle einen Platz gefunden? {Vb,Noun,Det,Noun,Vb}

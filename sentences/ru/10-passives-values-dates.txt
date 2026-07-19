@@ -1,0 +1,100 @@
+Окно было разбито бурей. {Noun,Vb,Vb,Noun}
+Письмо было написано от руки. {Noun,Vb,Vb,Prep,Noun}
+Мост был построен в 1930 году. {Noun,Vb,Vb,Prep,Val,Noun}
+Торт съели до полудня. {Noun,Vb,Prep,Noun}
+Вор был пойман полицией. {Noun,Vb,Vb,Noun}
+Песня была спета хором. {Noun,Vb,Vb,Noun}
+Дорогу отремонтировали в прошлом месяце. {Noun,Vb,Prep,Adj,Date}
+На этом языке говорят во многих странах. {Prep,Det,Noun,Vb,Prep,Adj,Noun}
+Почта доставляется каждое утро. {Noun,Vb,Det,Noun}
+Ужин подают в семь. {Noun,Vb,Prep,Val}
+Правила объясняются в книге. {Noun,Vb,Prep,Noun}
+Победителей объявят завтра. {Noun,Vb,Date}
+Посылку доставят в пятницу. {Noun,Vb,Prep,Date}
+Дом продали. {Noun,Vb}
+Билеты напечатаны. {Noun,Vb}
+Музей был открыт мэром. {Noun,Vb,Vb,Noun}
+Мой велосипед украли на прошлой неделе. {Noun,Noun,Vb,Prep,Adj,Date}
+Пожар был вызван свечой. {Noun,Vb,Vb,Noun}
+Игру отменили из-за дождя. {Noun,Vb,Prep,Noun}
+Его повысили в прошлом месяце. {Noun,Vb,Prep,Adj,Date}
+Торт быстро съели. {Noun,Adv,Vb}
+Эту историю рассказал мой дедушка. {Det,Noun,Vb,Noun,Noun}
+Эти туфли сделаны в Италии. {Det,Noun,Vb,Prep,Noun}
+Проблему быстро решили. {Noun,Adv,Vb}
+Строится новая больница. {Vb,Adj,Noun}
+Он купил три яблока. {Noun,Vb,Val,Noun}
+У неё двести книг. {Prep,Noun,Val,Noun}
+Для рецепта нужно два стакана муки. {Prep,Noun,Adj,Val,Noun,Noun}
+Я заплатил двадцать долларов. {Noun,Vb,Val,Noun}
+Билет стоит пятьдесят долларов. {Noun,Vb,Val,Noun}
+Ей двадцать лет. {Noun,Val,Noun}
+Моему сыну семь лет. {Noun,Noun,Val,Noun}
+Высота башни — триста метров. {Noun,Noun,Val,Noun}
+Мы ждали сорок минут. {Noun,Vb,Val,Noun}
+Третья дверь открыта. {Val,Noun,Adj}
+Она заняла второе место. {Noun,Vb,Val,Noun}
+Это мой первый визит. {Det,Noun,Val,Noun}
+Он набрал девяносто очков. {Noun,Vb,Val,Noun}
+В книге триста страниц. {Prep,Noun,Val,Noun}
+Половины пиццы уже нет. {Noun,Noun,Adv,Negative}
+Десяток яиц стоит четыре доллара. {Noun,Noun,Vb,Val,Noun}
+В классе тридцать учеников. {Prep,Noun,Val,Noun}
+Он пробежал пять километров. {Noun,Vb,Val,Noun}
+Номер комнаты — двенадцать. {Noun,Noun,Val}
+Два плюс два — четыре. {Val,Conj,Val,Val}
+Мой день рождения в июне. {Noun,Noun,Noun,Prep,Date}
+Встреча в понедельник. {Noun,Prep,Date}
+Мы уезжаем в пятницу утром. {Noun,Vb,Prep,Date,Noun}
+В этом году Рождество выпадает на четверг. {Prep,Det,Date,Noun,Vb,Prep,Date}
+Она родилась 4 июня. {Noun,Vb,Val,Date}
+Магазин открывается в 9 утра. {Noun,Vb,Prep,Val,Noun}
+Поезд отправляется в 6 вечера. {Noun,Vb,Prep,Val,Noun}
+Сегодня среда. {Date,Date}
+Вчера был праздник. {Date,Vb,Noun}
+Завтра будет новый день. {Date,Vb,Adj,Noun}
+Экзамен в следующий вторник. {Noun,Prep,Adj,Date}
+Мы познакомились в апреле. {Noun,Vb,Prep,Date}
+Аренда заканчивается в марте. {Noun,Vb,Prep,Date}
+Летние каникулы начинаются в июле. {Adj,Noun,Vb,Prep,Date}
+Вечеринка в эту субботу. {Noun,Prep,Det,Date}
+Он работает с понедельника по пятницу. {Noun,Vb,Prep,Date,Prep,Date}
+Октябрь в этом году был дождливым. {Date,Prep,Det,Date,Vb,Adj}
+Приём назначен на полдень во вторник. {Noun,Vb,Prep,Noun,Prep,Date}
+Школа заканчивается в начале июня. {Noun,Vb,Prep,Noun,Date}
+Свадьба в сентябре. {Noun,Prep,Date}
+Мой известный друг приехал. {Noun,Adj,Noun,Vb}
+Это двухчасовая поездка. {Noun,Adj,Noun}
+Это был долгосрочный план. {Noun,Vb,Adj,Noun}
+Он воспитанный ребёнок. {Noun,Adj,Noun}
+Они живут в двухэтажном доме. {Noun,Vb,Prep,Adj,Noun}
+Она работает на полставки. {Noun,Vb,Prep,Noun}
+Хорошо одетый мужчина ждал. {Adv,Adj,Noun,Vb}
+Решение было принято в последнюю минуту. {Noun,Vb,Vb,Prep,Adj,Date}
+Он поранился. {Noun,Vb}
+Она сама выучила итальянский. {Noun,Noun,Vb,Noun}
+Мы повеселились. {Noun,Vb}
+Кошка умывается. {Noun,Vb}
+Они увидели друг друга. {Noun,Vb,Noun,Noun}
+Угощайтесь закусками. {Vb,Noun}
+Я сделал это сам. {Noun,Vb,Det,Noun}
+Мой друг Том играет на барабанах. {Noun,Noun,Noun,Vb,Prep,Noun}
+Одно из яиц разбилось. {Val,Prep,Noun,Vb}
+Каждый из нас заплатил десять долларов. {Det,Prep,Noun,Vb,Val,Noun}
+Часть молока пролилась. {Noun,Noun,Vb}
+Остальная часть команды осталась. {Adj,Noun,Noun,Vb}
+Они оба согласились. {Noun,Det,Vb}
+Цена на бензин снова упала. {Noun,Prep,Noun,Adv,Vb}
+Цвет неба изменился. {Noun,Noun,Vb}
+Мне позвонил друг. {Noun,Vb,Noun}
+Вершина горы была белой. {Noun,Noun,Vb,Adj}
+Дорога домой занимает два часа. {Noun,Adv,Vb,Val,Noun}
+На табличке ничего не написано. {Prep,Noun,Noun,Negative,Vb}
+Её мечта — путешествовать по миру. {Noun,Noun,Vb,Prep,Noun}
+Чтобы победить, ты должен тренироваться. {Conj,Vb,Noun,Adj,Vb}
+Цель — закончить к пятнице. {Noun,Vb,Prep,Date}
+Его хвост пушистый. {Noun,Noun,Adj}
+Команда отпраздновала свою победу. {Noun,Vb,Noun,Noun}
+Все что-то принесли. {Noun,Noun,Vb}
+Любой может освоить этот навык. {Noun,Vb,Vb,Det,Noun}
+С каждым годом фестиваль растёт. {Prep,Det,Date,Noun,Vb}

@@ -1,0 +1,100 @@
+Sie geht zur Bibliothek. {Noun,Vb,Prep,Noun}
+Er trinkt jeden Morgen Kaffee. {Noun,Vb,Det,Noun,Noun}
+Der Laden öffnet um neun. {Det,Noun,Vb,Prep,Val}
+Ich putze mir immer die Zähne. {Noun,Vb,Noun,Adv,Det,Noun}
+Sie besuchen oft ihre Großmutter. {Noun,Vb,Adv,Noun,Noun}
+Wir essen normalerweise zu Hause zu Abend. {Noun,Vb,Adv,Prep,Noun,Prep,Noun}
+Sie sieht selten fern. {Noun,Vb,Adv,Vb}
+Er trinkt nie Tee. {Noun,Vb,Negative,Noun}
+Der Zug kommt pünktlich an. {Det,Noun,Vb,Adv,Vb}
+Wasser kocht bei hundert Grad. {Noun,Vb,Prep,Val,Noun}
+Wir besuchten letztes Jahr Paris. {Noun,Vb,Adj,Date,Noun}
+Sie beendete gestern ihre Hausaufgaben. {Noun,Vb,Date,Noun,Noun}
+Er arbeitete gestern Abend lange. {Noun,Vb,Date,Noun,Adv}
+Sie zogen 2019 in die Stadt. {Noun,Vb,Val,Prep,Det,Noun}
+Ich schlief schlecht. {Noun,Vb,Adv}
+Die Besprechung endete früh. {Det,Noun,Vb,Adv}
+Sie studierte Französisch an der Universität. {Noun,Vb,Noun,Prep,Det,Noun}
+Das Glas zerbrach. {Det,Noun,Vb}
+Ich lese gerade ein gutes Buch. {Noun,Vb,Adv,Det,Adj,Noun}
+Sie kocht gerade das Abendessen. {Noun,Vb,Adv,Det,Noun}
+Die Kinder spielen gerade im Garten. {Det,Noun,Vb,Adv,Prep,Noun}
+Er spült gerade das Geschirr. {Noun,Vb,Adv,Det,Noun}
+Es regnet gerade. {Noun,Vb,Adv}
+Sie bauen gerade eine neue Schule. {Noun,Vb,Adv,Det,Adj,Noun}
+Ich warte gerade auf den Bus. {Noun,Vb,Adv,Prep,Det,Noun}
+Sie lernt gerade für ihre Prüfung. {Noun,Vb,Adv,Prep,Noun,Noun}
+Wir ziehen nächsten Monat um. {Noun,Vb,Adj,Date,Vb}
+Das Baby weint schon wieder. {Det,Noun,Vb,Adv,Adv}
+Ich schaute gerade die Nachrichten. {Noun,Vb,Adv,Det,Noun}
+Sie telefonierte gerade. {Noun,Vb,Adv}
+Sie lachten laut. {Noun,Vb,Adv}
+Er fuhr zu schnell. {Noun,Vb,Adv,Adv}
+Um zwölf aßen wir gerade zu Mittag. {Prep,Val,Vb,Noun,Adv,Prep,Noun}
+Der Hund bellte die ganze Nacht. {Det,Noun,Vb,Det,Adj,Noun}
+Es schneite stark. {Noun,Vb,Adv}
+Ich habe diesen Film gesehen. {Noun,Vb,Det,Noun,Vb}
+Sie wohnt seit zehn Jahren in Rom. {Noun,Vb,Prep,Val,Noun,Prep,Noun}
+Wir haben schon gegessen. {Noun,Vb,Adv,Vb}
+Er ist gerade gegangen. {Noun,Vb,Adv,Vb}
+Sie haben noch nie Sushi probiert. {Noun,Vb,Adv,Negative,Noun,Vb}
+Ich habe meinen Geldbeutel verloren. {Noun,Vb,Noun,Noun,Vb}
+Sie hat das Projekt schon beendet. {Noun,Vb,Det,Noun,Adv,Vb}
+Er hat fünf Länder besucht. {Noun,Vb,Val,Noun,Vb}
+Wir kennen ihn seit Jahren. {Noun,Vb,Noun,Prep,Noun}
+Die Post ist angekommen. {Det,Noun,Vb,Vb}
+Etwas hat sich verändert. {Noun,Vb,Noun,Vb}
+Ich habe dieses Lied viele Male gehört. {Noun,Vb,Det,Noun,Adj,Noun,Vb}
+Sie war gegangen, bevor wir aßen. {Noun,Vb,Vb,Conj,Noun,Vb}
+Der Film hatte begonnen, bevor wir ankamen. {Det,Noun,Vb,Vb,Conj,Noun,Vb}
+Er hatte seinen Regenschirm vergessen. {Noun,Vb,Noun,Noun,Vb}
+Sie hatten sich schon einmal getroffen. {Noun,Vb,Noun,Adv,Adv,Vb}
+Ich hatte das Meer noch nie gesehen. {Noun,Vb,Det,Noun,Adv,Negative,Vb}
+Wir hatten die Arbeit bis Mittag beendet. {Noun,Vb,Det,Noun,Prep,Noun,Vb}
+Ich rufe dich heute Abend an. {Noun,Vb,Noun,Date,Noun,Vb}
+Sie kommt am Freitag an. {Noun,Vb,Prep,Date,Vb}
+Sie werden das Spiel gewinnen. {Noun,Vb,Det,Noun,Vb}
+Morgen wird es regnen. {Date,Vb,Noun,Vb}
+Wir sehen die Ergebnisse nächste Woche. {Noun,Vb,Det,Noun,Adj,Date}
+Er wird nicht zustimmen. {Noun,Vb,Negative,Vb}
+Ich werde das nicht vergessen. {Noun,Vb,Det,Negative,Vb}
+Du wirst dieses Restaurant lieben. {Noun,Vb,Det,Noun,Vb}
+Die Show beginnt gleich. {Det,Noun,Vb,Adv}
+Wir reden morgen. {Noun,Vb,Date}
+Sie wird gehen. {Noun,Vb,Vb}
+Ich werde ein Auto kaufen. {Noun,Vb,Det,Noun,Vb}
+Sie werden das Haus verkaufen. {Noun,Vb,Det,Noun,Vb}
+Es wird schneien. {Noun,Vb,Vb}
+Wir werden den Zug verpassen. {Noun,Vb,Det,Noun,Vb}
+Er wird Medizin studieren. {Noun,Vb,Noun,Vb}
+Ich warte seit einer Stunde. {Noun,Vb,Prep,Det,Noun}
+Sie arbeitet schon den ganzen Morgen. {Noun,Vb,Adv,Det,Adj,Noun}
+Sie fuhren schon seit Stunden. {Noun,Vb,Adv,Prep,Noun}
+Er lernt zurzeit Spanisch. {Noun,Vb,Adv,Noun}
+Es regnet seit Montag. {Noun,Vb,Prep,Date}
+Wir wohnen seit zwei Jahren in dieser Stadt. {Noun,Vb,Prep,Val,Noun,Prep,Det,Noun}
+Sie wohnte früher in Rom. {Noun,Vb,Adv,Prep,Noun}
+Er rauchte früher. {Noun,Vb,Adv}
+Wir spielten früher jeden Sonntag Schach. {Noun,Vb,Adv,Det,Date,Noun}
+Sie waren früher Nachbarn. {Noun,Vb,Adv,Noun}
+Der Film fängt gleich an. {Det,Noun,Vb,Adv,Vb}
+Wir gehen gleich los. {Noun,Vb,Adv,Vb}
+Ich wollte dich gerade anrufen. {Noun,Vb,Noun,Adv,Vb}
+Sie ist gerade aus dem Fitnessstudio zurückgekommen. {Noun,Vb,Adv,Prep,Det,Noun,Vb}
+Der Bus ist gerade abgefahren. {Det,Noun,Vb,Adv,Vb}
+Ich erinnere mich noch an diesen Tag. {Noun,Vb,Noun,Adv,Prep,Det,Date}
+Er entschuldigte sich schließlich. {Noun,Vb,Noun,Adv}
+Sie fanden endlich die Antwort. {Noun,Vb,Adv,Det,Noun}
+Sie blieb plötzlich stehen. {Noun,Vb,Adv,Vb}
+Ich habe kürzlich den Job gewechselt. {Noun,Vb,Adv,Det,Noun,Vb}
+Das Konzert endete um Mitternacht. {Det,Noun,Vb,Prep,Noun}
+Das Abendessen ist fast fertig. {Det,Noun,Vb,Adv,Adj}
+Die Blätter werden im Herbst rot. {Det,Noun,Vb,Prep,Noun,Adj}
+Bären schlafen den Winter durch. {Noun,Vb,Det,Noun,Vb}
+Sie schreibt jede Woche einen Brief. {Noun,Vb,Det,Date,Det,Noun}
+Er verliert ständig seine Schlüssel. {Noun,Vb,Adv,Noun,Noun}
+Sie besitzen dieses Auto seit 2020. {Noun,Vb,Det,Noun,Prep,Val}
+Die Farbe ist getrocknet. {Det,Noun,Vb,Vb}
+Meine Eltern wohnten damals in Texas. {Noun,Noun,Vb,Adv,Prep,Noun}
+Die Schule beginnt im September. {Det,Noun,Vb,Prep,Date}
+Die Tage werden länger. {Det,Noun,Vb,Adj}

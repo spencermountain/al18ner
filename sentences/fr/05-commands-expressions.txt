@@ -1,0 +1,100 @@
+Ferme la porte. {Vb,Det,Noun}
+Ouvre tes livres. {Vb,Noun,Noun}
+Assieds-toi. {Vb,Noun}
+Lève-toi. {Vb,Noun}
+Entre. {Vb}
+Installe-toi. {Vb,Noun}
+Lave-toi les mains. {Vb,Noun,Det,Noun}
+Écoute attentivement. {Vb,Adv}
+Attends-moi. {Vb,Noun}
+Apporte ton parapluie. {Vb,Noun,Noun}
+Éteins les lumières. {Vb,Det,Noun}
+Pose la boîte sur l'étagère. {Vb,Det,Noun,Prep,Det,Noun}
+Donne-moi un coup de main. {Vb,Noun,Det,Noun,Prep,Noun}
+Raconte-nous une histoire. {Vb,Noun,Det,Noun}
+Appelle-moi demain. {Vb,Noun,Date}
+Passe le beurre. {Vb,Det,Noun}
+Essaie encore. {Vb,Adv}
+Garde la monnaie. {Vb,Det,Noun}
+Suis cette voiture. {Vb,Det,Noun}
+Parle lentement. {Vb,Adv}
+Attends. {Vb}
+Regarde cette photo. {Vb,Det,Noun}
+Lis les instructions en premier. {Vb,Det,Noun,Prep,Val}
+Réponds au téléphone. {Vb,Prep,Noun}
+Nourris le chat avant de partir. {Vb,Det,Noun,Conj,Conj,Vb}
+N'ouvre pas cette boîte. {Negative,Vb,Negative,Det,Noun}
+N'aie pas peur. {Negative,Vb,Negative,Noun}
+N'oublie pas tes clés. {Negative,Vb,Negative,Noun,Noun}
+Ne bouge pas. {Negative,Vb,Negative}
+Ne nourris pas les animaux. {Negative,Vb,Negative,Det,Noun}
+Ne touche pas ça. {Negative,Vb,Negative,Det}
+N'abandonne jamais. {Negative,Vb,Negative}
+Ne sois pas en retard pour le cours. {Negative,Vb,Negative,Prep,Noun,Prep,Det,Noun}
+Ferme la fenêtre, s'il te plaît. {Vb,Det,Noun,Expr,Expr,Expr,Expr}
+Enlève tes chaussures, s'il te plaît. {Vb,Noun,Noun,Expr,Expr,Expr,Expr}
+Attends ici, s'il te plaît. {Vb,Adv,Expr,Expr,Expr,Expr}
+Tais-toi, s'il te plaît. {Vb,Noun,Expr,Expr,Expr,Expr}
+Sers-toi, s'il te plaît. {Vb,Noun,Expr,Expr,Expr,Expr}
+Signe ton nom en bas, s'il te plaît. {Vb,Noun,Noun,Prep,Noun,Expr,Expr,Expr,Expr}
+Pardonne-moi, s'il te plaît. {Vb,Noun,Expr,Expr,Expr,Expr}
+Sois attentif, s'il te plaît. {Vb,Adj,Expr,Expr,Expr,Expr}
+Rentrons à la maison. {Vb,Prep,Det,Noun}
+Faisons une pause. {Vb,Det,Noun}
+Commençons la réunion. {Vb,Det,Noun}
+Retrouvons-nous au café. {Vb,Noun,Prep,Noun}
+Prions. {Vb}
+Ne nous disputons pas. {Negative,Noun,Vb,Negative}
+Bonjour, je m'appelle Maria. {Expr,Noun,Noun,Vb,Noun}
+Salut, comment vas-tu ? {Expr,QuestionWord,Vb,Noun}
+Waouh, c'était incroyable ! {Expr,Det,Vb,Adj}
+Oh, j'ai oublié mes clés. {Expr,Noun,Vb,Vb,Noun,Noun}
+Aïe, ça fait mal ! {Expr,Det,Vb,Noun}
+Oui, je suis d'accord. {Expr,Noun,Vb,Prep,Noun}
+Non, je te remercie. {Expr,Noun,Noun,Vb}
+Bon, on a essayé. {Expr,Noun,Vb,Vb}
+Hé, fais attention ! {Expr,Vb,Noun}
+Oups, je l'ai fait tomber. {Expr,Noun,Noun,Vb,Vb,Vb}
+Hourra, on a gagné ! {Expr,Noun,Vb,Vb}
+Au revoir, à demain. {Expr,Expr,Prep,Date}
+Bonjour tout le monde. {Expr,Det,Det,Noun}
+Bonne nuit, dors bien. {Adj,Noun,Vb,Adv}
+Joyeux anniversaire ! {Adj,Noun}
+Félicitations pour ton nouveau travail ! {Expr,Prep,Noun,Adj,Noun}
+Bienvenue chez nous. {Expr,Prep,Noun}
+Excuse-moi, cette place est libre ? {Expr,Expr,Det,Noun,Vb,Adj}
+Merci pour ton aide. {Expr,Prep,Noun,Noun}
+Désolé, je suis en retard. {Adj,Noun,Vb,Prep,Noun}
+Bien sûr, tu peux venir. {Adv,Adv,Noun,Vb,Vb}
+Oui, s'il te plaît. {Expr,Expr,Expr,Expr,Expr}
+Non, merci. {Expr,Expr}
+Moi aussi. {Noun,Adv}
+Pareil pour moi. {Adj,Prep,Noun}
+Moi non plus. {Noun,Negative,Adv}
+Je pense que oui. {Noun,Vb,Conj,Expr}
+J'espère que non. {Noun,Vb,Conj,Negative}
+Peut-être demain. {Adv,Adv,Date}
+Pas vraiment. {Negative,Adv}
+Pas de problème. {Negative,Det,Noun}
+D'accord, tu gagnes. {Expr,Expr,Noun,Vb}
+Bonne chance ! {Adj,Noun}
+Tout le monde, asseyez-vous, s'il vous plaît. {Det,Det,Noun,Vb,Noun,Expr,Expr,Expr,Expr}
+Les enfants, le dîner est prêt ! {Det,Noun,Det,Noun,Vb,Adj}
+Regarde où tu marches. {Vb,QuestionWord,Noun,Vb}
+Attention à la marche. {Expr,Prep,Det,Noun}
+Aide-moi avec ces sacs. {Vb,Noun,Prep,Det,Noun}
+Dépêche-toi, on est en retard. {Vb,Noun,Noun,Vb,Prep,Noun}
+Sois prudent. {Vb,Adj}
+Sois patient avec lui. {Vb,Adj,Prep,Noun}
+Reste calme. {Vb,Adj}
+Profite de la fête. {Vb,Prep,Det,Noun}
+Retrouve-moi au coin de la rue. {Vb,Noun,Prep,Noun,Prep,Det,Noun}
+Prends la deuxième rue. {Vb,Det,Val,Noun}
+Vérifie tes mails. {Vb,Noun,Noun}
+Sauvegarde souvent ton travail. {Vb,Adv,Noun,Noun}
+Demande de l'aide à ton professeur. {Vb,Det,Det,Noun,Prep,Noun,Noun}
+Ajoute deux tasses de sucre. {Vb,Val,Noun,Prep,Noun}
+Coupe le papier en deux morceaux. {Vb,Det,Noun,Prep,Val,Noun}
+Mélange la farine et les œufs. {Vb,Det,Noun,Conj,Det,Noun}
+Laisse un message après le bip. {Vb,Det,Noun,Prep,Det,Noun}
+Conduis prudemment. {Vb,Adv}

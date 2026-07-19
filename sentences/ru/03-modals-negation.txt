@@ -1,0 +1,100 @@
+Она умеет плавать. {Noun,Vb,Vb}
+Он говорит на трёх языках. {Noun,Vb,Prep,Val,Noun}
+Я тебя слышу. {Noun,Noun,Vb}
+Мы можем встретиться во вторник. {Noun,Vb,Vb,Prep,Date}
+Птицы умеют летать. {Noun,Vb,Vb}
+Ты можешь сесть с нами. {Noun,Vb,Vb,Prep,Noun}
+Она умеет водить грузовик. {Noun,Vb,Vb,Noun}
+Я чувствую запах дыма. {Noun,Vb,Noun,Noun}
+Он умел читать в четыре года. {Noun,Vb,Vb,Prep,Val,Noun}
+Она слышала музыку. {Noun,Vb,Noun}
+Мы видели горы. {Noun,Vb,Noun}
+Ты мог бы попробовать другую дверь. {Noun,Vb,Vb,Vb,Adj,Noun}
+Они могут прийти в любой момент. {Noun,Vb,Vb,Prep,Det,Noun}
+Я мог бы съесть целую пиццу. {Noun,Vb,Vb,Vb,Adj,Noun}
+Сегодня вечером может пойти дождь. {Date,Noun,Vb,Vb,Noun}
+Она может присоединиться к нам за ужином. {Noun,Vb,Vb,Prep,Noun,Prep,Noun}
+Ты можешь выйти из-за стола. {Noun,Vb,Vb,Prep,Noun}
+План может измениться. {Noun,Vb,Vb}
+Он, возможно, знает ответ. {Noun,Adv,Vb,Noun}
+Возможно, мы сходим в музей. {Adv,Noun,Vb,Prep,Noun}
+Ты должен носить шлем. {Noun,Adj,Vb,Noun}
+Ученики должны закончить тест к полудню. {Noun,Adj,Vb,Noun,Prep,Noun}
+Мы должны защищать лес. {Noun,Adj,Vb,Noun}
+Он, наверное, голоден. {Noun,Adv,Adj}
+Она, должно быть, опоздала на автобус. {Noun,Adj,Vb,Vb,Prep,Noun}
+Он, наверное, очень горд. {Noun,Adv,Adv,Adj}
+Тебе стоит пить больше воды. {Noun,Vb,Vb,Adj,Noun}
+Ему стоит извиниться перед ней. {Noun,Vb,Vb,Prep,Noun}
+Нам стоит выйти пораньше. {Noun,Vb,Vb,Adv}
+Им стоит посадить много деревьев. {Noun,Vb,Vb,Adj,Noun}
+Тебе стоит сходить к врачу. {Noun,Vb,Vb,Prep,Noun}
+Ей стоит сегодня отдохнуть. {Noun,Vb,Date,Vb}
+Я бы хотел чашку чая. {Noun,Vb,Vb,Noun,Noun}
+Он бы помог, если бы мог. {Noun,Vb,Vb,Condition,Vb,Vb}
+Она бы никогда не солгала. {Noun,Vb,Negative,Negative,Vb}
+Мы бы с радостью к тебе присоединились. {Noun,Vb,Prep,Noun,Prep,Noun,Vb}
+Это было бы чудесно. {Det,Vb,Vb,Adj}
+Они бы лучше прошлись пешком. {Noun,Vb,Adv,Vb,Adv}
+Начнём? {Vb}
+Мне открыть окно? {Noun,Vb,Noun}
+Посмотрим. {Vb}
+Ты получишь свою награду. {Noun,Vb,Noun,Noun}
+Мне надо уйти пораньше. {Noun,Adv,Vb,Adv}
+Ей надо работать в субботу. {Noun,Adv,Vb,Prep,Date}
+Нам пришлось отменить поездку. {Noun,Vb,Vb,Noun}
+Тебе следует извиниться. {Noun,Vb,Vb}
+Ему лучше поторопиться. {Noun,Adv,Vb}
+Им нужно найти новую квартиру. {Noun,Adj,Vb,Adj,Noun}
+Мне нужно купить продукты. {Noun,Adj,Vb,Noun}
+Ей не обязательно приходить. {Noun,Negative,Adv,Vb}
+Я не понимаю. {Noun,Negative,Vb}
+Она не ест мясо. {Noun,Negative,Vb,Noun}
+Мы не услышали будильник. {Noun,Negative,Vb,Noun}
+У них нет машины. {Prep,Noun,Negative,Noun}
+Он не ответил на мой звонок. {Noun,Negative,Vb,Prep,Noun,Noun}
+Я не знаю её имени. {Noun,Negative,Vb,Noun,Noun}
+Это не имеет значения. {Noun,Negative,Vb,Noun}
+Тебе не нужен билет. {Noun,Negative,Adj,Noun}
+Принтер не работает. {Noun,Negative,Vb}
+Мы не ожидали дождя. {Noun,Negative,Vb,Noun}
+Он не готов. {Noun,Negative,Adj}
+Суп недостаточно горячий. {Noun,Adv,Adj}
+Их нет дома. {Noun,Negative,Adv}
+Я не был готов. {Noun,Negative,Vb,Adj}
+Ключей не было в моей сумке. {Noun,Negative,Vb,Prep,Noun,Noun}
+Она не медсестра. {Noun,Negative,Noun}
+Я не могу найти свои очки. {Noun,Negative,Vb,Vb,Noun,Noun}
+Она не может прийти на вечеринку. {Noun,Negative,Vb,Vb,Prep,Noun}
+Он не хочет слушать. {Noun,Negative,Vb,Vb}
+Они не продадут ферму. {Noun,Negative,Vb,Noun}
+Мы не смогли открыть банку. {Noun,Negative,Vb,Vb,Noun}
+Тебе не стоит так волноваться. {Noun,Negative,Vb,Adv,Vb}
+Я бы этого не делал. {Noun,Vb,Det,Negative,Vb}
+Тебе нельзя никому рассказывать. {Noun,Adv,Noun,Vb}
+Он не умеет плавать. {Noun,Negative,Vb,Vb}
+Мы больше не можем ждать. {Noun,Adv,Negative,Vb,Vb}
+Она никогда не жалуется. {Noun,Negative,Negative,Vb}
+Я никогда не завтракаю. {Noun,Negative,Negative,Vb}
+Он никогда не летал. {Noun,Negative,Negative,Vb}
+Мы никогда не узнаем. {Noun,Negative,Negative,Vb}
+Ничего не случилось. {Noun,Negative,Vb}
+Никто не открыл дверь. {Noun,Negative,Vb,Noun}
+Ничего не пропало. {Noun,Negative,Vb}
+Никто не знает правды. {Noun,Negative,Vb,Noun}
+Ни один ответ не верен. {Negative,Val,Noun,Negative,Adj}
+Никто из нас не спал. {Noun,Prep,Noun,Negative,Vb}
+Эта история не правдива. {Det,Noun,Negative,Adj}
+Он не мой брат. {Noun,Negative,Noun,Noun}
+Это было нечестно. {Det,Vb,Adj}
+Молоко не свежее. {Noun,Negative,Adj}
+Я не злюсь. {Noun,Negative,Vb}
+Не трогай плиту. {Negative,Vb,Noun}
+Их не пригласили. {Noun,Negative,Vb}
+Она решила не отвечать. {Noun,Vb,Negative,Vb}
+Она понятия не имеет. {Noun,Noun,Negative,Vb}
+Свободных мест не осталось. {Adj,Noun,Negative,Vb}
+У него нет денег. {Prep,Noun,Negative,Noun}
+Хочешь воды? {Vb,Noun}
+Можешь это повторить? {Vb,Det,Vb}
+Можно задать вопрос? {Adv,Vb,Noun}

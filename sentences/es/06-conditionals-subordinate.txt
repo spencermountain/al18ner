@@ -1,0 +1,100 @@
+Si llueve, nos quedaremos en casa. {Condition,Vb,Noun,Vb,Prep,Noun}
+Si calientas el hielo, se derrite. {Condition,Vb,Det,Noun,Noun,Vb}
+Si ella llama, dile la verdad. {Condition,Noun,Vb,Vb,Det,Noun}
+Si fuera rico, viajaría. {Condition,Vb,Adj,Vb}
+Si salimos temprano, alcanzaremos el tren. {Condition,Vb,Adj,Vb,Det,Noun}
+Si estudias, aprobarás. {Condition,Vb,Vb}
+Si hace buen tiempo, caminaremos. {Condition,Vb,Adj,Noun,Vb}
+Si él hubiera estudiado, habría aprobado. {Condition,Noun,Vb,Vb,Vb,Vb}
+Si hubiera sabido, habría ayudado. {Condition,Vb,Vb,Vb,Vb}
+Si necesitas algo, avísame. {Condition,Vb,Noun,Vb}
+Si nieva, los autobuses se detendrán. {Condition,Vb,Det,Noun,Noun,Vb}
+Si la ves, dile hola. {Condition,Noun,Vb,Vb,Expr}
+Si el autobús llega tarde, nos perderemos la función. {Condition,Det,Noun,Vb,Adj,Noun,Vb,Det,Noun}
+Puedes venir si quieres. {Vb,Vb,Condition,Vb}
+Cancelaremos el pícnic si llueve. {Vb,Det,Noun,Condition,Vb}
+Llámame si te pierdes. {Vb,Condition,Noun,Vb}
+Si es necesario, podemos reprogramar. {Condition,Vb,Adj,Vb,Vb}
+Si es posible, llega antes de las ocho. {Condition,Vb,Adj,Vb,Conj,Prep,Det,Val}
+Incluso si él se disculpa, ella no lo perdonará. {Conj,Condition,Noun,Noun,Vb,Noun,Negative,Noun,Vb}
+¿Qué pasa si fallamos? {QuestionWord,Vb,Condition,Vb}
+Si tienes dudas, pregunta. {Condition,Vb,Noun,Vb}
+Si el semáforo está en rojo, detén el carro. {Condition,Det,Noun,Vb,Prep,Adj,Vb,Det,Noun}
+Ella ayudará si lo pides amablemente. {Noun,Vb,Condition,Noun,Vb,Adv}
+Si ella acepta, firmaremos el contrato. {Condition,Noun,Vb,Vb,Det,Noun}
+A menos que llueva, haremos un pícnic. {Prep,Condition,Conj,Vb,Vb,Det,Noun}
+A menos que te apures, llegaremos tarde. {Prep,Condition,Conj,Noun,Vb,Vb,Adv}
+Iré solo a menos que me acompañes. {Vb,Adj,Prep,Condition,Conj,Noun,Vb}
+A menos que él mejore, perderá su trabajo. {Prep,Condition,Conj,Noun,Vb,Vb,Noun,Noun}
+Cuando llueve, la calle se inunda. {Conj,Vb,Det,Noun,Noun,Vb}
+Estaba cocinando cuando llamaste. {Vb,Vb,Conj,Vb}
+Cada vez que ella nos visita, horneamos galletas. {Det,Noun,Conj,Noun,Noun,Vb,Vb,Noun}
+Cada vez que él viaja, manda postales. {Det,Noun,Conj,Noun,Vb,Vb,Noun}
+Mientras dormías, llegó el correo. {Conj,Vb,Vb,Det,Noun}
+Mientras ella cocinaba, él limpiaba la mesa. {Conj,Noun,Vb,Noun,Vb,Det,Noun}
+Tan pronto como llegamos, empezó la función. {Conj,Conj,Conj,Vb,Vb,Det,Noun}
+Tan pronto como ella termine, podemos irnos. {Conj,Conj,Conj,Noun,Vb,Vb,Vb}
+Mientras el bebé dormía, limpiamos la casa. {Conj,Det,Noun,Vb,Vb,Det,Noun}
+Como la carretera estaba helada, manejamos despacio. {Conj,Det,Noun,Vb,Adj,Vb,Adv}
+Nos quedamos en casa porque estaba lloviendo. {Noun,Vb,Prep,Noun,Conj,Vb,Vb}
+Ella sonrió porque estaba orgullosa. {Noun,Vb,Conj,Vb,Adj}
+Él se fue porque estaba aburrido. {Noun,Noun,Vb,Conj,Vb,Adj}
+Debido a la tormenta, el vuelo se retrasó. {Conj,Prep,Det,Noun,Det,Noun,Noun,Vb}
+Confío en ella porque es honesta. {Vb,Prep,Noun,Conj,Vb,Adj}
+Aunque hacía frío, fuimos a nadar. {Conj,Vb,Noun,Vb,Prep,Vb}
+Aunque ella tenía sueño, siguió trabajando. {Conj,Noun,Vb,Noun,Vb,Vb}
+Aunque él es joven, es sabio. {Conj,Noun,Vb,Adj,Vb,Adj}
+Aunque el examen fue difícil, todos aprobaron. {Conj,Det,Noun,Vb,Adj,Noun,Vb}
+Él vino a la fiesta aunque estaba enfermo. {Noun,Vb,Prep,Det,Noun,Conj,Vb,Adj}
+Aunque perdimos, jugamos bien. {Conj,Vb,Vb,Adv}
+Ella siguió corriendo aunque le dolían las piernas. {Noun,Vb,Vb,Conj,Noun,Vb,Det,Noun}
+Aunque llovió, el partido continuó. {Conj,Vb,Det,Noun,Vb}
+Ella estudió mucho, así que aprobó el examen. {Noun,Vb,Adv,Conj,Conj,Vb,Det,Noun}
+Era tarde, así que nos fuimos temprano. {Vb,Adj,Conj,Conj,Noun,Vb,Adv}
+La tienda estaba vacía, así que nos fuimos. {Det,Noun,Vb,Adj,Conj,Conj,Noun,Vb}
+Él tenía hambre, así que se hizo un sándwich. {Noun,Vb,Noun,Conj,Conj,Noun,Vb,Det,Noun}
+La música estaba alta, así que nos tapamos los oídos. {Det,Noun,Vb,Adj,Conj,Conj,Noun,Vb,Det,Noun}
+Tenía sed, así que tomé jugo. {Vb,Noun,Conj,Conj,Vb,Noun}
+Esperamos hasta la medianoche. {Vb,Prep,Det,Noun}
+La tienda está abierta hasta las nueve. {Det,Noun,Vb,Adj,Prep,Det,Val}
+Termina tu tarea antes de la cena. {Vb,Noun,Noun,Conj,Prep,Det,Noun}
+Después de la película, comimos postre. {Prep,Prep,Det,Noun,Vb,Noun}
+Después del almuerzo, ellos tomaron una siesta. {Prep,Prep,Noun,Noun,Vb,Det,Noun}
+Nos fuimos después del discurso. {Noun,Vb,Prep,Prep,Noun}
+Cepíllate los dientes antes de dormir. {Vb,Det,Noun,Conj,Prep,Vb}
+La fiesta continuó después del atardecer. {Det,Noun,Vb,Prep,Prep,Noun}
+Después de que llegamos, empezó la película. {Prep,Prep,Conj,Vb,Vb,Det,Noun}
+Después de que ella se graduó, se mudó al extranjero. {Prep,Prep,Conj,Noun,Noun,Vb,Noun,Vb,Prep,Noun}
+Una vez que aprendes las reglas, el juego es fácil. {Det,Noun,Conj,Vb,Det,Noun,Det,Noun,Vb,Adj}
+Después de que ellos se fueron, la casa se sentía tranquila. {Prep,Prep,Conj,Noun,Noun,Vb,Det,Noun,Noun,Vb,Adj}
+Él preguntó si yo estaba listo. {Noun,Vb,Conj,Noun,Vb,Adj}
+No sé si ella vendrá. {Negative,Vb,Conj,Noun,Vb}
+Mira si la cena está lista. {Vb,Conj,Det,Noun,Vb,Adj}
+Él se preguntó si la historia era cierta. {Noun,Noun,Vb,Conj,Det,Noun,Vb,Adj}
+Ganemos o perdamos, estoy orgulloso. {Vb,Conj,Vb,Vb,Adj}
+Desde 2020, ella dirige un pequeño negocio. {Prep,Val,Noun,Vb,Det,Adj,Noun}
+Desde el lunes, ha llovido todos los días. {Prep,Det,Date,Vb,Vb,Det,Det,Date}
+Durante la tormenta, se fue la luz. {Prep,Det,Noun,Noun,Vb,Det,Noun}
+A pesar de la lluvia, el partido continuó. {Prep,Noun,Prep,Det,Noun,Det,Noun,Vb}
+A pesar de su miedo, ella dio el discurso. {Prep,Noun,Prep,Noun,Noun,Noun,Vb,Det,Noun}
+Sin un mapa, nos perdimos. {Prep,Det,Noun,Noun,Vb}
+Antes de la función, cenamos algo. {Conj,Prep,Det,Noun,Vb,Noun}
+Para cuando llegamos, la comida estaba fría. {Conj,Conj,Vb,Det,Noun,Vb,Adj}
+Cuanto antes, mejor. {Det,Adv,Adj}
+Dondequiera que ella vaya, su perro la sigue. {Conj,Conj,Noun,Vb,Noun,Noun,Noun,Vb}
+Quien llegue primero gana un premio. {Conj,Vb,Val,Vb,Det,Noun}
+Dondequiera que miráramos, veíamos flores. {Adv,Conj,Vb,Vb,Noun}
+Él actúa como si fuera el dueño del lugar. {Noun,Vb,Conj,Conj,Vb,Det,Noun,Prep,Noun}
+Parece como si fuera a nevar. {Vb,Conj,Conj,Vb,Prep,Vb}
+Ella canta mientras cocina. {Noun,Vb,Conj,Vb}
+Al caer la noche, la ciudad se iluminó. {Prep,Vb,Det,Noun,Det,Noun,Noun,Vb}
+Él se comporta como si nada hubiera pasado. {Noun,Noun,Vb,Conj,Conj,Noun,Vb,Vb}
+Lleva un paraguas por si llueve. {Vb,Det,Noun,Conj,Conj,Vb}
+Salimos temprano para poder estacionar. {Vb,Adv,Conj,Vb,Vb}
+El perro ladraba cada vez que sonaba el timbre. {Det,Noun,Vb,Det,Noun,Conj,Vb,Det,Noun}
+Si lo rompes, lo pagas. {Condition,Noun,Vb,Noun,Vb}
+Si se me olvida, recuérdame. {Condition,Noun,Noun,Vb,Vb}
+Trae una chaqueta por si hace frío. {Vb,Det,Noun,Conj,Conj,Vb,Noun}
+Aunque él se disculpó, ella siguió enojada. {Conj,Noun,Noun,Vb,Noun,Vb,Adj}
+Como llegamos tarde, nos perdimos el discurso. {Conj,Vb,Adj,Noun,Vb,Det,Noun}
+Si todo sale bien, compraremos una casa. {Condition,Noun,Vb,Adv,Vb,Det,Noun}

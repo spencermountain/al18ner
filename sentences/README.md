@@ -27,6 +27,57 @@ The boy kicked the ball. {Det,Noun,Vb,Det,Noun}
 the tokenizer exactly (contractions and hyphenated words split), and 935/1000 lines pass
 `nlp.testSpec()` as-is.
 
+## Translations
+
+1-to-1 translations of all 1,000 lines live in `fr/`, `es/`, `de/`, `ru/`, `pt/` —
+same filenames, same line order, same spec format, tagged on the *translated*
+sentence's own tokens and word order:
+
+```
+Le garçon a frappé le ballon. {Det,Noun,Vb,Vb,Det,Noun}
+```
+
+Translations are natural, not word-for-word, so slots grow and shrink: Russian
+drops articles and the present-tense copula (`Суп горячий. {Noun,Adj}`), Romance
+languages drop subject pronouns, French passé composé adds an auxiliary slot,
+German separable prefixes add a trailing `Vb` (`Der Regen hörte auf.
+{Det,Noun,Vb,Vb}`), and idioms restructure freely (`J'ai faim`, `Tengo hambre`,
+`У меня болит голова`) with each token tagged by its own POS.
+
+Register: informal singular (tu / tú / du / ты; Brazilian Portuguese você).
+Russian assumes a male first-person speaker and writes ё consistently.
+
+**Tokenization** — one tag per whitespace token, punctuation untagged (including
+the Russian copular em-dash), plus:
+
+- apostrophe clitics split into their own slot: `l'eau` → {Det,Noun}, `Je n'ai
+  pas` → {Noun,Negative,Vb,Negative}; exceptions `aujourd'hui`, `quelqu'un`
+- hyphenated words split, one slot per part: `Veux-tu` → {Vb,Noun},
+  `levanta-se` → {Vb,Noun}, `bem-vestido` → {Adv,Adj}
+- …except Russian, where hyphenated words are always ONE slot (`кто-то` → Noun,
+  `из-за` → Prep, `по-английски` → Adv)
+
+**Tag carry-overs from the English conventions**: possessive determiners
+(mon, mi, mein, мой, meu) → `Noun` like English "my"; reflexive and object
+clitics (se, me, lui, sich, lhe) → `Noun`; modals and auxiliaries → `Vb`;
+conditional si/wenn/если/se → `Condition` exactly where the English line tags
+it; jamais/nunca/nie/никогда → `Negative`; ne…pas both `Negative`; relativizers
+mirror the English line (relative "that" = `Det` → que/der/который = `Det`;
+whose = `QuestionWord` → dont/cuyo/dessen/чей/cujo = `QuestionWord`);
+comparative than/as-words (que, como, als, wie, чем, как, quanto) → `Prep`
+mirroring the source; fused prep+articles (au, del, im, do, pelo) → `Prep` by
+function, partitive du/des → `Det`; infinitive-marker de/à/a/zu → `Conj` like
+English "to". The `There` tag survives only in French `il y a`
+({Noun,There,Vb}) — hay/es gibt/есть/tem are tagged by their own structure.
+
+`validate.js` checks line counts, the closed tag vocabulary, and
+tag-count-vs-token-count under these tokenization rules for all six languages
+(the `en` rules reproduce compromise's term counts on all 1,000 source lines):
+
+```
+node sentences/validate.js sentences/fr/01-basics.txt fr
+```
+
 ## Conventions
 
 Follows the spec's closed tag vocabulary and compromise's own conventions:

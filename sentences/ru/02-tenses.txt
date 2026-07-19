@@ -1,0 +1,100 @@
+Она ходит в библиотеку. {Noun,Vb,Prep,Noun}
+Он пьёт кофе каждое утро. {Noun,Vb,Noun,Det,Noun}
+Магазин открывается в девять. {Noun,Vb,Prep,Val}
+Я всегда чищу зубы. {Noun,Adv,Vb,Noun}
+Они часто навещают свою бабушку. {Noun,Adv,Vb,Noun,Noun}
+Мы обычно ужинаем дома. {Noun,Adv,Vb,Adv}
+Она редко смотрит телевизор. {Noun,Adv,Vb,Noun}
+Он никогда не пьёт чай. {Noun,Negative,Negative,Vb,Noun}
+Поезд приходит вовремя. {Noun,Vb,Adv}
+Вода кипит при ста градусах. {Noun,Vb,Prep,Val,Noun}
+Мы ездили в Париж в прошлом году. {Noun,Vb,Prep,Noun,Prep,Adj,Date}
+Вчера она закончила домашнее задание. {Date,Noun,Vb,Adj,Noun}
+Вчера вечером он работал допоздна. {Date,Noun,Noun,Vb,Adv}
+Они переехали в город в 2019 году. {Noun,Vb,Prep,Noun,Prep,Val,Noun}
+Я плохо спал. {Noun,Adv,Vb}
+Собрание закончилось рано. {Noun,Vb,Adv}
+Она учила французский в колледже. {Noun,Vb,Noun,Prep,Noun}
+Стакан разбился. {Noun,Vb}
+Я читаю хорошую книгу. {Noun,Vb,Adj,Noun}
+Она готовит ужин. {Noun,Vb,Noun}
+Дети играют во дворе. {Noun,Vb,Prep,Noun}
+Он моет посуду. {Noun,Vb,Noun}
+Идёт дождь. {Vb,Noun}
+Они строят новую школу. {Noun,Vb,Adj,Noun}
+Я жду автобус. {Noun,Vb,Noun}
+Она готовится к экзамену. {Noun,Vb,Prep,Noun}
+Мы переезжаем в следующем месяце. {Noun,Vb,Prep,Adj,Date}
+Малыш снова плачет. {Noun,Adv,Vb}
+Я смотрел новости. {Noun,Vb,Noun}
+Она разговаривала по телефону. {Noun,Vb,Prep,Noun}
+Они громко смеялись. {Noun,Adv,Vb}
+Он ехал слишком быстро. {Noun,Vb,Adv,Adv}
+Мы обедали в полдень. {Noun,Vb,Prep,Noun}
+Собака лаяла всю ночь. {Noun,Vb,Adj,Noun}
+Шёл сильный снег. {Vb,Adj,Noun}
+Я видел этот фильм. {Noun,Vb,Det,Noun}
+Она живёт в Риме уже десять лет. {Noun,Vb,Prep,Noun,Adv,Val,Noun}
+Мы уже поели. {Noun,Adv,Vb}
+Он только что ушёл. {Noun,Adv,Adv,Vb}
+Они никогда не пробовали суши. {Noun,Negative,Negative,Vb,Noun}
+Я потерял кошелёк. {Noun,Vb,Noun}
+Она уже закончила проект. {Noun,Adv,Vb,Noun}
+Он побывал в пяти странах. {Noun,Vb,Prep,Val,Noun}
+Мы знаем его много лет. {Noun,Vb,Noun,Adj,Noun}
+Почта пришла. {Noun,Vb}
+Что-то изменилось. {Noun,Vb}
+Я слышал эту песню много раз. {Noun,Vb,Det,Noun,Adj,Noun}
+Она ушла до того, как мы поели. {Noun,Vb,Prep,Det,Conj,Noun,Vb}
+Фильм начался до того, как мы пришли. {Noun,Vb,Prep,Det,Conj,Noun,Vb}
+Он забыл зонт. {Noun,Vb,Noun}
+Они уже однажды встречались. {Noun,Adv,Adv,Vb}
+Я никогда не видел океана. {Noun,Negative,Negative,Vb,Noun}
+Мы закончили работу к полудню. {Noun,Vb,Noun,Prep,Noun}
+Я позвоню тебе сегодня вечером. {Noun,Vb,Noun,Date,Noun}
+Она приедет в пятницу. {Noun,Vb,Prep,Date}
+Они выиграют игру. {Noun,Vb,Noun}
+Завтра пойдёт дождь. {Date,Vb,Noun}
+Мы увидим результаты на следующей неделе. {Noun,Vb,Noun,Prep,Adj,Date}
+Он не согласится. {Noun,Negative,Vb}
+Я этого не забуду. {Noun,Det,Negative,Vb}
+Тебе понравится этот ресторан. {Noun,Vb,Det,Noun}
+Шоу скоро начнётся. {Noun,Adv,Vb}
+Поговорим завтра. {Vb,Date}
+Она собирается уйти. {Noun,Vb,Vb}
+Я собираюсь купить машину. {Noun,Vb,Vb,Noun}
+Они собираются продать дом. {Noun,Vb,Vb,Noun}
+Скоро пойдёт снег. {Adv,Vb,Noun}
+Мы опоздаем на поезд. {Noun,Vb,Prep,Noun}
+Он собирается изучать медицину. {Noun,Vb,Vb,Noun}
+Я жду уже час. {Noun,Vb,Adv,Noun}
+Она работает всё утро. {Noun,Vb,Adj,Noun}
+Они ехали уже много часов. {Noun,Vb,Adv,Adj,Noun}
+Он учит испанский. {Noun,Vb,Noun}
+Дождь идёт с понедельника. {Noun,Vb,Prep,Date}
+Мы живём в этом городе уже два года. {Noun,Vb,Prep,Det,Noun,Adv,Val,Noun}
+Раньше она жила в Риме. {Adv,Noun,Vb,Prep,Noun}
+Раньше он курил. {Adv,Noun,Vb}
+Раньше мы играли в шахматы каждое воскресенье. {Adv,Noun,Vb,Prep,Noun,Det,Date}
+Раньше они были соседями. {Adv,Noun,Vb,Noun}
+Фильм вот-вот начнётся. {Noun,Adv,Vb}
+Мы вот-вот уйдём. {Noun,Adv,Vb}
+Я собирался тебе позвонить. {Noun,Vb,Noun,Vb}
+Она только что вернулась из спортзала. {Noun,Adv,Adv,Vb,Prep,Noun}
+Автобус только что уехал. {Noun,Adv,Adv,Vb}
+Я всё ещё помню тот день. {Noun,Adv,Adv,Vb,Det,Date}
+В итоге он извинился. {Prep,Noun,Noun,Vb}
+Они наконец нашли ответ. {Noun,Adv,Vb,Noun}
+Она вдруг остановилась. {Noun,Adv,Vb}
+Я недавно сменил работу. {Noun,Adv,Vb,Noun}
+Концерт закончился в полночь. {Noun,Vb,Prep,Noun}
+Ужин почти готов. {Noun,Adv,Adj}
+Осенью листья краснеют. {Noun,Noun,Vb}
+Медведи спят всю зиму. {Noun,Vb,Adj,Noun}
+Она пишет письмо каждую неделю. {Noun,Vb,Noun,Det,Date}
+Он вечно теряет свои ключи. {Noun,Adv,Vb,Noun,Noun}
+Они владеют этой машиной с 2020 года. {Noun,Vb,Det,Noun,Prep,Val,Noun}
+Краска высохла. {Noun,Vb}
+Мои родители тогда жили в Техасе. {Noun,Noun,Adv,Vb,Prep,Noun}
+Школа начинается в сентябре. {Noun,Vb,Prep,Date}
+Дни становятся длиннее. {Noun,Vb,Adj}

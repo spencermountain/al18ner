@@ -1,0 +1,100 @@
+Las llaves están en la mesa. {Det,Noun,Vb,Prep,Det,Noun}
+El gato se escondió debajo de la cama. {Det,Noun,Noun,Vb,Prep,Prep,Det,Noun}
+El banco está entre el café y la librería. {Det,Noun,Vb,Prep,Det,Noun,Conj,Det,Noun}
+Un avión voló por encima de las nubes. {Det,Noun,Vb,Prep,Prep,Prep,Det,Noun}
+La pelota cruzó la calle rodando. {Det,Noun,Vb,Det,Noun,Vb}
+Caminamos por la orilla del río. {Vb,Prep,Det,Noun,Prep,Noun}
+Ella estaba parada junto a su madre. {Noun,Vb,Adj,Prep,Prep,Noun,Noun}
+El barco entró al puerto. {Det,Noun,Vb,Prep,Noun}
+Él se apoyó contra la pared. {Noun,Noun,Vb,Prep,Det,Noun}
+Manejamos por el túnel. {Vb,Prep,Det,Noun}
+La temperatura cayó por debajo de cero. {Det,Noun,Vb,Prep,Prep,Prep,Val}
+Nuestra casa está cerca de la escuela. {Noun,Noun,Vb,Prep,Prep,Det,Noun}
+El jardín está detrás de la casa. {Det,Noun,Vb,Prep,Prep,Det,Noun}
+Un pájaro se posó en la cerca. {Det,Noun,Noun,Vb,Prep,Det,Noun}
+La carta está dentro del sobre. {Det,Noun,Vb,Prep,Prep,Noun}
+Nos encontramos al mediodía. {Noun,Vb,Prep,Noun}
+La clase empieza en diez minutos. {Det,Noun,Vb,Prep,Val,Noun}
+Ella trabajó hasta la medianoche. {Noun,Vb,Prep,Det,Noun}
+Él habló sobre el presupuesto. {Noun,Vb,Prep,Det,Noun}
+Este regalo es de mi tía. {Det,Noun,Vb,Prep,Noun,Noun}
+El libro trata de un perro perdido. {Det,Noun,Vb,Prep,Det,Noun,Adj}
+Ella discutió con su casero. {Noun,Vb,Prep,Noun,Noun}
+Él cortó el pan con un cuchillo. {Noun,Vb,Det,Noun,Prep,Det,Noun}
+El equipo viajó en autobús. {Det,Noun,Vb,Prep,Noun}
+Lo hice por ti. {Noun,Vb,Prep,Noun}
+Por favor enciende la radio. {Expr,Expr,Vb,Det,Noun}
+Ella rechazó la oferta. {Noun,Vb,Det,Noun}
+Él se despertó a las seis. {Noun,Noun,Vb,Prep,Det,Val}
+Dejé el azúcar. {Vb,Det,Noun}
+Ella buscó la palabra. {Noun,Vb,Det,Noun}
+Nos quedamos sin leche. {Noun,Vb,Prep,Noun}
+Él se puso la chaqueta. {Noun,Noun,Vb,Det,Noun}
+Quítate el sombrero. {Vb,Det,Noun}
+Anota la dirección. {Vb,Det,Noun}
+Ella descubrió la verdad. {Noun,Vb,Det,Noun}
+El carro se descompuso en la carretera. {Det,Noun,Noun,Vb,Prep,Det,Noun}
+Recoge tus juguetes. {Vb,Noun,Noun}
+Él entregó su tarea. {Noun,Vb,Noun,Noun}
+El avión despegó a tiempo. {Det,Noun,Vb,Prep,Noun}
+Ella tiró los periódicos viejos. {Noun,Vb,Det,Noun,Adj}
+Armamos la carpa. {Vb,Det,Noun}
+Él llenó el formulario. {Noun,Vb,Det,Noun}
+La reunión continuó durante horas. {Det,Noun,Vb,Prep,Noun}
+Cuelga tu abrigo. {Vb,Noun,Noun}
+Ella planteó un buen punto. {Noun,Vb,Det,Adj,Noun}
+Baja la velocidad en el cruce peatonal. {Vb,Det,Noun,Prep,Det,Noun,Adj}
+Él cuidó a su hermanita. {Noun,Vb,Prep,Noun,Noun}
+El fuego se apagó. {Det,Noun,Noun,Vb}
+Vuelve mañana. {Vb,Date}
+Sube el volumen. {Vb,Det,Noun}
+Nadar es buen ejercicio. {Vb,Vb,Adj,Noun}
+El yoga me ayuda a relajarme. {Det,Noun,Noun,Vb,Conj,Vb}
+Disfruto leyendo libros. {Vb,Vb,Noun}
+A ella le encanta bailar. {Prep,Noun,Noun,Vb,Vb}
+Él dejó de fumar el año pasado. {Noun,Vb,Conj,Vb,Det,Date,Adj}
+Ellos practican canto todos los días. {Noun,Vb,Noun,Det,Det,Date}
+Cocinar requiere paciencia. {Vb,Vb,Noun}
+Ella tiene miedo de volar. {Noun,Vb,Noun,Prep,Vb}
+Él es bueno para arreglar cosas. {Noun,Vb,Adj,Prep,Vb,Noun}
+Hablamos de mudarnos. {Vb,Prep,Vb}
+Gracias por venir. {Expr,Prep,Vb}
+Correr lo mantiene sano. {Vb,Noun,Vb,Adj}
+Quiero almorzar. {Vb,Vb}
+Ella decidió quedarse. {Noun,Vb,Vb}
+Ellos planean visitar Japón. {Noun,Vb,Vb,Noun}
+Él espera ganar el premio. {Noun,Vb,Vb,Det,Noun}
+Necesitamos hablar. {Vb,Vb}
+Ella prometió escribir. {Noun,Vb,Vb}
+Él se ofreció a llevarnos. {Noun,Noun,Vb,Conj,Vb}
+Olvidé cerrar la puerta con llave. {Vb,Vb,Det,Noun,Prep,Noun}
+Ellos acordaron verse al mediodía. {Noun,Vb,Vb,Prep,Noun}
+Ella aprendió a tocar el violín. {Noun,Vb,Conj,Vb,Det,Noun}
+Él fue a la tienda a comprar leche. {Noun,Vb,Prep,Det,Noun,Conj,Vb,Noun}
+Ella llamó para hacer una pregunta. {Noun,Vb,Conj,Vb,Det,Noun}
+Es difícil elegir. {Vb,Adj,Vb}
+Es fácil cometer errores. {Vb,Adj,Vb,Noun}
+Tenemos trabajo que hacer. {Vb,Noun,Conj,Vb}
+Ella me hizo reír. {Noun,Noun,Vb,Vb}
+Vi al hombre cruzar la calle. {Vb,Prep,Noun,Vb,Det,Noun}
+Él me ayudó a cargar las bolsas. {Noun,Noun,Vb,Conj,Vb,Det,Noun}
+La cerca necesita ser pintada. {Det,Noun,Vb,Vb,Vb}
+Ella quiere que él se disculpe. {Noun,Vb,Conj,Noun,Noun,Vb}
+Le pedí que esperara. {Noun,Vb,Conj,Vb}
+Ellos nos invitaron a acompañarlos. {Noun,Noun,Vb,Conj,Vb}
+Él me enseñó a manejar. {Noun,Noun,Vb,Conj,Vb}
+El perro saltó la cerca. {Det,Noun,Vb,Det,Noun}
+Ella sirvió té en la taza. {Noun,Vb,Noun,Prep,Det,Noun}
+Él se subió al techo. {Noun,Noun,Vb,Prep,Noun}
+El ratón se arrastró por el piso. {Det,Noun,Noun,Vb,Prep,Det,Noun}
+Manejamos hacia la costa. {Vb,Prep,Det,Noun}
+El bote se alejó del muelle. {Det,Noun,Noun,Vb,Prep,Noun}
+Ella entró al cuarto. {Noun,Vb,Prep,Noun}
+Los niños se escondieron en el clóset. {Det,Noun,Noun,Vb,Prep,Det,Noun}
+La lluvia goteaba del techo. {Det,Noun,Vb,Prep,Noun}
+El sendero lleva al lago. {Det,Noun,Vb,Prep,Noun}
+Él saludó con la mano desde el balcón. {Noun,Vb,Prep,Det,Noun,Prep,Det,Noun}
+La tienda de enfrente vende flores. {Det,Noun,Prep,Adv,Vb,Noun}
+El hombre del traje gris se fue. {Det,Noun,Prep,Noun,Adj,Noun,Vb}
+La niña del paraguas rojo sonrió. {Det,Noun,Prep,Noun,Adj,Vb}
+Un puente sobre el río conecta los pueblos. {Det,Noun,Prep,Det,Noun,Vb,Det,Noun}

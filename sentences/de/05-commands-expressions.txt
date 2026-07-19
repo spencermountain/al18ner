@@ -1,0 +1,100 @@
+Mach die Tür zu. {Vb,Det,Noun,Vb}
+Schlag deine Bücher auf. {Vb,Noun,Noun,Vb}
+Setz dich. {Vb,Noun}
+Steh auf. {Vb,Vb}
+Komm rein. {Vb,Vb}
+Nimm Platz. {Vb,Noun}
+Wasch dir die Hände. {Vb,Noun,Det,Noun}
+Hör gut zu. {Vb,Adv,Vb}
+Warte auf mich. {Vb,Prep,Noun}
+Bring deinen Regenschirm mit. {Vb,Noun,Noun,Vb}
+Mach das Licht aus. {Vb,Det,Noun,Vb}
+Stell die Kiste auf das Regal. {Vb,Det,Noun,Prep,Det,Noun}
+Hilf mir mal. {Vb,Noun,Adv}
+Erzähl uns eine Geschichte. {Vb,Noun,Det,Noun}
+Ruf mich morgen an. {Vb,Noun,Date,Vb}
+Reich mir die Butter. {Vb,Noun,Det,Noun}
+Versuch es nochmal. {Vb,Noun,Adv}
+Behalt das Wechselgeld. {Vb,Det,Noun}
+Folge diesem Auto. {Vb,Det,Noun}
+Sprich langsam. {Vb,Adv}
+Warte mal. {Vb,Adv}
+Schau dir dieses Foto an. {Vb,Noun,Det,Noun,Vb}
+Lies zuerst die Anleitung. {Vb,Val,Det,Noun}
+Geh ans Telefon. {Vb,Prep,Noun}
+Füttere die Katze, bevor du gehst. {Vb,Det,Noun,Conj,Noun,Vb}
+Öffne diese Kiste nicht. {Vb,Det,Noun,Negative}
+Hab keine Angst. {Vb,Negative,Noun}
+Vergiss deine Schlüssel nicht. {Vb,Noun,Noun,Negative}
+Beweg dich nicht. {Vb,Noun,Negative}
+Füttere die Tiere nicht. {Vb,Det,Noun,Negative}
+Fass das nicht an. {Vb,Det,Negative,Vb}
+Gib niemals auf. {Vb,Negative,Vb}
+Komm nicht zu spät zum Unterricht. {Vb,Negative,Adv,Adj,Prep,Noun}
+Bitte mach das Fenster zu. {Expr,Vb,Det,Noun,Vb}
+Bitte zieh deine Schuhe aus. {Expr,Vb,Noun,Noun,Vb}
+Bitte warte hier. {Expr,Vb,Adv}
+Bitte sei leise. {Expr,Vb,Adj}
+Bitte bedien dich. {Expr,Vb,Noun}
+Bitte trag unten deinen Namen ein. {Expr,Vb,Adv,Noun,Noun,Vb}
+Bitte verzeih mir. {Expr,Vb,Noun}
+Bitte pass auf. {Expr,Vb,Vb}
+Lass uns nach Hause gehen. {Vb,Noun,Prep,Noun,Vb}
+Machen wir eine Pause. {Vb,Noun,Det,Noun}
+Lass uns die Besprechung beginnen. {Vb,Noun,Det,Noun,Vb}
+Treffen wir uns im Café. {Vb,Noun,Noun,Prep,Noun}
+Lasst uns beten. {Vb,Noun,Vb}
+Lass uns nicht streiten. {Vb,Noun,Negative,Vb}
+Hallo, mein Name ist Maria. {Expr,Noun,Noun,Vb,Noun}
+Hi, wie geht es dir? {Expr,QuestionWord,Vb,Noun,Noun}
+Wow, das war unglaublich! {Expr,Det,Vb,Adj}
+Oh, ich habe meine Schlüssel vergessen. {Expr,Noun,Vb,Noun,Noun,Vb}
+Aua, das hat wehgetan! {Expr,Det,Vb,Vb}
+Ja, ich stimme zu. {Expr,Noun,Vb,Vb}
+Nein, danke dir. {Expr,Vb,Noun}
+Tja, wir haben es versucht. {Expr,Noun,Vb,Noun,Vb}
+Hey, pass auf! {Expr,Vb,Vb}
+Ups, es ist mir runtergefallen. {Expr,Noun,Vb,Noun,Vb}
+Hurra, wir haben gewonnen! {Expr,Noun,Vb,Vb}
+Tschüss, bis morgen. {Expr,Prep,Date}
+Guten Morgen, alle zusammen. {Adj,Noun,Noun,Adv}
+Gute Nacht, schlaf gut. {Adj,Noun,Vb,Adv}
+Herzlichen Glückwunsch zum Geburtstag! {Adj,Noun,Prep,Noun}
+Glückwunsch zu deinem neuen Job! {Expr,Prep,Noun,Adj,Noun}
+Willkommen bei uns zu Hause. {Vb,Prep,Noun,Prep,Noun}
+Entschuldigung, ist dieser Platz frei? {Expr,Vb,Det,Noun,Adj}
+Danke für deine Hilfe. {Vb,Prep,Noun,Noun}
+Entschuldigung, ich bin zu spät. {Expr,Noun,Vb,Adv,Adj}
+Natürlich kannst du kommen. {Adv,Vb,Noun,Vb}
+Ja, bitte. {Expr,Expr}
+Nein, danke. {Expr,Vb}
+Ich auch. {Noun,Adv}
+Ich ebenfalls. {Noun,Adv}
+Ich auch nicht. {Noun,Adv,Negative}
+Ich denke schon. {Noun,Vb,Adv}
+Ich hoffe nicht. {Noun,Vb,Negative}
+Vielleicht morgen. {Adv,Date}
+Nicht wirklich. {Negative,Adv}
+Kein Problem. {Negative,Noun}
+Gut, du gewinnst. {Adj,Noun,Vb}
+Viel Glück! {Adj,Noun}
+Leute, bitte setzt euch. {Noun,Expr,Vb,Noun}
+Kinder, das Essen ist fertig! {Noun,Det,Noun,Vb,Adj}
+Pass auf, wo du hintrittst. {Vb,Vb,QuestionWord,Noun,Vb}
+Achte auf die Lücke. {Vb,Prep,Det,Noun}
+Hilf mir mit diesen Taschen. {Vb,Noun,Prep,Det,Noun}
+Beeil dich, wir sind spät dran. {Vb,Noun,Noun,Vb,Adj,Adv}
+Sei vorsichtig. {Vb,Adj}
+Sei geduldig mit ihm. {Vb,Adj,Prep,Noun}
+Bleib ruhig. {Vb,Adj}
+Genieß die Party. {Vb,Det,Noun}
+Triff mich an der Ecke. {Vb,Noun,Prep,Det,Noun}
+Nimm die zweite Straße. {Vb,Det,Val,Noun}
+Check deine Mails. {Vb,Noun,Noun}
+Speichere deine Arbeit oft. {Vb,Noun,Noun,Adv}
+Bitte deinen Lehrer um Hilfe. {Vb,Noun,Noun,Prep,Noun}
+Gib zwei Tassen Zucker dazu. {Vb,Val,Noun,Noun,Vb}
+Schneide das Papier in zwei Stücke. {Vb,Det,Noun,Prep,Val,Noun}
+Mische das Mehl und die Eier. {Vb,Det,Noun,Conj,Det,Noun}
+Hinterlass eine Nachricht nach dem Piepton. {Vb,Det,Noun,Prep,Det,Noun}
+Fahr vorsichtig. {Vb,Adv}
