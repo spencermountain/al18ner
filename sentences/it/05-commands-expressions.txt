@@ -1,0 +1,100 @@
+Chiudi la porta. {Vb,Det,Noun}
+Apri i tuoi libri. {Vb,Det,Noun,Noun}
+Siediti. {Vb}
+Alzati. {Vb}
+Entra. {Vb}
+Accomodati. {Vb}
+Lavati le mani. {Vb,Det,Noun}
+Ascolta attentamente. {Vb,Adv}
+Aspettami. {Vb}
+Portati l'ombrello. {Vb,Det,Noun}
+Spegni le luci. {Vb,Det,Noun}
+Metti la scatola sullo scaffale. {Vb,Det,Noun,Prep,Noun}
+Dammi una mano. {Vb,Det,Noun}
+Raccontaci una storia. {Vb,Det,Noun}
+Chiamami domani. {Vb,Date}
+Passa il burro. {Vb,Det,Noun}
+Riprova. {Vb}
+Tieni il resto. {Vb,Det,Noun}
+Segui quella macchina. {Vb,Det,Noun}
+Parla lentamente. {Vb,Adv}
+Aspetta. {Vb}
+Guarda questa foto. {Vb,Det,Noun}
+Leggi prima le istruzioni. {Vb,Val,Det,Noun}
+Rispondi al telefono. {Vb,Prep,Noun}
+Nutri il gatto prima di uscire. {Vb,Det,Noun,Conj,Conj,Vb}
+Non aprire quella scatola. {Negative,Vb,Det,Noun}
+Non avere paura. {Negative,Vb,Noun}
+Non dimenticare le tue chiavi. {Negative,Vb,Det,Noun,Noun}
+Non muoverti. {Negative,Vb}
+Non nutrire gli animali. {Negative,Vb,Det,Noun}
+Non toccare quello. {Negative,Vb,Det}
+Non mollare mai. {Negative,Vb,Negative}
+Non arrivare tardi a lezione. {Negative,Vb,Adv,Prep,Noun}
+Per favore, chiudi la finestra. {Expr,Expr,Vb,Det,Noun}
+Per favore, togliti le scarpe. {Expr,Expr,Vb,Det,Noun}
+Per favore, aspetta qui. {Expr,Expr,Vb,Adv}
+Per favore, fai silenzio. {Expr,Expr,Vb,Noun}
+Per favore, serviti. {Expr,Expr,Vb}
+Per favore, metti la tua firma in fondo. {Expr,Expr,Vb,Det,Noun,Noun,Prep,Noun}
+Per favore, perdonami. {Expr,Expr,Vb}
+Per favore, presta attenzione. {Expr,Expr,Vb,Noun}
+Andiamo a casa. {Vb,Prep,Noun}
+Facciamo una pausa. {Vb,Det,Noun}
+Iniziamo la riunione. {Vb,Det,Noun}
+Incontriamoci al bar. {Vb,Prep,Noun}
+Preghiamo. {Vb}
+Non litighiamo. {Negative,Vb}
+Ciao, mi chiamo Maria. {Expr,Noun,Vb,Noun}
+Ciao, come stai? {Expr,QuestionWord,Vb}
+Wow, è stato incredibile! {Expr,Vb,Vb,Adj}
+Oh, ho dimenticato le mie chiavi. {Expr,Vb,Vb,Det,Noun,Noun}
+Ahi, mi ha fatto male! {Expr,Noun,Vb,Vb,Noun}
+Sì, sono d'accordo. {Expr,Vb,Prep,Noun}
+No, ti ringrazio. {Expr,Noun,Vb}
+Beh, ci abbiamo provato. {Expr,Noun,Vb,Vb}
+Ehi, attento! {Expr,Adj}
+Ops, mi è caduto. {Expr,Noun,Vb,Vb}
+Evviva, abbiamo vinto! {Expr,Vb,Vb}
+Arrivederci, a domani. {Expr,Prep,Date}
+Buongiorno a tutti. {Expr,Prep,Noun}
+Buonanotte, dormi bene. {Expr,Vb,Adv}
+Buon compleanno! {Adj,Noun}
+Congratulazioni per il tuo nuovo lavoro! {Expr,Prep,Det,Noun,Adj,Noun}
+Benvenuto a casa nostra. {Expr,Prep,Noun,Noun}
+Scusami, è libero questo posto? {Expr,Vb,Adj,Det,Noun}
+Grazie per il tuo aiuto. {Expr,Prep,Det,Noun,Noun}
+Scusa, sono in ritardo. {Expr,Vb,Prep,Noun}
+Certo, puoi venire. {Adv,Vb,Vb}
+Sì, per favore. {Expr,Expr,Expr}
+No, grazie. {Expr,Expr}
+Anch'io. {Adv,Noun}
+Pure io. {Adv,Noun}
+Neanch'io. {Negative,Noun}
+Penso di sì. {Vb,Conj,Adv}
+Spero di no. {Vb,Conj,Negative}
+Forse domani. {Adv,Date}
+Non proprio. {Negative,Adv}
+Nessun problema. {Negative,Noun}
+Va bene, vinci tu. {Vb,Adv,Vb,Noun}
+Buona fortuna! {Adj,Noun}
+Tutti, per favore, sedetevi. {Noun,Expr,Expr,Vb}
+Bambini, la cena è pronta! {Noun,Det,Noun,Vb,Adj}
+Guarda dove metti i piedi. {Vb,QuestionWord,Vb,Det,Noun}
+Attenzione al gradino. {Expr,Prep,Noun}
+Aiutami con queste borse. {Vb,Prep,Det,Noun}
+Sbrigati, siamo in ritardo. {Vb,Vb,Prep,Noun}
+Stai attento. {Vb,Adj}
+Sii paziente con lui. {Vb,Adj,Prep,Noun}
+Resta calmo. {Vb,Adj}
+Goditi la festa. {Vb,Det,Noun}
+Vediamoci all'angolo. {Vb,Prep,Noun}
+Prendi la seconda strada. {Vb,Det,Val,Noun}
+Controlla la tua email. {Vb,Det,Noun,Noun}
+Salva spesso il tuo lavoro. {Vb,Adv,Det,Noun,Noun}
+Chiedi aiuto al tuo insegnante. {Vb,Noun,Prep,Noun,Noun}
+Aggiungi due tazze di zucchero. {Vb,Val,Noun,Prep,Noun}
+Taglia la carta in due pezzi. {Vb,Det,Noun,Prep,Val,Noun}
+Mescola la farina e le uova. {Vb,Det,Noun,Conj,Det,Noun}
+Lascia un messaggio dopo il bip. {Vb,Det,Noun,Prep,Det,Noun}
+Guida con prudenza. {Vb,Prep,Noun}

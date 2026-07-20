@@ -29,9 +29,9 @@ the tokenizer exactly (contractions and hyphenated words split), and 935/1000 li
 
 ## Translations
 
-1-to-1 translations of all 1,000 lines live in `fr/`, `es/`, `de/`, `ru/`, `pt/` —
-same filenames, same line order, same spec format, tagged on the *translated*
-sentence's own tokens and word order:
+1-to-1 translations of all 1,000 lines live in `fr/`, `es/`, `de/`, `ru/`,
+`pt/`, `it/` — same filenames, same line order, same spec format, tagged on the
+*translated* sentence's own tokens and word order:
 
 ```
 Le garçon a frappé le ballon. {Det,Noun,Vb,Vb,Det,Noun}
@@ -44,8 +44,10 @@ German separable prefixes add a trailing `Vb` (`Der Regen hörte auf.
 {Det,Noun,Vb,Vb}`), and idioms restructure freely (`J'ai faim`, `Tengo hambre`,
 `У меня болит голова`) with each token tagged by its own POS.
 
-Register: informal singular (tu / tú / du / ты; Brazilian Portuguese você).
-Russian assumes a male first-person speaker and writes ё consistently.
+Register: informal singular (tu / tú / du / ты / tu; Brazilian Portuguese
+você). Russian assumes a male first-person speaker and writes ё consistently.
+Italian and Spanish enclitic imperatives are one token, one slot (Siéntate,
+Siediti → Vb); Portuguese hyphenated enclitics split (Sente-se → {Vb,Noun}).
 
 **Tokenization** — one tag per whitespace token, punctuation untagged (including
 the Russian copular em-dash), plus:
@@ -64,11 +66,13 @@ conditional si/wenn/если/se → `Condition` exactly where the English line t
 it; jamais/nunca/nie/никогда → `Negative`; ne…pas both `Negative`; relativizers
 mirror the English line (relative "that" = `Det` → que/der/который = `Det`;
 whose = `QuestionWord` → dont/cuyo/dessen/чей/cujo = `QuestionWord`);
-comparative than/as-words (que, como, als, wie, чем, как, quanto) → `Prep`
-mirroring the source; fused prep+articles (au, del, im, do, pelo) → `Prep` by
-function, partitive du/des → `Det`; infinitive-marker de/à/a/zu → `Conj` like
-English "to". The `There` tag survives only in French `il y a`
-({Noun,There,Vb}) — hay/es gibt/есть/tem are tagged by their own structure.
+comparative than/as-words (que, como, als, wie, чем, как, quanto, di, che) →
+`Prep` mirroring the source; fused prep+articles (au, del, im, do, pelo,
+alla) → `Prep` by function, partitive du/des/dei → `Det`; infinitive-marker
+de/à/a/zu/di → `Conj` like English "to"; politeness interjections (Merci,
+Gracias, Danke, Спасибо, Obrigado, Grazie) → `Expr`. The `There` tag survives
+only in French `il y a` ({Noun,There,Vb}) and Italian `c'è` ({There,Vb}) —
+hay/es gibt/есть/tem are tagged by their own structure.
 
 `validate.js` checks line counts, the closed tag vocabulary, and
 tag-count-vs-token-count under these tokenization rules for all six languages

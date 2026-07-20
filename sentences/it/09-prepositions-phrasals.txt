@@ -1,0 +1,100 @@
+Le chiavi sono sul tavolo. {Det,Noun,Vb,Prep,Noun}
+Il gatto si è nascosto sotto il letto. {Det,Noun,Noun,Vb,Vb,Prep,Det,Noun}
+La banca è tra il bar e la libreria. {Det,Noun,Vb,Prep,Det,Noun,Conj,Det,Noun}
+Un aereo ha volato sopra le nuvole. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+La palla è rotolata attraverso la strada. {Det,Noun,Vb,Vb,Prep,Det,Noun}
+Abbiamo camminato lungo il fiume. {Vb,Vb,Prep,Det,Noun}
+Lei stava accanto a sua madre. {Noun,Vb,Prep,Prep,Noun,Noun}
+La nave è entrata nel porto. {Det,Noun,Vb,Vb,Prep,Noun}
+Lui si è appoggiato contro il muro. {Noun,Noun,Vb,Vb,Prep,Det,Noun}
+Abbiamo attraversato il tunnel in macchina. {Vb,Vb,Det,Noun,Prep,Noun}
+La temperatura è scesa sotto zero. {Det,Noun,Vb,Vb,Prep,Val}
+La nostra casa è vicino alla scuola. {Det,Noun,Noun,Vb,Prep,Prep,Noun}
+Il giardino è dietro la casa. {Det,Noun,Vb,Prep,Det,Noun}
+Un uccello stava sulla staccionata. {Det,Noun,Vb,Prep,Noun}
+La lettera è dentro la busta. {Det,Noun,Vb,Prep,Det,Noun}
+Ci siamo incontrati a mezzogiorno. {Noun,Vb,Vb,Prep,Noun}
+La lezione inizia tra dieci minuti. {Det,Noun,Vb,Prep,Val,Noun}
+Lei ha lavorato fino a mezzanotte. {Noun,Vb,Vb,Prep,Prep,Noun}
+Lui ha parlato del bilancio. {Noun,Vb,Vb,Prep,Noun}
+Questo regalo viene da mia zia. {Det,Noun,Vb,Prep,Noun,Noun}
+Il libro parla di un cane smarrito. {Det,Noun,Vb,Prep,Det,Noun,Adj}
+Lei ha litigato con il suo padrone di casa. {Noun,Vb,Vb,Prep,Det,Noun,Noun,Prep,Noun}
+Lui ha tagliato il pane con un coltello. {Noun,Vb,Vb,Det,Noun,Prep,Det,Noun}
+La squadra ha viaggiato in autobus. {Det,Noun,Vb,Vb,Prep,Noun}
+L'ho fatto per te. {Noun,Vb,Vb,Prep,Noun}
+Per favore, accendi la radio. {Expr,Expr,Vb,Det,Noun}
+Lei ha rifiutato l'offerta. {Noun,Vb,Vb,Det,Noun}
+Lui si è svegliato alle sei. {Noun,Noun,Vb,Vb,Prep,Val}
+Ho rinunciato allo zucchero. {Vb,Vb,Prep,Noun}
+Lei ha cercato la parola. {Noun,Vb,Vb,Det,Noun}
+Abbiamo finito il latte. {Vb,Vb,Det,Noun}
+Lui si è messo la giacca. {Noun,Noun,Vb,Vb,Det,Noun}
+Togliti il cappello. {Vb,Det,Noun}
+Scrivi l'indirizzo. {Vb,Det,Noun}
+Lei ha scoperto la verità. {Noun,Vb,Vb,Det,Noun}
+La macchina si è guastata in autostrada. {Det,Noun,Noun,Vb,Vb,Prep,Noun}
+Raccogli i tuoi giocattoli. {Vb,Det,Noun,Noun}
+Lui ha consegnato i compiti. {Noun,Vb,Vb,Det,Noun}
+L'aereo è decollato in orario. {Det,Noun,Vb,Vb,Prep,Noun}
+Lei ha buttato i vecchi giornali. {Noun,Vb,Vb,Det,Adj,Noun}
+Abbiamo montato la tenda. {Vb,Vb,Det,Noun}
+Lui ha compilato il modulo. {Noun,Vb,Vb,Det,Noun}
+La riunione è andata avanti per ore. {Det,Noun,Vb,Vb,Adv,Prep,Noun}
+Appendi il cappotto. {Vb,Det,Noun}
+Lei ha fatto una buona osservazione. {Noun,Vb,Vb,Det,Adj,Noun}
+Rallenta alle strisce pedonali. {Vb,Prep,Noun,Adj}
+Lui ha badato alla sua sorellina. {Noun,Vb,Vb,Prep,Noun,Noun}
+Il fuoco si è spento. {Det,Noun,Noun,Vb,Vb}
+Torna domani. {Vb,Date}
+Alza il volume. {Vb,Det,Noun}
+Il nuoto è un buon esercizio. {Det,Noun,Vb,Det,Adj,Noun}
+Lo yoga mi aiuta a rilassarmi. {Det,Noun,Noun,Vb,Conj,Vb}
+Mi piace leggere libri. {Noun,Vb,Vb,Noun}
+Lei adora ballare. {Noun,Vb,Vb}
+Lui ha smesso di fumare l'anno scorso. {Noun,Vb,Vb,Conj,Vb,Det,Date,Adj}
+Si esercitano a cantare ogni giorno. {Noun,Vb,Conj,Vb,Det,Date}
+La cucina richiede pazienza. {Det,Noun,Vb,Noun}
+Lei ha paura di volare. {Noun,Vb,Noun,Prep,Vb}
+Lui è bravo ad aggiustare le cose. {Noun,Vb,Adj,Prep,Vb,Det,Noun}
+Abbiamo parlato di trasferirci. {Vb,Vb,Prep,Vb}
+Grazie per essere venuto. {Expr,Conj,Vb,Vb}
+La corsa lo mantiene sano. {Det,Noun,Noun,Vb,Adj}
+Voglio pranzare. {Vb,Vb}
+Lei ha deciso di restare. {Noun,Vb,Vb,Conj,Vb}
+Progettano di visitare il Giappone. {Vb,Conj,Vb,Det,Noun}
+Lui spera di vincere il premio. {Noun,Vb,Conj,Vb,Det,Noun}
+Dobbiamo parlare. {Vb,Vb}
+Lei ha promesso di scrivere. {Noun,Vb,Vb,Conj,Vb}
+Lui si è offerto di accompagnarci. {Noun,Noun,Vb,Vb,Conj,Vb}
+Ho dimenticato di chiudere la porta a chiave. {Vb,Vb,Conj,Vb,Det,Noun,Prep,Noun}
+Hanno accettato di incontrarsi a mezzogiorno. {Vb,Vb,Conj,Vb,Prep,Noun}
+Lei ha imparato a suonare il violino. {Noun,Vb,Vb,Conj,Vb,Det,Noun}
+Lui è andato al negozio per comprare il latte. {Noun,Vb,Vb,Prep,Noun,Conj,Vb,Det,Noun}
+Lei ha chiamato per fare una domanda. {Noun,Vb,Vb,Conj,Vb,Det,Noun}
+È difficile scegliere. {Vb,Adj,Vb}
+È facile fare errori. {Vb,Adj,Vb,Noun}
+Abbiamo del lavoro da fare. {Vb,Det,Noun,Conj,Vb}
+Lei mi ha fatto ridere. {Noun,Noun,Vb,Vb,Vb}
+Ho visto l'uomo attraversare la strada. {Vb,Vb,Det,Noun,Vb,Det,Noun}
+Lui mi ha aiutato a portare le borse. {Noun,Noun,Vb,Vb,Conj,Vb,Det,Noun}
+La staccionata deve essere dipinta. {Det,Noun,Vb,Vb,Vb}
+Lei vuole che lui si scusi. {Noun,Vb,Conj,Noun,Noun,Vb}
+Le ho chiesto di aspettare. {Noun,Vb,Vb,Conj,Vb}
+Ci hanno invitato a unirci a loro. {Noun,Vb,Vb,Conj,Vb,Prep,Noun}
+Lui mi ha insegnato a guidare. {Noun,Noun,Vb,Vb,Conj,Vb}
+Il cane ha saltato la staccionata. {Det,Noun,Vb,Vb,Det,Noun}
+Lei ha versato il tè nella tazza. {Noun,Vb,Vb,Det,Noun,Prep,Noun}
+Lui è salito sul tetto. {Noun,Vb,Vb,Prep,Noun}
+Il topo ha attraversato il pavimento. {Det,Noun,Vb,Vb,Det,Noun}
+Abbiamo guidato verso la costa. {Vb,Vb,Prep,Det,Noun}
+La barca si è allontanata dal molo. {Det,Noun,Noun,Vb,Vb,Prep,Noun}
+Lei è entrata nella stanza. {Noun,Vb,Vb,Prep,Noun}
+I bambini si sono nascosti nell'armadio. {Det,Noun,Noun,Vb,Vb,Prep,Noun}
+La pioggia gocciolava dal tetto. {Det,Noun,Vb,Prep,Noun}
+Il sentiero porta al lago. {Det,Noun,Vb,Prep,Noun}
+Lui ha salutato con la mano dal balcone. {Noun,Vb,Vb,Prep,Det,Noun,Prep,Noun}
+Il negozio di fronte vende fiori. {Det,Noun,Prep,Noun,Vb,Noun}
+L'uomo con il vestito grigio se n'è andato. {Det,Noun,Prep,Det,Noun,Adj,Noun,Noun,Vb,Vb}
+La ragazza con l'ombrello rosso ha sorriso. {Det,Noun,Prep,Det,Noun,Adj,Vb,Vb}
+Un ponte sul fiume collega i paesi. {Det,Noun,Prep,Noun,Vb,Det,Noun}

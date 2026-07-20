@@ -1,0 +1,100 @@
+Lei va in biblioteca a piedi. {Noun,Vb,Prep,Noun,Prep,Noun}
+Lui beve il caffè ogni mattina. {Noun,Vb,Det,Noun,Det,Noun}
+Il negozio apre alle nove. {Det,Noun,Vb,Prep,Val}
+Mi lavo sempre i denti. {Noun,Vb,Adv,Det,Noun}
+Vanno spesso a trovare la loro nonna. {Vb,Adv,Conj,Vb,Det,Noun,Noun}
+Di solito ceniamo a casa. {Prep,Adj,Vb,Prep,Noun}
+Lei guarda raramente la televisione. {Noun,Vb,Adv,Det,Noun}
+Lui non beve mai il tè. {Noun,Negative,Vb,Negative,Det,Noun}
+Il treno arriva in orario. {Det,Noun,Vb,Prep,Noun}
+L'acqua bolle a cento gradi. {Det,Noun,Vb,Prep,Val,Noun}
+Abbiamo visitato Parigi l'anno scorso. {Vb,Vb,Noun,Det,Date,Adj}
+Lei ha finito i compiti ieri. {Noun,Vb,Vb,Det,Noun,Date}
+Lui ha lavorato fino a tardi ieri sera. {Noun,Vb,Vb,Prep,Prep,Adv,Date,Noun}
+Si sono trasferiti in città nel 2019. {Noun,Vb,Vb,Prep,Noun,Prep,Val}
+Ho dormito male. {Vb,Vb,Adv}
+La riunione è finita presto. {Det,Noun,Vb,Vb,Adv}
+Lei ha studiato francese all'università. {Noun,Vb,Vb,Noun,Prep,Noun}
+Il bicchiere si è rotto. {Det,Noun,Noun,Vb,Vb}
+Sto leggendo un bel libro. {Vb,Vb,Det,Adj,Noun}
+Lei sta preparando la cena. {Noun,Vb,Vb,Det,Noun}
+I bambini stanno giocando in cortile. {Det,Noun,Vb,Vb,Prep,Noun}
+Lui sta lavando i piatti. {Noun,Vb,Vb,Det,Noun}
+Sta piovendo. {Vb,Vb}
+Stanno costruendo una nuova scuola. {Vb,Vb,Det,Adj,Noun}
+Sto aspettando l'autobus. {Vb,Vb,Det,Noun}
+Lei sta studiando per l'esame. {Noun,Vb,Vb,Prep,Det,Noun}
+Ci trasferiamo il mese prossimo. {Noun,Vb,Det,Date,Adj}
+Il bimbo sta piangendo di nuovo. {Det,Noun,Vb,Vb,Prep,Adj}
+Stavo guardando il telegiornale. {Vb,Vb,Det,Noun}
+Lei stava parlando al telefono. {Noun,Vb,Vb,Prep,Noun}
+Ridevano rumorosamente. {Vb,Adv}
+Lui guidava troppo velocemente. {Noun,Vb,Adv,Adv}
+Stavamo pranzando a mezzogiorno. {Vb,Vb,Prep,Noun}
+Il cane ha abbaiato tutta la notte. {Det,Noun,Vb,Vb,Adj,Det,Noun}
+Stava nevicando forte. {Vb,Vb,Adv}
+Ho visto quel film. {Vb,Vb,Det,Noun}
+Lei abita a Roma da dieci anni. {Noun,Vb,Prep,Noun,Prep,Val,Noun}
+Abbiamo già mangiato. {Vb,Adv,Vb}
+Lui è appena partito. {Noun,Vb,Adv,Vb}
+Non hanno mai provato il sushi. {Negative,Vb,Negative,Vb,Det,Noun}
+Ho perso il mio portafoglio. {Vb,Vb,Det,Noun,Noun}
+Lei ha già finito il progetto. {Noun,Vb,Adv,Vb,Det,Noun}
+Lui ha visitato cinque paesi. {Noun,Vb,Vb,Val,Noun}
+Lo conosciamo da anni. {Noun,Vb,Prep,Noun}
+La posta è arrivata. {Det,Noun,Vb,Vb}
+Qualcosa è cambiato. {Noun,Vb,Vb}
+Ho sentito quella canzone molte volte. {Vb,Vb,Det,Noun,Adj,Noun}
+Lei era partita prima che mangiassimo. {Noun,Vb,Vb,Conj,Conj,Vb}
+Il film era iniziato prima che arrivassimo. {Det,Noun,Vb,Vb,Conj,Conj,Vb}
+Lui aveva dimenticato l'ombrello. {Noun,Vb,Vb,Det,Noun}
+Si erano già incontrati una volta. {Noun,Vb,Adv,Vb,Det,Noun}
+Non avevo mai visto l'oceano. {Negative,Vb,Negative,Vb,Det,Noun}
+Avevamo finito il lavoro entro mezzogiorno. {Vb,Vb,Det,Noun,Prep,Noun}
+Ti chiamerò stasera. {Noun,Vb,Noun}
+Lei arriverà venerdì. {Noun,Vb,Date}
+Vinceranno la partita. {Vb,Det,Noun}
+Domani pioverà. {Date,Vb}
+Vedremo i risultati la settimana prossima. {Vb,Det,Noun,Det,Date,Adj}
+Lui non sarà d'accordo. {Noun,Negative,Vb,Prep,Noun}
+Non lo dimenticherò. {Negative,Noun,Vb}
+Adorerai questo ristorante. {Vb,Det,Noun}
+Lo spettacolo inizierà a breve. {Det,Noun,Vb,Prep,Adj}
+Parleremo domani. {Vb,Date}
+Lei partirà. {Noun,Vb}
+Comprerò una macchina. {Vb,Det,Noun}
+Venderanno la casa. {Vb,Det,Noun}
+Sta per nevicare. {Vb,Conj,Vb}
+Stiamo per perdere il treno. {Vb,Conj,Vb,Det,Noun}
+Lui studierà medicina. {Noun,Vb,Noun}
+Aspetto da un'ora. {Vb,Prep,Det,Noun}
+Lei lavora da tutta la mattina. {Noun,Vb,Prep,Adj,Det,Noun}
+Guidavano da ore. {Vb,Prep,Noun}
+Lui sta imparando lo spagnolo. {Noun,Vb,Vb,Det,Noun}
+Piove da lunedì. {Vb,Prep,Date}
+Abitiamo in questa città da due anni. {Vb,Prep,Det,Noun,Prep,Val,Noun}
+Una volta lei abitava a Roma. {Det,Noun,Noun,Vb,Prep,Noun}
+Lui prima fumava. {Noun,Adv,Vb}
+Giocavamo a scacchi ogni domenica. {Vb,Prep,Noun,Det,Date}
+Una volta erano vicini di casa. {Det,Noun,Vb,Noun,Prep,Noun}
+Il film sta per iniziare. {Det,Noun,Vb,Conj,Vb}
+Stiamo per partire. {Vb,Conj,Vb}
+Stavo per chiamarti. {Vb,Conj,Vb}
+Lei è appena tornata dalla palestra. {Noun,Vb,Adv,Vb,Prep,Noun}
+L'autobus è appena partito. {Det,Noun,Vb,Adv,Vb}
+Ricordo ancora quel giorno. {Vb,Adv,Det,Date}
+Alla fine lui si è scusato. {Prep,Noun,Noun,Noun,Vb,Vb}
+Finalmente hanno trovato la risposta. {Adv,Vb,Vb,Det,Noun}
+Lei si è fermata improvvisamente. {Noun,Noun,Vb,Vb,Adv}
+Recentemente ho cambiato lavoro. {Adv,Vb,Vb,Noun}
+Il concerto è finito a mezzanotte. {Det,Noun,Vb,Vb,Prep,Noun}
+La cena è quasi pronta. {Det,Noun,Vb,Adv,Adj}
+Le foglie diventano rosse in autunno. {Det,Noun,Vb,Adj,Prep,Noun}
+Gli orsi dormono per tutto l'inverno. {Det,Noun,Vb,Prep,Adj,Det,Noun}
+Lei scrive una lettera ogni settimana. {Noun,Vb,Det,Noun,Det,Date}
+Lui perde sempre le chiavi. {Noun,Vb,Adv,Det,Noun}
+Hanno questa macchina dal 2020. {Vb,Det,Noun,Prep,Val}
+La vernice si è asciugata. {Det,Noun,Noun,Vb,Vb}
+All'epoca i miei genitori abitavano in Texas. {Prep,Noun,Det,Noun,Noun,Vb,Prep,Noun}
+La scuola inizia a settembre. {Det,Noun,Vb,Prep,Date}
+Le giornate si stanno allungando. {Det,Noun,Noun,Vb,Vb}
