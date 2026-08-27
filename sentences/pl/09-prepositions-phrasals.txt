@@ -1,0 +1,100 @@
+Klucze są na stole. {Noun,Vb,Prep,Noun}
+Kot schował się pod łóżkiem. {Noun,Vb,Noun,Prep,Noun}
+Bank jest między kawiarnią a księgarnią. {Noun,Vb,Prep,Noun,Conj,Noun}
+Samolot przeleciał nad chmurami. {Noun,Vb,Prep,Noun}
+Piłka potoczyła się przez ulicę. {Noun,Vb,Noun,Prep,Noun}
+Szliśmy wzdłuż rzeki. {Vb,Prep,Noun}
+Stała obok matki. {Vb,Prep,Noun}
+Statek wpłynął do portu. {Noun,Vb,Prep,Noun}
+Oparł się o ścianę. {Vb,Noun,Prep,Noun}
+Jechaliśmy przez tunel. {Vb,Prep,Noun}
+Temperatura spadła poniżej zera. {Noun,Vb,Prep,Val}
+Nasz dom jest blisko szkoły. {Noun,Noun,Vb,Prep,Noun}
+Ogród jest za domem. {Noun,Vb,Prep,Noun}
+Ptak siedział na płocie. {Noun,Vb,Prep,Noun}
+List jest w kopercie. {Noun,Vb,Prep,Noun}
+Spotkaliśmy się w południe. {Vb,Noun,Prep,Noun}
+Lekcja zaczyna się za dziesięć minut. {Noun,Vb,Noun,Prep,Val,Noun}
+Pracowała do północy. {Vb,Prep,Noun}
+Mówił o budżecie. {Vb,Prep,Noun}
+Ten prezent jest od mojej cioci. {Det,Noun,Vb,Prep,Noun,Noun}
+Ta książka jest o zaginionym psie. {Det,Noun,Vb,Prep,Adj,Noun}
+Kłóciła się z właścicielem mieszkania. {Vb,Noun,Prep,Noun,Noun}
+Pokroił chleb nożem. {Vb,Noun,Noun}
+Drużyna podróżowała autobusem. {Noun,Vb,Noun}
+Zrobiłem to dla ciebie. {Vb,Noun,Prep,Noun}
+Proszę włącz radio. {Expr,Vb,Noun}
+Odrzuciła ofertę. {Vb,Noun}
+Obudził się o szóstej. {Vb,Noun,Prep,Val}
+Zrezygnowałem z cukru. {Vb,Prep,Noun}
+Sprawdziła to słowo. {Vb,Det,Noun}
+Skończyło nam się mleko. {Vb,Noun,Noun,Noun}
+Włożył kurtkę. {Vb,Noun}
+Zdejmij kapelusz. {Vb,Noun}
+Zapisz adres. {Vb,Noun}
+Odkryła prawdę. {Vb,Noun}
+Samochód zepsuł się na autostradzie. {Noun,Vb,Noun,Prep,Noun}
+Pozbieraj zabawki. {Vb,Noun}
+Oddał pracę domową. {Vb,Noun,Adj}
+Samolot wystartował punktualnie. {Noun,Vb,Adv}
+Wyrzuciła stare gazety. {Vb,Adj,Noun}
+Rozbiliśmy namiot. {Vb,Noun}
+Wypełnił formularz. {Vb,Noun}
+Spotkanie ciągnęło się godzinami. {Noun,Vb,Noun,Noun}
+Powieś płaszcz. {Vb,Noun}
+Poruszyła dobrą kwestię. {Vb,Adj,Noun}
+Zwolnij na przejściu. {Vb,Prep,Noun}
+Opiekował się młodszą siostrą. {Vb,Noun,Adj,Noun}
+Ogień przygasł. {Noun,Vb}
+Wróć jutro. {Vb,Date}
+Podgłośnij. {Vb}
+Pływanie to dobry sport. {Noun,Vb,Adj,Noun}
+Joga pomaga mi się odprężyć. {Noun,Vb,Noun,Noun,Vb}
+Lubię czytać książki. {Vb,Vb,Noun}
+Uwielbia tańczyć. {Vb,Vb}
+Rzucił palenie w zeszłym roku. {Vb,Noun,Prep,Adj,Date}
+Ćwiczą śpiew codziennie. {Vb,Noun,Date}
+Gotowanie wymaga cierpliwości. {Noun,Vb,Noun}
+Boi się latać. {Vb,Noun,Vb}
+Jest dobry w naprawianiu rzeczy. {Vb,Adj,Prep,Noun,Noun}
+Rozmawialiśmy o przeprowadzce. {Vb,Prep,Noun}
+Dzięki za przyjście. {Vb,Prep,Noun}
+Bieganie utrzymuje go w zdrowiu. {Noun,Vb,Noun,Prep,Noun}
+Chcę zjeść obiad. {Vb,Vb,Noun}
+Postanowiła zostać. {Vb,Vb}
+Planują odwiedzić Japonię. {Vb,Vb,Noun}
+Ma nadzieję wygrać nagrodę. {Vb,Noun,Vb,Noun}
+Musimy porozmawiać. {Vb,Vb}
+Obiecała napisać. {Vb,Vb}
+Zaproponował, że nas podwiezie. {Vb,Conj,Noun,Vb}
+Zapomniałem zamknąć drzwi. {Vb,Vb,Noun}
+Zgodzili się spotkać w południe. {Vb,Noun,Vb,Prep,Noun}
+Nauczyła się grać na skrzypcach. {Vb,Noun,Vb,Prep,Noun}
+Poszedł do sklepu kupić mleko. {Vb,Prep,Noun,Vb,Noun}
+Zadzwoniła żeby zadać pytanie. {Vb,Conj,Vb,Noun}
+Trudno jest wybrać. {Adj,Vb,Vb}
+Łatwo jest popełnić błąd. {Adv,Vb,Vb,Noun}
+Mamy pracę do zrobienia. {Vb,Noun,Prep,Noun}
+Rozśmieszyła mnie. {Vb,Noun}
+Widziałem jak mężczyzna przechodził przez ulicę. {Vb,Conj,Noun,Vb,Prep,Noun}
+Pomógł mi nieść torby. {Vb,Noun,Vb,Noun}
+Płot wymaga malowania. {Noun,Vb,Noun}
+Chce żeby przeprosił. {Vb,Conj,Vb}
+Poprosiłem ją żeby zaczekała. {Vb,Noun,Conj,Vb}
+Zaprosili nas żebyśmy dołączyli. {Vb,Noun,Conj,Vb}
+Nauczył mnie prowadzić. {Vb,Noun,Vb}
+Pies przeskoczył przez płot. {Noun,Vb,Prep,Noun}
+Nalała herbatę do filiżanki. {Vb,Noun,Prep,Noun}
+Wspiął się na dach. {Vb,Noun,Prep,Noun}
+Mysz przebiegła po podłodze. {Noun,Vb,Prep,Noun}
+Jechaliśmy w stronę wybrzeża. {Vb,Prep,Noun,Noun}
+Łódź odpłynęła od pomostu. {Noun,Vb,Prep,Noun}
+Weszła do pokoju. {Vb,Prep,Noun}
+Dzieci schowały się w szafie. {Noun,Vb,Noun,Prep,Noun}
+Deszcz kapał z dachu. {Noun,Vb,Prep,Noun}
+Ścieżka prowadzi do jeziora. {Noun,Vb,Prep,Noun}
+Machał z balkonu. {Vb,Prep,Noun}
+Sklep po drugiej stronie ulicy sprzedaje kwiaty. {Noun,Prep,Adj,Noun,Noun,Vb,Noun}
+Mężczyzna w szarym garniturze wyszedł. {Noun,Prep,Adj,Noun,Vb}
+Dziewczyna z czerwonym parasolem uśmiechnęła się. {Noun,Prep,Adj,Noun,Vb,Noun}
+Most nad rzeką łączy miasta. {Noun,Prep,Noun,Vb,Noun}

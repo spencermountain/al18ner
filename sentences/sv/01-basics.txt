@@ -1,0 +1,100 @@
+Bebisen sov. {Noun,Vb}
+Telefonen ringde. {Noun,Vb}
+Fåglar sjunger. {Noun,Vb}
+Regnet slutade. {Noun,Vb}
+Alla skrattade. {Noun,Vb}
+Motorn startade. {Noun,Vb}
+Snön föll. {Noun,Vb}
+Barnen väntade. {Noun,Vb}
+Mitt huvud värker. {Noun,Noun,Vb}
+Publiken jublade. {Noun,Vb}
+Pojken sparkade bollen. {Noun,Vb,Noun}
+Hon läser tidningen. {Noun,Vb,Noun}
+Tom öppnade fönstret. {Noun,Vb,Noun}
+Katten jagade en mus. {Noun,Vb,Det,Noun}
+Vi såg en film. {Noun,Vb,Det,Noun}
+Han skrev ett brev. {Noun,Vb,Det,Noun}
+Maria bakade en kaka. {Noun,Vb,Det,Noun}
+Bonden matar hönsen. {Noun,Vb,Noun}
+Jag tappade bort mina nycklar. {Noun,Vb,Vb,Noun,Noun}
+De byggde ett hus. {Noun,Vb,Det,Noun}
+Hon stängde dörren. {Noun,Vb,Noun}
+Läraren berömde eleverna. {Noun,Vb,Noun}
+Han bar lådorna. {Noun,Vb,Noun}
+Servitören hämtade vår mat. {Noun,Vb,Noun,Noun}
+Jag hörde ett ljud. {Noun,Vb,Det,Noun}
+Hon svarade på frågan. {Noun,Vb,Prep,Noun}
+Hunden grävde ner ett ben. {Noun,Vb,Vb,Det,Noun}
+Vi städade köket. {Noun,Vb,Noun}
+Han lagade läckan. {Noun,Vb,Noun}
+Eleverna löste pusslet. {Noun,Vb,Noun}
+Soppan är het. {Noun,Vb,Adj}
+Himlen var grå. {Noun,Vb,Adj}
+Hennes röst är mjuk. {Noun,Noun,Vb,Adj}
+Gatorna var tomma. {Noun,Vb,Adj}
+Jag är hungrig. {Noun,Vb,Adj}
+Du är snäll. {Noun,Vb,Adj}
+Provet var svårt. {Noun,Vb,Adj}
+Hans händer var smutsiga. {Noun,Noun,Vb,Adj}
+Rummet känns varmt. {Noun,Vb,Adj}
+Historien låter konstig. {Noun,Vb,Adj}
+Min pappa är läkare. {Noun,Noun,Vb,Noun}
+Hon är ingenjör. {Noun,Vb,Noun}
+Valen är ett däggdjur. {Noun,Vb,Det,Noun}
+De är lärare. {Noun,Vb,Noun}
+Detta är min favoritlåt. {Noun,Vb,Noun,Noun}
+Det var ett misstag. {Noun,Vb,Det,Noun}
+Han blev advokat. {Noun,Vb,Noun}
+Byggnaden är ett museum. {Noun,Vb,Det,Noun}
+Det var lyckliga dagar. {Noun,Vb,Adj,Noun}
+Det är en present. {Noun,Vb,Det,Noun}
+Hon gav honom en bok. {Noun,Vb,Noun,Det,Noun}
+Han skickade henne ett vykort. {Noun,Vb,Noun,Det,Noun}
+Läraren berättade en historia för oss. {Noun,Vb,Det,Noun,Prep,Noun}
+Jag visade dem fotona. {Noun,Vb,Noun,Noun}
+Mamma gjorde frukost åt oss. {Noun,Vb,Noun,Prep,Noun}
+Han erbjöd henne skjuts. {Noun,Vb,Noun,Noun}
+Hon gav klassen en läxa. {Noun,Vb,Noun,Det,Noun}
+De räckte mig rapporten. {Noun,Vb,Noun,Noun}
+Han köpte en cykel till sin son. {Noun,Vb,Det,Noun,Prep,Noun,Noun}
+Hon skrev en lapp till sin vän. {Noun,Vb,Det,Noun,Prep,Noun,Noun}
+De döpte barnet till Lucy. {Noun,Vb,Noun,Prep,Noun}
+Vi valde henne till kapten. {Noun,Vb,Noun,Prep,Noun}
+Nyheten gjorde honom glad. {Noun,Vb,Noun,Adj}
+Hon målade staketet vitt. {Noun,Vb,Noun,Adj}
+Jag tyckte filmen var tråkig. {Noun,Vb,Noun,Vb,Adj}
+Hundens svans viftade. {Noun,Noun,Vb}
+Toms bil är blå. {Noun,Noun,Vb,Adj}
+Min systers rum är städat. {Noun,Noun,Noun,Vb,Adj}
+Lärarens skrivbord var rent. {Noun,Noun,Vb,Adj}
+Annas katt sover hela dagen. {Noun,Noun,Vb,Adj,Date}
+Vår grannes trädgård ser fin ut. {Noun,Noun,Noun,Vb,Adj,Vb}
+Hans brors lag vann. {Noun,Noun,Noun,Vb}
+Stadens gator är livliga. {Noun,Noun,Vb,Adj}
+Hennes föräldrar äger ett bageri. {Noun,Noun,Vb,Det,Noun}
+Deras hus har ett rött tak. {Noun,Noun,Vb,Det,Adj,Noun}
+Den gamla klockan tickar högt. {Det,Adj,Noun,Vb,Adv}
+En liten flicka vinkade. {Det,Adj,Noun,Vb}
+Den långe mannen bar en svart rock. {Det,Adj,Noun,Vb,Det,Adj,Noun}
+Hon köpte en vacker gammal lampa. {Noun,Vb,Det,Adj,Adj,Noun}
+Den lilla bruna hunden skällde. {Det,Adj,Adj,Noun,Vb}
+Han berättade en rolig historia. {Noun,Vb,Det,Adj,Noun}
+Den livliga gatan var bullrig. {Det,Adj,Noun,Vb,Adj}
+En stark vind blåste. {Det,Adj,Noun,Vb}
+Det unga paret log. {Det,Adj,Noun,Vb}
+Färskt bröd luktar underbart. {Adj,Noun,Vb,Adj}
+Barnen lekte lekar. {Noun,Vb,Noun}
+Löv täckte marken. {Noun,Vb,Noun}
+Kvinnorna delade idéer. {Noun,Vb,Noun}
+Ris behöver vatten. {Noun,Vb,Noun}
+Musik fyller rummet. {Noun,Vb,Noun}
+Männen flyttade möblerna. {Noun,Vb,Noun}
+Kaffe håller mig vaken. {Noun,Vb,Noun,Adj}
+Gässen korsade vägen. {Noun,Vb,Noun}
+Vintern kom. {Noun,Vb}
+Trafiken saktar ner allt. {Noun,Vb,Vb,Noun}
+Hon gillar honom. {Noun,Vb,Noun}
+De bjöd in oss. {Noun,Vb,Vb,Noun}
+Jag tror dig. {Noun,Vb,Noun}
+Han tackade dem. {Noun,Vb,Noun}
+Det överraskade mig. {Noun,Vb,Noun}

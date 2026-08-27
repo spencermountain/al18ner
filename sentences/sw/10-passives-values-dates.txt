@@ -1,0 +1,100 @@
+Dirisha lilivunjwa na dhoruba. {Noun,Vb,Prep,Noun}
+Barua iliandikwa kwa mkono. {Noun,Vb,Prep,Noun}
+Daraja lilijengwa mwaka 1930. {Noun,Vb,Noun,Val}
+Keki ililiwa kabla ya adhuhuri. {Noun,Vb,Conj,Prep,Noun}
+Mwizi alikamatwa na polisi. {Noun,Vb,Prep,Noun}
+Wimbo uliimbwa na kwaya. {Noun,Vb,Prep,Noun}
+Barabara ilitengenezwa mwezi uliopita. {Noun,Vb,Date,Adj}
+Lugha hii inazungumzwa katika nchi nyingi. {Noun,Det,Vb,Prep,Noun,Adj}
+Barua hupelekwa kila asubuhi. {Noun,Vb,Det,Noun}
+Chakula hutolewa saa moja. {Noun,Vb,Noun,Val}
+Sheria zinaelezwa katika kitabu. {Noun,Vb,Prep,Noun}
+Washindi watatangazwa kesho. {Noun,Vb,Date}
+Kifurushi kitapelekwa Ijumaa. {Noun,Vb,Date}
+Nyumba imeuzwa. {Noun,Vb}
+Tikiti zimechapishwa. {Noun,Vb}
+Makumbusho yalifunguliwa na meya. {Noun,Vb,Prep,Noun}
+Baiskeli yangu iliibiwa wiki iliyopita. {Noun,Noun,Vb,Date,Adj}
+Moto ulisababishwa na mshumaa. {Noun,Vb,Prep,Noun}
+Mchezo ulighairiwa kwa sababu ya mvua. {Noun,Vb,Conj,Conj,Prep,Noun}
+Alipandishwa cheo mwezi uliopita. {Vb,Noun,Date,Adj}
+Keki ililiwa haraka. {Noun,Vb,Adv}
+Hadithi ilisimuliwa na babu yangu. {Noun,Vb,Prep,Noun,Noun}
+Viatu hivi vilitengenezwa Italia. {Noun,Det,Vb,Noun}
+Tatizo lilitatuliwa haraka. {Noun,Vb,Adv}
+Hospitali mpya inajengwa. {Noun,Adj,Vb}
+Alinunua matofaa matatu. {Vb,Noun,Val}
+Ana vitabu mia mbili. {Vb,Noun,Val,Val}
+Mapishi yanahitaji vikombe viwili vya unga. {Noun,Vb,Noun,Val,Prep,Noun}
+Nililipa dola ishirini. {Vb,Noun,Val}
+Tikiti inagharimu dola hamsini. {Noun,Vb,Noun,Val}
+Ana miaka ishirini. {Vb,Noun,Val}
+Mwanangu ana miaka saba. {Noun,Vb,Noun,Val}
+Mnara una urefu wa mita mia tatu. {Noun,Vb,Noun,Prep,Noun,Val,Val}
+Tulisubiri dakika arobaini. {Vb,Noun,Val}
+Mlango wa tatu uko wazi. {Noun,Prep,Val,Vb,Adj}
+Alimaliza nafasi ya pili. {Vb,Noun,Prep,Val}
+Hii ni ziara yangu ya kwanza. {Noun,Vb,Noun,Noun,Prep,Val}
+Alipata pointi tisini. {Vb,Noun,Val}
+Kitabu kina kurasa mia tatu. {Noun,Vb,Noun,Val,Val}
+Nusu ya pizza imeisha. {Val,Prep,Noun,Vb}
+Mayai dazeni moja yanagharimu dola nne. {Noun,Noun,Val,Vb,Noun,Val}
+Darasa lina wanafunzi thelathini. {Noun,Vb,Noun,Val}
+Alikimbia kilomita tano. {Vb,Noun,Val}
+Namba ya chumba ni kumi na mbili. {Noun,Prep,Noun,Vb,Val,Conj,Val}
+Mbili jumlisha mbili ni nne. {Val,Conj,Val,Vb,Val}
+Siku yangu ya kuzaliwa ni Juni. {Date,Noun,Prep,Vb,Vb,Date}
+Mkutano ni Jumatatu. {Noun,Vb,Date}
+Tunaondoka Ijumaa asubuhi. {Vb,Date,Noun}
+Krismasi inaangukia Alhamisi mwaka huu. {Noun,Vb,Date,Date,Det}
+Alizaliwa tarehe nne Juni. {Vb,Noun,Val,Date}
+Duka hufunguliwa saa tatu asubuhi. {Noun,Vb,Noun,Val,Date}
+Treni huondoka saa kumi na mbili jioni. {Noun,Vb,Noun,Val,Conj,Val,Date}
+Leo ni Jumatano. {Date,Vb,Date}
+Jana ilikuwa sikukuu. {Date,Vb,Noun}
+Kesho ni siku nyingine. {Date,Vb,Noun,Det}
+Mtihani ni Jumanne ijayo. {Noun,Vb,Date,Adj}
+Tulikutana Aprili. {Vb,Date}
+Mkataba unaisha Machi. {Noun,Vb,Date}
+Likizo huanza Julai. {Noun,Vb,Date}
+Sherehe ni Jumamosi hii. {Noun,Vb,Date,Det}
+Hufanya kazi kuanzia Jumatatu hadi Ijumaa. {Vb,Noun,Prep,Date,Prep,Date}
+Oktoba ilikuwa na mvua mwaka huu. {Date,Vb,Prep,Noun,Date,Det}
+Miadi ni adhuhuri siku ya Jumanne. {Noun,Vb,Noun,Date,Prep,Date}
+Shule huisha mwanzoni mwa Juni. {Noun,Vb,Adj,Prep,Date}
+Harusi ni mwezi wa Septemba. {Noun,Vb,Date,Prep,Date}
+Rafiki yangu maarufu alifika. {Noun,Noun,Adj,Vb}
+Ni safari ya saa mbili kwa gari. {Vb,Noun,Prep,Date,Val,Prep,Noun}
+Ulikuwa mpango wa muda mrefu. {Vb,Noun,Prep,Noun,Adj}
+Ni mtoto mwenye adabu. {Vb,Noun,Prep,Noun}
+Wanaishi katika nyumba ya ghorofa mbili. {Vb,Prep,Noun,Prep,Noun,Val}
+Ana kazi ya muda. {Vb,Noun,Prep,Noun}
+Mwanamume aliyevaa vizuri alisubiri. {Noun,Vb,Adv,Vb}
+Ilikuwa uamuzi wa dakika ya mwisho. {Vb,Noun,Prep,Date,Prep,Adj}
+Alijiumiza. {Vb}
+Alijifunza Kiitaliano mwenyewe. {Vb,Noun,Noun}
+Tulijifurahisha. {Vb}
+Paka hujisafisha mwenyewe. {Noun,Vb,Noun}
+Walionana. {Vb}
+Jihudumieni vitafunio. {Vb,Noun}
+Nilitengeneza hii mwenyewe. {Vb,Det,Noun}
+Rafiki yangu Tom hupiga ngoma. {Noun,Noun,Noun,Vb,Noun}
+Moja ya mayai lilivunjika. {Val,Prep,Noun,Vb}
+Kila mmoja wetu alilipa dola kumi. {Det,Val,Noun,Vb,Noun,Val}
+Baadhi ya maziwa yalimwagika. {Det,Prep,Noun,Vb}
+Wanatimu waliobaki walibaki. {Noun,Vb,Vb}
+Wote wawili walikubali. {Det,Val,Vb}
+Bei ya mafuta ilishuka tena. {Noun,Prep,Noun,Vb,Adv}
+Rangi ya anga ilibadilika. {Noun,Prep,Noun,Vb}
+Rafiki yangu alipiga simu. {Noun,Noun,Vb,Noun}
+Kilele cha mlima kilikuwa cheupe. {Noun,Prep,Noun,Vb,Adj}
+Inachukua saa mbili kufika nyumbani. {Vb,Noun,Val,Vb,Noun}
+Alama haisemi kitu. {Noun,Vb,Noun}
+Ndoto yake ni kusafiri dunia. {Noun,Noun,Vb,Vb,Noun}
+Ili kushinda, lazima ufanye mazoezi. {Conj,Vb,Vb,Vb,Noun}
+Lengo ni kumaliza kabla ya Ijumaa. {Noun,Vb,Vb,Conj,Prep,Date}
+Mkia wake ni laini. {Noun,Noun,Vb,Adj}
+Timu ilisherehekea ushindi wake. {Noun,Vb,Noun,Noun}
+Kila mtu alileta kitu. {Det,Noun,Vb,Noun}
+Mtu yeyote anaweza kujifunza ujuzi huu. {Noun,Det,Vb,Vb,Noun,Det}
+Kila mwaka, tamasha hukua. {Det,Date,Noun,Vb}

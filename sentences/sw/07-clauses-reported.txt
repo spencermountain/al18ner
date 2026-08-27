@@ -1,0 +1,100 @@
+Alinunua matofaa na machungwa. {Vb,Noun,Conj,Noun}
+Anacheza gitaa na piano. {Vb,Noun,Conj,Noun}
+Tulifunga mashati, soksi na viatu. {Vb,Noun,Noun,Conj,Noun}
+Paka na mbwa ni marafiki. {Noun,Conj,Noun,Vb,Noun}
+Unaweza kupata chai au kahawa. {Vb,Vb,Noun,Conj,Noun}
+Je, ni buluu au kijani? {QuestionWord,Vb,Adj,Conj,Adj}
+Alifungua mlango na kutabasamu. {Vb,Noun,Conj,Vb}
+Alisafisha gari na kukata nyasi. {Vb,Noun,Conj,Vb,Noun}
+Nilipiga simu, lakini hakuna aliyejibu. {Vb,Noun,Conj,Negative,Vb}
+Chakula kilikuwa rahisi lakini kitamu. {Noun,Vb,Adj,Conj,Adj}
+Ni mdogo lakini mwenye nguvu. {Vb,Adj,Conj,Prep,Noun}
+Tulitaka kubaki, lakini ilibidi tuondoke. {Vb,Vb,Conj,Vb,Vb}
+Harakisha, la sivyo tutakosa basi. {Vb,Conj,Conj,Vb,Noun}
+Hakutabasamu wala hakuongea. {Vb,Conj,Vb}
+Ama wewe ama mimi atashinda. {Conj,Noun,Conj,Noun,Vb}
+Wavulana na wasichana wote walishangilia. {Noun,Conj,Noun,Noun,Vb}
+Anazungumza Kifaransa na Kihispania kidogo. {Vb,Noun,Conj,Noun,Adj}
+Filamu ilikuwa ndefu, lakini tuliifurahia. {Noun,Vb,Adj,Conj,Vb}
+Chukua kalamu na karatasi kidogo. {Vb,Noun,Conj,Noun,Det}
+Alijitahidi sana, lakini alishindwa. {Vb,Adv,Conj,Vb}
+Kitabu alichoandika ni kirefu. {Noun,Vb,Vb,Adj}
+Mwanamke niliyemkuta alikuwa mkarimu. {Noun,Vb,Vb,Adj}
+Nyumba waliyojenga ni kubwa. {Noun,Vb,Vb,Adj}
+Keki uliyooka ilikuwa tamu. {Noun,Vb,Vb,Adj}
+Wimbo alioimba ulinifanya nilie. {Noun,Vb,Vb,Vb}
+Msichana ambaye baiskeli yake ilivunjika alilia. {Noun,QuestionWord,Noun,Noun,Vb,Vb}
+Mwandishi ambaye kitabu chake kilishinda alitoa hotuba. {Noun,QuestionWord,Noun,Noun,Vb,Vb,Noun}
+Mwanamume ambaye gari lake liliibiwa alipiga simu polisi. {Noun,QuestionWord,Noun,Noun,Vb,Vb,Noun,Noun}
+Nilitembelea mji alikozaliwa. {Vb,Noun,Vb}
+Huu ndio mji alikokulia. {Noun,Vb,Noun,Vb}
+Tulipata bustani ambapo watoto wanaweza kucheza. {Vb,Noun,QuestionWord,Noun,Vb,Vb}
+Nakumbuka siku tuliyokutana. {Vb,Date,Vb}
+Mwanamume anayeishi jirani ni mkarimu. {Noun,Vb,Noun,Vb,Adj}
+Mwanamke aliyepiga simu aliacha ujumbe. {Noun,Vb,Noun,Vb,Noun}
+Mvulana aliyeshinda mbio alitabasamu. {Noun,Vb,Noun,Vb}
+Watu waliofika mapema walipata viti. {Noun,Vb,Adv,Vb,Noun}
+Msichana aliyepata pochi aliirudisha. {Noun,Vb,Noun,Vb}
+Filamu iliyoshinda tuzo ilikuwa ndefu. {Noun,Vb,Noun,Vb,Adj}
+Barabara inayovuka mto ni nyembamba. {Noun,Vb,Noun,Vb,Adj}
+Barua iliyofika leo ilitoka kwa Tom. {Noun,Vb,Date,Vb,Prep,Noun}
+Kila aliyekuja alifurahi. {Det,Vb,Vb}
+Majirani tuliowaalika walifika kwanza. {Noun,Vb,Vb,Val}
+Vifaa alivyoazima vilikuwa na kutu. {Noun,Vb,Vb,Prep,Noun}
+Aliolewa na mwanamume ambaye kila mtu alimstahi. {Vb,Prep,Noun,Det,Det,Noun,Vb}
+Gauni alilochagua lilikuwa zuri. {Noun,Vb,Vb,Adj}
+Alisema kwamba alikuwa amechoka. {Vb,Conj,Vb,Vb}
+Alisema kwamba iliahirishwa. {Vb,Conj,Vb}
+Walisema kwamba barabara ilifungwa. {Vb,Conj,Noun,Vb}
+Alisema kwamba angehama. {Vb,Conj,Vb}
+Alituambia kwamba chakula kilikuwa tayari. {Vb,Conj,Noun,Vb,Adj}
+Mwalimu alisema kwamba ilikuwa rahisi. {Noun,Vb,Conj,Vb,Adj}
+Alisema kwa siri kwamba alikuwa amelala. {Vb,Prep,Noun,Conj,Vb,Vb}
+Alieleza kwamba walichelewa. {Vb,Conj,Vb}
+Alikiri kwamba alikosea. {Vb,Conj,Vb}
+Aliahidi kwamba angesaidia. {Vb,Conj,Vb}
+Anasema kwamba ni kweli. {Vb,Conj,Vb,Adj}
+Nilisikia kwamba ulipata kazi mpya. {Vb,Conj,Vb,Noun,Adj}
+Alitaja kwamba alikuwa na shughuli. {Vb,Conj,Vb,Prep,Noun}
+Alidai kwamba ilikuwa salama. {Vb,Conj,Vb,Adj}
+Walitangaza kwamba ilikuwa inaanza. {Vb,Conj,Vb,Vb}
+Nadhani una haki. {Vb,Vb,Noun}
+Natumai atashinda. {Vb,Vb}
+Anaamini kwamba dunia ni duara. {Vb,Conj,Noun,Vb,Adj}
+Anajua kwamba jibu si sahihi. {Vb,Conj,Noun,Negative,Adj}
+Nadhani tunapaswa kwenda. {Vb,Vb,Vb}
+Anafikiri kwamba mpango utashindwa. {Vb,Conj,Noun,Vb}
+Tunadhani kwamba duka liko wazi. {Vb,Conj,Noun,Vb,Adj}
+Anahisi kwamba timu inaweza kushinda. {Vb,Conj,Noun,Vb,Vb}
+Nina hakika kwamba theluji itaanguka kesho. {Vb,Noun,Conj,Noun,Vb,Date}
+Wanasema kwamba jumba lina mizimu. {Vb,Conj,Noun,Vb,Noun}
+Kaka yangu, anayeishi Denver, anakuja kututembelea. {Noun,Noun,Vb,Noun,Vb,Vb}
+Nyumba, ambayo ilikuwa tupu, ilihisi baridi. {Noun,QuestionWord,Vb,Adj,Vb,Noun}
+Gari lake, ambalo lilikuwa jipya, liliharibika. {Noun,Noun,QuestionWord,Vb,Adj,Vb}
+Mwalimu wetu, anayezungumza lugha nne, ni maarufu. {Noun,Noun,Vb,Noun,Val,Vb,Adj}
+Daraja, lililojengwa mwaka 1900, bado liko wazi. {Noun,Vb,Noun,Val,Adv,Vb,Adj}
+Najua kwamba ana shughuli. {Vb,Conj,Vb,Noun}
+Inaonekana kwamba ana haki. {Vb,Conj,Vb,Noun}
+Tatizo ni kwamba tumechelewa. {Noun,Vb,Conj,Vb}
+Ukweli ni kwamba huenda tusijue kamwe. {Noun,Vb,Conj,Vb,Vb,Negative}
+Alisahau kwamba walikuwa wamefunga. {Vb,Conj,Vb,Vb}
+Aligundua kwamba lilikuwa wazi. {Vb,Conj,Vb,Adj}
+Kumbuka kwamba tunaondoka saa kumi na moja. {Vb,Conj,Vb,Noun,Val,Conj,Val}
+Nina shaka kwamba atakuja. {Vb,Noun,Conj,Vb}
+Tulikubaliana kwamba bei ilikuwa nzuri. {Vb,Conj,Noun,Vb,Adj}
+Inaonekana kwamba alikuwa sahihi. {Vb,Conj,Vb,Adj}
+Tulitembelea Roma, Florence na Venice. {Vb,Noun,Noun,Conj,Noun}
+Anaweza kusoma, kuandika na kuogelea. {Vb,Vb,Vb,Conj,Vb}
+Bendera ni nyekundu, nyeupe na buluu. {Noun,Vb,Adj,Adj,Conj,Adj}
+Aliagiza supu, saladi na mkate. {Vb,Noun,Noun,Conj,Noun}
+Asubuhi ilikuwa baridi, yenye unyevu na upepo. {Noun,Vb,Noun,Prep,Noun,Conj,Noun}
+Alichukua koti, kofia na glavu. {Vb,Noun,Noun,Conj,Noun}
+Je, unataka wali au tambi? {QuestionWord,Vb,Noun,Conj,Noun}
+Wala paka wala mbwa hakusogea. {Det,Noun,Conj,Noun,Vb}
+Tunaweza kutembea, au tunaweza kupanda basi. {Vb,Vb,Conj,Vb,Vb,Noun}
+Supu ilikuwa moto, na mkate ulikuwa mbichi. {Noun,Vb,Adj,Conj,Noun,Vb,Adj}
+Aligonga mlango, naye akafungua. {Vb,Noun,Noun,Vb}
+Soma kwa bidii, nawe utafanikiwa. {Vb,Prep,Noun,Noun,Vb}
+Timu ilicheza vizuri na ikashinda taji. {Noun,Vb,Adv,Conj,Vb,Noun}
+Mimi hunywa chai, na dada yangu hunywa kahawa. {Noun,Vb,Noun,Conj,Noun,Noun,Vb,Noun}
+Alitabasamu na kuwapungia umati mkono. {Vb,Conj,Vb,Noun,Noun}

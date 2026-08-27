@@ -1,0 +1,100 @@
+Anaweza kuogelea. {Vb,Vb}
+Anaweza kuzungumza lugha tatu. {Vb,Vb,Noun,Val}
+Ninakusikia. {Vb}
+Tunaweza kukutana Jumanne. {Vb,Vb,Date}
+Ndege wanaweza kuruka. {Noun,Vb,Vb}
+Unaweza kukaa nasi. {Vb,Vb,Noun}
+Anaweza kuendesha lori. {Vb,Vb,Noun}
+Ninanusa moshi. {Vb,Noun}
+Aliweza kusoma akiwa na miaka minne. {Vb,Vb,Vb,Prep,Noun,Val}
+Aliweza kusikia muziki. {Vb,Vb,Noun}
+Tuliweza kuona milima. {Vb,Vb,Noun}
+Unaweza kujaribu mlango mwingine. {Vb,Vb,Noun,Adj}
+Wanaweza kufika wakati wowote. {Vb,Vb,Noun,Det}
+Ningeweza kula pizza nzima. {Vb,Vb,Noun,Adj}
+Huenda mvua ikanyesha jioni hii. {Vb,Noun,Vb,Date,Det}
+Huenda akajiunga nasi kwa chakula cha jioni. {Vb,Vb,Noun,Prep,Noun,Prep,Noun}
+Unaweza kuondoka mezani. {Vb,Vb,Noun}
+Mpango unaweza kubadilika. {Noun,Vb,Vb}
+Huenda anajua jibu. {Vb,Vb,Noun}
+Huenda tutatembelea makumbusho. {Vb,Vb,Noun}
+Lazima uvae kofia ngumu. {Vb,Vb,Noun,Adj}
+Lazima wanafunzi wamalize mtihani kabla ya adhuhuri. {Vb,Noun,Vb,Noun,Prep,Prep,Noun}
+Lazima tulinde msitu. {Vb,Vb,Noun}
+Lazima awe na njaa. {Vb,Vb,Prep,Noun}
+Lazima alikosa basi. {Vb,Vb,Noun}
+Lazima awe anajivunia sana. {Vb,Vb,Vb,Adv}
+Unapaswa kunywa maji zaidi. {Vb,Vb,Noun,Adj}
+Anapaswa kumwomba msamaha. {Vb,Vb,Noun}
+Tunapaswa kuondoka mapema. {Vb,Vb,Adv}
+Wanapaswa kupanda miti mingi. {Vb,Vb,Noun,Adj}
+Unapaswa kumwona daktari. {Vb,Vb,Noun}
+Anapaswa kupumzika leo. {Vb,Vb,Date}
+Ningependa kikombe cha chai. {Vb,Noun,Prep,Noun}
+Angesaidia kama angeweza. {Vb,Conj,Vb}
+Hangedanganya kamwe. {Vb,Negative}
+Tungependa kujiunga nawe. {Vb,Vb,Noun}
+Hilo lingekuwa zuri sana. {Det,Vb,Adj,Adv}
+Wangependelea kutembea. {Vb,Vb}
+Tuanze? {Vb}
+Nifungue dirisha? {Vb,Noun}
+Tutaona. {Vb}
+Utapata tuzo yako. {Vb,Noun,Noun}
+Ni lazima niondoke mapema. {Vb,Vb,Vb,Adv}
+Ni lazima afanye kazi Jumamosi. {Vb,Vb,Vb,Noun,Date}
+Ilibidi tughairi safari. {Vb,Vb,Noun}
+Unapaswa kuomba msamaha. {Vb,Vb,Noun}
+Afadhali aharakishe. {Adv,Vb}
+Wanahitaji kupata nyumba mpya. {Vb,Vb,Noun,Adj}
+Ninahitaji kununua vyakula. {Vb,Vb,Noun}
+Si lazima aje. {Negative,Vb,Vb}
+Sielewi. {Vb}
+Hali nyama. {Vb,Noun}
+Hatukusikia kengele. {Vb,Noun}
+Hawana gari. {Vb,Noun}
+Hakujibu simu yangu. {Vb,Noun,Noun}
+Sijui jina lake. {Vb,Noun,Noun}
+Haijalishi. {Vb}
+Huhitaji tikiti. {Vb,Noun}
+Printa haifanyi kazi. {Noun,Vb,Noun}
+Hatukutarajia mvua. {Vb,Noun}
+Hayuko tayari. {Vb,Adj}
+Supu si moto vya kutosha. {Noun,Negative,Adj,Prep,Vb}
+Hawako nyumbani. {Vb,Noun}
+Sikuwa tayari. {Vb,Adj}
+Funguo hazikuwa katika mkoba wangu. {Noun,Vb,Prep,Noun,Noun}
+Yeye si muuguzi. {Noun,Negative,Noun}
+Siwezi kupata miwani yangu. {Vb,Vb,Noun,Noun}
+Hawezi kuja kwenye sherehe. {Vb,Vb,Prep,Noun}
+Hataki kusikiliza. {Vb,Vb}
+Hawatauza shamba. {Vb,Noun}
+Hatukuweza kufungua chupa. {Vb,Vb,Noun}
+Hupaswi kuwa na wasiwasi sana. {Vb,Vb,Prep,Noun,Adv}
+Nisingefanya hivyo. {Vb,Det}
+Usimwambie mtu yeyote. {Vb,Noun,Det}
+Hawezi kuogelea. {Vb,Vb}
+Hatuwezi kusubiri tena. {Vb,Vb,Adv}
+Halalamiki kamwe. {Vb,Negative}
+Sili kifungua kinywa kamwe. {Vb,Noun,Noun,Negative}
+Hajawahi kuruka kwa ndege. {Vb,Vb,Prep,Noun}
+Hatutajua kamwe. {Vb,Negative}
+Hakuna kilichotokea. {Negative,Vb}
+Hakuna aliyefungua mlango. {Negative,Vb,Noun}
+Hakuna kilichopotea. {Negative,Vb}
+Hakuna anayejua ukweli. {Negative,Vb,Noun}
+Hakuna jibu lililo sahihi. {Negative,Noun,Vb,Adj}
+Hakuna hata mmoja wetu aliyelala. {Negative,Adv,Val,Noun,Vb}
+Hadithi si kweli. {Noun,Negative,Adj}
+Yeye si kaka yangu. {Noun,Negative,Noun,Noun}
+Hiyo haikuwa haki. {Det,Vb,Noun}
+Maziwa si mabichi. {Noun,Negative,Adj}
+Sina hasira. {Vb,Noun}
+Usiguse jiko. {Vb,Noun}
+Hawakualikwa. {Vb}
+Aliamua kutojibu. {Vb,Vb}
+Hana wazo lolote. {Vb,Noun,Det}
+Hakuna viti vilivyobaki. {Negative,Noun,Vb}
+Hana pesa. {Vb,Noun}
+Ungependa maji kidogo? {Vb,Noun,Det}
+Waweza kurudia hilo? {Vb,Vb,Det}
+Naomba niulize swali? {Vb,Vb,Noun}

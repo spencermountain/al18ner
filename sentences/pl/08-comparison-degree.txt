@@ -1,0 +1,100 @@
+Jest wyższy od swojego brata. {Vb,Adj,Prep,Noun,Noun}
+To pudełko jest cięższe niż tamto. {Det,Noun,Vb,Adj,Prep,Det}
+Zima jest zimniejsza niż jesień. {Noun,Vb,Adj,Prep,Noun}
+Mój samochód jest starszy niż twój. {Noun,Noun,Vb,Adj,Prep,Noun}
+Ona biega szybciej niż ja. {Noun,Vb,Adj,Prep,Noun}
+Test był trudniejszy niż zadanie domowe. {Noun,Vb,Adj,Prep,Noun,Adj}
+Dziś jest cieplej niż wczoraj. {Date,Vb,Adj,Prep,Date}
+Ta droga jest krótsza niż autostrada. {Det,Noun,Vb,Adj,Prep,Noun}
+Jej włosy są dłuższe niż moje. {Noun,Noun,Vb,Adj,Prep,Noun}
+Niebieska koszula jest tańsza niż czerwona. {Adj,Noun,Vb,Adj,Prep,Adj}
+Jest młodszy od swojej siostry. {Vb,Adj,Prep,Noun,Noun}
+Druga połowa była lepsza niż pierwsza. {Val,Noun,Vb,Adj,Prep,Val}
+Pociągi są bezpieczniejsze niż samochody. {Noun,Vb,Adj,Prep,Noun}
+Moja zupa jest gorętsza niż twoja. {Noun,Noun,Vb,Adj,Prep,Noun}
+W pokoju zrobiło się cicho. {Prep,Noun,Vb,Noun,Adv}
+Film był ciekawszy niż książka. {Noun,Vb,Adj,Prep,Noun}
+Ta układanka jest trudniejsza niż wygląda. {Det,Noun,Vb,Adj,Prep,Vb}
+Jej plan był bardziej praktyczny niż jego. {Noun,Noun,Vb,Adv,Adj,Prep,Noun}
+Miasto jest bardziej żywe latem. {Noun,Vb,Adv,Adj,Date}
+To krzesło jest wygodniejsze niż kanapa. {Det,Noun,Vb,Adj,Prep,Noun}
+Mówił wolniej niż zwykle. {Vb,Adv,Prep,Adv}
+Śpiewa słodziej niż ktokolwiek. {Vb,Adv,Prep,Noun}
+Pogoda była gorsza niż w zeszłym roku. {Noun,Vb,Adj,Prep,Prep,Adj,Date}
+To najlepsza pizza w mieście. {Noun,Adj,Noun,Prep,Noun}
+Jest najwyższą dziewczyną w klasie. {Vb,Adj,Noun,Prep,Noun}
+To była najgorsza burza od lat. {Noun,Vb,Adj,Noun,Prep,Noun}
+Jest najszybszym biegaczem w drużynie. {Vb,Adj,Noun,Prep,Noun}
+To najdroższy zegarek. {Noun,Adj,Noun}
+Kupiła najtańszy bilet. {Vb,Adj,Noun}
+To był najszczęśliwszy dzień mojego życia. {Noun,Vb,Adj,Noun,Noun,Noun}
+Najstarszy budynek to kościół. {Adj,Noun,Vb,Noun}
+Opowiedział najzabawniejszy dowcip. {Vb,Adj,Noun}
+To najpiękniejszy ogród w mieście. {Noun,Adj,Noun,Prep,Noun}
+Jest najzdolniejszym uczniem w szkole. {Vb,Adj,Noun,Prep,Noun}
+Najprostsza odpowiedź jest często poprawna. {Adj,Noun,Vb,Adv,Adj}
+Jest tak wysoka jak jej siostra. {Vb,Prep,Adj,Prep,Noun,Noun}
+Woda jest tak czysta jak szkło. {Noun,Vb,Prep,Adj,Prep,Noun}
+Jest tak uparty jak osioł. {Vb,Prep,Adj,Prep,Noun}
+W pokoju było tak cicho jak w bibliotece. {Prep,Noun,Vb,Prep,Adv,Prep,Prep,Noun}
+Jej ręce były zimne jak lód. {Noun,Noun,Vb,Adj,Prep,Noun}
+Ta torba nie jest tak ciężka jak wygląda. {Det,Noun,Negative,Vb,Prep,Adj,Prep,Vb}
+Pudełko było zbyt ciężkie żeby je podnieść. {Noun,Vb,Adv,Adj,Conj,Noun,Vb}
+Kawa jest zbyt gorąca żeby ją pić. {Noun,Vb,Adv,Adj,Conj,Noun,Vb}
+Jest wystarczająco dorosły żeby prowadzić. {Vb,Adv,Adj,Conj,Vb}
+Woda jest wystarczająco ciepła do pływania. {Noun,Vb,Adv,Adj,Prep,Noun}
+Jest za wcześnie na obiad. {Vb,Adv,Adj,Prep,Noun}
+Jest zbyt zajęta żeby rozmawiać. {Vb,Adv,Adj,Conj,Vb}
+Półka jest za wysoko żeby dosięgnąć. {Noun,Vb,Adv,Adv,Conj,Vb}
+Mamy dość krzeseł dla wszystkich. {Vb,Adj,Noun,Prep,Noun}
+Jest bardzo szczęśliwa. {Vb,Adv,Adj}
+Pudełko jest dość ciężkie. {Noun,Vb,Adv,Adj}
+Był naprawdę zmęczony. {Vb,Adv,Adj}
+Zupa jest niezwykle gorąca. {Noun,Vb,Adv,Adj}
+Było tak zimno. {Vb,Adv,Adj}
+Film był raczej powolny. {Noun,Vb,Adv,Adj}
+Jestem dość pewny. {Vb,Adv,Adj}
+Ścieżka jest lekko stroma. {Noun,Vb,Adv,Adj}
+Była głęboko poruszona. {Vb,Adv,Vb}
+Instrukcje były całkiem jasne. {Noun,Vb,Adv,Adj}
+Na dachu jest kot. {Prep,Noun,Vb,Noun}
+W lodówce jest pięć jajek. {Prep,Noun,Vb,Val,Noun}
+Wczoraj w nocy była burza. {Date,Prep,Noun,Vb,Noun}
+Na przyjęciu było wielu ludzi. {Prep,Noun,Vb,Adj,Noun}
+Jest dla ciebie wiadomość. {Vb,Prep,Noun,Noun}
+Są dwa sposoby żeby to rozwiązać. {Vb,Val,Noun,Conj,Det,Vb}
+W pudełku nic nie było. {Prep,Noun,Noun,Negative,Vb}
+Ktoś jest przy drzwiach. {Noun,Vb,Prep,Noun}
+Jest mnóstwo opcji. {Vb,Noun,Noun}
+W lodówce jest mleko. {Prep,Noun,Vb,Noun}
+Na niebie było mało chmur. {Prep,Noun,Vb,Det,Noun}
+W wannie jest pająk. {Prep,Noun,Vb,Noun}
+Na tej ulicy są trzy domy. {Prep,Det,Noun,Vb,Val,Noun}
+W piekarni była długa kolejka. {Prep,Noun,Vb,Adj,Noun}
+Zawsze jest jeszcze jedna szansa. {Adv,Vb,Det,Val,Noun}
+Większość ludzi się zgadza. {Adj,Noun,Noun,Vb}
+Wielu uczniów zdało egzamin. {Adj,Noun,Vb,Noun}
+Niektóre ptaki nie potrafią latać. {Det,Noun,Negative,Vb,Vb}
+Każdy gracz dostaje kolejkę. {Det,Noun,Vb,Noun}
+Każde miejsce było zajęte. {Det,Noun,Vb,Adj}
+Obie odpowiedzi są poprawne. {Det,Noun,Vb,Adj}
+Kilka okien było otwartych. {Det,Noun,Vb,Adj}
+Mało kto zna ten sekret. {Det,Noun,Vb,Det,Noun}
+Minęło dużo czasu. {Vb,Det,Noun}
+Wszystkie ciastka zniknęły. {Noun,Noun,Vb}
+Połowa klasy była nieobecna. {Val,Noun,Vb,Adj}
+Większość gości wyszła wcześnie. {Adj,Noun,Vb,Adv}
+Kawa jest wystarczająco mocna. {Noun,Vb,Adv,Adj}
+Prawie spóźniła się na autobus. {Adv,Vb,Noun,Prep,Noun}
+Bak jest prawie pełny. {Noun,Vb,Adv,Adj}
+Zupełnie zapomniałem. {Adv,Vb}
+Ledwo spał. {Adv,Vb}
+Szklanka jest w połowie pełna. {Noun,Vb,Prep,Noun,Adj}
+Ledwo ich znamy. {Adv,Noun,Vb}
+Ta historia jest absolutnie prawdziwa. {Det,Noun,Vb,Adv,Adj}
+Jej odpowiedź była całkowicie trafna. {Noun,Noun,Vb,Adv,Adj}
+Dwie torby ważą dziesięć kilogramów. {Val,Noun,Vb,Val,Noun}
+Czynsz podwoił się w zeszłym roku. {Noun,Vb,Noun,Prep,Adj,Date}
+Dziś jest znacznie zimniej. {Date,Vb,Adv,Adj}
+Czuje się trochę lepiej. {Vb,Noun,Det,Adj}
+Kolejka posuwała się bardzo wolno. {Noun,Vb,Noun,Adv,Adv}

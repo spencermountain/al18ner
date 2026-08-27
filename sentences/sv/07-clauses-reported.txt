@@ -1,0 +1,100 @@
+Hon köpte äpplen och apelsiner. {Noun,Vb,Noun,Conj,Noun}
+Han spelar gitarr och piano. {Noun,Vb,Noun,Conj,Noun}
+Vi packade skjortor, strumpor och skor. {Noun,Vb,Noun,Noun,Conj,Noun}
+Katten och hunden är vänner. {Noun,Conj,Noun,Vb,Noun}
+Du kan få te eller kaffe. {Noun,Vb,Vb,Noun,Conj,Noun}
+Är den blå eller grön? {Vb,Noun,Adj,Conj,Adj}
+Hon öppnade dörren och log. {Noun,Vb,Noun,Conj,Vb}
+Han tvättade bilen och klippte gräset. {Noun,Vb,Noun,Conj,Vb,Noun}
+Jag ringde, men ingen svarade. {Noun,Vb,Conj,Noun,Vb}
+Maten var billig men god. {Noun,Vb,Adj,Conj,Adj}
+Hon är liten men stark. {Noun,Vb,Adj,Conj,Adj}
+Vi ville stanna, men vi måste gå. {Noun,Vb,Vb,Conj,Noun,Vb,Vb}
+Skynda dig, annars missar vi bussen. {Vb,Noun,Conj,Vb,Noun,Noun}
+Han varken log eller talade. {Noun,Det,Vb,Conj,Vb}
+Antingen du eller jag vinner. {Conj,Noun,Conj,Noun,Vb}
+Både pojkarna och flickorna jublade. {Noun,Noun,Conj,Noun,Vb}
+Hon talar franska och lite spanska. {Noun,Vb,Noun,Conj,Adj,Noun}
+Filmen var lång, men vi gillade den. {Noun,Vb,Adj,Conj,Noun,Vb,Noun}
+Ta med en penna och lite papper. {Vb,Vb,Det,Noun,Conj,Det,Noun}
+Han försökte hårt, men ändå misslyckades han. {Noun,Vb,Adv,Conj,Adv,Vb,Noun}
+Boken som hon skrev är lång. {Noun,Det,Noun,Vb,Vb,Adj}
+Kvinnan som jag träffade var trevlig. {Noun,Det,Noun,Vb,Vb,Adj}
+Huset som de byggde är enormt. {Noun,Det,Noun,Vb,Vb,Adj}
+Kakan som du bakade var utsökt. {Noun,Det,Noun,Vb,Vb,Adj}
+Låten som hon sjöng fick mig att gråta. {Noun,Det,Noun,Vb,Vb,Noun,Conj,Vb}
+Flickan vars cykel gick sönder grät. {Noun,QuestionWord,Noun,Vb,Adj,Vb}
+Författaren vars bok vann höll ett tal. {Noun,QuestionWord,Noun,Vb,Vb,Det,Noun}
+Mannen vars bil blev stulen ringde polisen. {Noun,QuestionWord,Noun,Vb,Vb,Vb,Noun}
+Jag besökte staden där han föddes. {Noun,Vb,Noun,QuestionWord,Noun,Vb}
+Detta är staden där hon växte upp. {Det,Vb,Noun,QuestionWord,Noun,Vb,Vb}
+Vi hittade en park där barnen kan leka. {Noun,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
+Jag minns dagen när vi träffades. {Noun,Vb,Date,QuestionWord,Noun,Vb}
+Mannen som bor granne är snäll. {Noun,QuestionWord,Vb,Noun,Vb,Adj}
+Kvinnan som ringde lämnade ett meddelande. {Noun,QuestionWord,Vb,Vb,Det,Noun}
+Pojken som vann loppet log. {Noun,QuestionWord,Vb,Noun,Vb}
+Folk som kom tidigt hittade platser. {Noun,QuestionWord,Vb,Adv,Vb,Noun}
+Flickan som hittade plånboken lämnade tillbaka den. {Noun,QuestionWord,Vb,Noun,Vb,Adv,Noun}
+Filmen som vann priset var lång. {Noun,QuestionWord,Vb,Noun,Vb,Adj}
+Vägen som korsar floden är smal. {Noun,QuestionWord,Vb,Noun,Vb,Adj}
+Brevet som kom idag var från Tom. {Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
+Alla som kom hade trevligt. {Noun,QuestionWord,Vb,Vb,Adj}
+Grannarna som vi bjöd in kom först. {Noun,Det,Noun,Vb,Vb,Vb,Val}
+Verktygen som han lånade var rostiga. {Noun,Det,Noun,Vb,Vb,Adj}
+Hon gifte sig med en man som alla beundrade. {Noun,Vb,Noun,Prep,Det,Noun,Det,Noun,Vb}
+Klänningen som hon valde var perfekt. {Noun,Det,Noun,Vb,Vb,Adj}
+Han sa att han var trött. {Noun,Vb,Conj,Noun,Vb,Adj}
+Hon sa att det var inställt. {Noun,Vb,Conj,Noun,Vb,Vb}
+De sa att vägen var avstängd. {Noun,Vb,Conj,Noun,Vb,Adj}
+Han sa att han skulle flytta. {Noun,Vb,Conj,Noun,Vb,Vb}
+Hon sa till oss att middagen var klar. {Noun,Vb,Prep,Noun,Conj,Noun,Vb,Adj}
+Läraren sa att det var lätt. {Noun,Vb,Conj,Noun,Vb,Adj}
+Han viskade att hon sov. {Noun,Vb,Conj,Noun,Vb}
+Hon förklarade att de var sena. {Noun,Vb,Conj,Noun,Vb,Adj}
+Han erkände att han hade fel. {Noun,Vb,Conj,Noun,Vb,Noun}
+Hon lovade att hon skulle hjälpa till. {Noun,Vb,Conj,Noun,Vb,Vb,Vb}
+Han säger att det är sant. {Noun,Vb,Conj,Noun,Vb,Adj}
+Jag hörde att du fick ett nytt jobb. {Noun,Vb,Conj,Noun,Vb,Det,Adj,Noun}
+Hon nämnde att han var upptagen. {Noun,Vb,Conj,Noun,Vb,Adj}
+Han hävdade att det var säkert. {Noun,Vb,Conj,Noun,Vb,Adj}
+De meddelade att det började. {Noun,Vb,Conj,Noun,Vb}
+Jag tycker att du har rätt. {Noun,Vb,Conj,Noun,Vb,Adj}
+Jag hoppas att hon vinner. {Noun,Vb,Conj,Noun,Vb}
+Han tror att jorden är rund. {Noun,Vb,Conj,Noun,Vb,Adj}
+Hon vet att svaret är fel. {Noun,Vb,Conj,Noun,Vb,Adj}
+Jag antar att vi borde gå. {Noun,Vb,Conj,Noun,Vb,Vb}
+Han tror att planen kommer att misslyckas. {Noun,Vb,Conj,Noun,Vb,Conj,Vb}
+Vi antar att affären är öppen. {Noun,Vb,Conj,Noun,Vb,Adj}
+Hon känner att laget kan vinna. {Noun,Vb,Conj,Noun,Vb,Vb}
+Jag slår vad om att det snöar imorgon. {Noun,Vb,Noun,Prep,Conj,Noun,Vb,Date}
+De säger att slottet är hemsökt. {Noun,Vb,Conj,Noun,Vb,Adj}
+Min bror, som bor i Denver, kommer på besök. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Prep,Noun}
+Huset, som var tomt, kändes kallt. {Noun,QuestionWord,Vb,Adj,Vb,Adj}
+Hennes bil, som var ny, gick sönder. {Noun,Noun,QuestionWord,Vb,Adj,Vb,Adj}
+Vår lärare, som talar fyra språk, är berömd. {Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
+Bron, som byggdes 1900, är fortfarande öppen. {Noun,QuestionWord,Vb,Val,Vb,Adv,Adj}
+Jag vet att hon är upptagen. {Noun,Vb,Conj,Noun,Vb,Adj}
+Det verkar som att han har rätt. {Noun,Vb,Conj,Conj,Noun,Vb,Adj}
+Problemet är att vi är sena. {Noun,Vb,Conj,Noun,Vb,Adj}
+Sanningen är att vi kanske aldrig får veta. {Noun,Vb,Conj,Noun,Adv,Negative,Vb,Vb}
+Han glömde att de hade stängt. {Noun,Vb,Conj,Noun,Vb,Vb}
+Hon märkte att det var öppet. {Noun,Vb,Conj,Noun,Vb,Adj}
+Kom ihåg att vi går klockan fem. {Vb,Vb,Conj,Noun,Vb,Noun,Val}
+Jag tvivlar på att han kommer. {Noun,Vb,Prep,Conj,Noun,Vb}
+Vi var överens om att priset var rimligt. {Noun,Vb,Adj,Prep,Conj,Noun,Vb,Adj}
+Det verkar som att hon hade rätt. {Noun,Vb,Conj,Conj,Noun,Vb,Adj}
+Vi besökte Rom, Florens och Venedig. {Noun,Vb,Noun,Noun,Conj,Noun}
+Hon kan läsa, skriva och simma. {Noun,Vb,Vb,Vb,Conj,Vb}
+Flaggan är röd, vit och blå. {Noun,Vb,Adj,Adj,Conj,Adj}
+Han beställde soppa, sallad och bröd. {Noun,Vb,Noun,Noun,Conj,Noun}
+Morgonen var kall, blöt och blåsig. {Noun,Vb,Adj,Adj,Conj,Adj}
+Hon tog sin rock, hatt och handskar. {Noun,Vb,Noun,Noun,Noun,Conj,Noun}
+Vill du ha ris eller nudlar? {Vb,Noun,Vb,Noun,Conj,Noun}
+Varken katten eller hunden rörde sig. {Det,Noun,Conj,Noun,Vb,Noun}
+Vi kan gå, eller så kan vi ta bussen. {Noun,Vb,Vb,Conj,Adv,Vb,Noun,Vb,Noun}
+Soppan var het, och brödet var färskt. {Noun,Vb,Adj,Conj,Noun,Vb,Adj}
+Han knackade, och hon öppnade dörren. {Noun,Vb,Conj,Noun,Vb,Noun}
+Plugga hårt, så lyckas du. {Vb,Adv,Conj,Vb,Noun}
+Laget spelade bra och vann titeln. {Noun,Vb,Adv,Conj,Vb,Noun}
+Jag dricker te, och min syster dricker kaffe. {Noun,Vb,Noun,Conj,Noun,Noun,Vb,Noun}
+Hon log och vinkade åt folkmassan. {Noun,Vb,Conj,Vb,Prep,Noun}

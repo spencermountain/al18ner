@@ -1,0 +1,100 @@
+Yeye ni mrefu kuliko kaka yake. {Noun,Vb,Adj,Prep,Noun,Noun}
+Sanduku hili ni zito kuliko lile. {Noun,Det,Vb,Adj,Prep,Det}
+Majira ya baridi ni baridi kuliko vuli. {Noun,Prep,Noun,Vb,Adj,Prep,Noun}
+Gari langu ni kuukuu kuliko lako. {Noun,Noun,Vb,Adj,Prep,Noun}
+Anakimbia kwa kasi kuliko mimi. {Vb,Prep,Noun,Prep,Noun}
+Mtihani ulikuwa mgumu kuliko kazi ya nyumbani. {Noun,Vb,Adj,Prep,Noun,Prep,Noun}
+Leo ni joto kuliko jana. {Date,Vb,Adj,Prep,Date}
+Njia hii ni fupi kuliko barabara kuu. {Noun,Det,Vb,Adj,Prep,Noun,Adj}
+Nywele zake ni ndefu kuliko zangu. {Noun,Noun,Vb,Adj,Prep,Noun}
+Shati la buluu ni rahisi kuliko lile jekundu. {Noun,Prep,Adj,Vb,Adj,Prep,Det,Adj}
+Yeye ni mdogo kuliko dada yake. {Noun,Vb,Adj,Prep,Noun,Noun}
+Kipindi cha pili kilikuwa bora kuliko cha kwanza. {Noun,Prep,Val,Vb,Adj,Prep,Prep,Val}
+Treni ni salama kuliko magari. {Noun,Vb,Adj,Prep,Noun}
+Supu yangu ni moto kuliko yako. {Noun,Noun,Vb,Adj,Prep,Noun}
+Chumba kilikuwa kimya. {Noun,Vb,Adj}
+Filamu ilikuwa ya kuvutia kuliko kitabu. {Noun,Vb,Prep,Noun,Prep,Noun}
+Fumbo hili ni gumu kuliko linavyoonekana. {Noun,Det,Vb,Adj,Prep,Vb}
+Mpango wake ulikuwa bora kuliko wake. {Noun,Noun,Vb,Adj,Prep,Noun}
+Jiji lina shughuli zaidi wakati wa kiangazi. {Noun,Vb,Noun,Adv,Noun,Prep,Noun}
+Kiti hiki ni cha starehe kuliko kochi. {Noun,Det,Vb,Prep,Noun,Prep,Noun}
+Aliongea polepole kuliko kawaida. {Vb,Adv,Prep,Noun}
+Anaimba vizuri kuliko mtu yeyote. {Vb,Adv,Prep,Noun,Det}
+Hali ya hewa ilikuwa mbaya kuliko mwaka jana. {Noun,Prep,Noun,Vb,Adj,Prep,Noun,Date}
+Hii ni pizza bora zaidi mjini. {Noun,Vb,Noun,Adj,Adv,Noun}
+Yeye ni msichana mrefu zaidi darasani. {Noun,Vb,Noun,Adj,Adv,Noun}
+Ile ilikuwa dhoruba mbaya zaidi kwa miaka mingi. {Det,Vb,Noun,Adj,Adv,Prep,Noun,Adj}
+Yeye ni mkimbiaji wa kasi zaidi timuni. {Noun,Vb,Noun,Prep,Noun,Adv,Noun}
+Hii ni saa ghali zaidi. {Noun,Vb,Noun,Adj,Adv}
+Alinunua tikiti rahisi zaidi. {Vb,Noun,Adj,Adv}
+Ilikuwa siku ya furaha zaidi maishani mwangu. {Vb,Noun,Prep,Noun,Adv,Noun,Noun}
+Jengo kongwe zaidi ni kanisa. {Noun,Adj,Adv,Vb,Noun}
+Alisimulia utani wa kuchekesha zaidi. {Vb,Noun,Prep,Noun,Adv}
+Hii ni bustani nzuri zaidi jijini. {Noun,Vb,Noun,Adj,Adv,Noun}
+Yeye ni mwanafunzi hodari zaidi shuleni. {Noun,Vb,Noun,Adj,Adv,Noun}
+Jibu rahisi zaidi mara nyingi ni sahihi. {Noun,Adj,Adv,Adv,Adv,Vb,Adj}
+Yeye ni mrefu kama dada yake. {Noun,Vb,Adj,Prep,Noun,Noun}
+Maji ni safi kama kioo. {Noun,Vb,Adj,Prep,Noun}
+Yeye ni mkaidi kama punda. {Noun,Vb,Adj,Prep,Noun}
+Chumba kilikuwa kimya kama maktaba. {Noun,Vb,Adj,Prep,Noun}
+Mikono yake ilikuwa baridi kama barafu. {Noun,Noun,Vb,Adj,Prep,Noun}
+Mkoba huu si mzito kama unavyoonekana. {Noun,Det,Negative,Adj,Prep,Vb}
+Sanduku lilikuwa zito mno kuinua. {Noun,Vb,Adj,Adv,Vb}
+Kahawa ni moto mno kunywa. {Noun,Vb,Adj,Adv,Vb}
+Ana umri wa kutosha kuendesha. {Vb,Noun,Prep,Vb,Vb}
+Maji ni ya joto ya kutosha kuogelea. {Noun,Vb,Prep,Noun,Prep,Vb,Vb}
+Ni mapema mno kwa chakula cha jioni. {Vb,Adj,Adv,Prep,Noun,Prep,Noun}
+Ana shughuli nyingi mno kuongea. {Vb,Noun,Adj,Adv,Vb}
+Rafu iko juu mno kufikia. {Noun,Vb,Adv,Adv,Vb}
+Tuna viti vya kutosha kwa kila mtu. {Vb,Noun,Prep,Vb,Prep,Det,Noun}
+Ana furaha sana. {Vb,Noun,Adv}
+Sanduku ni zito kiasi. {Noun,Vb,Adj,Adv}
+Alikuwa amechoka kweli. {Vb,Vb,Adv}
+Supu ni moto sana. {Noun,Vb,Adj,Adv}
+Kulikuwa na baridi sana. {Vb,Prep,Noun,Adv}
+Filamu ilikuwa ya polepole kiasi. {Noun,Vb,Prep,Adj,Adv}
+Nina uhakika kiasi. {Vb,Noun,Adv}
+Njia ni mwinuko kidogo. {Noun,Vb,Adj,Adv}
+Aliguswa sana moyoni. {Vb,Adv,Noun}
+Maelekezo yalikuwa wazi kabisa. {Noun,Vb,Adj,Adv}
+Kuna paka juu ya paa. {There,Noun,Prep,Prep,Noun}
+Kuna mayai matano kwenye friji. {There,Noun,Val,Prep,Noun}
+Kulikuwa na dhoruba usiku wa jana. {There,Prep,Noun,Noun,Prep,Date}
+Kulikuwa na watu wengi kwenye sherehe. {There,Prep,Noun,Adj,Prep,Noun}
+Kuna ujumbe kwa ajili yako. {There,Noun,Prep,Noun,Noun}
+Kuna njia mbili za kutatua hili. {There,Noun,Val,Prep,Vb,Det}
+Hakukuwa na kitu ndani ya sanduku. {Negative,Prep,Noun,Prep,Prep,Noun}
+Kuna mtu mlangoni. {There,Noun,Noun}
+Kuna chaguo nyingi. {There,Noun,Adj}
+Kuna maziwa kwenye friji. {There,Noun,Prep,Noun}
+Kulikuwa na mawingu machache angani. {There,Prep,Noun,Det,Noun}
+Kuna buibui bafuni. {There,Noun,Noun}
+Kuna nyumba tatu kwenye barabara hii. {There,Noun,Val,Prep,Noun,Det}
+Kulikuwa na foleni ndefu kwenye duka la mikate. {There,Prep,Noun,Adj,Prep,Noun,Prep,Noun}
+Daima kuna nafasi nyingine. {Adv,There,Noun,Det}
+Watu wengi wanakubali. {Noun,Adj,Vb}
+Wanafunzi wengi walifaulu mtihani. {Noun,Adj,Vb,Noun}
+Baadhi ya ndege hawawezi kuruka. {Det,Prep,Noun,Vb,Vb}
+Kila mchezaji anapata zamu. {Det,Noun,Vb,Noun}
+Kila kiti kilichukuliwa. {Det,Noun,Vb}
+Majibu yote mawili ni sahihi. {Noun,Det,Val,Vb,Adj}
+Madirisha kadhaa yalikuwa wazi. {Noun,Det,Vb,Adj}
+Watu wachache wanajua siri hii. {Noun,Det,Vb,Noun,Det}
+Muda mwingi umepita. {Noun,Det,Vb}
+Biskuti zote zimeisha. {Noun,Noun,Vb}
+Nusu ya darasa hawakuwepo. {Val,Prep,Noun,Vb}
+Wageni wengi waliondoka mapema. {Noun,Adj,Vb,Adv}
+Kahawa ina nguvu za kutosha. {Noun,Vb,Noun,Prep,Vb}
+Alikaribia kukosa basi. {Vb,Vb,Noun}
+Tanki limejaa karibu. {Noun,Vb,Adv}
+Nilisahau kabisa. {Vb,Adv}
+Alilala kwa shida. {Vb,Prep,Noun}
+Glasi imejaa nusu. {Noun,Vb,Val}
+Hatuwajui vizuri. {Vb,Adv}
+Hadithi ni kweli kabisa. {Noun,Vb,Adj,Adv}
+Jibu lake lilikuwa sahihi kabisa. {Noun,Noun,Vb,Adj,Adv}
+Mikoba miwili ina uzito wa kilo kumi. {Noun,Val,Vb,Noun,Prep,Noun,Val}
+Kodi iliongezeka mara mbili mwaka jana. {Noun,Vb,Adv,Val,Noun,Date}
+Leo kuna baridi zaidi. {Date,There,Noun,Adv}
+Anajisikia vizuri kidogo. {Vb,Adv,Det}
+Foleni ilisonga polepole sana. {Noun,Vb,Adv,Adv}

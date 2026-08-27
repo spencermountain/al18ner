@@ -1,0 +1,100 @@
+Fönstret krossades av stormen. {Noun,Vb,Prep,Noun}
+Brevet skrevs för hand. {Noun,Vb,Prep,Noun}
+Bron byggdes 1930. {Noun,Vb,Val}
+Kakan åts upp före lunch. {Noun,Vb,Vb,Conj,Noun}
+Tjuven greps av polisen. {Noun,Vb,Prep,Noun}
+Låten sjöngs av en kör. {Noun,Vb,Prep,Det,Noun}
+Vägen reparerades förra månaden. {Noun,Vb,Adj,Date}
+Detta språk talas i många länder. {Det,Noun,Vb,Prep,Adj,Noun}
+Posten levereras varje morgon. {Noun,Vb,Det,Noun}
+Middagen serveras klockan sju. {Noun,Vb,Noun,Val}
+Reglerna förklaras i boken. {Noun,Vb,Prep,Noun}
+Vinnarna kommer att tillkännages imorgon. {Noun,Vb,Conj,Vb,Date}
+Paketet kommer att levereras på fredag. {Noun,Vb,Conj,Vb,Prep,Date}
+Huset har sålts. {Noun,Vb,Vb}
+Biljetterna har tryckts. {Noun,Vb,Vb}
+Museet öppnades av borgmästaren. {Noun,Vb,Prep,Noun}
+Min cykel blev stulen förra veckan. {Noun,Noun,Vb,Vb,Adj,Date}
+Branden orsakades av ett ljus. {Noun,Vb,Prep,Det,Noun}
+Matchen ställdes in på grund av regn. {Noun,Vb,Vb,Conj,Conj,Prep,Noun}
+Han blev befordrad förra månaden. {Noun,Vb,Vb,Adj,Date}
+Kakan blev uppäten snabbt. {Noun,Vb,Vb,Adv}
+Historien berättades av min farfar. {Noun,Vb,Prep,Noun,Noun}
+Dessa skor tillverkades i Italien. {Det,Noun,Vb,Prep,Noun}
+Problemet löstes snabbt. {Noun,Vb,Adv}
+Ett nytt sjukhus håller på att byggas. {Det,Adj,Noun,Vb,Prep,Conj,Vb}
+Han köpte tre äpplen. {Noun,Vb,Val,Noun}
+Hon äger tvåhundra böcker. {Noun,Vb,Val,Noun}
+Receptet kräver två koppar mjöl. {Noun,Vb,Val,Noun,Noun}
+Jag betalade tjugo dollar. {Noun,Vb,Val,Noun}
+Biljetten kostar femtio dollar. {Noun,Vb,Val,Noun}
+Hon är tjugo år gammal. {Noun,Vb,Val,Noun,Noun}
+Min son är sju. {Noun,Noun,Vb,Val}
+Tornet är trehundra meter högt. {Noun,Vb,Val,Noun,Adj}
+Vi väntade fyrtio minuter. {Noun,Vb,Val,Noun}
+Den tredje dörren är öppen. {Det,Val,Noun,Vb,Adj}
+Hon slutade på andra plats. {Noun,Vb,Prep,Val,Noun}
+Detta är mitt första besök. {Det,Vb,Noun,Val,Noun}
+Han fick nittio poäng. {Noun,Vb,Val,Noun}
+Boken har trehundra sidor. {Noun,Vb,Val,Noun}
+Halva pizzan är slut. {Val,Noun,Vb,Adj}
+Ett dussin ägg kostar fyra dollar. {Det,Noun,Noun,Vb,Val,Noun}
+Klassen har trettio elever. {Noun,Vb,Val,Noun}
+Han sprang fem kilometer. {Noun,Vb,Val,Noun}
+Rumsnumret är tolv. {Noun,Vb,Val}
+Två plus två är fyra. {Val,Conj,Val,Vb,Val}
+Min födelsedag är i juni. {Noun,Noun,Vb,Prep,Date}
+Mötet är på måndag. {Noun,Vb,Prep,Date}
+Vi åker på fredag morgon. {Noun,Vb,Prep,Date,Noun}
+Julen infaller på en torsdag i år. {Noun,Vb,Prep,Det,Date,Prep,Date}
+Hon föddes den fjärde juni. {Noun,Vb,Det,Val,Date}
+Affären öppnar klockan nio. {Noun,Vb,Noun,Val}
+Tåget går klockan arton. {Noun,Vb,Noun,Val}
+Idag är det onsdag. {Date,Vb,Noun,Date}
+Igår var en helgdag. {Date,Vb,Det,Noun}
+Imorgon är en ny dag. {Date,Vb,Det,Adj,Noun}
+Provet är nästa tisdag. {Noun,Vb,Adj,Date}
+Vi träffades i april. {Noun,Vb,Prep,Date}
+Kontraktet slutar i mars. {Noun,Vb,Prep,Date}
+Sommarlovet börjar i juli. {Noun,Vb,Prep,Date}
+Festen är på lördag. {Noun,Vb,Prep,Date}
+Han jobbar från måndag till fredag. {Noun,Vb,Prep,Date,Prep,Date}
+Oktober var regnig i år. {Date,Vb,Adj,Prep,Date}
+Mötet är vid lunchtid på tisdag. {Noun,Vb,Prep,Noun,Prep,Date}
+Skolan slutar i början av juni. {Noun,Vb,Prep,Adj,Prep,Date}
+Bröllopet är i september. {Noun,Vb,Prep,Date}
+Min välkända vän kom. {Noun,Adj,Noun,Vb}
+Det är två timmars bilresa. {Noun,Vb,Val,Date,Noun}
+Det var en långsiktig plan. {Noun,Vb,Det,Adj,Noun}
+Han är ett väluppfostrat barn. {Noun,Vb,Det,Adj,Noun}
+De bor i ett tvåvåningshus. {Noun,Vb,Prep,Det,Noun}
+Hon har ett deltidsjobb. {Noun,Vb,Det,Noun}
+Den välklädde mannen väntade. {Det,Adj,Noun,Vb}
+Det var ett beslut i sista minuten. {Noun,Vb,Det,Noun,Prep,Adj,Date}
+Han skadade sig. {Noun,Vb,Noun}
+Hon lärde sig italienska på egen hand. {Noun,Vb,Noun,Noun,Prep,Adj,Noun}
+Vi hade trevligt. {Noun,Vb,Adj}
+Katten tvättar sig själv. {Noun,Vb,Noun,Noun}
+De såg varandra. {Noun,Vb,Noun}
+Ta för er av tilltugget. {Vb,Prep,Noun,Prep,Noun}
+Jag gjorde detta själv. {Noun,Vb,Det,Noun}
+Min vän Tom spelar trummor. {Noun,Noun,Noun,Vb,Noun}
+Ett av äggen gick sönder. {Val,Prep,Noun,Vb,Adj}
+Var och en av oss betalade tio dollar. {Det,Conj,Det,Prep,Noun,Vb,Val,Noun}
+Lite av mjölken spilldes ut. {Det,Prep,Noun,Vb,Vb}
+Resten av laget stannade. {Noun,Prep,Noun,Vb}
+Båda höll med. {Det,Vb,Vb}
+Bensinpriset sjönk igen. {Noun,Vb,Adv}
+Himlens färg ändrades. {Noun,Noun,Vb}
+En vän till mig ringde. {Det,Noun,Prep,Noun,Vb}
+Bergets topp var vit. {Noun,Noun,Vb,Adj}
+Det tar två timmar att komma hem. {Noun,Vb,Val,Noun,Conj,Vb,Noun}
+Skylten säger ingenting. {Noun,Vb,Noun}
+Hennes dröm är att resa jorden runt. {Noun,Noun,Vb,Conj,Vb,Noun,Prep}
+För att vinna måste du öva. {Prep,Conj,Vb,Vb,Noun,Vb}
+Målet är att bli klar till fredag. {Noun,Vb,Conj,Vb,Adj,Prep,Date}
+Dess svans är fluffig. {Noun,Noun,Vb,Adj}
+Laget firade sin seger. {Noun,Vb,Noun,Noun}
+Alla tog med sig något. {Noun,Vb,Vb,Noun,Noun}
+Vem som helst kan lära sig denna färdighet. {Noun,Det,Adv,Vb,Vb,Noun,Det,Noun}
+Varje år växer festivalen. {Det,Date,Vb,Noun}

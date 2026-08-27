@@ -1,0 +1,100 @@
+Ona umie pływać. {Noun,Vb,Vb}
+Mówi w trzech językach. {Vb,Prep,Val,Noun}
+Słyszę cię. {Vb,Noun}
+Możemy spotkać się we wtorek. {Vb,Vb,Noun,Prep,Date}
+Ptaki potrafią latać. {Noun,Vb,Vb}
+Możesz usiąść z nami. {Vb,Vb,Prep,Noun}
+Umie prowadzić ciężarówkę. {Vb,Vb,Noun}
+Czuję dym. {Vb,Noun}
+Umiał czytać w wieku czterech lat. {Vb,Vb,Prep,Noun,Val,Noun}
+Słyszała muzykę. {Vb,Noun}
+Widzieliśmy góry. {Vb,Noun}
+Mógłbyś spróbować drugich drzwi. {Vb,Vb,Adj,Noun}
+Mogą przyjechać w każdej chwili. {Vb,Vb,Prep,Det,Noun}
+Zjadłbym całą pizzę. {Vb,Adj,Noun}
+Dziś wieczorem może padać. {Date,Noun,Vb,Vb}
+Może dołączy do nas na obiad. {Vb,Vb,Prep,Noun,Prep,Noun}
+Możesz odejść od stołu. {Vb,Vb,Prep,Noun}
+Plan może się zmienić. {Noun,Vb,Noun,Vb}
+Może zna odpowiedź. {Vb,Vb,Noun}
+Może odwiedzimy muzeum. {Vb,Vb,Noun}
+Musisz nosić kask. {Vb,Vb,Noun}
+Uczniowie muszą skończyć test do południa. {Noun,Vb,Vb,Noun,Prep,Noun}
+Musimy chronić las. {Vb,Vb,Noun}
+Musi być głodny. {Vb,Vb,Adj}
+Musiała spóźnić się na autobus. {Vb,Vb,Noun,Prep,Noun}
+Musi być bardzo dumny. {Vb,Vb,Adv,Adj}
+Powinieneś pić więcej wody. {Vb,Vb,Adj,Noun}
+Powinien ją przeprosić. {Vb,Noun,Vb}
+Powinniśmy wyjść wcześnie. {Vb,Vb,Adv}
+Powinni posadzić wiele drzew. {Vb,Vb,Adj,Noun}
+Powinieneś iść do lekarza. {Vb,Vb,Prep,Noun}
+Powinna dziś odpocząć. {Vb,Date,Vb}
+Chciałbym filiżankę herbaty. {Vb,Noun,Noun}
+Pomógłby gdyby mógł. {Vb,Conj,Vb}
+Nigdy by nie skłamała. {Negative,Vb,Negative,Vb}
+Chętnie do was dołączymy. {Adv,Prep,Noun,Vb}
+To byłoby cudowne. {Det,Vb,Adj}
+Wolą iść pieszo. {Vb,Vb,Adv}
+Zaczynamy? {Vb}
+Mam otworzyć okno? {Vb,Vb,Noun}
+Zobaczymy. {Vb}
+Dostaniesz swoją nagrodę. {Vb,Noun,Noun}
+Muszę wyjść wcześnie. {Vb,Vb,Adv}
+Musi pracować w sobotę. {Vb,Vb,Prep,Date}
+Musieliśmy odwołać wycieczkę. {Vb,Vb,Noun}
+Powinieneś przeprosić. {Vb,Vb}
+Lepiej niech się pospieszy. {Adv,Conj,Noun,Vb}
+Muszą znaleźć nowe mieszkanie. {Vb,Vb,Adj,Noun}
+Muszę kupić zakupy. {Vb,Vb,Noun}
+Nie musi przychodzić. {Negative,Vb,Vb}
+Nie rozumiem. {Negative,Vb}
+Nie je mięsa. {Negative,Vb,Noun}
+Nie usłyszeliśmy budzika. {Negative,Vb,Noun}
+Nie mają samochodu. {Negative,Vb,Noun}
+Nie odebrał mojego telefonu. {Negative,Vb,Noun,Noun}
+Nie znam jej imienia. {Negative,Vb,Noun,Noun}
+To nie ma znaczenia. {Noun,Negative,Vb,Noun}
+Nie potrzebujesz biletu. {Negative,Vb,Noun}
+Drukarka nie działa. {Noun,Negative,Vb}
+Nie spodziewaliśmy się deszczu. {Negative,Vb,Noun,Noun}
+Nie jest gotowy. {Negative,Vb,Adj}
+Zupa nie jest wystarczająco gorąca. {Noun,Negative,Vb,Adv,Adj}
+Nie ma ich w domu. {Negative,Vb,Noun,Prep,Noun}
+Nie byłem gotowy. {Negative,Vb,Adj}
+Kluczy nie było w mojej torbie. {Noun,Negative,Vb,Prep,Noun,Noun}
+Ona nie jest pielęgniarką. {Noun,Negative,Vb,Noun}
+Nie mogę znaleźć okularów. {Negative,Vb,Vb,Noun}
+Nie może przyjść na przyjęcie. {Negative,Vb,Vb,Prep,Noun}
+Nie chce słuchać. {Negative,Vb,Vb}
+Nie sprzedadzą gospodarstwa. {Negative,Vb,Noun}
+Nie mogliśmy otworzyć słoika. {Negative,Vb,Vb,Noun}
+Nie powinieneś się tak martwić. {Negative,Vb,Noun,Adv,Vb}
+Nie zrobiłbym tego. {Negative,Vb,Det}
+Nie wolno ci nikomu mówić. {Negative,Vb,Noun,Noun,Vb}
+On nie umie pływać. {Noun,Negative,Vb,Vb}
+Nie możemy dłużej czekać. {Negative,Vb,Adj,Vb}
+Nigdy nie narzeka. {Negative,Negative,Vb}
+Nigdy nie jem śniadania. {Negative,Negative,Vb,Noun}
+Nigdy nie latał. {Negative,Negative,Vb}
+Nigdy się nie dowiemy. {Negative,Noun,Negative,Vb}
+Nic się nie stało. {Noun,Noun,Negative,Vb}
+Nikt nie otworzył drzwi. {Noun,Negative,Vb,Noun}
+Nic nie zginęło. {Noun,Negative,Vb}
+Nikt nie zna prawdy. {Noun,Negative,Vb,Noun}
+Żadna odpowiedź nie jest poprawna. {Det,Noun,Negative,Vb,Adj}
+Żaden z nas nie spał. {Det,Prep,Noun,Negative,Vb}
+Ta historia nie jest prawdziwa. {Det,Noun,Negative,Vb,Adj}
+On nie jest moim bratem. {Noun,Negative,Vb,Noun,Noun}
+To nie było sprawiedliwe. {Det,Negative,Vb,Adj}
+Mleko nie jest świeże. {Noun,Negative,Vb,Adj}
+Nie jestem zły. {Negative,Vb,Adj}
+Nie dotykaj kuchenki. {Negative,Vb,Noun}
+Nie zostali zaproszeni. {Negative,Vb,Adj}
+Postanowiła nie odpowiadać. {Vb,Negative,Vb}
+Nie ma pojęcia. {Negative,Vb,Noun}
+Nie ma wolnych miejsc. {Negative,Vb,Adj,Noun}
+Nie ma pieniędzy. {Negative,Vb,Noun}
+Chciałbyś trochę wody? {Vb,Det,Noun}
+Mógłbyś to powtórzyć? {Vb,Det,Vb}
+Czy mogę zadać pytanie? {QuestionWord,Vb,Vb,Noun}

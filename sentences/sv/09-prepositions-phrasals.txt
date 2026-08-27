@@ -1,0 +1,100 @@
+Nycklarna ligger på bordet. {Noun,Vb,Prep,Noun}
+Katten gömde sig under sängen. {Noun,Vb,Noun,Prep,Noun}
+Banken ligger mellan kaféet och bokhandeln. {Noun,Vb,Prep,Noun,Conj,Noun}
+Ett plan flög ovanför molnen. {Det,Noun,Vb,Prep,Noun}
+Bollen rullade över gatan. {Noun,Vb,Prep,Noun}
+Vi gick längs floden. {Noun,Vb,Prep,Noun}
+Hon stod bredvid sin mamma. {Noun,Vb,Prep,Noun,Noun}
+Skeppet seglade in i hamnen. {Noun,Vb,Vb,Prep,Noun}
+Han lutade sig mot väggen. {Noun,Vb,Noun,Prep,Noun}
+Vi körde genom tunneln. {Noun,Vb,Prep,Noun}
+Temperaturen sjönk under noll. {Noun,Vb,Prep,Val}
+Vårt hus ligger nära skolan. {Noun,Noun,Vb,Prep,Noun}
+Trädgården ligger bakom huset. {Noun,Vb,Prep,Noun}
+En fågel satt på staketet. {Det,Noun,Vb,Prep,Noun}
+Brevet ligger inuti kuvertet. {Noun,Vb,Prep,Noun}
+Vi träffades vid lunchtid. {Noun,Vb,Prep,Noun}
+Lektionen börjar om tio minuter. {Noun,Vb,Prep,Val,Noun}
+Hon jobbade till midnatt. {Noun,Vb,Prep,Noun}
+Han talade om budgeten. {Noun,Vb,Prep,Noun}
+Denna present är från min moster. {Det,Noun,Vb,Prep,Noun,Noun}
+Boken handlar om en bortsprungen hund. {Noun,Vb,Prep,Det,Adj,Noun}
+Hon grälade med sin hyresvärd. {Noun,Vb,Prep,Noun,Noun}
+Han skar brödet med en kniv. {Noun,Vb,Noun,Prep,Det,Noun}
+Laget reste med buss. {Noun,Vb,Prep,Noun}
+Jag gjorde det för dig. {Noun,Vb,Noun,Prep,Noun}
+Snälla, sätt på radion. {Expr,Vb,Vb,Noun}
+Hon tackade nej till erbjudandet. {Noun,Vb,Vb,Prep,Noun}
+Han vaknade klockan sex. {Noun,Vb,Noun,Val}
+Jag slutade med socker. {Noun,Vb,Prep,Noun}
+Hon slog upp ordet. {Noun,Vb,Vb,Noun}
+Mjölken tog slut. {Noun,Vb,Noun}
+Han tog på sig jackan. {Noun,Vb,Vb,Noun,Noun}
+Ta av dig hatten. {Vb,Vb,Noun,Noun}
+Skriv ner adressen. {Vb,Prep,Noun}
+Hon fick reda på sanningen. {Noun,Vb,Noun,Prep,Noun}
+Bilen gick sönder på motorvägen. {Noun,Vb,Adj,Prep,Noun}
+Plocka upp dina leksaker. {Vb,Vb,Noun,Noun}
+Han lämnade in sin läxa. {Noun,Vb,Vb,Noun,Noun}
+Planet lyfte i tid. {Noun,Vb,Prep,Noun}
+Hon slängde bort de gamla tidningarna. {Noun,Vb,Vb,Det,Adj,Noun}
+Vi satte upp tältet. {Noun,Vb,Vb,Noun}
+Han fyllde i formuläret. {Noun,Vb,Vb,Noun}
+Mötet fortsatte i timmar. {Noun,Vb,Prep,Noun}
+Häng upp din rock. {Vb,Vb,Noun,Noun}
+Hon tog upp en bra poäng. {Noun,Vb,Vb,Det,Adj,Noun}
+Sakta ner vid övergångsstället. {Vb,Vb,Prep,Noun}
+Han tog hand om sin lillasyster. {Noun,Vb,Noun,Prep,Noun,Noun}
+Elden dog ut. {Noun,Vb,Vb}
+Kom tillbaka imorgon. {Vb,Vb,Date}
+Höj volymen. {Vb,Noun}
+Simning är bra motion. {Noun,Vb,Adj,Noun}
+Yoga hjälper mig att slappna av. {Noun,Vb,Noun,Conj,Vb,Vb}
+Jag tycker om att läsa böcker. {Noun,Vb,Prep,Conj,Vb,Noun}
+Hon älskar att dansa. {Noun,Vb,Conj,Vb}
+Han slutade röka förra året. {Noun,Vb,Vb,Adj,Date}
+De övar sång varje dag. {Noun,Vb,Noun,Det,Date}
+Matlagning kräver tålamod. {Noun,Vb,Noun}
+Hon är rädd för att flyga. {Noun,Vb,Adj,Prep,Conj,Vb}
+Han är bra på att laga saker. {Noun,Vb,Adj,Prep,Conj,Vb,Noun}
+Vi pratade om att flytta. {Noun,Vb,Prep,Conj,Vb}
+Tack för att du kom. {Vb,Prep,Conj,Noun,Vb}
+Löpning håller honom frisk. {Noun,Vb,Noun,Adj}
+Jag vill äta lunch. {Noun,Vb,Vb,Noun}
+Hon bestämde sig för att stanna. {Noun,Vb,Noun,Prep,Conj,Vb}
+De planerar att besöka Japan. {Noun,Vb,Conj,Vb,Noun}
+Han hoppas vinna priset. {Noun,Vb,Vb,Noun}
+Vi behöver prata. {Noun,Vb,Vb}
+Hon lovade att skriva. {Noun,Vb,Conj,Vb}
+Han erbjöd sig att skjutsa oss. {Noun,Vb,Noun,Conj,Vb,Noun}
+Jag glömde att låsa dörren. {Noun,Vb,Conj,Vb,Noun}
+De kom överens om att mötas vid lunch. {Noun,Vb,Adj,Prep,Conj,Vb,Prep,Noun}
+Hon lärde sig spela fiol. {Noun,Vb,Noun,Vb,Noun}
+Han gick till affären för att köpa mjölk. {Noun,Vb,Prep,Noun,Prep,Conj,Vb,Noun}
+Hon ringde för att ställa en fråga. {Noun,Vb,Prep,Conj,Vb,Det,Noun}
+Det är svårt att välja. {Noun,Vb,Adj,Conj,Vb}
+Det är lätt att göra misstag. {Noun,Vb,Adj,Conj,Vb,Noun}
+Vi har arbete att göra. {Noun,Vb,Noun,Conj,Vb}
+Hon fick mig att skratta. {Noun,Vb,Noun,Conj,Vb}
+Jag såg mannen korsa gatan. {Noun,Vb,Noun,Vb,Noun}
+Han hjälpte mig att bära väskorna. {Noun,Vb,Noun,Conj,Vb,Noun}
+Staketet behöver målas. {Noun,Vb,Vb}
+Hon vill att han ber om ursäkt. {Noun,Vb,Conj,Noun,Vb,Prep,Noun}
+Jag bad henne vänta. {Noun,Vb,Noun,Vb}
+De bjöd in oss att följa med. {Noun,Vb,Vb,Noun,Conj,Vb,Vb}
+Han lärde mig att köra. {Noun,Vb,Noun,Conj,Vb}
+Hunden hoppade över staketet. {Noun,Vb,Prep,Noun}
+Hon hällde te i koppen. {Noun,Vb,Noun,Prep,Noun}
+Han klättrade upp på taket. {Noun,Vb,Vb,Prep,Noun}
+Musen kröp över golvet. {Noun,Vb,Prep,Noun}
+Vi körde mot kusten. {Noun,Vb,Prep,Noun}
+Båten drev från bryggan. {Noun,Vb,Prep,Noun}
+Hon gick in i rummet. {Noun,Vb,Vb,Prep,Noun}
+Barnen gömde sig i garderoben. {Noun,Vb,Noun,Prep,Noun}
+Regn droppade från taket. {Noun,Vb,Prep,Noun}
+Stigen leder till sjön. {Noun,Vb,Prep,Noun}
+Han vinkade från balkongen. {Noun,Vb,Prep,Noun}
+Affären tvärs över gatan säljer blommor. {Noun,Prep,Prep,Noun,Vb,Noun}
+Mannen i den grå kostymen gick. {Noun,Prep,Det,Adj,Noun,Vb}
+Flickan med det röda paraplyet log. {Noun,Prep,Det,Adj,Noun,Vb}
+En bro över floden förbinder städerna. {Det,Noun,Prep,Noun,Vb,Noun}

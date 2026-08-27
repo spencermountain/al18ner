@@ -1,0 +1,100 @@
+Om det regnar stannar vi hemma. {Condition,Noun,Vb,Vb,Noun,Adv}
+Om du värmer is smälter den. {Condition,Noun,Vb,Noun,Vb,Noun}
+Om hon ringer, berätta sanningen för henne. {Condition,Noun,Vb,Vb,Noun,Prep,Noun}
+Om jag var rik skulle jag resa. {Condition,Noun,Vb,Adj,Vb,Noun,Vb}
+Om vi går tidigt hinner vi tåget. {Condition,Noun,Vb,Adj,Vb,Noun,Noun}
+Om du pluggar klarar du dig. {Condition,Noun,Vb,Vb,Noun,Noun}
+Om vädret är fint promenerar vi. {Condition,Noun,Vb,Adj,Vb,Noun}
+Om han hade pluggat hade han klarat sig. {Condition,Noun,Vb,Vb,Vb,Noun,Vb,Noun}
+Om jag hade vetat hade jag hjälpt till. {Condition,Noun,Vb,Vb,Vb,Noun,Vb,Vb}
+Om du behöver något, fråga mig. {Condition,Noun,Vb,Noun,Vb,Noun}
+Om det snöar stannar bussarna. {Condition,Noun,Vb,Vb,Noun}
+Om du ser henne, hälsa. {Condition,Noun,Vb,Noun,Vb}
+Om bussen är sen missar vi showen. {Condition,Noun,Vb,Adj,Vb,Noun,Noun}
+Du kan komma om du vill. {Noun,Vb,Vb,Condition,Noun,Vb}
+Vi ställer in picknicken om det regnar. {Noun,Vb,Vb,Noun,Condition,Noun,Vb}
+Ring mig om du går vilse. {Vb,Noun,Condition,Noun,Vb,Adj}
+Om det behövs kan vi boka om. {Condition,Noun,Vb,Vb,Noun,Vb,Vb}
+Om möjligt, kom före åtta. {Condition,Adj,Vb,Conj,Val}
+Även om han ber om ursäkt kommer hon inte att förlåta honom. {Conj,Condition,Noun,Vb,Prep,Noun,Vb,Noun,Negative,Conj,Vb,Noun}
+Vad händer om vi misslyckas? {QuestionWord,Vb,Condition,Noun,Vb}
+Om du är osäker, fråga. {Condition,Noun,Vb,Adj,Vb}
+Om ljuset är rött, stanna bilen. {Condition,Noun,Vb,Adj,Vb,Noun}
+Hon hjälper till om du frågar snällt. {Noun,Vb,Vb,Condition,Noun,Vb,Adv}
+Om hon samtycker skriver vi under avtalet. {Condition,Noun,Vb,Vb,Noun,Vb,Noun}
+Om det inte regnar har vi picknick. {Condition,Noun,Negative,Vb,Vb,Noun,Noun}
+Om du inte skyndar dig kommer vi för sent. {Condition,Noun,Negative,Vb,Noun,Vb,Noun,Adv,Adv}
+Jag går ensam om du inte följer med. {Noun,Vb,Adj,Condition,Noun,Negative,Vb,Vb}
+Om han inte förbättrar sig förlorar han jobbet. {Condition,Noun,Negative,Vb,Noun,Vb,Noun,Noun}
+När det regnar svämmar gatan över. {Conj,Noun,Vb,Vb,Noun,Vb}
+Jag lagade mat när du ringde. {Noun,Vb,Noun,Conj,Noun,Vb}
+Varje gång hon hälsar på bakar vi kakor. {Conj,Noun,Noun,Vb,Prep,Vb,Noun,Noun}
+Varje gång han reser skickar han vykort. {Conj,Noun,Noun,Vb,Vb,Noun,Noun}
+Medan du sov kom posten. {Conj,Noun,Vb,Vb,Noun}
+Medan hon lagade mat torkade han bordet. {Conj,Noun,Vb,Noun,Vb,Noun,Noun}
+Så snart vi kom började showen. {Conj,Conj,Noun,Vb,Vb,Noun}
+Så snart hon är klar kan vi gå. {Conj,Conj,Noun,Vb,Adj,Vb,Noun,Vb}
+Medan bebisen sov städade vi huset. {Conj,Noun,Vb,Vb,Noun,Noun}
+Eftersom vägen var isig körde vi långsamt. {Conj,Noun,Vb,Adj,Vb,Noun,Adv}
+Vi stannade hemma eftersom det regnade. {Noun,Vb,Adv,Conj,Noun,Vb}
+Hon log eftersom hon var stolt. {Noun,Vb,Conj,Noun,Vb,Adj}
+Han gick eftersom han var uttråkad. {Noun,Vb,Conj,Noun,Vb,Adj}
+På grund av stormen blev flyget försenat. {Conj,Conj,Prep,Noun,Vb,Noun,Adj}
+Jag litar på henne eftersom hon är ärlig. {Noun,Vb,Prep,Noun,Conj,Noun,Vb,Adj}
+Trots att det var kallt gick vi och badade. {Conj,Conj,Noun,Vb,Adj,Vb,Noun,Conj,Vb}
+Även om hon var trött fortsatte hon jobba. {Conj,Conj,Noun,Vb,Adj,Vb,Noun,Vb}
+Trots att han är ung är han vis. {Conj,Conj,Noun,Vb,Adj,Vb,Noun,Adj}
+Även om provet var svårt klarade alla det. {Conj,Conj,Noun,Vb,Adj,Vb,Noun,Det}
+Han kom till festen trots att han var sjuk. {Noun,Vb,Prep,Noun,Conj,Conj,Noun,Vb,Adj}
+Även om vi förlorade spelade vi bra. {Conj,Conj,Noun,Vb,Vb,Noun,Adv}
+Hon fortsatte springa trots att benen värkte. {Noun,Vb,Vb,Conj,Conj,Noun,Vb}
+Trots att det regnade fortsatte matchen. {Conj,Conj,Noun,Vb,Vb,Noun}
+Hon pluggade hårt, så hon klarade provet. {Noun,Vb,Adv,Conj,Noun,Vb,Noun}
+Det var sent, så vi gick tidigt. {Noun,Vb,Adj,Conj,Noun,Vb,Adv}
+Affären var tom, så vi gick. {Noun,Vb,Adj,Conj,Noun,Vb}
+Han var hungrig, så han gjorde en smörgås. {Noun,Vb,Adj,Conj,Noun,Vb,Det,Noun}
+Musiken var hög, så vi höll för öronen. {Noun,Vb,Adj,Conj,Noun,Vb,Prep,Noun}
+Jag var törstig, så jag drack lite juice. {Noun,Vb,Adj,Conj,Noun,Vb,Det,Noun}
+Vi väntade till midnatt. {Noun,Vb,Prep,Noun}
+Butiken är öppen till nio. {Noun,Vb,Adj,Prep,Val}
+Gör klart läxan före middagen. {Vb,Adj,Noun,Conj,Noun}
+Efter filmen åt vi efterrätt. {Prep,Noun,Vb,Noun,Noun}
+Efter lunchen tog de en tupplur. {Prep,Noun,Vb,Noun,Det,Noun}
+Vi gick efter talet. {Noun,Vb,Prep,Noun}
+Borsta tänderna före läggdags. {Vb,Noun,Conj,Noun}
+Festen fortsatte efter solnedgången. {Noun,Vb,Prep,Noun}
+Efter att vi kom började filmen. {Prep,Conj,Noun,Vb,Vb,Noun}
+Efter att hon tog examen flyttade hon utomlands. {Prep,Conj,Noun,Vb,Noun,Vb,Noun,Adv}
+När du väl lärt dig reglerna är spelet lätt. {Adv,Noun,Adv,Vb,Noun,Noun,Vb,Noun,Adj}
+Efter att de gick kändes huset tyst. {Prep,Conj,Noun,Vb,Vb,Noun,Adj}
+Han frågade om jag var redo. {Noun,Vb,Conj,Noun,Vb,Adj}
+Jag vet inte om hon kommer. {Noun,Vb,Negative,Conj,Noun,Vb}
+Se om middagen är klar. {Vb,Conj,Noun,Vb,Adj}
+Han undrade om historien var sann. {Noun,Vb,Conj,Noun,Vb,Adj}
+Vare sig vi vinner eller förlorar är jag stolt. {Conj,Conj,Noun,Vb,Conj,Vb,Vb,Noun,Adj}
+Sedan 2020 driver hon ett litet företag. {Prep,Val,Vb,Noun,Det,Adj,Noun}
+Sedan måndags har det regnat varje dag. {Prep,Date,Vb,Noun,Vb,Det,Date}
+Under stormen slocknade lamporna. {Prep,Noun,Vb,Noun}
+Trots regnet fortsatte matchen. {Prep,Noun,Vb,Noun}
+Trots sin rädsla höll hon talet. {Prep,Noun,Noun,Vb,Noun,Noun}
+Utan karta gick vi vilse. {Prep,Noun,Vb,Noun,Adj}
+Före showen åt vi middag. {Conj,Noun,Vb,Noun,Noun}
+När vi kom fram var maten kall. {Conj,Noun,Vb,Vb,Vb,Noun,Adj}
+Ju förr, desto bättre. {Det,Adj,Det,Adj}
+Vart hon än går följer hunden efter. {Conj,Noun,Adv,Vb,Vb,Noun,Prep}
+Den som kommer först får ett pris. {Conj,Det,Vb,Val,Vb,Det,Noun}
+Överallt vi tittade såg vi blommor. {Adv,Noun,Vb,Vb,Noun,Noun}
+Han beter sig som om han ägde stället. {Noun,Vb,Noun,Conj,Conj,Noun,Vb,Noun}
+Det ser ut som om det kan snöa. {Noun,Vb,Vb,Conj,Conj,Noun,Vb,Vb}
+Hon sjunger medan hon lagar mat. {Noun,Vb,Conj,Noun,Vb,Noun}
+När natten föll tändes staden. {Prep,Noun,Vb,Vb,Noun}
+Han beter sig som om ingenting hänt. {Noun,Vb,Noun,Conj,Conj,Noun,Vb}
+Ta med ett paraply ifall det regnar. {Vb,Vb,Det,Noun,Conj,Noun,Vb}
+Vi gick tidigt så att vi kunde parkera. {Noun,Vb,Adv,Conj,Conj,Noun,Vb,Vb}
+Hunden skällde varje gång klockan ringde. {Noun,Vb,Conj,Noun,Noun,Vb}
+Om du har sönder den får du köpa den. {Condition,Noun,Vb,Adj,Noun,Vb,Noun,Vb,Noun}
+Om jag glömmer, påminn mig. {Condition,Noun,Vb,Vb,Noun}
+Ta med en jacka ifall det blir kallt. {Vb,Vb,Det,Noun,Conj,Noun,Vb,Adj}
+Även om han bad om ursäkt förblev hon arg. {Conj,Conj,Noun,Vb,Prep,Noun,Vb,Noun,Adj}
+Eftersom vi kom sent missade vi talet. {Conj,Noun,Vb,Adj,Vb,Noun,Noun}
+Om allt går bra köper vi ett hus. {Condition,Noun,Vb,Adv,Vb,Noun,Det,Noun}

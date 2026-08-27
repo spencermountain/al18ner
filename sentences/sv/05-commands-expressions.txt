@@ -1,0 +1,100 @@
+Stäng dörren. {Vb,Noun}
+Öppna era böcker. {Vb,Noun,Noun}
+Sätt dig. {Vb,Noun}
+Res dig upp. {Vb,Noun,Vb}
+Kom in. {Vb,Vb}
+Ta plats. {Vb,Noun}
+Tvätta händerna. {Vb,Noun}
+Lyssna noga. {Vb,Adv}
+Vänta på mig. {Vb,Prep,Noun}
+Ta med ditt paraply. {Vb,Vb,Noun,Noun}
+Släck lamporna. {Vb,Noun}
+Ställ lådan på hyllan. {Vb,Noun,Prep,Noun}
+Ge mig en hand. {Vb,Noun,Det,Noun}
+Berätta en historia för oss. {Vb,Det,Noun,Prep,Noun}
+Ring mig imorgon. {Vb,Noun,Date}
+Skicka smöret. {Vb,Noun}
+Försök igen. {Vb,Adv}
+Behåll växeln. {Vb,Noun}
+Följ efter den bilen. {Vb,Prep,Det,Noun}
+Tala långsamt. {Vb,Adv}
+Vänta lite. {Vb,Det}
+Titta på detta foto. {Vb,Prep,Det,Noun}
+Läs instruktionerna först. {Vb,Noun,Val}
+Svara i telefonen. {Vb,Prep,Noun}
+Mata katten innan du går. {Vb,Noun,Conj,Noun,Vb}
+Öppna inte den lådan. {Vb,Negative,Det,Noun}
+Var inte rädd. {Vb,Negative,Adj}
+Glöm inte dina nycklar. {Vb,Negative,Noun,Noun}
+Rör dig inte. {Vb,Noun,Negative}
+Mata inte djuren. {Vb,Negative,Noun}
+Rör inte det. {Vb,Negative,Det}
+Ge aldrig upp. {Vb,Negative,Vb}
+Kom inte för sent till lektionen. {Vb,Negative,Adv,Adj,Prep,Noun}
+Snälla, stäng fönstret. {Expr,Vb,Noun}
+Snälla, ta av dig skorna. {Expr,Vb,Vb,Noun,Noun}
+Snälla, vänta här. {Expr,Vb,Adv}
+Snälla, var tyst. {Expr,Vb,Adj}
+Snälla, ta för dig. {Expr,Vb,Prep,Noun}
+Snälla, skriv ditt namn längst ner. {Expr,Vb,Noun,Noun,Adv,Adv}
+Snälla, förlåt mig. {Expr,Vb,Noun}
+Snälla, var uppmärksam. {Expr,Vb,Adj}
+Låt oss gå hem. {Vb,Noun,Vb,Noun}
+Låt oss ta en paus. {Vb,Noun,Vb,Det,Noun}
+Låt oss börja mötet. {Vb,Noun,Vb,Noun}
+Låt oss träffas på kaféet. {Vb,Noun,Vb,Prep,Noun}
+Låt oss be. {Vb,Noun,Vb}
+Låt oss inte bråka. {Vb,Noun,Negative,Vb}
+Hej, jag heter Maria. {Expr,Noun,Vb,Noun}
+Hej, hur mår du? {Expr,QuestionWord,Vb,Noun}
+Wow, det var fantastiskt! {Expr,Noun,Vb,Adj}
+Åh, jag glömde mina nycklar. {Expr,Noun,Vb,Noun,Noun}
+Aj, det gjorde ont! {Expr,Noun,Vb,Adj}
+Ja, jag håller med. {Expr,Noun,Vb,Vb}
+Nej tack. {Expr,Vb}
+Nåja, vi försökte. {Expr,Noun,Vb}
+Hörru, se upp! {Expr,Vb,Vb}
+Hoppsan, jag tappade den. {Expr,Noun,Vb,Noun}
+Hurra, vi vann! {Expr,Noun,Vb}
+Hej då, vi ses imorgon. {Expr,Expr,Noun,Vb,Date}
+God morgon, allihop. {Adj,Noun,Noun}
+God natt, sov gott. {Adj,Noun,Vb,Adv}
+Grattis på födelsedagen! {Expr,Prep,Noun}
+Grattis till ditt nya jobb! {Expr,Prep,Noun,Adj,Noun}
+Välkommen till vårt hem. {Vb,Prep,Noun,Noun}
+Ursäkta, är denna plats ledig? {Expr,Vb,Det,Noun,Adj}
+Tack för din hjälp. {Vb,Prep,Noun,Noun}
+Förlåt, jag är sen. {Adj,Noun,Vb,Adj}
+Självklart, du får komma. {Adv,Noun,Vb,Vb}
+Ja tack. {Expr,Expr}
+Nej, ingen fara. {Expr,Negative,Noun}
+Jag också. {Noun,Adv}
+Det gör jag också. {Expr,Vb,Noun,Adv}
+Inte jag heller. {Det,Noun,Adv}
+Jag tror det. {Noun,Vb,Adv}
+Jag hoppas inte. {Noun,Vb,Negative}
+Kanske imorgon. {Adv,Date}
+Inte direkt. {Negative,Adv}
+Inga problem. {Expr,Noun}
+Okej, du vinner. {Adj,Noun,Vb}
+Lycka till! {Noun,Prep}
+Allihop, snälla sätt er. {Noun,Expr,Vb,Noun}
+Barn, middagen är klar! {Noun,Noun,Vb,Adj}
+Se upp för steget. {Vb,Vb,Prep,Noun}
+Se upp för gapet. {Vb,Vb,Prep,Noun}
+Hjälp mig med dessa väskor. {Vb,Noun,Prep,Det,Noun}
+Skynda dig, vi är sena. {Vb,Noun,Noun,Vb,Adj}
+Var försiktig. {Vb,Adj}
+Ha tålamod med honom. {Vb,Noun,Prep,Noun}
+Håll dig lugn. {Vb,Noun,Adj}
+Njut av festen. {Vb,Prep,Noun}
+Möt mig vid hörnet. {Vb,Noun,Prep,Noun}
+Ta den andra gatan. {Vb,Det,Val,Noun}
+Kolla din mejl. {Vb,Noun,Noun}
+Spara ditt arbete ofta. {Vb,Noun,Noun,Adv}
+Fråga din lärare om hjälp. {Vb,Noun,Noun,Prep,Noun}
+Tillsätt två koppar socker. {Vb,Val,Noun,Noun}
+Klipp papperet i två delar. {Vb,Noun,Prep,Val,Noun}
+Blanda mjölet och äggen. {Vb,Noun,Conj,Noun}
+Lämna ett meddelande efter pipet. {Vb,Det,Noun,Prep,Noun}
+Kör försiktigt. {Vb,Adv}

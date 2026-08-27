@@ -1,7 +1,8 @@
 // Validates a sentence-spec file: each line `<sentence> {Tag,Tag,...}`
 // checks line count, tag vocabulary, and tag count === token count.
 //   node sentences/validate.js sentences/fr/01-basics.txt fr
-// langs: en | fr | es | de | ru | pt
+// langs: en | fr | es | de | ru | pt | it | sv | pl | sw | ja
+// ja is unspaced: format, vocabulary and line count are checked, token count is not
 import fs from 'fs'
 
 const VOCAB = new Set(['Noun', 'Vb', 'Det', 'Adj', 'Adv', 'Prep', 'Conj',
@@ -64,6 +65,7 @@ lines.forEach((line, i) => {
     console.log(`line ${i + 1}: unknown tag(s) [${bad.join(',')}]: ${line}`)
     errs += 1
   }
+  if (lang === 'ja') return // unspaced script: no token count to compare against
   const toks = tokenize(m[1], lang)
   if (toks.length !== tags.length) {
     console.log(`line ${i + 1}: ${toks.length} tokens vs ${tags.length} tags`)

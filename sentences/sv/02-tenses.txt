@@ -1,0 +1,100 @@
+Hon går till biblioteket. {Noun,Vb,Prep,Noun}
+Han dricker kaffe varje morgon. {Noun,Vb,Noun,Det,Noun}
+Affären öppnar klockan nio. {Noun,Vb,Noun,Val}
+Jag borstar alltid tänderna. {Noun,Vb,Adv,Noun}
+De besöker ofta sin mormor. {Noun,Vb,Adv,Noun,Noun}
+Vi äter oftast middag hemma. {Noun,Vb,Adv,Noun,Adv}
+Hon tittar sällan på tv. {Noun,Vb,Adv,Prep,Noun}
+Han dricker aldrig te. {Noun,Vb,Negative,Noun}
+Tåget kommer i tid. {Noun,Vb,Prep,Noun}
+Vatten kokar vid hundra grader. {Noun,Vb,Prep,Val,Noun}
+Vi besökte Paris förra året. {Noun,Vb,Noun,Adj,Date}
+Hon avslutade läxan igår. {Noun,Vb,Noun,Date}
+Han jobbade sent igår kväll. {Noun,Vb,Adv,Date,Noun}
+De flyttade till staden 2019. {Noun,Vb,Prep,Noun,Val}
+Jag sov dåligt. {Noun,Vb,Adv}
+Mötet slutade tidigt. {Noun,Vb,Adv}
+Hon läste franska på universitetet. {Noun,Vb,Noun,Prep,Noun}
+Glaset gick sönder. {Noun,Vb,Adj}
+Jag läser en bra bok. {Noun,Vb,Det,Adj,Noun}
+Hon lagar middag. {Noun,Vb,Noun}
+Barnen leker på gården. {Noun,Vb,Prep,Noun}
+Han diskar tallrikarna. {Noun,Vb,Noun}
+Det regnar. {Noun,Vb}
+De bygger en ny skola. {Noun,Vb,Det,Adj,Noun}
+Jag väntar på bussen. {Noun,Vb,Prep,Noun}
+Hon pluggar inför sitt prov. {Noun,Vb,Prep,Noun,Noun}
+Vi flyttar nästa månad. {Noun,Vb,Adj,Date}
+Bebisen gråter igen. {Noun,Vb,Adv}
+Jag tittade på nyheterna. {Noun,Vb,Prep,Noun}
+Hon pratade i telefon. {Noun,Vb,Prep,Noun}
+De skrattade högt. {Noun,Vb,Adv}
+Han körde för fort. {Noun,Vb,Adv,Adv}
+Vi åt lunch vid tolv. {Noun,Vb,Noun,Prep,Val}
+Hunden skällde hela natten. {Noun,Vb,Adj,Noun}
+Det snöade kraftigt. {Noun,Vb,Adv}
+Jag har sett den filmen. {Noun,Vb,Vb,Det,Noun}
+Hon har bott i Rom i tio år. {Noun,Vb,Vb,Prep,Noun,Prep,Val,Noun}
+Vi har redan ätit. {Noun,Vb,Adv,Vb}
+Han har precis gått. {Noun,Vb,Adv,Vb}
+De har aldrig provat sushi. {Noun,Vb,Negative,Vb,Noun}
+Jag har tappat min plånbok. {Noun,Vb,Vb,Noun,Noun}
+Hon har redan avslutat projektet. {Noun,Vb,Adv,Vb,Noun}
+Han har besökt fem länder. {Noun,Vb,Vb,Val,Noun}
+Vi har känt honom i flera år. {Noun,Vb,Vb,Noun,Prep,Adj,Noun}
+Posten har kommit. {Noun,Vb,Vb}
+Något har förändrats. {Noun,Vb,Vb}
+Jag har hört den låten många gånger. {Noun,Vb,Vb,Det,Noun,Adj,Noun}
+Hon hade gått innan vi åt. {Noun,Vb,Vb,Conj,Noun,Vb}
+Filmen hade börjat innan vi kom. {Noun,Vb,Vb,Conj,Noun,Vb}
+Han hade glömt sitt paraply. {Noun,Vb,Vb,Noun,Noun}
+De hade redan träffats en gång. {Noun,Vb,Adv,Vb,Det,Noun}
+Jag hade aldrig sett havet. {Noun,Vb,Negative,Vb,Noun}
+Vi hade avslutat arbetet vid lunch. {Noun,Vb,Vb,Noun,Prep,Noun}
+Jag ringer dig ikväll. {Noun,Vb,Noun,Date}
+Hon kommer på fredag. {Noun,Vb,Prep,Date}
+De kommer att vinna matchen. {Noun,Vb,Conj,Vb,Noun}
+Det kommer att regna imorgon. {Noun,Vb,Conj,Vb,Date}
+Vi får se resultaten nästa vecka. {Noun,Vb,Vb,Noun,Adj,Date}
+Han kommer inte att hålla med. {Noun,Vb,Negative,Conj,Vb,Vb}
+Jag glömmer inte detta. {Noun,Vb,Negative,Det}
+Du kommer att älska denna restaurang. {Noun,Vb,Conj,Vb,Det,Noun}
+Showen börjar snart. {Noun,Vb,Adv}
+Vi pratar imorgon. {Noun,Vb,Date}
+Hon ska gå. {Noun,Vb,Vb}
+Jag ska köpa en bil. {Noun,Vb,Vb,Det,Noun}
+De ska sälja huset. {Noun,Vb,Vb,Noun}
+Det ska snöa. {Noun,Vb,Vb}
+Vi kommer att missa tåget. {Noun,Vb,Conj,Vb,Noun}
+Han ska studera medicin. {Noun,Vb,Vb,Noun}
+Jag har väntat i en timme. {Noun,Vb,Vb,Prep,Det,Noun}
+Hon har jobbat hela morgonen. {Noun,Vb,Vb,Adj,Noun}
+De hade kört i flera timmar. {Noun,Vb,Vb,Prep,Adj,Noun}
+Han har lärt sig spanska. {Noun,Vb,Vb,Noun,Noun}
+Det har regnat sedan måndag. {Noun,Vb,Vb,Prep,Date}
+Vi har bott i denna stad i två år. {Noun,Vb,Vb,Prep,Det,Noun,Prep,Val,Noun}
+Hon brukade bo i Rom. {Noun,Vb,Vb,Prep,Noun}
+Han brukade röka. {Noun,Vb,Vb}
+Vi brukade spela schack varje söndag. {Noun,Vb,Vb,Noun,Det,Date}
+De brukade vara grannar. {Noun,Vb,Vb,Noun}
+Filmen är på väg att börja. {Noun,Vb,Prep,Noun,Conj,Vb}
+Vi är på väg att gå. {Noun,Vb,Prep,Noun,Conj,Vb}
+Jag skulle just ringa dig. {Noun,Vb,Adv,Vb,Noun}
+Hon har precis kommit tillbaka från gymmet. {Noun,Vb,Adv,Vb,Adv,Prep,Noun}
+Bussen gick precis. {Noun,Vb,Adv}
+Jag minns fortfarande den dagen. {Noun,Vb,Adv,Det,Date}
+Han ursäktade sig till slut. {Noun,Vb,Noun,Prep,Noun}
+De hittade äntligen svaret. {Noun,Vb,Adv,Noun}
+Hon stannade plötsligt. {Noun,Vb,Adv}
+Jag bytte nyligen jobb. {Noun,Vb,Adv,Noun}
+Konserten slutade vid midnatt. {Noun,Vb,Prep,Noun}
+Middagen är nästan klar. {Noun,Vb,Adv,Adj}
+Löven blir röda på hösten. {Noun,Vb,Adj,Prep,Noun}
+Björnar sover hela vintern. {Noun,Vb,Adj,Noun}
+Hon skriver ett brev varje vecka. {Noun,Vb,Det,Noun,Det,Date}
+Han tappar alltid sina nycklar. {Noun,Vb,Adv,Noun,Noun}
+De har ägt denna bil sedan 2020. {Noun,Vb,Vb,Det,Noun,Prep,Val}
+Färgen har torkat. {Noun,Vb,Vb}
+Mina föräldrar bodde i Texas på den tiden. {Noun,Noun,Vb,Prep,Noun,Prep,Det,Noun}
+Skolan börjar i september. {Noun,Vb,Prep,Date}
+Dagarna blir längre. {Noun,Vb,Adj}

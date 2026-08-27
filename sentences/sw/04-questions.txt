@@ -1,0 +1,100 @@
+Je, unakunywa kahawa? {QuestionWord,Vb,Noun}
+Je, anacheza tenisi? {QuestionWord,Vb,Noun}
+Je, walishinda mechi? {QuestionWord,Vb,Noun}
+Je, tuna muda wa kutosha? {QuestionWord,Vb,Noun,Prep,Vb}
+Je, anazungumza Kiingereza? {QuestionWord,Vb,Noun}
+Je, uliona mchezo? {QuestionWord,Vb,Noun}
+Je, wanauza stempu? {QuestionWord,Vb,Noun}
+Je, alikupigia tena? {QuestionWord,Vb,Adv}
+Je, unanikumbuka? {QuestionWord,Vb}
+Je, iliuma? {QuestionWord,Vb}
+Je, hii ni yako? {QuestionWord,Noun,Vb,Noun}
+Je, ninakufahamu? {QuestionWord,Vb}
+Je, yeye ni mwalimu? {QuestionWord,Noun,Vb,Noun}
+Je, una njaa? {QuestionWord,Vb,Noun}
+Je, filamu ilikuwa nzuri? {QuestionWord,Noun,Vb,Adj}
+Je, walikuwa na hasira? {QuestionWord,Vb,Prep,Noun}
+Je, mvua inanyesha? {QuestionWord,Noun,Vb}
+Je, anafanya kazi leo? {QuestionWord,Vb,Noun,Date}
+Je, kiti hiki kimechukuliwa? {QuestionWord,Noun,Det,Vb}
+Je, nimekosea? {QuestionWord,Vb}
+Je, kuna tatizo? {QuestionWord,There,Noun}
+Je, kuna maswali yoyote? {QuestionWord,There,Noun,Det}
+Je, umeshakula? {QuestionWord,Vb}
+Je, barua imefika? {QuestionWord,Noun,Vb}
+Je, unaweza kunisaidia? {QuestionWord,Vb,Vb}
+Je, unaweza kunipa chumvi? {QuestionWord,Vb,Vb,Noun}
+Je, naweza kuingia? {QuestionWord,Vb,Vb}
+Je, tusubiri? {QuestionWord,Vb}
+Je, utajiunga nasi? {QuestionWord,Vb,Noun}
+Je, wangekubali? {QuestionWord,Vb}
+Je, naweza kuazima kalamu yako? {QuestionWord,Vb,Vb,Noun,Noun}
+Je, lazima tuondoke sasa? {QuestionWord,Vb,Vb,Adv}
+Nini kilitokea? {QuestionWord,Vb}
+Jina lako ni nani? {Noun,Noun,Vb,QuestionWord}
+Ni saa ngapi? {Vb,Noun,QuestionWord}
+Unataka nini? {Vb,QuestionWord}
+Alisema nini? {Vb,QuestionWord}
+Unafanya nini? {Vb,QuestionWord}
+Gari lako ni la rangi gani? {Noun,Noun,Vb,Prep,Noun,QuestionWord}
+Alama hii inasema nini? {Noun,Det,Vb,QuestionWord}
+Unapenda muziki wa aina gani? {Vb,Noun,Prep,Noun,QuestionWord}
+Nini kilitoa sauti ile? {QuestionWord,Vb,Noun,Det}
+Nani alipiga simu? {QuestionWord,Vb,Noun}
+Nani yuko mlangoni? {QuestionWord,Vb,Noun}
+Nani anataka kitindamlo? {QuestionWord,Vb,Noun}
+Nani alikuambia habari? {QuestionWord,Vb,Noun}
+Ulimwalika nani? {Vb,QuestionWord}
+Koti hili ni la nani? {Noun,Det,Vb,Prep,QuestionWord}
+Ni zamu ya nani? {Vb,Noun,Prep,QuestionWord}
+Unapendelea rangi gani? {Vb,Noun,QuestionWord}
+Njia gani inaenda ziwani? {Noun,QuestionWord,Vb,Noun}
+Ipi ni rahisi zaidi? {QuestionWord,Vb,Adj,Adv}
+Nani alishinda mbio? {QuestionWord,Vb,Noun}
+Mkoba wa nani uko mezani? {Noun,Prep,QuestionWord,Vb,Noun}
+Funguo zangu ziko wapi? {Noun,Noun,Vb,QuestionWord}
+Unaishi wapi? {Vb,QuestionWord}
+Walikwenda wapi? {Vb,QuestionWord}
+Stesheni iko wapi? {Noun,Vb,QuestionWord}
+Mchezo unaanza lini? {Noun,Vb,QuestionWord}
+Ulifika lini? {Vb,QuestionWord}
+Siku yako ya kuzaliwa ni lini? {Date,Noun,Prep,Vb,Vb,QuestionWord}
+Kwa nini uliondoka? {QuestionWord,QuestionWord,Vb}
+Kwa nini anga ni buluu? {QuestionWord,QuestionWord,Noun,Vb,Adj}
+Kwa nini wanapiga kelele? {QuestionWord,QuestionWord,Vb,Noun}
+Hii ilitokeaje? {Det,Vb}
+Unaandikaje hilo? {Vb,Det}
+Safari yako ilikuwaje? {Noun,Noun,Vb}
+Mama yako hajambo? {Noun,Noun,Vb}
+Una matofaa mangapi? {Vb,Noun,QuestionWord}
+Inagharimu kiasi gani? {Vb,Noun,QuestionWord}
+Dada yako ana miaka mingapi? {Noun,Noun,Vb,Noun,QuestionWord}
+Safari ya ndege ni ya muda gani? {Noun,Prep,Noun,Vb,Prep,Noun,QuestionWord}
+Ufuo uko umbali gani? {Noun,Vb,Noun,QuestionWord}
+Unafanya mazoezi mara ngapi? {Vb,Noun,Adv,QuestionWord}
+Jengo lile lina urefu gani? {Noun,Det,Vb,Noun,QuestionWord}
+Anaweza kukimbia kwa kasi gani? {Vb,Vb,Prep,Noun,QuestionWord}
+Anaimba vizuri, sivyo? {Vb,Adv,QuestionWord}
+Aliondoka mapema, sivyo? {Vb,Adv,QuestionWord}
+Leo kuna baridi, sivyo? {Date,There,Noun,QuestionWord}
+Unakuja, sivyo? {Vb,QuestionWord}
+Wanaishi Boston, sivyo? {Vb,Noun,QuestionWord}
+Tulishinda, sivyo? {Vb,QuestionWord}
+Je, unajua alikokwenda? {QuestionWord,Vb,Vb}
+Nashangaa kwa nini aliondoka. {Vb,QuestionWord,QuestionWord,Vb}
+Aliuliza kama tulikuwa tayari. {Vb,Conj,Vb,Adj}
+Aliuliza kama mvua ingenyesha. {Vb,Conj,Noun,Vb}
+Je, unaweza kunieleza ilivyotokea? {QuestionWord,Vb,Vb,Vb}
+Sijui watakapofika. {Vb,Vb}
+Je, unajua hii ina maana gani? {QuestionWord,Vb,Det,Vb,Noun,QuestionWord}
+Niambie unafikiri nini. {Vb,Vb,QuestionWord}
+Nilimuuliza maktaba ilipokuwa. {Vb,Noun,Vb}
+Hakuna anayejua nani aliandika. {Negative,Vb,QuestionWord,Vb}
+Je, huitaki? {QuestionWord,Vb}
+Je, huhisi baridi? {QuestionWord,Vb,Noun}
+Je, hakukuambia? {QuestionWord,Vb}
+Je, hiyo haikuwa nzuri? {QuestionWord,Det,Vb,Adj}
+Je, kuna mtu nyumbani? {QuestionWord,There,Noun,Noun}
+Je, kila kitu ni sawa? {QuestionWord,Det,Noun,Vb,Adj}
+Je, umewahi kujaribu yoga? {QuestionWord,Vb,Vb,Noun}
+Je, kila mtu alipata kiti? {QuestionWord,Det,Noun,Vb,Noun}

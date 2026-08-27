@@ -1,0 +1,100 @@
+Ona idzie do biblioteki. {Noun,Vb,Prep,Noun}
+Pije kawę każdego ranka. {Vb,Noun,Det,Noun}
+Sklep otwiera się o dziewiątej. {Noun,Vb,Noun,Prep,Val}
+Zawsze myję zęby. {Adv,Vb,Noun}
+Często odwiedzają babcię. {Adv,Vb,Noun}
+Zwykle jemy obiad w domu. {Adv,Vb,Noun,Prep,Noun}
+Rzadko ogląda telewizję. {Adv,Vb,Noun}
+Nigdy nie pije herbaty. {Negative,Negative,Vb,Noun}
+Pociąg przyjeżdża punktualnie. {Noun,Vb,Adv}
+Woda wrze w stu stopniach. {Noun,Vb,Prep,Val,Noun}
+Odwiedziliśmy Paryż w zeszłym roku. {Vb,Noun,Prep,Adj,Date}
+Wczoraj skończyła zadanie domowe. {Date,Vb,Noun,Adj}
+Wczoraj pracował do późna. {Date,Vb,Prep,Adv}
+Przeprowadzili się do miasta w 2019 roku. {Vb,Noun,Prep,Noun,Prep,Val,Date}
+Spałem źle. {Vb,Adv}
+Spotkanie skończyło się wcześnie. {Noun,Vb,Noun,Adv}
+Studiowała francuski na uczelni. {Vb,Noun,Prep,Noun}
+Szklanka się stłukła. {Noun,Noun,Vb}
+Czytam dobrą książkę. {Vb,Adj,Noun}
+Ona gotuje obiad. {Noun,Vb,Noun}
+Dzieci bawią się na podwórku. {Noun,Vb,Noun,Prep,Noun}
+On zmywa naczynia. {Noun,Vb,Noun}
+Pada deszcz. {Vb,Noun}
+Budują nową szkołę. {Vb,Adj,Noun}
+Czekam na autobus. {Vb,Prep,Noun}
+Uczy się do egzaminu. {Vb,Noun,Prep,Noun}
+Przeprowadzamy się w przyszłym miesiącu. {Vb,Noun,Prep,Adj,Date}
+Dziecko znowu płacze. {Noun,Adv,Vb}
+Oglądałem wiadomości. {Vb,Noun}
+Rozmawiała przez telefon. {Vb,Prep,Noun}
+Śmiali się głośno. {Vb,Noun,Adv}
+Jechał zbyt szybko. {Vb,Adv,Adv}
+Jedliśmy lunch w południe. {Vb,Noun,Prep,Noun}
+Pies szczekał całą noc. {Noun,Vb,Adj,Noun}
+Mocno padał śnieg. {Adv,Vb,Noun}
+Widziałem ten film. {Vb,Det,Noun}
+Mieszka w Rzymie od dziesięciu lat. {Vb,Prep,Noun,Prep,Val,Noun}
+Już zjedliśmy. {Adv,Vb}
+Właśnie wyszedł. {Adv,Vb}
+Nigdy nie próbowali sushi. {Negative,Negative,Vb,Noun}
+Zgubiłem portfel. {Vb,Noun}
+Już skończyła projekt. {Adv,Vb,Noun}
+Odwiedził pięć krajów. {Vb,Val,Noun}
+Znamy go od lat. {Vb,Noun,Prep,Noun}
+Poczta przyszła. {Noun,Vb}
+Coś się zmieniło. {Noun,Noun,Vb}
+Słyszałem tę piosenkę wiele razy. {Vb,Det,Noun,Adj,Noun}
+Wyszła zanim zjedliśmy. {Vb,Conj,Vb}
+Film zaczął się zanim przyjechaliśmy. {Noun,Vb,Noun,Conj,Vb}
+Zapomniał parasola. {Vb,Noun}
+Spotkali się już raz. {Vb,Noun,Adv,Adv}
+Nigdy nie widziałem oceanu. {Negative,Negative,Vb,Noun}
+Skończyliśmy pracę do południa. {Vb,Noun,Prep,Noun}
+Zadzwonię do ciebie wieczorem. {Vb,Prep,Noun,Date}
+Przyjedzie w piątek. {Vb,Prep,Date}
+Wygrają mecz. {Vb,Noun}
+Jutro będzie padać. {Date,Vb,Vb}
+Zobaczymy wyniki w przyszłym tygodniu. {Vb,Noun,Prep,Adj,Date}
+Nie zgodzi się. {Negative,Vb,Noun}
+Nie zapomnę tego. {Negative,Vb,Det}
+Pokochasz tę restaurację. {Vb,Det,Noun}
+Przedstawienie zacznie się wkrótce. {Noun,Vb,Noun,Adv}
+Porozmawiamy jutro. {Vb,Date}
+Ona zamierza wyjść. {Noun,Vb,Vb}
+Zamierzam kupić samochód. {Vb,Vb,Noun}
+Zamierzają sprzedać dom. {Vb,Vb,Noun}
+Będzie padać śnieg. {Vb,Vb,Noun}
+Spóźnimy się na pociąg. {Vb,Noun,Prep,Noun}
+Zamierza studiować medycynę. {Vb,Vb,Noun}
+Czekam od godziny. {Vb,Prep,Noun}
+Pracuje przez cały ranek. {Vb,Prep,Adj,Noun}
+Jechali godzinami. {Vb,Noun}
+Uczy się hiszpańskiego. {Vb,Noun,Noun}
+Pada od poniedziałku. {Vb,Prep,Date}
+Mieszkamy w tym mieście od dwóch lat. {Vb,Prep,Det,Noun,Prep,Val,Noun}
+Kiedyś mieszkała w Rzymie. {Adv,Vb,Prep,Noun}
+Kiedyś palił. {Adv,Vb}
+Kiedyś graliśmy w szachy w każdą niedzielę. {Adv,Vb,Prep,Noun,Prep,Det,Date}
+Kiedyś byli sąsiadami. {Adv,Vb,Noun}
+Film zaraz się zacznie. {Noun,Adv,Noun,Vb}
+Zaraz wychodzimy. {Adv,Vb}
+Właśnie miałem do ciebie zadzwonić. {Adv,Vb,Prep,Noun,Vb}
+Właśnie wróciła z siłowni. {Adv,Vb,Prep,Noun}
+Autobus właśnie odjechał. {Noun,Adv,Vb}
+Wciąż pamiętam tamten dzień. {Adv,Vb,Det,Date}
+W końcu przeprosił. {Prep,Noun,Vb}
+W końcu znaleźli odpowiedź. {Prep,Noun,Vb,Noun}
+Nagle się zatrzymała. {Adv,Noun,Vb}
+Niedawno zmieniłem pracę. {Adv,Vb,Noun}
+Koncert skończył się o północy. {Noun,Vb,Noun,Prep,Noun}
+Obiad jest prawie gotowy. {Noun,Vb,Adv,Adj}
+Jesienią liście czerwienieją. {Date,Noun,Vb}
+Niedźwiedzie śpią przez zimę. {Noun,Vb,Prep,Noun}
+Pisze list co tydzień. {Vb,Noun,Det,Date}
+On zawsze gubi klucze. {Noun,Adv,Vb,Noun}
+Mają ten samochód od 2020 roku. {Vb,Det,Noun,Prep,Val,Date}
+Farba wyschła. {Noun,Vb}
+Moi rodzice mieszkali wtedy w Teksasie. {Noun,Noun,Vb,Adv,Prep,Noun}
+Szkoła zaczyna się we wrześniu. {Noun,Vb,Noun,Prep,Date}
+Dni stają się dłuższe. {Noun,Vb,Noun,Adj}

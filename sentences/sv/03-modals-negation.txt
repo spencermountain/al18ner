@@ -1,0 +1,100 @@
+Hon kan simma. {Noun,Vb,Vb}
+Han kan tala tre språk. {Noun,Vb,Vb,Val,Noun}
+Jag kan höra dig. {Noun,Vb,Vb,Noun}
+Vi kan träffas på tisdag. {Noun,Vb,Vb,Prep,Date}
+Fåglar kan flyga. {Noun,Vb,Vb}
+Du kan sitta med oss. {Noun,Vb,Vb,Prep,Noun}
+Hon kan köra lastbil. {Noun,Vb,Vb,Noun}
+Jag känner lukten av rök. {Noun,Vb,Noun,Prep,Noun}
+Han kunde läsa vid fyra. {Noun,Vb,Vb,Prep,Val}
+Hon kunde höra musiken. {Noun,Vb,Vb,Noun}
+Vi kunde se bergen. {Noun,Vb,Vb,Noun}
+Du kunde prova den andra dörren. {Noun,Vb,Vb,Det,Adj,Noun}
+De kan anlända när som helst. {Noun,Vb,Vb,Prep,Prep,Adv}
+Jag skulle kunna äta en hel pizza. {Noun,Vb,Vb,Vb,Det,Adj,Noun}
+Det kan regna i kväll. {Noun,Vb,Vb,Prep,Noun}
+Hon kanske äter middag med oss. {Noun,Adv,Vb,Noun,Prep,Noun}
+Du får lämna bordet. {Noun,Vb,Vb,Noun}
+Planen kan ändras. {Noun,Vb,Vb}
+Han kanske vet svaret. {Noun,Adv,Vb,Noun}
+Vi kanske besöker museet. {Noun,Adv,Vb,Noun}
+Du måste bära hjälm. {Noun,Vb,Vb,Noun}
+Eleverna måste avsluta provet före lunch. {Noun,Vb,Vb,Noun,Prep,Noun}
+Vi måste skydda skogen. {Noun,Vb,Vb,Noun}
+Han måste vara hungrig. {Noun,Vb,Vb,Adj}
+Hon måste ha missat bussen. {Noun,Vb,Vb,Vb,Noun}
+Han måste vara mycket stolt. {Noun,Vb,Vb,Adv,Adj}
+Du borde dricka mer vatten. {Noun,Vb,Vb,Adj,Noun}
+Han borde be henne om ursäkt. {Noun,Vb,Vb,Noun,Prep,Noun}
+Vi borde gå tidigt. {Noun,Vb,Vb,Adv}
+De borde plantera många träd. {Noun,Vb,Vb,Adj,Noun}
+Du borde träffa en läkare. {Noun,Vb,Vb,Det,Noun}
+Hon borde vila idag. {Noun,Vb,Vb,Date}
+Jag skulle vilja ha en kopp te. {Noun,Vb,Vb,Vb,Det,Noun,Noun}
+Han skulle hjälpa om han kunde. {Noun,Vb,Vb,Conj,Noun,Vb}
+Hon skulle aldrig ljuga. {Noun,Vb,Negative,Vb}
+Vi skulle gärna följa med dig. {Noun,Vb,Adv,Vb,Vb,Noun}
+Det skulle vara underbart. {Noun,Vb,Vb,Adj}
+De vill hellre gå. {Noun,Vb,Adv,Vb}
+Ska vi börja? {Vb,Noun,Vb}
+Ska jag öppna ett fönster? {Vb,Noun,Vb,Det,Noun}
+Vi får se. {Noun,Vb,Vb}
+Du ska få din belöning. {Noun,Vb,Vb,Noun,Noun}
+Jag måste gå tidigt. {Noun,Vb,Vb,Adv}
+Hon måste jobba på lördag. {Noun,Vb,Vb,Prep,Date}
+Vi var tvungna att ställa in resan. {Noun,Vb,Adj,Conj,Vb,Vb,Noun}
+Du borde be om ursäkt. {Noun,Vb,Vb,Prep,Noun}
+Han får skynda sig. {Noun,Vb,Vb,Noun}
+De behöver hitta en ny lägenhet. {Noun,Vb,Vb,Det,Adj,Noun}
+Jag behöver köpa mat. {Noun,Vb,Vb,Noun}
+Hon behöver inte komma. {Noun,Vb,Negative,Vb}
+Jag förstår inte. {Noun,Vb,Negative}
+Hon äter inte kött. {Noun,Vb,Negative,Noun}
+Vi hörde inte larmet. {Noun,Vb,Negative,Noun}
+De äger inte någon bil. {Noun,Vb,Negative,Det,Noun}
+Han svarade inte på mitt samtal. {Noun,Vb,Negative,Prep,Noun,Noun}
+Jag vet inte hennes namn. {Noun,Vb,Negative,Noun,Noun}
+Det spelar ingen roll. {Noun,Vb,Negative,Noun}
+Du behöver ingen biljett. {Noun,Vb,Negative,Noun}
+Skrivaren fungerar inte. {Noun,Vb,Negative}
+Vi väntade oss inte regn. {Noun,Vb,Noun,Negative,Noun}
+Han är inte redo. {Noun,Vb,Negative,Adj}
+Soppan är inte tillräckligt varm. {Noun,Vb,Negative,Adv,Adj}
+De är inte hemma. {Noun,Vb,Negative,Adv}
+Jag var inte redo. {Noun,Vb,Negative,Adj}
+Nycklarna låg inte i min väska. {Noun,Vb,Negative,Prep,Noun,Noun}
+Hon är inte sjuksköterska. {Noun,Vb,Negative,Noun}
+Jag hittar inte mina glasögon. {Noun,Vb,Negative,Noun,Noun}
+Hon kan inte komma på festen. {Noun,Vb,Negative,Vb,Prep,Noun}
+Han vill inte lyssna. {Noun,Vb,Negative,Vb}
+De tänker inte sälja gården. {Noun,Vb,Negative,Vb,Noun}
+Vi kunde inte öppna burken. {Noun,Vb,Negative,Vb,Noun}
+Du borde inte oroa dig så mycket. {Noun,Vb,Negative,Vb,Noun,Adv,Det}
+Jag skulle inte göra det. {Noun,Vb,Negative,Vb,Det}
+Du får inte berätta för någon. {Noun,Vb,Negative,Vb,Prep,Noun}
+Han kan inte simma. {Noun,Vb,Negative,Vb}
+Vi kan inte vänta längre. {Noun,Vb,Negative,Vb,Adj}
+Hon klagar aldrig. {Noun,Vb,Negative}
+Jag äter aldrig frukost. {Noun,Vb,Negative,Noun}
+Han har aldrig flugit. {Noun,Vb,Negative,Vb}
+Vi kommer aldrig att få veta. {Noun,Vb,Negative,Conj,Vb,Vb}
+Ingenting hände. {Noun,Vb}
+Ingen öppnade dörren. {Noun,Vb,Noun}
+Ingenting saknades. {Noun,Vb}
+Ingen vet sanningen. {Noun,Vb,Noun}
+Inget av svaren är rätt. {Det,Prep,Noun,Vb,Adj}
+Ingen av oss sov. {Det,Prep,Noun,Vb}
+Historien är inte sann. {Noun,Vb,Negative,Adj}
+Han är inte min bror. {Noun,Vb,Negative,Noun,Noun}
+Det var inte rättvist. {Noun,Vb,Negative,Adj}
+Mjölken är inte färsk. {Noun,Vb,Negative,Adj}
+Jag är inte arg. {Noun,Vb,Negative,Adj}
+Rör inte spisen. {Vb,Negative,Noun}
+De blev inte bjudna. {Noun,Vb,Negative,Adj}
+Hon bestämde sig för att inte svara. {Noun,Vb,Noun,Prep,Conj,Negative,Vb}
+Hon har ingen aning. {Noun,Vb,Negative,Noun}
+Det finns inga platser kvar. {There,Vb,Negative,Noun,Adv}
+Han har inga pengar. {Noun,Vb,Negative,Noun}
+Vill du ha lite vatten? {Vb,Noun,Vb,Det,Noun}
+Kan du upprepa det? {Vb,Noun,Vb,Det}
+Får jag ställa en fråga? {Vb,Noun,Vb,Det,Noun}

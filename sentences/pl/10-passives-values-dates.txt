@@ -1,0 +1,100 @@
+Okno zostało zbite przez burzę. {Noun,Vb,Vb,Prep,Noun}
+List został napisany ręcznie. {Noun,Vb,Vb,Adv}
+Most zbudowano w 1930 roku. {Noun,Vb,Prep,Val,Date}
+Ciasto zjedzono przed południem. {Noun,Vb,Conj,Noun}
+Złodziej został złapany przez policję. {Noun,Vb,Vb,Prep,Noun}
+Piosenkę zaśpiewał chór. {Noun,Vb,Noun}
+Drogę naprawiono w zeszłym miesiącu. {Noun,Vb,Prep,Adj,Date}
+Tym językiem mówi się w wielu krajach. {Det,Noun,Vb,Noun,Prep,Adj,Noun}
+Poczta jest dostarczana każdego ranka. {Noun,Vb,Vb,Det,Noun}
+Obiad podawany jest o siódmej. {Noun,Vb,Vb,Prep,Val}
+Zasady są wyjaśnione w książce. {Noun,Vb,Vb,Prep,Noun}
+Zwycięzcy zostaną ogłoszeni jutro. {Noun,Vb,Vb,Date}
+Paczka zostanie dostarczona w piątek. {Noun,Vb,Vb,Prep,Date}
+Dom został sprzedany. {Noun,Vb,Vb}
+Bilety zostały wydrukowane. {Noun,Vb,Vb}
+Muzeum otworzył burmistrz. {Noun,Vb,Noun}
+Mój rower skradziono w zeszłym tygodniu. {Noun,Noun,Vb,Prep,Adj,Date}
+Pożar spowodowała świeca. {Noun,Vb,Noun}
+Mecz odwołano z powodu deszczu. {Noun,Vb,Conj,Noun,Noun}
+Awansował w zeszłym miesiącu. {Vb,Prep,Adj,Date}
+Ciasto zostało szybko zjedzone. {Noun,Vb,Adv,Vb}
+Tę historię opowiedział mój dziadek. {Det,Noun,Vb,Noun,Noun}
+Te buty wyprodukowano we Włoszech. {Det,Noun,Vb,Prep,Noun}
+Problem szybko rozwiązano. {Noun,Adv,Vb}
+Budowany jest nowy szpital. {Vb,Vb,Adj,Noun}
+Kupił trzy jabłka. {Vb,Val,Noun}
+Ma dwieście książek. {Vb,Val,Noun}
+Przepis wymaga dwóch szklanek mąki. {Noun,Vb,Val,Noun,Noun}
+Zapłaciłem dwadzieścia dolarów. {Vb,Val,Noun}
+Bilet kosztuje pięćdziesiąt dolarów. {Noun,Vb,Val,Noun}
+Ona ma dwadzieścia lat. {Noun,Vb,Val,Noun}
+Mój syn ma siedem lat. {Noun,Noun,Vb,Val,Noun}
+Wieża ma trzysta metrów wysokości. {Noun,Vb,Val,Noun,Noun}
+Czekaliśmy czterdzieści minut. {Vb,Val,Noun}
+Trzecie drzwi są otwarte. {Val,Noun,Vb,Adj}
+Zajęła drugie miejsce. {Vb,Val,Noun}
+To moja pierwsza wizyta. {Noun,Noun,Val,Noun}
+Zdobył dziewięćdziesiąt punktów. {Vb,Val,Noun}
+Książka ma trzysta stron. {Noun,Vb,Val,Noun}
+Połowa pizzy zniknęła. {Noun,Noun,Vb}
+Tuzin jajek kosztuje cztery dolary. {Noun,Noun,Vb,Val,Noun}
+Klasa liczy trzydziestu uczniów. {Noun,Vb,Val,Noun}
+Przebiegł pięć kilometrów. {Vb,Val,Noun}
+Numer pokoju to dwanaście. {Noun,Noun,Vb,Val}
+Dwa plus dwa to cztery. {Val,Conj,Val,Vb,Val}
+Moje urodziny są w czerwcu. {Noun,Noun,Vb,Prep,Date}
+Spotkanie jest w poniedziałek. {Noun,Vb,Prep,Date}
+Wyjeżdżamy w piątek rano. {Vb,Prep,Date,Noun}
+Boże Narodzenie wypada w tym roku w czwartek. {Noun,Noun,Vb,Prep,Det,Date,Prep,Date}
+Urodziła się czwartego czerwca. {Vb,Noun,Val,Date}
+Sklep otwiera się o dziewiątej rano. {Noun,Vb,Noun,Prep,Val,Date}
+Pociąg odjeżdża o osiemnastej. {Noun,Vb,Prep,Val}
+Dziś jest środa. {Date,Vb,Date}
+Wczoraj było święto. {Date,Vb,Noun}
+Jutro jest nowy dzień. {Date,Vb,Adj,Noun}
+Egzamin jest w przyszły wtorek. {Noun,Vb,Prep,Adj,Date}
+Poznaliśmy się w kwietniu. {Vb,Noun,Prep,Date}
+Umowa kończy się w marcu. {Noun,Vb,Noun,Prep,Date}
+Wakacje zaczynają się w lipcu. {Noun,Vb,Noun,Prep,Date}
+Przyjęcie jest w tę sobotę. {Noun,Vb,Prep,Det,Date}
+Pracuje od poniedziałku do piątku. {Vb,Prep,Date,Prep,Date}
+Październik był w tym roku deszczowy. {Date,Vb,Prep,Det,Date,Adj}
+Wizyta jest we wtorek w południe. {Noun,Vb,Prep,Date,Prep,Noun}
+Szkoła kończy się na początku czerwca. {Noun,Vb,Noun,Prep,Noun,Date}
+Ślub jest we wrześniu. {Noun,Vb,Prep,Date}
+Przyszedł mój znany przyjaciel. {Vb,Noun,Adj,Noun}
+To dwie godziny jazdy. {Noun,Val,Date,Noun}
+To był długoterminowy plan. {Noun,Vb,Adj,Noun}
+Jest dobrze wychowanym dzieckiem. {Vb,Adv,Adj,Noun}
+Mieszkają w dwupiętrowym domu. {Vb,Prep,Adj,Noun}
+Ma pracę na pół etatu. {Vb,Noun,Prep,Val,Noun}
+Dobrze ubrany mężczyzna czekał. {Adv,Adj,Noun,Vb}
+To była decyzja w ostatniej chwili. {Noun,Vb,Noun,Prep,Adj,Noun}
+Zranił się. {Vb,Noun}
+Nauczyła się włoskiego sama. {Vb,Noun,Noun,Noun}
+Dobrze się bawiliśmy. {Adv,Noun,Vb}
+Kot myje się sam. {Noun,Vb,Noun,Noun}
+Zobaczyli się nawzajem. {Vb,Noun,Noun}
+Częstujcie się przekąskami. {Vb,Noun,Noun}
+Zrobiłem to sam. {Vb,Det,Noun}
+Mój przyjaciel Tom gra na perkusji. {Noun,Noun,Noun,Vb,Prep,Noun}
+Jedno z jajek się rozbiło. {Val,Prep,Noun,Noun,Vb}
+Każdy z nas zapłacił dziesięć dolarów. {Det,Prep,Noun,Vb,Val,Noun}
+Część mleka się rozlała. {Det,Noun,Noun,Vb}
+Reszta drużyny została. {Det,Noun,Vb}
+Oboje się zgodzili. {Det,Noun,Vb}
+Cena benzyny znowu spadła. {Noun,Noun,Adv,Vb}
+Kolor nieba się zmienił. {Noun,Noun,Noun,Vb}
+Zadzwonił mój przyjaciel. {Vb,Noun,Noun}
+Szczyt góry był biały. {Noun,Noun,Vb,Adj}
+Powrót do domu zajmuje dwie godziny. {Noun,Prep,Noun,Vb,Val,Noun}
+Znak nic nie mówi. {Noun,Noun,Negative,Vb}
+Jej marzeniem jest podróżować po świecie. {Noun,Noun,Vb,Vb,Prep,Noun}
+Żeby wygrać, musisz ćwiczyć. {Conj,Vb,Vb,Vb}
+Celem jest skończyć do piątku. {Noun,Vb,Vb,Prep,Date}
+Jego ogon jest puszysty. {Noun,Noun,Vb,Adj}
+Drużyna świętowała swoje zwycięstwo. {Noun,Vb,Noun,Noun}
+Każdy coś przyniósł. {Noun,Noun,Vb}
+Każdy może nauczyć się tej umiejętności. {Noun,Vb,Vb,Noun,Det,Noun}
+Co roku festiwal się rozrasta. {Det,Date,Noun,Noun,Vb}

@@ -1,0 +1,100 @@
+Funguo ziko mezani. {Noun,Vb,Noun}
+Paka alijificha chini ya kitanda. {Noun,Vb,Prep,Prep,Noun}
+Benki iko kati ya mkahawa na duka la vitabu. {Noun,Vb,Prep,Prep,Noun,Conj,Noun,Prep,Noun}
+Ndege iliruka juu ya mawingu. {Noun,Vb,Prep,Prep,Noun}
+Mpira ulivingirika kuvuka barabara. {Noun,Vb,Vb,Noun}
+Tulitembea kando ya mto. {Vb,Prep,Prep,Noun}
+Alisimama karibu na mama yake. {Vb,Prep,Prep,Noun,Noun}
+Meli iliingia bandarini. {Noun,Vb,Noun}
+Aliegemea ukutani. {Vb,Noun}
+Tuliendesha kupitia handaki. {Vb,Prep,Noun}
+Joto lilishuka chini ya sifuri. {Noun,Vb,Prep,Prep,Val}
+Nyumba yetu iko karibu na shule. {Noun,Noun,Vb,Prep,Prep,Noun}
+Bustani iko nyuma ya nyumba. {Noun,Vb,Prep,Prep,Noun}
+Ndege alikaa juu ya uzio. {Noun,Vb,Prep,Prep,Noun}
+Barua iko ndani ya bahasha. {Noun,Vb,Prep,Prep,Noun}
+Tulikutana adhuhuri. {Vb,Noun}
+Darasa linaanza baada ya dakika kumi. {Noun,Vb,Prep,Prep,Noun,Val}
+Alifanya kazi hadi usiku wa manane. {Vb,Noun,Prep,Noun,Prep,Noun}
+Aliongea kuhusu bajeti. {Vb,Prep,Noun}
+Zawadi hii inatoka kwa shangazi yangu. {Noun,Det,Vb,Prep,Noun,Noun}
+Kitabu kinahusu mbwa aliyepotea. {Noun,Vb,Noun,Vb}
+Aligombana na mwenye nyumba. {Vb,Prep,Prep,Noun}
+Alikata mkate kwa kisu. {Vb,Noun,Prep,Noun}
+Timu ilisafiri kwa basi. {Noun,Vb,Prep,Noun}
+Nilifanya hivyo kwa ajili yako. {Vb,Det,Prep,Noun,Noun}
+Tafadhali washa redio. {Expr,Vb,Noun}
+Alikataa ombi. {Vb,Noun}
+Aliamka saa kumi na mbili. {Vb,Noun,Val,Conj,Val}
+Niliacha sukari. {Vb,Noun}
+Alitafuta maana ya neno. {Vb,Noun,Prep,Noun}
+Maziwa yamekwisha. {Noun,Vb}
+Alivaa koti lake. {Vb,Noun,Noun}
+Vua kofia yako. {Vb,Noun,Noun}
+Andika anwani. {Vb,Noun}
+Aligundua ukweli. {Vb,Noun}
+Gari liliharibika barabarani. {Noun,Vb,Noun}
+Okota vitu vyako vya kuchezea. {Vb,Noun,Noun,Prep,Vb}
+Aliwasilisha kazi yake ya nyumbani. {Vb,Noun,Noun,Prep,Noun}
+Ndege iliondoka kwa wakati. {Noun,Vb,Prep,Noun}
+Alitupa magazeti ya zamani. {Vb,Noun,Prep,Noun}
+Tulisimamisha hema. {Vb,Noun}
+Alijaza fomu. {Vb,Noun}
+Mkutano uliendelea kwa masaa mengi. {Noun,Vb,Prep,Noun,Adj}
+Tundika koti lako. {Vb,Noun,Noun}
+Alitoa hoja nzuri. {Vb,Noun,Adj}
+Punguza mwendo kwenye kivuko. {Vb,Noun,Prep,Noun}
+Alimtunza dada yake mdogo. {Vb,Noun,Noun,Adj}
+Moto ulizimika. {Noun,Vb}
+Rudi kesho. {Vb,Date}
+Ongeza sauti. {Vb,Noun}
+Kuogelea ni mazoezi mazuri. {Vb,Vb,Noun,Adj}
+Yoga hunisaidia kutulia. {Noun,Vb,Vb}
+Napenda kusoma vitabu. {Vb,Vb,Noun}
+Anapenda kucheza dansi. {Vb,Vb,Noun}
+Aliacha kuvuta sigara mwaka jana. {Vb,Vb,Noun,Noun,Date}
+Wanafanya mazoezi ya kuimba kila siku. {Vb,Noun,Prep,Vb,Det,Date}
+Kupika kunahitaji subira. {Vb,Vb,Noun}
+Anaogopa kuruka kwa ndege. {Vb,Vb,Prep,Noun}
+Ni hodari wa kutengeneza vitu. {Vb,Adj,Prep,Vb,Noun}
+Tuliongea kuhusu kuhama. {Vb,Prep,Vb}
+Asante kwa kuja. {Vb,Prep,Vb}
+Kukimbia kunamfanya awe na afya. {Vb,Vb,Vb,Prep,Noun}
+Nataka kula chakula cha mchana. {Vb,Vb,Noun,Prep,Noun}
+Aliamua kubaki. {Vb,Vb}
+Wanapanga kutembelea Japani. {Vb,Vb,Noun}
+Anatumaini kushinda tuzo. {Vb,Vb,Noun}
+Tunahitaji kuongea. {Vb,Vb}
+Aliahidi kuandika. {Vb,Vb}
+Alijitolea kutupeleka. {Vb,Vb}
+Nilisahau kufunga mlango. {Vb,Vb,Noun}
+Walikubaliana kukutana adhuhuri. {Vb,Vb,Noun}
+Alijifunza kupiga fidla. {Vb,Vb,Noun}
+Alikwenda dukani kununua maziwa. {Vb,Noun,Vb,Noun}
+Alipiga simu kuuliza swali. {Vb,Noun,Vb,Noun}
+Ni vigumu kuchagua. {Vb,Adj,Vb}
+Ni rahisi kufanya makosa. {Vb,Adj,Vb,Noun}
+Tuna kazi ya kufanya. {Vb,Noun,Prep,Vb}
+Alinifanya nicheke. {Vb,Vb}
+Nilimwona mwanamume akivuka barabara. {Vb,Noun,Vb,Noun}
+Alinisaidia kubeba mizigo. {Vb,Vb,Noun}
+Uzio unahitaji kupakwa rangi. {Noun,Vb,Vb,Noun}
+Anataka aombe msamaha. {Vb,Vb,Noun}
+Nilimwomba asubiri. {Vb,Vb}
+Walitualika tujiunge nao. {Vb,Vb,Noun}
+Alinifundisha kuendesha gari. {Vb,Vb,Noun}
+Mbwa aliruka juu ya uzio. {Noun,Vb,Prep,Prep,Noun}
+Alimimina chai kwenye kikombe. {Vb,Noun,Prep,Noun}
+Alipanda juu ya paa. {Vb,Prep,Prep,Noun}
+Panya alitambaa sakafuni. {Noun,Vb,Noun}
+Tuliendesha kuelekea pwani. {Vb,Prep,Noun}
+Mashua iliondoka gatini. {Noun,Vb,Noun}
+Aliingia chumbani. {Vb,Noun}
+Watoto walijificha kabatini. {Noun,Vb,Noun}
+Mvua ilidondoka kutoka paani. {Noun,Vb,Prep,Noun}
+Njia inaelekea ziwani. {Noun,Vb,Noun}
+Alipunga mkono kutoka juu. {Vb,Noun,Prep,Adv}
+Duka la upande wa pili wa barabara linauza maua. {Noun,Prep,Noun,Prep,Val,Prep,Noun,Vb,Noun}
+Mwanamume aliyevaa suti ya kijivu aliondoka. {Noun,Vb,Noun,Prep,Noun,Vb}
+Msichana mwenye mwavuli mwekundu alitabasamu. {Noun,Prep,Noun,Adj,Vb}
+Daraja linalovuka mto linaunganisha miji. {Noun,Vb,Noun,Vb,Noun}

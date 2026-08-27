@@ -1,0 +1,100 @@
+Jeśli będzie padać, zostaniemy w domu. {Condition,Vb,Vb,Vb,Prep,Noun}
+Jeśli ogrzejesz lód, on topnieje. {Condition,Vb,Noun,Noun,Vb}
+Jeśli zadzwoni, powiedz jej prawdę. {Condition,Vb,Vb,Noun,Noun}
+Gdybym był bogaty, podróżowałbym. {Condition,Vb,Adj,Vb}
+Jeśli wyjdziemy wcześnie, zdążymy na pociąg. {Condition,Vb,Adj,Vb,Prep,Noun}
+Jeśli będziesz się uczyć, zdasz. {Condition,Vb,Noun,Vb,Vb}
+Jeśli pogoda będzie ładna, pójdziemy pieszo. {Condition,Noun,Vb,Adj,Vb,Adv}
+Gdyby się uczył, zdałby. {Condition,Noun,Vb,Vb}
+Gdybym wiedział, pomógłbym. {Condition,Vb,Vb}
+Jeśli czegoś potrzebujesz, zapytaj mnie. {Condition,Noun,Vb,Vb,Noun}
+Jeśli spadnie śnieg, autobusy staną. {Condition,Vb,Noun,Noun,Vb}
+Jeśli ją zobaczysz, przekaż pozdrowienia. {Condition,Noun,Vb,Vb,Expr}
+Jeśli autobus się spóźni, przegapimy przedstawienie. {Condition,Noun,Noun,Vb,Vb,Noun}
+Możesz przyjść jeśli chcesz. {Vb,Vb,Condition,Vb}
+Odwołamy piknik jeśli będzie padać. {Vb,Noun,Condition,Vb,Vb}
+Zadzwoń jeśli się zgubisz. {Vb,Condition,Noun,Vb}
+Jeśli trzeba, możemy przełożyć termin. {Condition,Vb,Vb,Vb,Noun}
+Jeśli to możliwe, przyjdź przed ósmą. {Condition,Noun,Adj,Vb,Conj,Val}
+Nawet jeśli przeprosi, ona mu nie wybaczy. {Conj,Condition,Vb,Noun,Noun,Negative,Vb}
+Co się stanie jeśli nam się nie uda? {QuestionWord,Noun,Vb,Condition,Noun,Noun,Negative,Vb}
+Jeśli masz wątpliwości, zapytaj. {Condition,Vb,Noun,Vb}
+Jeśli światło jest czerwone, zatrzymaj samochód. {Condition,Noun,Vb,Adj,Vb,Noun}
+Ona pomoże jeśli poprosisz grzecznie. {Noun,Vb,Condition,Vb,Adv}
+Jeśli się zgodzi, podpiszemy umowę. {Condition,Noun,Vb,Vb,Noun}
+Jeśli nie będzie padać, zrobimy piknik. {Condition,Negative,Vb,Vb,Vb,Noun}
+Jeśli się nie pospieszysz, spóźnimy się. {Condition,Noun,Negative,Vb,Vb,Noun}
+Pójdę sam jeśli do mnie nie dołączysz. {Vb,Adj,Condition,Prep,Noun,Negative,Vb}
+Jeśli się nie poprawi, straci pracę. {Condition,Noun,Negative,Vb,Vb,Noun}
+Kiedy pada, ulica jest zalana. {Conj,Vb,Noun,Vb,Adj}
+Gotowałem kiedy zadzwoniłeś. {Vb,Conj,Vb}
+Ilekroć nas odwiedza, pieczemy ciasteczka. {Conj,Noun,Vb,Vb,Noun}
+Ilekroć podróżuje, wysyła pocztówki. {Conj,Vb,Vb,Noun}
+Kiedy spałeś, przyszła poczta. {Conj,Vb,Vb,Noun}
+Podczas gdy ona gotowała, on wycierał stół. {Conj,Conj,Noun,Vb,Noun,Vb,Noun}
+Gdy tylko przyjechaliśmy, przedstawienie się zaczęło. {Conj,Conj,Vb,Noun,Noun,Vb}
+Gdy tylko skończy, możemy wyjść. {Conj,Conj,Vb,Vb,Vb}
+Podczas gdy dziecko spało, posprzątaliśmy dom. {Conj,Conj,Noun,Vb,Vb,Noun}
+Ponieważ droga była oblodzona, jechaliśmy wolno. {Conj,Noun,Vb,Adj,Vb,Adv}
+Zostaliśmy w domu ponieważ padało. {Vb,Prep,Noun,Conj,Vb}
+Uśmiechnęła się ponieważ była dumna. {Vb,Noun,Conj,Vb,Adj}
+Wyszedł ponieważ się nudził. {Vb,Conj,Noun,Vb}
+Z powodu burzy lot był opóźniony. {Conj,Noun,Noun,Noun,Vb,Adj}
+Ufam jej ponieważ jest uczciwa. {Vb,Noun,Conj,Vb,Adj}
+Chociaż było zimno, poszliśmy popływać. {Conj,Vb,Adj,Vb,Vb}
+Chociaż była śpiąca, pracowała dalej. {Conj,Vb,Adj,Vb,Adv}
+Chociaż jest młody, jest mądry. {Conj,Vb,Adj,Vb,Adj}
+Chociaż test był trudny, wszyscy zdali. {Conj,Noun,Vb,Adj,Noun,Vb}
+Przyszedł na przyjęcie chociaż był chory. {Vb,Prep,Noun,Conj,Vb,Adj}
+Chociaż przegraliśmy, graliśmy dobrze. {Conj,Vb,Vb,Adv}
+Biegła dalej chociaż bolały ją nogi. {Vb,Adv,Conj,Vb,Noun,Noun}
+Chociaż padało, mecz trwał dalej. {Conj,Vb,Noun,Vb,Adv}
+Uczyła się pilnie, więc zdała test. {Vb,Noun,Adv,Conj,Vb,Noun}
+Było późno, więc wyszliśmy wcześnie. {Vb,Adj,Conj,Vb,Adv}
+Sklep był pusty, więc wyszliśmy. {Noun,Vb,Adj,Conj,Vb}
+Był głodny, więc zrobił kanapkę. {Vb,Adj,Conj,Vb,Noun}
+Muzyka była głośna, więc zatkaliśmy uszy. {Noun,Vb,Adj,Conj,Vb,Noun}
+Byłem spragniony, więc wypiłem sok. {Vb,Adj,Conj,Vb,Noun}
+Czekaliśmy do północy. {Vb,Prep,Noun}
+Sklep jest otwarty do dziewiątej. {Noun,Vb,Adj,Prep,Val}
+Skończ zadanie przed obiadem. {Vb,Noun,Conj,Noun}
+Po filmie zjedliśmy deser. {Prep,Noun,Vb,Noun}
+Po obiedzie ucięli sobie drzemkę. {Prep,Noun,Vb,Noun,Noun}
+Wyszliśmy po przemówieniu. {Vb,Prep,Noun}
+Umyj zęby przed snem. {Vb,Noun,Conj,Noun}
+Przyjęcie trwało po zachodzie słońca. {Noun,Vb,Prep,Noun,Noun}
+Po tym jak przyjechaliśmy, film się zaczął. {Prep,Det,Conj,Vb,Noun,Noun,Vb}
+Po tym jak skończyła studia, wyjechała za granicę. {Prep,Det,Conj,Vb,Noun,Vb,Prep,Noun}
+Kiedy poznasz zasady, gra jest łatwa. {Adv,Vb,Noun,Noun,Vb,Adj}
+Po tym jak wyszli, dom wydawał się cichy. {Prep,Det,Conj,Vb,Noun,Vb,Noun,Adj}
+Zapytał czy jestem gotowy. {Vb,Conj,Vb,Adj}
+Nie wiem czy ona przyjdzie. {Negative,Vb,Conj,Noun,Vb}
+Sprawdź czy obiad jest gotowy. {Vb,Conj,Noun,Vb,Adj}
+Zastanawiał się czy ta historia jest prawdziwa. {Vb,Noun,Conj,Det,Noun,Vb,Adj}
+Czy wygramy czy przegramy, jestem dumny. {Conj,Vb,Conj,Vb,Vb,Adj}
+Od 2020 roku prowadzi mały biznes. {Prep,Val,Date,Vb,Adj,Noun}
+Od poniedziałku pada codziennie. {Prep,Date,Vb,Date}
+Podczas burzy zgasły światła. {Prep,Noun,Vb,Noun}
+Mimo deszczu mecz trwał dalej. {Prep,Noun,Noun,Vb,Adv}
+Mimo strachu wygłosiła przemówienie. {Prep,Noun,Vb,Noun}
+Bez mapy zgubiliśmy się. {Prep,Noun,Vb,Noun}
+Przed przedstawieniem zjedliśmy obiad. {Conj,Noun,Vb,Noun}
+Zanim przyjechaliśmy, jedzenie było zimne. {Conj,Vb,Noun,Vb,Adj}
+Im wcześniej, tym lepiej. {Det,Adj,Det,Adj}
+Gdziekolwiek idzie, jej pies idzie za nią. {Conj,Vb,Noun,Noun,Vb,Prep,Noun}
+Kto przyjdzie pierwszy, dostanie nagrodę. {Conj,Vb,Val,Vb,Noun}
+Wszędzie gdzie spojrzeliśmy, widzieliśmy kwiaty. {Adv,QuestionWord,Vb,Vb,Noun}
+Zachowuje się jakby był właścicielem tego miejsca. {Vb,Noun,Conj,Vb,Noun,Det,Noun}
+Wygląda na to że może spaść śnieg. {Vb,Prep,Det,Conj,Vb,Vb,Noun}
+Śpiewa kiedy gotuje. {Vb,Conj,Vb}
+Gdy zapadła noc, miasto rozbłysło. {Prep,Vb,Noun,Noun,Vb}
+Zachowuje się jakby nic się nie stało. {Vb,Noun,Conj,Noun,Noun,Negative,Vb}
+Weź parasol na wypadek deszczu. {Vb,Noun,Conj,Conj,Noun}
+Wyszliśmy wcześnie żeby zaparkować. {Vb,Adv,Conj,Vb}
+Pies szczekał ilekroć zadzwonił dzwonek. {Noun,Vb,Conj,Vb,Noun}
+Jeśli to zepsujesz, kupisz to. {Condition,Det,Vb,Vb,Det}
+Jeśli zapomnę, przypomnij mi. {Condition,Vb,Vb,Noun}
+Weź kurtkę na wypadek zimna. {Vb,Noun,Conj,Conj,Noun}
+Chociaż przeprosił, ona pozostała zła. {Conj,Vb,Noun,Vb,Adj}
+Ponieważ przyjechaliśmy późno, przegapiliśmy przemówienie. {Conj,Vb,Adj,Vb,Noun}
+Jeśli wszystko pójdzie dobrze, kupimy dom. {Condition,Noun,Vb,Adv,Vb,Noun}

@@ -1,0 +1,100 @@
+Anatembea hadi maktaba. {Vb,Prep,Noun}
+Hunywa kahawa kila asubuhi. {Vb,Noun,Det,Noun}
+Duka hufunguliwa saa tatu. {Noun,Vb,Noun,Val}
+Daima ninapiga mswaki. {Adv,Vb,Noun}
+Mara nyingi humtembelea bibi yao. {Adv,Adv,Vb,Noun,Noun}
+Kwa kawaida tunakula nyumbani. {Prep,Noun,Vb,Noun}
+Mara chache hutazama televisheni. {Adv,Adv,Vb,Noun}
+Hanywi chai kamwe. {Vb,Noun,Negative}
+Treni hufika kwa wakati. {Noun,Vb,Prep,Noun}
+Maji huchemka nyuzi mia moja. {Noun,Vb,Noun,Val,Val}
+Tulitembelea Paris mwaka jana. {Vb,Noun,Noun,Date}
+Alimaliza kazi yake ya nyumbani jana. {Vb,Noun,Noun,Prep,Noun,Date}
+Alifanya kazi hadi usiku jana. {Vb,Noun,Prep,Noun,Date}
+Walihamia mjini mwaka 2019. {Vb,Noun,Noun,Val}
+Nililala vibaya. {Vb,Adv}
+Mkutano ulimalizika mapema. {Noun,Vb,Adv}
+Alisoma Kifaransa chuoni. {Vb,Noun,Noun}
+Glasi ilivunjika. {Noun,Vb}
+Ninasoma kitabu kizuri. {Vb,Noun,Adj}
+Anapika chakula cha jioni. {Vb,Noun,Prep,Noun}
+Watoto wanacheza uwanjani. {Noun,Vb,Noun}
+Anaosha vyombo. {Vb,Noun}
+Mvua inanyesha. {Noun,Vb}
+Wanajenga shule mpya. {Vb,Noun,Adj}
+Ninasubiri basi. {Vb,Noun}
+Anasoma kwa ajili ya mtihani wake. {Vb,Prep,Noun,Prep,Noun,Noun}
+Tunahama mwezi ujao. {Vb,Date,Adj}
+Mtoto analia tena. {Noun,Vb,Adv}
+Nilikuwa nikitazama habari. {Vb,Vb,Noun}
+Alikuwa akiongea kwa simu. {Vb,Vb,Prep,Noun}
+Walikuwa wakicheka kwa sauti. {Vb,Vb,Prep,Noun}
+Alikuwa akiendesha kwa kasi sana. {Vb,Vb,Prep,Noun,Adv}
+Tulikuwa tukila mchana. {Vb,Vb,Noun}
+Mbwa alikuwa akibweka usiku kucha. {Noun,Vb,Vb,Noun,Adj}
+Theluji ilikuwa ikianguka sana. {Noun,Vb,Vb,Adv}
+Nimeiona filamu ile. {Vb,Noun,Det}
+Ameishi Roma kwa miaka kumi. {Vb,Noun,Prep,Noun,Val}
+Tumeshakula. {Vb}
+Ametoka tu. {Vb,Adv}
+Hawajawahi kula sushi. {Vb,Vb,Noun}
+Nimepoteza pochi yangu. {Vb,Noun,Noun}
+Amemaliza mradi tayari. {Vb,Noun,Adv}
+Ametembelea nchi tano. {Vb,Noun,Val}
+Tumemjua kwa miaka mingi. {Vb,Prep,Noun,Adj}
+Barua imefika. {Noun,Vb}
+Kitu kimebadilika. {Noun,Vb}
+Nimeusikia wimbo huo mara nyingi. {Vb,Noun,Det,Adv,Adv}
+Alikuwa ameondoka kabla hatujala. {Vb,Vb,Conj,Vb}
+Filamu ilikuwa imeanza kabla hatujafika. {Noun,Vb,Vb,Conj,Vb}
+Alikuwa amesahau mwavuli wake. {Vb,Vb,Noun,Noun}
+Walikuwa wamekutana mara moja. {Vb,Vb,Adv,Adv}
+Sikuwahi kuona bahari. {Vb,Vb,Noun}
+Tulikuwa tumemaliza kazi kabla ya adhuhuri. {Vb,Vb,Noun,Prep,Prep,Noun}
+Nitakupigia simu usiku huu. {Vb,Noun,Date,Det}
+Atafika Ijumaa. {Vb,Date}
+Watashinda mchezo. {Vb,Noun}
+Mvua itanyesha kesho. {Noun,Vb,Date}
+Tutaona matokeo wiki ijayo. {Vb,Noun,Date,Adj}
+Hatakubali. {Vb}
+Sitasahau hili. {Vb,Det}
+Utaipenda mkahawa huu. {Vb,Noun,Det}
+Onyesho litaanza hivi karibuni. {Noun,Vb,Adv,Adv}
+Tutaongea kesho. {Vb,Date}
+Anakaribia kuondoka. {Vb,Vb}
+Ninakusudia kununua gari. {Vb,Vb,Noun}
+Wanakusudia kuuza nyumba. {Vb,Vb,Noun}
+Theluji itaanguka. {Noun,Vb}
+Tutakosa treni. {Vb,Noun}
+Anakusudia kusoma udaktari. {Vb,Vb,Noun}
+Nimesubiri kwa saa moja. {Vb,Prep,Noun,Val}
+Amekuwa akifanya kazi asubuhi yote. {Vb,Vb,Noun,Noun,Adj}
+Walikuwa wakiendesha kwa masaa mengi. {Vb,Vb,Prep,Noun,Adj}
+Amekuwa akijifunza Kihispania. {Vb,Vb,Noun}
+Mvua imekuwa ikinyesha tangu Jumatatu. {Noun,Vb,Vb,Prep,Date}
+Tumeishi mjini humu kwa miaka miwili. {Vb,Noun,Det,Prep,Noun,Val}
+Zamani aliishi Roma. {Date,Vb,Noun}
+Zamani alivuta sigara. {Date,Vb,Noun}
+Zamani tulicheza chesi kila Jumapili. {Date,Vb,Noun,Det,Date}
+Zamani walikuwa majirani. {Date,Vb,Noun}
+Filamu inakaribia kuanza. {Noun,Vb,Vb}
+Tunakaribia kuondoka. {Vb,Vb}
+Nilikuwa karibu kukupigia simu. {Vb,Adv,Vb,Noun}
+Ametoka tu kurudi kutoka mazoezini. {Vb,Adv,Vb,Prep,Noun}
+Basi limeondoka sasa hivi. {Noun,Vb,Adv,Adv}
+Bado nakumbuka siku ile. {Adv,Vb,Date,Det}
+Hatimaye aliomba msamaha. {Adv,Vb,Noun}
+Hatimaye walipata jibu. {Adv,Vb,Noun}
+Ghafla alisimama. {Adv,Vb}
+Hivi karibuni nilibadilisha kazi. {Adv,Adv,Vb,Noun}
+Tamasha lilimalizika usiku wa manane. {Noun,Vb,Noun,Prep,Noun}
+Chakula kimekaribia kuwa tayari. {Noun,Vb,Vb,Adj}
+Majani hugeuka mekundu wakati wa vuli. {Noun,Vb,Adj,Noun,Prep,Noun}
+Dubu hulala wakati wote wa baridi. {Noun,Vb,Noun,Adj,Prep,Noun}
+Huandika barua kila wiki. {Vb,Noun,Det,Date}
+Yeye hupoteza funguo zake kila wakati. {Noun,Vb,Noun,Noun,Det,Noun}
+Wamekuwa na gari hili tangu 2020. {Vb,Prep,Noun,Det,Prep,Val}
+Rangi imekauka. {Noun,Vb}
+Wazazi wangu waliishi Texas wakati huo. {Noun,Noun,Vb,Noun,Noun,Det}
+Shule huanza mwezi wa Septemba. {Noun,Vb,Date,Prep,Date}
+Siku zinakuwa ndefu. {Noun,Vb,Adj}

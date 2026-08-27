@@ -30,8 +30,8 @@ the tokenizer exactly (contractions and hyphenated words split), and 935/1000 li
 ## Translations
 
 1-to-1 translations of all 1,000 lines live in `fr/`, `es/`, `de/`, `ru/`,
-`pt/`, `it/` — same filenames, same line order, same spec format, tagged on the
-*translated* sentence's own tokens and word order:
+`pt/`, `it/`, `sv/`, `pl/`, `sw/`, `ja/` — same filenames, same line order, same spec
+format, tagged on the *translated* sentence's own tokens and word order:
 
 ```
 Le garçon a frappé le ballon. {Det,Noun,Vb,Vb,Det,Noun}
@@ -44,8 +44,12 @@ German separable prefixes add a trailing `Vb` (`Der Regen hörte auf.
 {Det,Noun,Vb,Vb}`), and idioms restructure freely (`J'ai faim`, `Tengo hambre`,
 `У меня болит голова`) with each token tagged by its own POS.
 
-Register: informal singular (tu / tú / du / ты / tu; Brazilian Portuguese
-você). Russian assumes a male first-person speaker and writes ё consistently.
+Register: informal singular (tu / tú / du / ты / tu / du / ty). Brazilian Portuguese
+uses você; Polish uses the bare 2nd person rather than pan/pani; Swahili uses the
+plain singular (unasoma). Russian assumes a male first-person speaker and writes ё
+consistently.
+Japanese is uniformly polite (です/ます), since that is the register a learner corpus
+wants and it keeps the copula and the negative auxiliary visible on every line.
 Italian and Spanish enclitic imperatives are one token, one slot (Siéntate,
 Siediti → Vb); Portuguese hyphenated enclitics split (Sente-se → {Vb,Noun}).
 
@@ -75,12 +79,97 @@ only in French `il y a` ({Noun,There,Vb}) and Italian `c'è` ({There,Vb}) —
 hay/es gibt/есть/tem are tagged by their own structure.
 
 `validate.js` checks line counts, the closed tag vocabulary, and
-tag-count-vs-token-count under these tokenization rules for all six languages
-(the `en` rules reproduce compromise's term counts on all 1,000 source lines):
+tag-count-vs-token-count under these tokenization rules for every space-separated
+language (the `en` rules reproduce compromise's term counts on all 1,000 source
+lines). For `ja` it checks format, vocabulary and line count only — there is no
+whitespace to count against:
 
 ```
 node sentences/validate.js sentences/fr/01-basics.txt fr
+node sentences/validate.js sentences/ja/01-basics.txt ja
 ```
+
+### Swedish
+
+Nothing unusual: no apostrophe clitics, definiteness is a suffix rather than an
+article (`Telefonen ringde. {Noun,Vb}`), the genitive `-s` stays on its noun
+(`Toms bil` → {Noun,Noun}), and particle verbs get a trailing `Vb` like German
+separable prefixes (`Ge aldrig upp. {Vb,Negative,Vb}`, `De bjöd in oss.
+{Noun,Vb,Vb,Noun}`), while the predicative `sönder` in `Glaset gick sönder` is `Adj`. The
+future/infinitive marker `att` is `Conj` like English "to", `inte` and `aldrig`
+are `Negative`, and existential `Det finns/var/sitter` keeps `There` on `Det`.
+
+### Polish
+
+Free word order and rich case marking, so slots move but the vocabulary is the
+familiar one: no articles (the `Det` slot survives only on real demonstratives,
+`ten / ta / to`), subject pronouns are usually dropped (`Napisał list.
+{Vb,Noun}`), and the infinitive is a single word, so the infinitive-marker `Conj`
+of English "to" disappears — it comes back on purposive `żeby/aby`.
+
+- `nie` → `Negative`, and Polish negative concord means two slots where English
+  has one: `Nigdy nie pije herbaty. {Negative,Negative,Vb,Noun}`
+- the yes-no particle `czy` → `QuestionWord`, matching Japanese か; so does the
+  tag question `prawda?` (`Wygraliśmy, prawda? {Vb,QuestionWord}`)
+- reflexive/object clitics (`się`, `mi`, `go`) → `Noun` like the other languages
+- `jeśli / jeżeli / gdyby` → `Condition`; comparative `niż` and `jak` → `Prep`
+- possessives `mój / twój / swój` → `Noun` like English "my"
+
+### Swahili
+
+The most agglutinative language in the set: subject, tense, object and relative
+markers are all prefixes inside the verb, so an entire English clause can land in
+a single slot — `They invited us.` → `Walitualika. {Vb}`, `I believe you.` →
+`Ninakuamini. {Vb}`. Adjectives and demonstratives follow their noun, so `Det`
+and `Adj` sit to the right of `Noun` (`gari lile {Noun,Det}`).
+
+- **negation is affixal** (si-, hu-, ha-), so a negated verb is one `Vb` slot and
+  `Negative` survives only on free words: `si` (negative copula), `kamwe`
+  (never), `wala` (nor), and the negative existential `hakuna / hakukuwa`
+  (`Hakuna viti vilivyobaki. {Negative,Noun,Vb}`)
+- **relative markers are infixed** (-ye-, -yo-, -o-), so the relativizer slot of
+  the English line simply isn't there: `The boy who won the race smiled.` →
+  `Mvulana aliyeshinda mbio alitabasamu. {Noun,Vb,Noun,Vb}`. Only the free-standing
+  `ambaye / ambapo / ambalo` gets `QuestionWord`, matching the English wh-relative
+- existential `kuna / kulikuwa` → `There`; `ku-` infinitives are part of the verb
+  word, so the infinitive `Conj` disappears the way Polish's does
+- `kama / ikiwa` and `isipokuwa` (unless) → `Condition`; `kwamba` (that) → `Conj`;
+  comparative `kuliko` and equative `kama` → `Prep` mirroring the source
+- genitive connectors (`wa / ya / la / cha / vya`) → `Prep`, possessives
+  (`yangu / yake`) → `Noun`; superlatives are the postposed adverb `zaidi` → `Adv`
+- the yes-no particle `Je` and the tag `sivyo?` → `QuestionWord`
+- multi-word connectives get one tag per word, mirroring English "because of":
+  `kwa sababu ya` → {Conj,Conj,Prep}
+
+### Japanese
+
+Japanese is written normally, **unspaced**, and the tags follow the sentence's
+morphemes left to right — there is no whitespace for `validate.js` to count, so
+these lines are the one place in the corpus where tag count is not machine-checked
+against the sentence. The segmentation the tags assume:
+
+- particles are their own slot and are tagged `Prep` by function — case and topic
+  (は が を に で と へ から まで より), genitive の, and the relational nouns that
+  follow it (上/中/後ろ/近く/ため) when they carry a preposition's meaning
+- verb inflection stays attached to its stem (`行きました` = one `Vb`), but these
+  split off: the negative auxiliary (ない / ません / ませんでした → `Negative`),
+  auxiliaries after て-form (`読んでいます` → {Vb,Vb}), the copula です/だ/でした
+  (`先生です` → {Noun,Vb}), and modal-ish tails (でしょう, かもしれません, ください)
+- い/な-adjectives are `Adj`, so a predicate adjective plus copula is {Adj,Vb}
+  (`スープは熱いです。 {Noun,Prep,Adj,Vb}`); potential verbs are a single `Vb`
+  (`泳げます`), and obligation 〜なければなりません is {Vb,Vb}
+- number+counter is one `Val` slot (三個, 二十歳, 三百メートル, 2019年)
+- interrogative-final か is `QuestionWord`, as are the wh-words (何 誰 どこ いつ
+  なぜ どう どの); sentence-final ね/よ are `Expr`, and they carry the English tag
+  questions ("…, doesn't she?" → `…ですね。 {…,Vb,Expr}`)
+- subordinators keep the English line's tag on the Japanese word that does the job:
+  もし and 〜ない限り → `Condition`, と/たとえ/とき/たび/間/ので/けれど/ため → `Conj`,
+  quotative と before 言う/思う → `Conj` like complementizer "that", 前 → `Conj` and
+  後 → `Prep` mirroring "before"/"after"
+- relative clauses have no relativizer, so the `Det`/`QuestionWord` slot of the
+  English line simply isn't there: `The book that she wrote is long.` →
+  `彼女が書いた本は長いです。 {Noun,Prep,Vb,Noun,Prep,Adj,Vb}`
+- `There` does not survive: あります/います are tagged by their own structure
 
 ## Conventions
 

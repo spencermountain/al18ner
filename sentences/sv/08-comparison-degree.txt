@@ -1,0 +1,100 @@
+Han är längre än sin bror. {Noun,Vb,Adj,Prep,Noun,Noun}
+Denna låda är tyngre än den andra. {Det,Noun,Vb,Adj,Prep,Det,Val}
+Vintern är kallare än hösten. {Noun,Vb,Adj,Prep,Noun}
+Min bil är äldre än din. {Noun,Noun,Vb,Adj,Prep,Noun}
+Hon springer fortare än jag. {Noun,Vb,Adj,Prep,Noun}
+Provet var svårare än läxan. {Noun,Vb,Adj,Prep,Noun}
+Idag är varmare än igår. {Date,Vb,Adj,Prep,Date}
+Denna väg är kortare än motorvägen. {Det,Noun,Vb,Adj,Prep,Noun}
+Hennes hår är längre än mitt. {Noun,Noun,Vb,Adj,Prep,Noun}
+Den blå skjortan är billigare än den röda. {Det,Adj,Noun,Vb,Adj,Prep,Det,Adj}
+Han är yngre än sin syster. {Noun,Vb,Adj,Prep,Noun,Noun}
+Andra halvlek var bättre än den första. {Val,Noun,Vb,Adj,Prep,Det,Val}
+Tåg är säkrare än bilar. {Noun,Vb,Adj,Prep,Noun}
+Min soppa är hetare än din. {Noun,Noun,Vb,Adj,Prep,Noun}
+Rummet blev tyst. {Noun,Vb,Adj}
+Filmen var mer intressant än boken. {Noun,Vb,Adv,Adj,Prep,Noun}
+Detta pussel är svårare än det ser ut. {Det,Noun,Vb,Adj,Prep,Noun,Vb,Vb}
+Hennes plan var mer praktisk än hans. {Noun,Noun,Vb,Adv,Adj,Prep,Noun}
+Staden är livligare på sommaren. {Noun,Vb,Adj,Prep,Noun}
+Denna stol är bekvämare än soffan. {Det,Noun,Vb,Adj,Prep,Noun}
+Han talade långsammare än vanligt. {Noun,Vb,Adv,Prep,Adj}
+Hon sjunger vackrare än någon annan. {Noun,Vb,Adv,Prep,Noun,Noun}
+Vädret var sämre än förra året. {Noun,Vb,Adj,Prep,Adj,Date}
+Detta är stadens bästa pizza. {Det,Vb,Noun,Adj,Noun}
+Hon är den längsta flickan i klassen. {Noun,Vb,Det,Adj,Noun,Prep,Noun}
+Det var den värsta stormen på flera år. {Noun,Vb,Det,Adj,Noun,Prep,Adj,Noun}
+Han är den snabbaste löparen i laget. {Noun,Vb,Det,Adj,Noun,Prep,Noun}
+Detta är den dyraste klockan. {Det,Vb,Det,Adj,Noun}
+Hon köpte den billigaste biljetten. {Noun,Vb,Det,Adj,Noun}
+Det var mitt livs lyckligaste dag. {Noun,Vb,Noun,Noun,Adj,Noun}
+Den äldsta byggnaden är kyrkan. {Det,Adj,Noun,Vb,Noun}
+Han berättade det roligaste skämtet. {Noun,Vb,Det,Adj,Noun}
+Detta är stadens vackraste trädgård. {Det,Vb,Noun,Adj,Noun}
+Hon är den smartaste eleven i skolan. {Noun,Vb,Det,Adj,Noun,Prep,Noun}
+Det enklaste svaret är ofta rätt. {Det,Adj,Noun,Vb,Adv,Adj}
+Hon är lika lång som sin syster. {Noun,Vb,Prep,Adj,Prep,Noun,Noun}
+Vattnet är lika klart som glas. {Noun,Vb,Prep,Adj,Prep,Noun}
+Han är lika envis som en åsna. {Noun,Vb,Prep,Adj,Prep,Det,Noun}
+Rummet var lika tyst som ett bibliotek. {Noun,Vb,Prep,Adj,Prep,Det,Noun}
+Hennes händer var lika kalla som is. {Noun,Noun,Vb,Prep,Adj,Prep,Noun}
+Denna väska är inte så tung som den ser ut. {Det,Noun,Vb,Negative,Prep,Adj,Prep,Noun,Vb,Vb}
+Lådan var för tung att lyfta. {Noun,Vb,Adv,Adj,Conj,Vb}
+Kaffet är för hett att dricka. {Noun,Vb,Adv,Adj,Conj,Vb}
+Han är gammal nog att köra. {Noun,Vb,Adj,Adv,Conj,Vb}
+Vattnet är varmt nog för att bada. {Noun,Vb,Adj,Adv,Prep,Conj,Vb}
+Det är för tidigt för middag. {Noun,Vb,Adv,Adj,Prep,Noun}
+Hon är för upptagen för att prata. {Noun,Vb,Adv,Adj,Prep,Conj,Vb}
+Hyllan är för hög att nå. {Noun,Vb,Adv,Adj,Conj,Vb}
+Vi har tillräckligt med stolar åt alla. {Noun,Vb,Adj,Prep,Noun,Prep,Noun}
+Hon är mycket glad. {Noun,Vb,Adv,Adj}
+Lådan är ganska tung. {Noun,Vb,Adv,Adj}
+Han var riktigt trött. {Noun,Vb,Adv,Adj}
+Soppan är extremt het. {Noun,Vb,Adv,Adj}
+Det var så kallt. {Noun,Vb,Adv,Adj}
+Filmen var ganska långsam. {Noun,Vb,Adv,Adj}
+Jag är tämligen säker. {Noun,Vb,Adv,Adj}
+Stigen är något brant. {Noun,Vb,Adv,Adj}
+Hon blev djupt rörd. {Noun,Vb,Adv,Vb}
+Instruktionerna var rätt tydliga. {Noun,Vb,Adv,Adj}
+Det sitter en katt på taket. {There,Vb,Det,Noun,Prep,Noun}
+Det finns fem ägg i kylen. {There,Vb,Val,Noun,Prep,Noun}
+Det var en storm igår kväll. {There,Vb,Det,Noun,Adj,Noun}
+Det var många människor på festen. {There,Vb,Adj,Noun,Prep,Noun}
+Det finns ett meddelande till dig. {There,Vb,Det,Noun,Prep,Noun}
+Det finns två sätt att lösa detta. {There,Vb,Val,Noun,Conj,Vb,Det}
+Det fanns ingenting i lådan. {There,Vb,Noun,Prep,Noun}
+Det står någon vid dörren. {There,Vb,Noun,Prep,Noun}
+Det finns gott om alternativ. {There,Vb,Noun,Prep,Noun}
+Det finns mjölk i kylen. {There,Vb,Noun,Prep,Noun}
+Det fanns få moln på himlen. {There,Vb,Det,Noun,Prep,Noun}
+Det sitter en spindel i badkaret. {There,Vb,Det,Noun,Prep,Noun}
+Det finns tre hus på denna gata. {There,Vb,Val,Noun,Prep,Det,Noun}
+Det var en lång kö vid bageriet. {There,Vb,Det,Adj,Noun,Prep,Noun}
+Det finns alltid en ny chans. {There,Vb,Adv,Det,Adj,Noun}
+De flesta håller med. {Det,Adj,Vb,Vb}
+Många elever klarade provet. {Adj,Noun,Vb,Noun}
+Vissa fåglar kan inte flyga. {Det,Noun,Vb,Negative,Vb}
+Varje spelare får en tur. {Det,Noun,Vb,Det,Noun}
+Varje plats var upptagen. {Det,Noun,Vb,Vb}
+Båda svaren är rätt. {Det,Noun,Vb,Adj}
+Flera fönster var öppna. {Det,Noun,Vb,Adj}
+Få människor känner till denna hemlighet. {Det,Noun,Vb,Vb,Det,Noun}
+Mycket tid har gått. {Det,Noun,Vb,Vb}
+Alla kakorna är slut. {Noun,Noun,Vb,Vb}
+Halva klassen var frånvarande. {Val,Noun,Vb,Adj}
+De flesta av gästerna gick tidigt. {Det,Adj,Prep,Noun,Vb,Adv}
+Kaffet är starkt nog. {Noun,Vb,Adj,Adv}
+Hon missade nästan bussen. {Noun,Vb,Adv,Noun}
+Tanken är nästan full. {Noun,Vb,Adv,Adj}
+Jag glömde helt bort. {Noun,Vb,Adv,Vb}
+Han sov knappt. {Noun,Vb,Adv}
+Glaset är halvfullt. {Noun,Vb,Adj}
+Vi känner dem knappt. {Noun,Vb,Noun,Adv}
+Historien är absolut sann. {Noun,Vb,Adv,Adj}
+Hennes svar var exakt rätt. {Noun,Noun,Vb,Adv,Adj}
+De två väskorna väger tio kilo. {Det,Val,Noun,Vb,Val,Noun}
+Hyran fördubblades förra året. {Noun,Vb,Adj,Date}
+Det är mycket kallare idag. {Noun,Vb,Adv,Adj,Date}
+Hon mår lite bättre. {Noun,Vb,Det,Adj}
+Kön rörde sig mycket långsamt. {Noun,Vb,Noun,Adv,Adv}

@@ -1,0 +1,100 @@
+Mtoto alilala. {Noun,Vb}
+Simu ililia. {Noun,Vb}
+Ndege huimba. {Noun,Vb}
+Mvua ilikoma. {Noun,Vb}
+Kila mtu alicheka. {Det,Noun,Vb}
+Injini iliwaka. {Noun,Vb}
+Theluji ilianguka. {Noun,Vb}
+Watoto walisubiri. {Noun,Vb}
+Kichwa kinaniuma. {Noun,Vb}
+Umati ulishangilia. {Noun,Vb}
+Mvulana alipiga mpira. {Noun,Vb,Noun}
+Anasoma gazeti. {Vb,Noun}
+Tom alifungua dirisha. {Noun,Vb,Noun}
+Paka alifukuza panya. {Noun,Vb,Noun}
+Tuliangalia filamu. {Vb,Noun}
+Aliandika barua. {Vb,Noun}
+Maria alioka keki. {Noun,Vb,Noun}
+Mkulima analisha kuku. {Noun,Vb,Noun}
+Nilipoteza funguo zangu. {Vb,Noun,Noun}
+Walijenga nyumba. {Vb,Noun}
+Alifunga mlango. {Vb,Noun}
+Mwalimu aliwasifu wanafunzi. {Noun,Vb,Noun}
+Alibeba masanduku. {Vb,Noun}
+Mhudumu alileta chakula chetu. {Noun,Vb,Noun,Noun}
+Nilisikia kelele. {Vb,Noun}
+Alijibu swali. {Vb,Noun}
+Mbwa alizika mfupa. {Noun,Vb,Noun}
+Tulisafisha jikoni. {Vb,Noun}
+Alirekebisha uvujaji. {Vb,Noun}
+Wanafunzi walitatua kitendawili. {Noun,Vb,Noun}
+Supu ni moto. {Noun,Vb,Adj}
+Anga lilikuwa kijivu. {Noun,Vb,Adj}
+Sauti yake ni laini. {Noun,Noun,Vb,Adj}
+Barabara zilikuwa tupu. {Noun,Vb,Adj}
+Nina njaa. {Vb,Noun}
+Wewe ni mkarimu. {Noun,Vb,Adj}
+Mtihani ulikuwa mgumu. {Noun,Vb,Adj}
+Mikono yake ilikuwa michafu. {Noun,Noun,Vb,Adj}
+Chumba kinahisi joto. {Noun,Vb,Noun}
+Hadithi inasikika ya ajabu. {Noun,Vb,Prep,Noun}
+Baba yangu ni daktari. {Noun,Noun,Vb,Noun}
+Yeye ni mhandisi. {Noun,Vb,Noun}
+Nyangumi ni mamalia. {Noun,Vb,Noun}
+Wao ni walimu. {Noun,Vb,Noun}
+Huu ni wimbo ninaoupenda zaidi. {Noun,Vb,Noun,Vb,Adv}
+Ile ilikuwa kosa. {Noun,Vb,Noun}
+Alikuwa wakili. {Vb,Noun}
+Jengo hili ni makumbusho. {Noun,Det,Vb,Noun}
+Zile zilikuwa siku za furaha. {Noun,Vb,Noun,Prep,Noun}
+Hii ni zawadi. {Noun,Vb,Noun}
+Alimpa kitabu. {Vb,Noun}
+Alimtumia postikadi. {Vb,Noun}
+Mwalimu alitusimulia hadithi. {Noun,Vb,Noun}
+Niliwaonyesha picha. {Vb,Noun}
+Mama alitutengenezea kifungua kinywa. {Noun,Vb,Noun,Noun}
+Alimpa lifti. {Vb,Noun}
+Aliifundisha darasa somo. {Vb,Noun,Noun}
+Walinikabidhi ripoti. {Vb,Noun}
+Alimnunulia mwanawe baiskeli. {Vb,Noun,Noun}
+Alimwandikia rafiki yake ujumbe. {Vb,Noun,Noun,Noun}
+Walimwita mtoto Lucy. {Vb,Noun,Noun}
+Tulimchagua kuwa nahodha. {Vb,Vb,Noun}
+Habari zilimfurahisha. {Noun,Vb}
+Alipaka uzio rangi nyeupe. {Vb,Noun,Noun,Adj}
+Filamu ilinichosha. {Noun,Vb}
+Mkia wa mbwa uliyumba. {Noun,Prep,Noun,Vb}
+Gari la Tom ni buluu. {Noun,Prep,Noun,Vb,Adj}
+Chumba cha dada yangu ni safi. {Noun,Prep,Noun,Noun,Vb,Adj}
+Meza ya mwalimu ilikuwa safi. {Noun,Prep,Noun,Vb,Adj}
+Paka wa Anna hulala siku nzima. {Noun,Prep,Noun,Vb,Date,Adj}
+Bustani ya jirani yetu inapendeza. {Noun,Prep,Noun,Noun,Vb}
+Timu ya kaka yake ilishinda. {Noun,Prep,Noun,Noun,Vb}
+Barabara za jiji zina shughuli. {Noun,Prep,Noun,Vb,Noun}
+Wazazi wake wanamiliki duka la mikate. {Noun,Noun,Vb,Noun,Prep,Noun}
+Nyumba yao ina paa jekundu. {Noun,Noun,Vb,Noun,Adj}
+Saa kongwe hugonga kwa sauti kubwa. {Noun,Adj,Vb,Prep,Noun,Adj}
+Msichana mdogo alipunga mkono. {Noun,Adj,Vb,Noun}
+Mwanamume mrefu alivaa koti jeusi. {Noun,Adj,Vb,Noun,Adj}
+Alinunua taa nzuri ya zamani. {Vb,Noun,Adj,Prep,Noun}
+Mbwa mdogo wa kahawia alibweka. {Noun,Adj,Prep,Noun,Vb}
+Alisimulia hadithi ya kuchekesha. {Vb,Noun,Prep,Noun}
+Barabara yenye shughuli ilikuwa na kelele. {Noun,Prep,Noun,Vb,Prep,Noun}
+Upepo mkali ulivuma. {Noun,Adj,Vb}
+Wanandoa vijana walitabasamu. {Noun,Adj,Vb}
+Mkate mpya unanukia vizuri. {Noun,Adj,Vb,Adv}
+Watoto walicheza michezo. {Noun,Vb,Noun}
+Majani yalifunika ardhi. {Noun,Vb,Noun}
+Wanawake walishirikiana mawazo. {Noun,Vb,Noun}
+Mchele unahitaji maji. {Noun,Vb,Noun}
+Muziki unajaza chumba. {Noun,Vb,Noun}
+Wanaume walihamisha samani. {Noun,Vb,Noun}
+Kahawa hunizuia kulala. {Noun,Vb,Vb}
+Bata walivuka barabara. {Noun,Vb,Noun}
+Majira ya baridi yalifika. {Noun,Prep,Noun,Vb}
+Msongamano unapunguza kila kitu. {Noun,Vb,Det,Noun}
+Anampenda. {Vb}
+Walitualika. {Vb}
+Ninakuamini. {Vb}
+Aliwashukuru. {Vb}
+Ilinishangaza. {Vb}

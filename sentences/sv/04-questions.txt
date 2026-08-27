@@ -1,0 +1,100 @@
+Dricker du kaffe? {Vb,Noun,Noun}
+Spelar hon tennis? {Vb,Noun,Noun}
+Vann de matchen? {Vb,Noun,Noun}
+Har vi tillräckligt med tid? {Vb,Noun,Adj,Prep,Noun}
+Talar han engelska? {Vb,Noun,Noun}
+Såg du matchen? {Vb,Noun,Noun}
+Säljer de frimärken? {Vb,Noun,Noun}
+Ringde hon tillbaka? {Vb,Noun,Vb}
+Kommer du ihåg mig? {Vb,Noun,Vb,Noun}
+Gjorde det ont? {Vb,Noun,Adj}
+Tillhör detta dig? {Vb,Det,Noun}
+Känner jag dig? {Vb,Noun,Noun}
+Är hon lärare? {Vb,Noun,Noun}
+Är du hungrig? {Vb,Noun,Adj}
+Var filmen bra? {Vb,Noun,Adj}
+Var de arga? {Vb,Noun,Adj}
+Regnar det? {Vb,Noun}
+Jobbar hon idag? {Vb,Noun,Date}
+Är denna plats upptagen? {Vb,Det,Noun,Adj}
+Har jag fel? {Vb,Noun,Noun}
+Finns det ett problem? {Vb,There,Det,Noun}
+Finns det några frågor? {Vb,There,Det,Noun}
+Har du ätit? {Vb,Noun,Vb}
+Har posten kommit? {Vb,Noun,Vb}
+Kan du hjälpa mig? {Vb,Noun,Vb,Noun}
+Kan du skicka saltet? {Vb,Noun,Vb,Noun}
+Får jag komma in? {Vb,Noun,Vb,Vb}
+Ska vi vänta? {Vb,Noun,Vb}
+Vill du följa med oss? {Vb,Noun,Vb,Vb,Noun}
+Skulle de hålla med? {Vb,Noun,Vb,Vb}
+Kan jag låna din penna? {Vb,Noun,Vb,Noun,Noun}
+Måste vi gå redan? {Vb,Noun,Vb,Adv}
+Vad hände? {QuestionWord,Vb}
+Vad heter du? {QuestionWord,Vb,Noun}
+Vad är klockan? {QuestionWord,Vb,Noun}
+Vad vill du ha? {QuestionWord,Vb,Noun,Vb}
+Vad sa hon? {QuestionWord,Vb,Noun}
+Vad gör du? {QuestionWord,Vb,Noun}
+Vilken färg har din bil? {QuestionWord,Noun,Vb,Noun,Noun}
+Vad står det på skylten? {QuestionWord,Vb,Noun,Prep,Noun}
+Vilken sorts musik gillar du? {QuestionWord,Noun,Noun,Vb,Noun}
+Vad orsakade det ljudet? {QuestionWord,Vb,Det,Noun}
+Vem ringde? {QuestionWord,Vb}
+Vem står vid dörren? {QuestionWord,Vb,Prep,Noun}
+Vem vill ha efterrätt? {QuestionWord,Vb,Vb,Noun}
+Vem berättade nyheten för dig? {QuestionWord,Vb,Noun,Prep,Noun}
+Vem bjöd du in? {QuestionWord,Vb,Noun,Vb}
+Vems rock är detta? {QuestionWord,Noun,Vb,Det}
+Vems tur är det? {QuestionWord,Noun,Vb,Noun}
+Vilken färg föredrar du? {QuestionWord,Noun,Vb,Noun}
+Vilken väg går till sjön? {QuestionWord,Noun,Vb,Prep,Noun}
+Vilken är billigast? {QuestionWord,Vb,Adj}
+Vem vann loppet? {QuestionWord,Vb,Noun}
+Vems väska ligger på bordet? {QuestionWord,Noun,Vb,Prep,Noun}
+Var är mina nycklar? {QuestionWord,Vb,Noun,Noun}
+Var bor du? {QuestionWord,Vb,Noun}
+Vart gick de? {QuestionWord,Vb,Noun}
+Var ligger stationen? {QuestionWord,Vb,Noun}
+När börjar matchen? {QuestionWord,Vb,Noun}
+När kom du? {QuestionWord,Vb,Noun}
+När fyller du år? {QuestionWord,Vb,Noun,Noun}
+Varför gick du? {QuestionWord,Vb,Noun}
+Varför är himlen blå? {QuestionWord,Vb,Noun,Adj}
+Varför skriker de? {QuestionWord,Vb,Noun}
+Hur hände detta? {QuestionWord,Vb,Det}
+Hur stavar man det? {QuestionWord,Vb,Noun,Det}
+Hur var din resa? {QuestionWord,Vb,Noun,Noun}
+Hur mår din mamma? {QuestionWord,Vb,Noun,Noun}
+Hur många äpplen har du? {QuestionWord,Adj,Noun,Vb,Noun}
+Hur mycket kostar det? {QuestionWord,Det,Vb,Noun}
+Hur gammal är din syster? {QuestionWord,Adj,Vb,Noun,Noun}
+Hur lång är flygresan? {QuestionWord,Adj,Vb,Noun}
+Hur långt är det till stranden? {QuestionWord,Adj,Vb,Noun,Prep,Noun}
+Hur ofta tränar du? {QuestionWord,Adv,Vb,Noun}
+Hur hög är den byggnaden? {QuestionWord,Adj,Vb,Det,Noun}
+Hur fort kan hon springa? {QuestionWord,Adj,Vb,Noun,Vb}
+Hon sjunger bra, eller hur? {Noun,Vb,Adv,Conj,QuestionWord}
+Han gick tidigt, eller hur? {Noun,Vb,Adv,Conj,QuestionWord}
+Det är kallt idag, eller hur? {Noun,Vb,Adj,Date,Conj,QuestionWord}
+Du kommer väl? {Noun,Vb,Adv}
+De bor i Boston, eller hur? {Noun,Vb,Prep,Noun,Conj,QuestionWord}
+Vi vann, eller hur? {Noun,Vb,Conj,QuestionWord}
+Vet du vart hon gick? {Vb,Noun,QuestionWord,Noun,Vb}
+Jag undrar varför han gick. {Noun,Vb,QuestionWord,Noun,Vb}
+Hon frågade om vi var redo. {Noun,Vb,Conj,Noun,Vb,Adj}
+Han frågade om det skulle regna. {Noun,Vb,Conj,Noun,Vb,Vb}
+Kan du berätta för mig hur det hände? {Vb,Noun,Vb,Prep,Noun,QuestionWord,Noun,Vb}
+Jag vet inte när de kommer. {Noun,Vb,Negative,QuestionWord,Noun,Vb}
+Vet du vad detta betyder? {Vb,Noun,QuestionWord,Det,Vb}
+Berätta vad du tycker. {Vb,QuestionWord,Noun,Vb}
+Jag frågade henne var biblioteket låg. {Noun,Vb,Noun,QuestionWord,Noun,Vb}
+Ingen vet vem som skrev det. {Noun,Vb,QuestionWord,Det,Vb,Noun}
+Vill du inte ha den? {Vb,Noun,Negative,Vb,Det}
+Fryser du inte? {Vb,Noun,Negative}
+Sa hon inte det till dig? {Vb,Noun,Negative,Det,Prep,Noun}
+Var inte det fantastiskt? {Vb,Negative,Det,Adj}
+Är någon hemma? {Vb,Noun,Adv}
+Är allt okej? {Vb,Noun,Adj}
+Har du någonsin provat yoga? {Vb,Noun,Adv,Vb,Noun}
+Hittade alla en plats? {Vb,Noun,Det,Noun}

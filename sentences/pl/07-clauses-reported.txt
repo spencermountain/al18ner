@@ -1,0 +1,100 @@
+Kupiła jabłka i pomarańcze. {Vb,Noun,Conj,Noun}
+Gra na gitarze i pianinie. {Vb,Prep,Noun,Conj,Noun}
+Spakowaliśmy koszule, skarpetki i buty. {Vb,Noun,Noun,Conj,Noun}
+Kot i pies są przyjaciółmi. {Noun,Conj,Noun,Vb,Noun}
+Możesz dostać herbatę lub kawę. {Vb,Vb,Noun,Conj,Noun}
+Czy jest niebieski czy zielony? {QuestionWord,Vb,Adj,Conj,Adj}
+Otworzyła drzwi i uśmiechnęła się. {Vb,Noun,Conj,Vb,Noun}
+Umył samochód i skosił trawnik. {Vb,Noun,Conj,Vb,Noun}
+Dzwoniłem, ale nikt nie odebrał. {Vb,Conj,Noun,Negative,Vb}
+Jedzenie było tanie ale smaczne. {Noun,Vb,Adj,Conj,Adj}
+Jest mała ale silna. {Vb,Adj,Conj,Adj}
+Chcieliśmy zostać, ale musieliśmy iść. {Vb,Vb,Conj,Vb,Vb}
+Pospiesz się, albo spóźnimy się na autobus. {Vb,Noun,Conj,Vb,Noun,Prep,Noun}
+Ani się nie uśmiechnął, ani nie odezwał. {Det,Noun,Negative,Vb,Conj,Negative,Vb}
+Albo ty, albo ja wygram. {Conj,Noun,Conj,Noun,Vb}
+Zarówno chłopcy, jak i dziewczyny wiwatowali. {Noun,Noun,Conj,Conj,Noun,Vb}
+Mówi po francusku i trochę po hiszpańsku. {Vb,Prep,Adv,Conj,Adj,Prep,Adv}
+Film był długi, ale nam się podobał. {Noun,Vb,Adj,Conj,Noun,Noun,Vb}
+Weź długopis i trochę papieru. {Vb,Noun,Conj,Det,Noun}
+Bardzo się starał, a jednak zawiódł. {Adv,Noun,Vb,Conj,Adv,Vb}
+Książka, którą napisała, jest długa. {Noun,Det,Vb,Vb,Adj}
+Kobieta, którą poznałem, była miła. {Noun,Det,Vb,Vb,Adj}
+Dom, który zbudowali, jest ogromny. {Noun,Det,Vb,Vb,Adj}
+Ciasto, które upiekłeś, było pyszne. {Noun,Det,Vb,Vb,Adj}
+Piosenka, którą zaśpiewała, wzruszyła mnie. {Noun,Det,Vb,Vb,Noun}
+Dziewczynka, której rower się zepsuł, płakała. {Noun,QuestionWord,Noun,Noun,Vb,Vb}
+Autor, którego książka wygrała, wygłosił wykład. {Noun,QuestionWord,Noun,Vb,Vb,Noun}
+Mężczyzna, któremu skradziono samochód, zadzwonił na policję. {Noun,QuestionWord,Vb,Noun,Vb,Prep,Noun}
+Odwiedziłem miasto, w którym się urodził. {Vb,Noun,Prep,QuestionWord,Noun,Vb}
+To jest miasteczko, w którym dorastała. {Noun,Vb,Noun,Prep,QuestionWord,Vb}
+Znaleźliśmy park, w którym dzieci mogą się bawić. {Vb,Noun,Prep,QuestionWord,Noun,Vb,Noun,Vb}
+Pamiętam dzień, kiedy się poznaliśmy. {Vb,Date,QuestionWord,Noun,Vb}
+Mężczyzna, który mieszka obok, jest miły. {Noun,QuestionWord,Vb,Adv,Vb,Adj}
+Kobieta, która dzwoniła, zostawiła wiadomość. {Noun,QuestionWord,Vb,Vb,Noun}
+Chłopiec, który wygrał wyścig, uśmiechnął się. {Noun,QuestionWord,Vb,Noun,Vb,Noun}
+Ludzie, którzy przyszli wcześnie, znaleźli miejsca. {Noun,QuestionWord,Vb,Adv,Vb,Noun}
+Dziewczynka, która znalazła portfel, oddała go. {Noun,QuestionWord,Vb,Noun,Vb,Noun}
+Film, który zdobył nagrodę, był długi. {Noun,QuestionWord,Vb,Noun,Vb,Adj}
+Droga, która przecina rzekę, jest wąska. {Noun,QuestionWord,Vb,Noun,Vb,Adj}
+List, który przyszedł dzisiaj, był od Toma. {Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
+Wszyscy, którzy przyszli, dobrze się bawili. {Noun,QuestionWord,Vb,Adv,Noun,Vb}
+Sąsiedzi, których zaprosiliśmy, przyszli pierwsi. {Noun,Det,Vb,Vb,Val}
+Narzędzia, które pożyczył, były zardzewiałe. {Noun,Det,Vb,Vb,Adj}
+Wyszła za mężczyznę, którego wszyscy podziwiali. {Vb,Prep,Noun,Det,Noun,Vb}
+Sukienka, którą wybrała, była idealna. {Noun,Det,Vb,Vb,Adj}
+Powiedział, że jest zmęczony. {Vb,Conj,Vb,Adj}
+Powiedziała, że to odwołano. {Vb,Conj,Det,Vb}
+Powiedzieli, że droga jest zamknięta. {Vb,Conj,Noun,Vb,Adj}
+Powiedział, że się przeprowadzi. {Vb,Conj,Noun,Vb}
+Powiedziała nam, że obiad jest gotowy. {Vb,Noun,Conj,Noun,Vb,Adj}
+Nauczyciel powiedział, że to było łatwe. {Noun,Vb,Conj,Det,Vb,Adj}
+Szepnął, że ona śpi. {Vb,Conj,Noun,Vb}
+Wyjaśniła, że się spóźnili. {Vb,Conj,Noun,Vb}
+Przyznał, że się mylił. {Vb,Conj,Noun,Vb}
+Obiecała, że pomoże. {Vb,Conj,Vb}
+Mówi, że to prawda. {Vb,Conj,Det,Noun}
+Słyszałem, że dostałeś nową pracę. {Vb,Conj,Vb,Adj,Noun}
+Wspomniała, że był zajęty. {Vb,Conj,Vb,Adj}
+Twierdził, że to bezpieczne. {Vb,Conj,Det,Adj}
+Ogłosili, że się zaczyna. {Vb,Conj,Noun,Vb}
+Myślę, że masz rację. {Vb,Conj,Vb,Noun}
+Mam nadzieję, że wygra. {Vb,Noun,Conj,Vb}
+Wierzy, że ziemia jest okrągła. {Vb,Conj,Noun,Vb,Adj}
+Wie, że odpowiedź jest błędna. {Vb,Conj,Noun,Vb,Adj}
+Chyba powinniśmy iść. {Adv,Vb,Vb}
+Uważa, że plan się nie powiedzie. {Vb,Conj,Noun,Noun,Negative,Vb}
+Zakładamy, że sklep jest otwarty. {Vb,Conj,Noun,Vb,Adj}
+Czuje, że drużyna może wygrać. {Vb,Conj,Noun,Vb,Vb}
+Założę się, że jutro spadnie śnieg. {Vb,Noun,Conj,Date,Vb,Noun}
+Mówią, że zamek jest nawiedzony. {Vb,Conj,Noun,Vb,Adj}
+Mój brat, który mieszka w Denver, przyjeżdża. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb}
+Dom, który był pusty, wydawał się zimny. {Noun,QuestionWord,Vb,Adj,Vb,Noun,Adj}
+Jej samochód, który był nowy, zepsuł się. {Noun,Noun,QuestionWord,Vb,Adj,Vb,Noun}
+Nasz nauczyciel, który mówi czterema językami, jest sławny. {Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
+Most, który zbudowano w 1900 roku, jest wciąż otwarty. {Noun,QuestionWord,Vb,Prep,Val,Date,Vb,Adv,Adj}
+Wiem, że jest zajęta. {Vb,Conj,Vb,Adj}
+Wydaje się, że ma rację. {Vb,Noun,Conj,Vb,Noun}
+Problem w tym, że się spóźniamy. {Noun,Prep,Det,Conj,Noun,Vb}
+Prawda jest taka, że możemy nigdy nie wiedzieć. {Noun,Vb,Det,Conj,Vb,Negative,Negative,Vb}
+Zapomniał, że było zamknięte. {Vb,Conj,Vb,Adj}
+Zauważyła, że było otwarte. {Vb,Conj,Vb,Adj}
+Pamiętaj, że wychodzimy o piątej. {Vb,Conj,Vb,Prep,Val}
+Wątpię, czy przyjdzie. {Vb,Conj,Vb}
+Zgodziliśmy się, że cena była uczciwa. {Vb,Noun,Conj,Noun,Vb,Adj}
+Wygląda na to, że miała rację. {Vb,Prep,Det,Conj,Vb,Noun}
+Odwiedziliśmy Rzym, Florencję i Wenecję. {Vb,Noun,Noun,Conj,Noun}
+Umie czytać, pisać i pływać. {Vb,Vb,Vb,Conj,Vb}
+Flaga jest czerwona, biała i niebieska. {Noun,Vb,Adj,Adj,Conj,Adj}
+Zamówił zupę, sałatkę i chleb. {Vb,Noun,Noun,Conj,Noun}
+Poranek był zimny, mokry i wietrzny. {Noun,Vb,Adj,Adj,Conj,Adj}
+Chwyciła płaszcz, czapkę i rękawiczki. {Vb,Noun,Noun,Conj,Noun}
+Czy chcesz ryż czy makaron? {QuestionWord,Vb,Noun,Conj,Noun}
+Ani kot, ani pies się nie ruszył. {Det,Noun,Conj,Noun,Noun,Negative,Vb}
+Możemy iść pieszo, albo możemy pojechać autobusem. {Vb,Vb,Adv,Conj,Vb,Vb,Noun}
+Zupa była gorąca, a chleb świeży. {Noun,Vb,Adj,Conj,Noun,Adj}
+Zapukał, a ona otworzyła drzwi. {Vb,Conj,Noun,Vb,Noun}
+Ucz się pilnie, a odniesiesz sukces. {Vb,Noun,Adv,Conj,Vb,Noun}
+Drużyna grała dobrze i zdobyła tytuł. {Noun,Vb,Adv,Conj,Vb,Noun}
+Ja piję herbatę, a moja siostra pije kawę. {Noun,Vb,Noun,Conj,Noun,Noun,Vb,Noun}
+Uśmiechnęła się i pomachała tłumowi. {Vb,Noun,Conj,Vb,Noun}

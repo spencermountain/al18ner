@@ -1,0 +1,100 @@
+Czy pijesz kawę? {QuestionWord,Vb,Noun}
+Czy ona gra w tenisa? {QuestionWord,Noun,Vb,Prep,Noun}
+Czy wygrali mecz? {QuestionWord,Vb,Noun}
+Czy mamy dość czasu? {QuestionWord,Vb,Adj,Noun}
+Czy on mówi po angielsku? {QuestionWord,Noun,Vb,Prep,Adv}
+Czy widziałeś mecz? {QuestionWord,Vb,Noun}
+Czy sprzedają znaczki? {QuestionWord,Vb,Noun}
+Czy oddzwoniła? {QuestionWord,Vb}
+Czy pamiętasz mnie? {QuestionWord,Vb,Noun}
+Czy bolało? {QuestionWord,Vb}
+Czy to należy do ciebie? {QuestionWord,Noun,Vb,Prep,Noun}
+Czy ja cię znam? {QuestionWord,Noun,Noun,Vb}
+Czy ona jest nauczycielką? {QuestionWord,Noun,Vb,Noun}
+Czy jesteś głodny? {QuestionWord,Vb,Adj}
+Czy film był dobry? {QuestionWord,Noun,Vb,Adj}
+Czy byli źli? {QuestionWord,Vb,Adj}
+Czy pada? {QuestionWord,Vb}
+Czy ona dziś pracuje? {QuestionWord,Noun,Date,Vb}
+Czy to miejsce jest zajęte? {QuestionWord,Det,Noun,Vb,Adj}
+Czy się mylę? {QuestionWord,Noun,Vb}
+Czy jest jakiś problem? {QuestionWord,Vb,Det,Noun}
+Czy są jakieś pytania? {QuestionWord,Vb,Det,Noun}
+Czy już jadłeś? {QuestionWord,Adv,Vb}
+Czy poczta przyszła? {QuestionWord,Noun,Vb}
+Czy możesz mi pomóc? {QuestionWord,Vb,Noun,Vb}
+Czy możesz podać sól? {QuestionWord,Vb,Vb,Noun}
+Czy mogę wejść? {QuestionWord,Vb,Vb}
+Czy powinniśmy poczekać? {QuestionWord,Vb,Vb}
+Czy dołączysz do nas? {QuestionWord,Vb,Prep,Noun}
+Czy zgodziliby się? {QuestionWord,Vb,Noun}
+Czy mogę pożyczyć twój długopis? {QuestionWord,Vb,Vb,Noun,Noun}
+Czy musimy już iść? {QuestionWord,Vb,Adv,Vb}
+Co się stało? {QuestionWord,Noun,Vb}
+Jak masz na imię? {QuestionWord,Vb,Prep,Noun}
+Która jest godzina? {QuestionWord,Vb,Noun}
+Czego chcesz? {QuestionWord,Vb}
+Co powiedziała? {QuestionWord,Vb}
+Co robisz? {QuestionWord,Vb}
+Jakiego koloru jest twój samochód? {QuestionWord,Noun,Vb,Noun,Noun}
+Co mówi ten znak? {QuestionWord,Vb,Det,Noun}
+Jaką muzykę lubisz? {QuestionWord,Noun,Vb}
+Co wydało ten dźwięk? {QuestionWord,Vb,Det,Noun}
+Kto dzwonił? {QuestionWord,Vb}
+Kto jest przy drzwiach? {QuestionWord,Vb,Prep,Noun}
+Kto chce deser? {QuestionWord,Vb,Noun}
+Kto powiedział ci nowinę? {QuestionWord,Vb,Noun,Noun}
+Kogo zaprosiłeś? {QuestionWord,Vb}
+Czyj to płaszcz? {QuestionWord,Det,Noun}
+Czyja to kolej? {QuestionWord,Det,Noun}
+Który kolor wolisz? {QuestionWord,Noun,Vb}
+Która droga prowadzi do jeziora? {QuestionWord,Noun,Vb,Prep,Noun}
+Który jest tańszy? {QuestionWord,Vb,Adj}
+Kto wygrał wyścig? {QuestionWord,Vb,Noun}
+Czyja torba leży na stole? {QuestionWord,Noun,Vb,Prep,Noun}
+Gdzie są moje klucze? {QuestionWord,Vb,Noun,Noun}
+Gdzie mieszkasz? {QuestionWord,Vb}
+Dokąd poszli? {QuestionWord,Vb}
+Gdzie jest dworzec? {QuestionWord,Vb,Noun}
+Kiedy zaczyna się mecz? {QuestionWord,Vb,Noun,Noun}
+Kiedy przyjechałeś? {QuestionWord,Vb}
+Kiedy masz urodziny? {QuestionWord,Vb,Noun}
+Dlaczego wyszedłeś? {QuestionWord,Vb}
+Dlaczego niebo jest niebieskie? {QuestionWord,Noun,Vb,Adj}
+Dlaczego oni krzyczą? {QuestionWord,Noun,Vb}
+Jak to się stało? {QuestionWord,Det,Noun,Vb}
+Jak to się pisze? {QuestionWord,Det,Noun,Vb}
+Jaka była twoja podróż? {QuestionWord,Vb,Noun,Noun}
+Jak się miewa twoja mama? {QuestionWord,Noun,Vb,Noun,Noun}
+Ile masz jabłek? {QuestionWord,Vb,Noun}
+Ile to kosztuje? {QuestionWord,Noun,Vb}
+Ile lat ma twoja siostra? {QuestionWord,Noun,Vb,Noun,Noun}
+Jak długo trwa lot? {QuestionWord,Adj,Vb,Noun}
+Jak daleko jest plaża? {QuestionWord,Adj,Vb,Noun}
+Jak często ćwiczysz? {QuestionWord,Adv,Vb}
+Jak wysoki jest tamten budynek? {QuestionWord,Adj,Vb,Det,Noun}
+Jak szybko ona biega? {QuestionWord,Adj,Noun,Vb}
+Ona ładnie śpiewa, prawda? {Noun,Adv,Vb,QuestionWord}
+Wyszedł wcześnie, prawda? {Vb,Adv,QuestionWord}
+Dziś jest zimno, prawda? {Date,Vb,Adj,QuestionWord}
+Przyjdziesz, prawda? {Vb,QuestionWord}
+Mieszkają w Bostonie, prawda? {Vb,Prep,Noun,QuestionWord}
+Wygraliśmy, prawda? {Vb,QuestionWord}
+Czy wiesz dokąd poszła? {QuestionWord,Vb,QuestionWord,Vb}
+Zastanawiam się dlaczego wyszedł. {Vb,Noun,QuestionWord,Vb}
+Zapytała czy jesteśmy gotowi. {Vb,Conj,Vb,Adj}
+Zapytał czy będzie padać. {Vb,Conj,Vb,Vb}
+Czy możesz mi powiedzieć jak to się stało? {QuestionWord,Vb,Noun,Vb,QuestionWord,Det,Noun,Vb}
+Nie wiem kiedy przyjadą. {Negative,Vb,QuestionWord,Vb}
+Czy wiesz co to znaczy? {QuestionWord,Vb,QuestionWord,Det,Vb}
+Powiedz mi co myślisz. {Vb,Noun,QuestionWord,Vb}
+Zapytałem ją gdzie jest biblioteka. {Vb,Noun,QuestionWord,Vb,Noun}
+Nikt nie wie kto to napisał. {Noun,Negative,Vb,QuestionWord,Det,Vb}
+Nie chcesz tego? {Negative,Vb,Det}
+Nie jest ci zimno? {Negative,Vb,Noun,Adj}
+Nie powiedziała ci? {Negative,Vb,Noun}
+Czy to nie było wspaniałe? {QuestionWord,Det,Negative,Vb,Adj}
+Czy ktoś jest w domu? {QuestionWord,Noun,Vb,Prep,Noun}
+Czy wszystko w porządku? {QuestionWord,Noun,Prep,Noun}
+Czy kiedykolwiek próbowałeś jogi? {QuestionWord,Adv,Vb,Noun}
+Czy wszyscy znaleźli miejsce? {QuestionWord,Noun,Vb,Noun}

@@ -1,0 +1,100 @@
+Funga mlango. {Vb,Noun}
+Fungueni vitabu vyenu. {Vb,Noun,Noun}
+Kaa chini. {Vb,Adv}
+Simama. {Vb}
+Karibu ndani. {Vb,Adv}
+Chukua kiti. {Vb,Noun}
+Nawa mikono. {Vb,Noun}
+Sikiliza kwa makini. {Vb,Prep,Noun}
+Nisubiri. {Vb}
+Chukua mwavuli wako. {Vb,Noun,Noun}
+Zima taa. {Vb,Noun}
+Weka sanduku rafuni. {Vb,Noun,Noun}
+Nisaidie. {Vb}
+Tusimulie hadithi. {Vb,Noun}
+Nipigie simu kesho. {Vb,Noun,Date}
+Nipe siagi. {Vb,Noun}
+Jaribu tena. {Vb,Adv}
+Baki na chenji. {Vb,Prep,Noun}
+Fuata gari lile. {Vb,Noun,Det}
+Ongea polepole. {Vb,Adv}
+Subiri kidogo. {Vb,Det}
+Angalia picha hii. {Vb,Noun,Det}
+Soma maelekezo kwanza. {Vb,Noun,Val}
+Pokea simu. {Vb,Noun}
+Mlishe paka kabla hujaondoka. {Vb,Noun,Conj,Vb}
+Usifungue sanduku lile. {Vb,Noun,Det}
+Usiogope. {Vb}
+Usisahau funguo zako. {Vb,Noun,Noun}
+Usisogee. {Vb}
+Usilishe wanyama. {Vb,Noun}
+Usiguse hilo. {Vb,Det}
+Usikate tamaa kamwe. {Vb,Noun,Negative}
+Usichelewe darasani. {Vb,Noun}
+Tafadhali funga dirisha. {Expr,Vb,Noun}
+Tafadhali vua viatu vyako. {Expr,Vb,Noun,Noun}
+Tafadhali subiri hapa. {Expr,Vb,Adv}
+Tafadhali kuwa kimya. {Expr,Vb,Adj}
+Tafadhali jihudumie. {Expr,Vb}
+Tafadhali andika jina lako chini. {Expr,Vb,Noun,Noun,Adv}
+Tafadhali nisamehe. {Expr,Vb}
+Tafadhali kuwa makini. {Expr,Vb,Adj}
+Twende nyumbani. {Vb,Noun}
+Tupumzike kidogo. {Vb,Det}
+Tuanze mkutano. {Vb,Noun}
+Tukutane kwenye mkahawa. {Vb,Prep,Noun}
+Tuombe. {Vb}
+Tusibishane. {Vb}
+Hujambo, jina langu ni Maria. {Expr,Noun,Noun,Vb,Noun}
+Hujambo, habari yako? {Expr,QuestionWord,Noun}
+Lo, ilikuwa ya kushangaza! {Expr,Vb,Prep,Noun}
+Ala, nimesahau funguo zangu. {Expr,Vb,Noun,Noun}
+Aa, iliuma! {Expr,Vb}
+Ndiyo, nakubali. {Expr,Vb}
+Hapana, asante. {Expr,Vb}
+Basi, tulijaribu. {Expr,Vb}
+Ee, angalia! {Expr,Vb}
+Pole, nimeiangusha. {Expr,Vb}
+Hoyee, tumeshinda! {Expr,Vb}
+Kwaheri, tutaonana kesho. {Expr,Vb,Date}
+Habari za asubuhi, wote. {Noun,Prep,Noun,Noun}
+Usiku mwema, lala salama. {Noun,Adj,Vb,Adv}
+Heri ya siku yako ya kuzaliwa! {Expr,Prep,Date,Noun,Prep,Vb}
+Hongera kwa kazi yako mpya! {Expr,Prep,Noun,Noun,Adj}
+Karibu nyumbani kwetu. {Vb,Noun,Noun}
+Samahani, je, kiti hiki ni wazi? {Expr,QuestionWord,Noun,Det,Vb,Adj}
+Asante kwa msaada wako. {Vb,Prep,Noun,Noun}
+Samahani, nimechelewa. {Adj,Vb}
+Bila shaka, unaweza kuja. {Adv,Noun,Vb,Vb}
+Ndiyo, tafadhali. {Expr,Expr}
+La, sina shida. {Expr,Vb,Noun}
+Mimi pia. {Noun,Adv}
+Nami pia. {Noun,Adv}
+Wala mimi. {Det,Noun}
+Nadhani hivyo. {Vb,Adv}
+Natumai hapana. {Vb,Negative}
+Labda kesho. {Adv,Date}
+Si sana. {Negative,Adv}
+Hakuna shida. {Expr,Noun}
+Sawa, umeshinda. {Adj,Vb}
+Kila la heri! {Det,Prep,Noun}
+Wote, tafadhali kaeni. {Noun,Expr,Vb}
+Watoto, chakula kiko tayari! {Noun,Noun,Vb,Adj}
+Angalia hatua yako. {Vb,Noun,Noun}
+Angalia pengo. {Vb,Noun}
+Nisaidie na mizigo hii. {Vb,Prep,Noun,Det}
+Harakisha, tumechelewa. {Vb,Vb}
+Kuwa makini. {Vb,Adj}
+Muwe na subira naye. {Vb,Prep,Noun,Noun}
+Tulia. {Vb}
+Furahia sherehe. {Vb,Noun}
+Nikutane nawe kwenye kona. {Vb,Noun,Prep,Noun}
+Pita njia ya pili. {Vb,Noun,Prep,Val}
+Angalia barua pepe yako. {Vb,Noun,Noun,Noun}
+Hifadhi kazi yako mara kwa mara. {Vb,Noun,Noun,Adv,Prep,Adv}
+Mwombe mwalimu wako msaada. {Vb,Noun,Noun,Noun}
+Ongeza vikombe viwili vya sukari. {Vb,Noun,Val,Prep,Noun}
+Kata karatasi vipande viwili. {Vb,Noun,Noun,Val}
+Changanya unga na mayai. {Vb,Noun,Conj,Noun}
+Acha ujumbe baada ya mlio. {Vb,Noun,Prep,Prep,Noun}
+Endesha kwa uangalifu. {Vb,Prep,Noun}

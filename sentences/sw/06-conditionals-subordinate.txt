@@ -1,0 +1,100 @@
+Kama mvua itanyesha, tutabaki nyumbani. {Condition,Noun,Vb,Vb,Noun}
+Kama utapasha barafu, itayeyuka. {Condition,Vb,Noun,Vb}
+Kama atapiga simu, mwambie ukweli. {Condition,Vb,Noun,Vb,Noun}
+Kama ningekuwa tajiri, ningesafiri. {Condition,Vb,Noun,Vb}
+Kama tutaondoka mapema, tutapata treni. {Condition,Vb,Adj,Vb,Noun}
+Kama utasoma, utafaulu. {Condition,Vb,Vb}
+Kama hali ya hewa itakuwa nzuri, tutatembea. {Condition,Noun,Prep,Noun,Vb,Adj,Vb}
+Kama angesoma, angefaulu. {Condition,Vb,Vb}
+Kama ningejua, ningesaidia. {Condition,Vb,Vb}
+Kama unahitaji kitu, niulize. {Condition,Vb,Noun,Vb}
+Kama theluji itaanguka, mabasi yatasimama. {Condition,Noun,Vb,Noun,Vb}
+Kama utamwona, msalimie. {Condition,Vb,Vb}
+Kama basi litachelewa, tutakosa onyesho. {Condition,Noun,Vb,Vb,Noun}
+Unaweza kuja kama unataka. {Vb,Vb,Condition,Vb}
+Tutaghairi picnic kama mvua itanyesha. {Vb,Noun,Condition,Noun,Vb}
+Nipigie simu kama utapotea. {Vb,Noun,Condition,Vb}
+Kama ni lazima, tunaweza kubadilisha tarehe. {Condition,Vb,Vb,Vb,Vb,Noun}
+Kama inawezekana, fika kabla ya saa mbili. {Condition,Vb,Vb,Conj,Prep,Noun,Val}
+Hata kama ataomba msamaha, hatamsamehe. {Conj,Condition,Vb,Noun,Vb}
+Nini kitatokea kama tutashindwa? {QuestionWord,Vb,Condition,Vb}
+Kama una shaka, uliza. {Condition,Vb,Noun,Vb}
+Kama taa ni nyekundu, simamisha gari. {Condition,Noun,Vb,Adj,Vb,Noun}
+Atasaidia kama utaomba kwa heshima. {Vb,Condition,Vb,Prep,Noun}
+Kama atakubali, tutasaini mkataba. {Condition,Vb,Vb,Noun}
+Isipokuwa mvua inyeshe, tutafanya picnic. {Condition,Noun,Vb,Vb,Noun}
+Isipokuwa uharakishe, tutachelewa. {Condition,Vb,Vb}
+Nitakwenda peke yangu isipokuwa ujiunge nami. {Vb,Adj,Noun,Condition,Vb,Noun}
+Isipokuwa aboreshe, atapoteza kazi. {Condition,Vb,Vb,Noun}
+Mvua inaponyesha, barabara hujaa maji. {Noun,Vb,Noun,Vb,Noun}
+Nilikuwa nikipika ulipopiga simu. {Vb,Vb,Vb,Noun}
+Kila anapotutembelea, tunaoka keki. {Conj,Vb,Vb,Noun}
+Kila anaposafiri, hutuma postikadi. {Conj,Vb,Vb,Noun}
+Ulipokuwa umelala, barua ilifika. {Vb,Vb,Noun,Vb}
+Alipokuwa akipika, alifuta meza. {Vb,Vb,Vb,Noun}
+Mara tu tulipofika, onyesho lilianza. {Conj,Conj,Vb,Noun,Vb}
+Mara tu atakapomaliza, tutaondoka. {Conj,Conj,Vb,Vb}
+Mtoto alipolala, tulisafisha nyumba. {Noun,Vb,Vb,Noun}
+Kwa sababu barabara ilikuwa na barafu, tuliendesha polepole. {Conj,Conj,Noun,Vb,Prep,Noun,Vb,Adv}
+Tulibaki nyumbani kwa sababu mvua ilikuwa ikinyesha. {Vb,Noun,Conj,Conj,Noun,Vb,Vb}
+Alitabasamu kwa sababu alijivunia. {Vb,Conj,Conj,Vb}
+Aliondoka kwa sababu alichoshwa. {Vb,Conj,Conj,Vb}
+Kwa sababu ya dhoruba, ndege ilicheleweshwa. {Conj,Conj,Prep,Noun,Noun,Vb}
+Ninamwamini kwa sababu ni mkweli. {Vb,Conj,Conj,Vb,Adj}
+Ingawa kulikuwa na baridi, tulikwenda kuogelea. {Conj,Vb,Prep,Noun,Vb,Vb}
+Ingawa alikuwa na usingizi, aliendelea kufanya kazi. {Conj,Vb,Prep,Noun,Vb,Vb,Noun}
+Ingawa ni kijana, ana busara. {Conj,Vb,Noun,Vb,Noun}
+Ingawa mtihani ulikuwa mgumu, kila mtu alifaulu. {Conj,Noun,Vb,Adj,Det,Noun,Vb}
+Alikuja kwenye sherehe ingawa alikuwa mgonjwa. {Vb,Prep,Noun,Conj,Vb,Adj}
+Ingawa tulishindwa, tulicheza vizuri. {Conj,Vb,Vb,Adv}
+Aliendelea kukimbia ingawa miguu yake iliuma. {Vb,Vb,Conj,Noun,Noun,Vb}
+Ingawa mvua ilinyesha, mchezo uliendelea. {Conj,Noun,Vb,Noun,Vb}
+Alisoma kwa bidii, kwa hiyo alifaulu mtihani. {Vb,Prep,Noun,Conj,Conj,Vb,Noun}
+Ilikuwa usiku, kwa hiyo tuliondoka mapema. {Vb,Noun,Conj,Conj,Vb,Adv}
+Duka lilikuwa tupu, kwa hiyo tuliondoka. {Noun,Vb,Adj,Conj,Conj,Vb}
+Alikuwa na njaa, kwa hiyo alitengeneza sandwich. {Vb,Prep,Noun,Conj,Conj,Vb,Noun}
+Muziki ulikuwa mkubwa, kwa hiyo tulifunika masikio. {Noun,Vb,Adj,Conj,Conj,Vb,Noun}
+Nilikuwa na kiu, kwa hiyo nilikunywa juisi. {Vb,Prep,Noun,Conj,Conj,Vb,Noun}
+Tulisubiri hadi usiku wa manane. {Vb,Prep,Noun,Prep,Noun}
+Duka liko wazi hadi saa tatu. {Noun,Vb,Adj,Prep,Noun,Val}
+Maliza kazi yako kabla ya chakula cha jioni. {Vb,Noun,Noun,Conj,Prep,Noun,Prep,Noun}
+Baada ya filamu, tulikula kitindamlo. {Prep,Prep,Noun,Vb,Noun}
+Baada ya chakula cha mchana, walilala kidogo. {Prep,Prep,Noun,Prep,Noun,Vb,Det}
+Tuliondoka baada ya hotuba. {Vb,Prep,Prep,Noun}
+Piga mswaki kabla ya kulala. {Vb,Noun,Conj,Prep,Vb}
+Sherehe iliendelea baada ya machweo. {Noun,Vb,Prep,Prep,Noun}
+Baada ya kufika, filamu ilianza. {Prep,Prep,Vb,Noun,Vb}
+Baada ya kuhitimu, alihamia nchi za nje. {Prep,Prep,Vb,Vb,Noun,Prep,Noun}
+Ukishajua sheria, mchezo ni rahisi. {Vb,Noun,Noun,Vb,Adj}
+Baada ya kuondoka kwao, nyumba ilihisi kimya. {Prep,Prep,Vb,Noun,Noun,Vb,Adj}
+Aliuliza kama nilikuwa tayari. {Vb,Conj,Vb,Adj}
+Sijui kama atakuja. {Vb,Conj,Vb}
+Angalia kama chakula kiko tayari. {Vb,Conj,Noun,Vb,Adj}
+Alijiuliza kama hadithi ilikuwa kweli. {Vb,Conj,Noun,Vb,Adj}
+Iwe tutashinda au tutashindwa, ninajivunia. {Conj,Vb,Conj,Vb,Vb}
+Tangu 2020, anaendesha biashara ndogo. {Prep,Val,Vb,Noun,Adj}
+Tangu Jumatatu, mvua imenyesha kila siku. {Prep,Date,Noun,Vb,Det,Date}
+Wakati wa dhoruba, taa zilizimika. {Prep,Prep,Noun,Noun,Vb}
+Licha ya mvua, mchezo uliendelea. {Prep,Prep,Noun,Noun,Vb}
+Licha ya hofu yake, alitoa hotuba. {Prep,Prep,Noun,Noun,Vb,Noun}
+Bila ramani, tulipotea. {Prep,Noun,Vb}
+Kabla ya onyesho, tulikula chakula. {Conj,Prep,Noun,Vb,Noun}
+Tulipofika, chakula kilikuwa baridi. {Conj,Noun,Vb,Adj}
+Mapema zaidi, bora zaidi. {Adj,Det,Adj,Det}
+Popote anapokwenda, mbwa wake humfuata. {Conj,Vb,Noun,Noun,Vb}
+Yeyote atakayefika kwanza atapata zawadi. {Conj,Vb,Val,Vb,Noun}
+Kila mahali tulipotazama, tuliona maua. {Det,Adv,Vb,Vb,Noun}
+Anajifanya kana kwamba anamiliki mahali hapa. {Vb,Conj,Conj,Vb,Noun,Det}
+Inaonekana kana kwamba theluji itaanguka. {Vb,Conj,Conj,Noun,Vb}
+Huimba anapopika. {Vb,Vb}
+Usiku ulipoingia, jiji liliangaza. {Noun,Vb,Noun,Vb}
+Anajifanya kana kwamba hakuna kilichotokea. {Vb,Conj,Conj,Negative,Vb}
+Chukua mwavuli ikiwa mvua itanyesha. {Vb,Noun,Conj,Noun,Vb}
+Tuliondoka mapema ili tupate maegesho. {Vb,Adv,Conj,Vb,Noun}
+Mbwa alibweka kila kengele iliposikika. {Noun,Vb,Conj,Noun,Vb}
+Kama utaivunja, utailipa. {Condition,Vb,Vb}
+Kama nitasahau, nikumbushe. {Condition,Vb,Vb}
+Chukua koti ikiwa kutakuwa na baridi. {Vb,Noun,Conj,Vb,Prep,Noun}
+Ingawa aliomba msamaha, alibaki na hasira. {Conj,Vb,Noun,Vb,Prep,Noun}
+Kwa sababu tulifika kwa kuchelewa, tulikosa hotuba. {Conj,Conj,Vb,Prep,Vb,Vb,Noun}
+Kama kila kitu kitakwenda vizuri, tutanunua nyumba. {Condition,Det,Noun,Vb,Adv,Vb,Noun}

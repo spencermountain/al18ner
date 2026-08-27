@@ -1,0 +1,100 @@
+Dziecko spało. {Noun,Vb}
+Telefon zadzwonił. {Noun,Vb}
+Ptaki śpiewają. {Noun,Vb}
+Deszcz ustał. {Noun,Vb}
+Wszyscy się śmiali. {Noun,Noun,Vb}
+Silnik zapalił. {Noun,Vb}
+Śnieg padał. {Noun,Vb}
+Dzieci czekały. {Noun,Vb}
+Boli mnie głowa. {Vb,Noun,Noun}
+Tłum wiwatował. {Noun,Vb}
+Chłopiec kopnął piłkę. {Noun,Vb,Noun}
+Ona czyta gazetę. {Noun,Vb,Noun}
+Tom otworzył okno. {Noun,Vb,Noun}
+Kot gonił mysz. {Noun,Vb,Noun}
+Obejrzeliśmy film. {Vb,Noun}
+Napisał list. {Vb,Noun}
+Maria upiekła ciasto. {Noun,Vb,Noun}
+Rolnik karmi kury. {Noun,Vb,Noun}
+Zgubiłem swoje klucze. {Vb,Noun,Noun}
+Zbudowali dom. {Vb,Noun}
+Zamknęła drzwi. {Vb,Noun}
+Nauczyciel pochwalił uczniów. {Noun,Vb,Noun}
+Niósł pudła. {Vb,Noun}
+Kelner przyniósł nasze jedzenie. {Noun,Vb,Noun,Noun}
+Usłyszałem hałas. {Vb,Noun}
+Odpowiedziała na pytanie. {Vb,Prep,Noun}
+Pies zakopał kość. {Noun,Vb,Noun}
+Posprzątaliśmy kuchnię. {Vb,Noun}
+Naprawił przeciek. {Vb,Noun}
+Uczniowie rozwiązali zagadkę. {Noun,Vb,Noun}
+Zupa jest gorąca. {Noun,Vb,Adj}
+Niebo było szare. {Noun,Vb,Adj}
+Jej głos jest łagodny. {Noun,Noun,Vb,Adj}
+Ulice były puste. {Noun,Vb,Adj}
+Jestem głodny. {Vb,Adj}
+Jesteś miły. {Vb,Adj}
+Test był trudny. {Noun,Vb,Adj}
+Jego ręce były brudne. {Noun,Noun,Vb,Adj}
+W pokoju jest ciepło. {Prep,Noun,Vb,Adj}
+Ta historia brzmi dziwnie. {Det,Noun,Vb,Adv}
+Mój ojciec jest lekarzem. {Noun,Noun,Vb,Noun}
+Ona jest inżynierem. {Noun,Vb,Noun}
+Wieloryb jest ssakiem. {Noun,Vb,Noun}
+Oni są nauczycielami. {Noun,Vb,Noun}
+To moja ulubiona piosenka. {Noun,Noun,Adj,Noun}
+To był błąd. {Noun,Vb,Noun}
+Został prawnikiem. {Vb,Noun}
+Ten budynek to muzeum. {Det,Noun,Vb,Noun}
+To były szczęśliwe dni. {Noun,Vb,Adj,Noun}
+To jest prezent. {Noun,Vb,Noun}
+Dała mu książkę. {Vb,Noun,Noun}
+Wysłał jej pocztówkę. {Vb,Noun,Noun}
+Nauczyciel opowiedział nam historię. {Noun,Vb,Noun,Noun}
+Pokazałem im zdjęcia. {Vb,Noun,Noun}
+Mama zrobiła nam śniadanie. {Noun,Vb,Noun,Noun}
+Zaproponował jej podwiezienie. {Vb,Noun,Noun}
+Dała klasie nauczkę. {Vb,Noun,Noun}
+Podali mi raport. {Vb,Noun,Noun}
+Kupił synowi rower. {Vb,Noun,Noun}
+Napisała przyjaciółce liścik. {Vb,Noun,Noun}
+Nazwali dziecko Lucy. {Vb,Noun,Noun}
+Wybraliśmy ją kapitanem. {Vb,Noun,Noun}
+Ta wiadomość go ucieszyła. {Det,Noun,Noun,Vb}
+Pomalowała płot na biało. {Vb,Noun,Prep,Adv}
+Uznałem ten film za nudny. {Vb,Det,Noun,Prep,Adj}
+Ogon psa merdał. {Noun,Noun,Vb}
+Samochód Toma jest niebieski. {Noun,Noun,Vb,Adj}
+Pokój mojej siostry jest posprzątany. {Noun,Noun,Noun,Vb,Adj}
+Biurko nauczyciela było czyste. {Noun,Noun,Vb,Adj}
+Kot Anny śpi cały dzień. {Noun,Noun,Vb,Adj,Date}
+Ogród naszego sąsiada wygląda pięknie. {Noun,Noun,Noun,Vb,Adv}
+Drużyna jego brata wygrała. {Noun,Noun,Noun,Vb}
+Ulice miasta są ruchliwe. {Noun,Noun,Vb,Adj}
+Jej rodzice mają piekarnię. {Noun,Noun,Vb,Noun}
+Ich dom ma czerwony dach. {Noun,Noun,Vb,Adj,Noun}
+Stary zegar tyka głośno. {Adj,Noun,Vb,Adv}
+Mała dziewczynka pomachała. {Adj,Noun,Vb}
+Wysoki mężczyzna miał czarny płaszcz. {Adj,Noun,Vb,Adj,Noun}
+Kupiła piękną starą lampę. {Vb,Adj,Adj,Noun}
+Mały brązowy pies szczekał. {Adj,Adj,Noun,Vb}
+Opowiedział zabawną historię. {Vb,Adj,Noun}
+Ruchliwa ulica była hałaśliwa. {Adj,Noun,Vb,Adj}
+Wiał silny wiatr. {Vb,Adj,Noun}
+Młoda para uśmiechnęła się. {Adj,Noun,Vb,Noun}
+Świeży chleb pachnie cudownie. {Adj,Noun,Vb,Adv}
+Dzieci grały w gry. {Noun,Vb,Prep,Noun}
+Liście pokryły ziemię. {Noun,Vb,Noun}
+Kobiety dzieliły się pomysłami. {Noun,Vb,Noun,Noun}
+Ryż potrzebuje wody. {Noun,Vb,Noun}
+Muzyka wypełnia pokój. {Noun,Vb,Noun}
+Mężczyźni przenieśli meble. {Noun,Vb,Noun}
+Kawa nie pozwala mi zasnąć. {Noun,Negative,Vb,Noun,Vb}
+Gęsi przeszły przez drogę. {Noun,Vb,Prep,Noun}
+Nadeszła zima. {Vb,Noun}
+Korki spowalniają wszystko. {Noun,Vb,Noun}
+Ona go lubi. {Noun,Noun,Vb}
+Zaprosili nas. {Vb,Noun}
+Wierzę ci. {Vb,Noun}
+Podziękował im. {Vb,Noun}
+To mnie zaskoczyło. {Noun,Noun,Vb}
