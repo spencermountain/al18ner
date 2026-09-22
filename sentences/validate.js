@@ -1,18 +1,33 @@
+/* eslint-disable no-console */
 // Validates a sentence-spec file: each line `<sentence> {Tag,Tag,...}`
 // checks line count, tag vocabulary, and tag count === token count.
 //   node sentences/validate.js sentences/fr/01-basics.txt fr
 // langs: en | fr | es | de | ru | pt | it | sv | pl | sw | ja
 // ja is unspaced: format, vocabulary and line count are checked, token count is not
-import fs from 'fs'
+import fs from 'node:fs'
 
-const VOCAB = new Set(['Noun', 'Vb', 'Det', 'Adj', 'Adv', 'Prep', 'Conj',
-  'QuestionWord', 'Negative', 'Val', 'Date', 'Expr', 'Condition', 'There'])
+const VOCAB = new Set([
+  'Noun',
+  'Vb',
+  'Det',
+  'Adj',
+  'Adv',
+  'Prep',
+  'Conj',
+  'QuestionWord',
+  'Negative',
+  'Val',
+  'Date',
+  'Expr',
+  'Condition',
+  'There'
+])
 
 // apostrophe-words that stay a single token
 const KEEP_WHOLE = new Set(["aujourd'hui", "quelqu'un", "quelqu'une", "o'clock"])
 
 const tokenize = function (text, lang) {
-  let s = text.replace(/['’]/g, "'").replace(/[«»„“”"—–…]/g, ' ')
+  const s = text.replace(/['’]/g, "'").replace(/[«»„“”"—–…]/g, ' ')
   const out = []
   for (let t of s.split(/\s+/).filter(Boolean)) {
     t = t.replace(/^[¿¡('\[]+/, '').replace(/[.,!?;:)\]']+$/, '')
@@ -29,8 +44,11 @@ const tokenize = function (text, lang) {
         continue
       }
       // english possessive 's is one term; contraction 's (let's, it's...) splits
-      if (lang === 'en' && /'s$/i.test(p) &&
-        !/^(let|it|she|he|that|what|there|who|here)'s$/i.test(p)) {
+      if (
+        lang === 'en' &&
+        /'s$/i.test(p) &&
+        !/^(let|it|she|he|that|what|there|who|here)'s$/i.test(p)
+      ) {
         out.push(p)
         continue
       }
@@ -46,7 +64,10 @@ const tokenize = function (text, lang) {
 
 const file = process.argv[2]
 const lang = process.argv[3] || 'en'
-const lines = fs.readFileSync(file, 'utf8').split('\n').filter(l => l.trim().length > 0)
+const lines = fs
+  .readFileSync(file, 'utf8')
+  .split('\n')
+  .filter((l) => l.trim().length > 0)
 let errs = 0
 if (lines.length !== 100) {
   console.log(`LINE COUNT: expected 100, got ${lines.length}`)
@@ -59,9 +80,9 @@ lines.forEach((line, i) => {
     errs += 1
     return
   }
-  const tags = m[2].split(',').map(s => s.trim())
-  const bad = tags.filter(t => !VOCAB.has(t))
-  if (bad.length) {
+  const tags = m[2].split(',').map((s) => s.trim())
+  const bad = tags.filter((t) => !VOCAB.has(t))
+  if (bad.length > 0) {
     console.log(`line ${i + 1}: unknown tag(s) [${bad.join(',')}]: ${line}`)
     errs += 1
   }

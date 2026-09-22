@@ -2,15 +2,15 @@
   "name": "al18ner",
   "version": "0.0.1",
   "description": "experimental cross-language word-alignment",
-  "main": "index.js",
+  "license": "MIT",
   "repository": "github:spencermountain/al18ner",
+  "author": "Spencer Kelly <spencermountain@gmail.com> (https://spencermountain.dev)",
+  "type": "module",
+  "main": "./index.js",
+  "sideEffects": false,
+  "packageManager": "pnpm@11.5.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ."
   },
-  "keywords": [],
-  "author": "Spencer Kelly <spencermountain@gmail.com> (https://spencermountain.dev)",
-  "license": "MIT",
-  "packageManager": "pnpm@11.5.0",
-  "type": "module"
+  "keywords": []
 }
