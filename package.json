@@ -10,7 +10,29 @@
   "sideEffects": false,
   "packageManager": "pnpm@11.5.0",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "tape 'test/??.js' | tap-dancer",
+    "test:score": "node test/score.js",
+    "test:en": "tape 'test/en.js' | tap-dancer",
+    "test:de": "tape 'test/de.js' | tap-dancer",
+    "test:es": "tape 'test/es.js' | tap-dancer",
+    "test:fr": "tape 'test/fr.js' | tap-dancer",
+    "test:it": "tape 'test/it.js' | tap-dancer",
+    "test:ja": "tape 'test/ja.js' | tap-dancer",
+    "test:pt": "tape 'test/pt.js' | tap-dancer",
+    "test:ru": "tape 'test/ru.js' | tap-dancer"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "compromise": "^14.17.0",
+    "de-compromise": "^0.1.1",
+    "es-compromise": "^0.3.1",
+    "fr-compromise": "^0.3.1",
+    "it-compromise": "^0.3.1",
+    "ja-compromise": "^0.1.0",
+    "pt-compromise": "^0.0.5",
+    "ru-compromise": "^0.0.4",
+    "tap-dancer": "^0.4.1",
+    "tape": "^5.10.2"
+  }
 }
