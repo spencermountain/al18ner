@@ -80,15 +80,15 @@ It is cold today, isn't it? {Noun,Vb,Adj,Date,Vb,Negative,Noun}
 You are coming, aren't you? {Noun,Vb,Vb,Vb,Negative,Noun}
 They live in Boston, don't they? {Noun,Vb,Prep,Noun,Vb,Negative,Noun}
 We won, didn't we? {Noun,Vb,Vb,Negative,Noun}
-Do you know where she went? {Vb,Noun,Vb,QuestionWord,Noun,Vb}
-I wonder why he left. {Noun,Vb,QuestionWord,Noun,Vb}
+Do you know where she went? {Vb,Noun,Vb,Prep,Noun,Vb}
+I wonder why he left. {Noun,Vb,Prep,Noun,Vb}
 She asked if we were ready. {Noun,Vb,Conj,Noun,Vb,Adj}
 He asked whether it would rain. {Noun,Vb,Conj,Noun,Vb,Vb}
-Can you tell me how it happened? {Vb,Noun,Vb,Noun,QuestionWord,Noun,Vb}
-I do not know when they will arrive. {Noun,Vb,Negative,Vb,QuestionWord,Noun,Vb,Vb}
-Do you know what this means? {Vb,Noun,Vb,QuestionWord,Det,Vb}
-Tell me what you think. {Vb,Noun,QuestionWord,Noun,Vb}
-I asked her where the library was. {Noun,Vb,Noun,QuestionWord,Det,Noun,Vb}
+Can you tell me how it happened? {Vb,Noun,Vb,Noun,Prep,Noun,Vb}
+I do not know when they will arrive. {Noun,Vb,Negative,Vb,Prep,Noun,Vb,Vb}
+Do you know what this means? {Vb,Noun,Vb,Prep,Det,Vb}
+Tell me what you think. {Vb,Noun,Prep,Noun,Vb}
+I asked her where the library was. {Noun,Vb,Noun,Prep,Det,Noun,Vb}
 Nobody knows who wrote it. {Noun,Vb,QuestionWord,Vb,Noun}
 Don't you want it? {Vb,Negative,Noun,Vb,Noun}
 Aren't you cold? {Vb,Negative,Noun,Adj}

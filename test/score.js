@@ -64,10 +64,19 @@ const format = (row, header = false, accuracy = null) => divider + ' ' + row.map
   if (i === 3) return color(cell === '0' ? '90' : '2;31', padded)
   return color('2', padded)
 }).join(` ${divider} `) + ' ' + divider
-process.stdout.write([
-  '', color('1', 'Sentence accuracy'),
-  color('90', 'Passing testSpec / total sentences'), '',
-  border('╭', '┬', '╮'), format(rows[0], true), border('├', '┼', '┤'),
-  ...rows.slice(1).map((row, i) => format(row, false, scores[i].accuracy)),
-  border('╰', '┴', '╯'), '',
-].join('\n') + '\n')
+process.stdout.write(
+  [
+    '',
+    color('1', 'Sentence accuracy'),
+    color('90', 'Passing testSpec / total sentences'),
+    '',
+    border('╭', '┬', '╮'),
+    format(rows[0], true),
+    border('├', '┼', '┤'),
+    ...rows.slice(1).map((row, i) => format(row, false, scores[i].accuracy)),
+    border('╰', '┴', '╯'),
+    ''
+  ]
+    .map((line) => (line ? `  ${line}` : line))
+    .join('\n') + '\n'
+)

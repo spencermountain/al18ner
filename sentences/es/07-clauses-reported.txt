@@ -26,19 +26,19 @@ La canción que ella cantó me hizo llorar. {Det,Noun,Det,Noun,Vb,Noun,Vb,Vb}
 La niña cuya bicicleta se rompió lloró. {Det,Noun,QuestionWord,Noun,Noun,Vb,Vb}
 El autor cuyo libro ganó dio una charla. {Det,Noun,QuestionWord,Noun,Vb,Vb,Det,Noun}
 El hombre cuyo carro fue robado llamó a la policía. {Det,Noun,QuestionWord,Noun,Vb,Vb,Vb,Prep,Det,Noun}
-Visité la ciudad donde él nació. {Vb,Det,Noun,QuestionWord,Noun,Vb}
-Este es el pueblo donde ella creció. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb}
-Encontramos un parque donde los niños pueden jugar. {Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
-Recuerdo el día cuando nos conocimos. {Vb,Det,Date,QuestionWord,Noun,Vb}
-El hombre que vive al lado es amable. {Det,Noun,QuestionWord,Vb,Prep,Noun,Vb,Adj}
-La mujer que llamó dejó un mensaje. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun}
-El niño que ganó la carrera sonrió. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb}
-Las personas que llegaron temprano encontraron asientos. {Det,Noun,QuestionWord,Vb,Adv,Vb,Noun}
-La niña que encontró la cartera la devolvió. {Det,Noun,QuestionWord,Vb,Det,Noun,Noun,Vb}
-La película que ganó el premio era larga. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-La carretera que cruza el río es angosta. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-La carta que llegó hoy era de Tom. {Det,Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
-Todos los que vinieron pasaron un buen rato. {Noun,Det,QuestionWord,Vb,Vb,Det,Adj,Noun}
+Visité la ciudad donde él nació. {Vb,Det,Noun,Pronoun,Noun,Vb}
+Este es el pueblo donde ella creció. {Det,Vb,Det,Noun,Pronoun,Noun,Vb}
+Encontramos un parque donde los niños pueden jugar. {Vb,Det,Noun,Pronoun,Det,Noun,Vb,Vb}
+Recuerdo el día cuando nos conocimos. {Vb,Det,Date,Conj,Noun,Vb}
+El hombre que vive al lado es amable. {Det,Noun,Conj,Vb,Prep,Noun,Vb,Adj}
+La mujer que llamó dejó un mensaje. {Det,Noun,Conj,Vb,Vb,Det,Noun}
+El niño que ganó la carrera sonrió. {Det,Noun,Conj,Vb,Det,Noun,Vb}
+Las personas que llegaron temprano encontraron asientos. {Det,Noun,Conj,Vb,Adv,Vb,Noun}
+La niña que encontró la cartera la devolvió. {Det,Noun,Conj,Vb,Det,Noun,Noun,Vb}
+La película que ganó el premio era larga. {Det,Noun,Conj,Vb,Det,Noun,Vb,Adj}
+La carretera que cruza el río es angosta. {Det,Noun,Conj,Vb,Det,Noun,Vb,Adj}
+La carta que llegó hoy era de Tom. {Det,Noun,Conj,Vb,Date,Vb,Prep,Noun}
+Todos los que vinieron pasaron un buen rato. {Noun,Det,Conj,Vb,Vb,Det,Adj,Noun}
 Los vecinos que invitamos llegaron primero. {Det,Noun,Det,Vb,Vb,Val}
 Las herramientas que él pidió prestadas estaban oxidadas. {Det,Noun,Det,Noun,Vb,Vb,Vb,Adj}
 Ella se casó con un hombre que todos admiraban. {Noun,Noun,Vb,Prep,Det,Noun,Det,Noun,Vb}
@@ -69,10 +69,10 @@ Ella siente que el equipo puede ganar. {Noun,Vb,Conj,Det,Noun,Vb,Vb}
 Apuesto a que mañana nieva. {Vb,Prep,Conj,Date,Vb}
 Dicen que el castillo está embrujado. {Vb,Conj,Det,Noun,Vb,Adj}
 Mi hermano, quien vive en Denver, está de visita. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Prep,Noun}
-La casa, que estaba vacía, se sentía fría. {Det,Noun,QuestionWord,Vb,Adj,Noun,Vb,Adj}
-Su carro, que era nuevo, se descompuso. {Noun,Noun,QuestionWord,Vb,Adj,Noun,Vb}
+La casa, que estaba vacía, se sentía fría. {Det,Noun,Conj,Vb,Adj,Noun,Vb,Adj}
+Su carro, que era nuevo, se descompuso. {Noun,Noun,Conj,Vb,Adj,Noun,Vb}
 Nuestro maestro, quien habla cuatro idiomas, es famoso. {Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
-El puente, que fue construido en 1900, sigue abierto. {Det,Noun,QuestionWord,Vb,Vb,Prep,Val,Vb,Adj}
+El puente, que fue construido en 1900, sigue abierto. {Det,Noun,Conj,Vb,Vb,Prep,Val,Vb,Adj}
 Sé que ella está ocupada. {Vb,Conj,Noun,Vb,Adj}
 Parece que él tiene razón. {Vb,Conj,Noun,Vb,Noun}
 El problema es que vamos tarde. {Det,Noun,Vb,Conj,Vb,Adv}

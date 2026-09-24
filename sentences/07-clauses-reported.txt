@@ -26,18 +26,18 @@ The song that she sang made me cry. {Det,Noun,Det,Noun,Vb,Vb,Noun,Vb}
 The girl whose bike broke cried. {Det,Noun,QuestionWord,Noun,Vb,Vb}
 The author whose book won gave a talk. {Det,Noun,QuestionWord,Noun,Vb,Vb,Det,Noun}
 The man whose car was stolen called the police. {Det,Noun,QuestionWord,Noun,Vb,Vb,Vb,Det,Noun}
-I visited the city where he was born. {Noun,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
-This is the town where she grew up. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
-We found a park where the kids can play. {Noun,Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
-I remember the day when we met. {Noun,Vb,Det,Date,QuestionWord,Noun,Vb}
-The man who lives next door is kind. {Det,Noun,QuestionWord,Vb,Adj,Noun,Vb,Adj}
-The woman who called left a message. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun}
-The boy who won the race smiled. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb}
-The people who came early found seats. {Det,Noun,QuestionWord,Vb,Adv,Vb,Noun}
-The girl who found the wallet returned it. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Noun}
-The movie which won the award was long. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-The road which crosses the river is narrow. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-The letter which arrived today was from Tom. {Det,Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
+I visited the city where he was born. {Noun,Vb,Det,Noun,Prep,Noun,Vb,Vb}
+This is the town where she grew up. {Det,Vb,Det,Noun,Prep,Noun,Vb,Vb}
+We found a park where the kids can play. {Noun,Vb,Det,Noun,Prep,Det,Noun,Vb,Vb}
+I remember the day when we met. {Noun,Vb,Det,Date,Prep,Noun,Vb}
+The man who lives next door is kind. {Det,Noun,Prep,Vb,Adj,Noun,Vb,Adj}
+The woman who called left a message. {Det,Noun,Prep,Vb,Vb,Det,Noun}
+The boy who won the race smiled. {Det,Noun,Prep,Vb,Det,Noun,Vb}
+The people who came early found seats. {Det,Noun,Prep,Vb,Adv,Vb,Noun}
+The girl who found the wallet returned it. {Det,Noun,Prep,Vb,Det,Noun,Vb,Noun}
+The movie which won the award was long. {Det,Noun,Prep,Vb,Det,Noun,Vb,Adj}
+The road which crosses the river is narrow. {Det,Noun,Prep,Vb,Det,Noun,Vb,Adj}
+The letter which arrived today was from Tom. {Det,Noun,Prep,Vb,Date,Vb,Prep,Noun}
 Everyone who came had a good time. {Noun,QuestionWord,Vb,Vb,Det,Adj,Noun}
 The neighbors that we invited arrived first. {Det,Noun,Det,Noun,Vb,Vb,Val}
 The tools that he borrowed were rusty. {Det,Noun,Det,Noun,Vb,Vb,Adj}

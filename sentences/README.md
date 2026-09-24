@@ -23,9 +23,11 @@ The boy kicked the ball. {Det,Noun,Vb,Det,Noun}
 | `09-prepositions-phrasals.txt` | prepositional phrases (place/time/instrument), phrasal verbs, gerunds, infinitives, catenatives |
 | `10-passives-values-dates.txt` | passives (be/get/modal/perfect), numbers, ordinals, money, ages, dates and times, hyphenated compounds, reflexives |
 
-100 lines each. Every line was validated against compromise v14.16.0: term counts match
-the tokenizer exactly (contractions and hyphenated words split), and 935/1000 lines pass
-`nlp.testSpec()` as-is.
+100 lines each. The original validation against compromise v14.16.0 checked term
+counts, including contractions and hyphenated words. After the clause-tag review,
+953/1,000 English lines pass with compromise v14.17.0. Run `npm run test:score`
+for current results. See [tagging-conventions.md](./tagging-conventions.md) for
+the reviewed corrections and remaining uncertainties across languages.
 
 ## Translations
 
@@ -63,7 +65,11 @@ the Russian copular em-dash), plus:
 - …except Russian, where hyphenated words are always ONE slot (`кто-то` → Noun,
   `из-за` → Prep, `по-английски` → Adv)
 
-**Tag carry-overs from the English conventions**: possessive determiners
+**Original translation assumptions (partially superseded)**: The following
+carry-overs describe how the corpus was initially constructed, not a universal
+contract for every language package. The relative-clause corrections in
+[tagging-conventions.md](./tagging-conventions.md) take precedence; unreviewed
+carry-overs may still need corrections. Possessive determiners
 (mon, mi, mein, мой, meu) → `Noun` like English "my"; reflexive and object
 clitics (se, me, lui, sich, lhe) → `Noun`; modals and auxiliaries → `Vb`;
 conditional si/wenn/если/se → `Condition` exactly where the English line tags
@@ -179,7 +185,13 @@ infinitive "to" → `Conj`, `n't` → `Negative`, ordinals and "first" → `Val`
 "before" → `Conj`, clause-initial "after/since/as" → `Prep`, quantifiers per
 compromise's lexicon (many → `Adj`, few/much → `Det`, half → `Val`/`Adj` by context).
 
-## Deliberate disagreements with the current tagger (65 lines)
+## Original disagreement analysis (historical)
+
+This section records the original v14.16.0 rationale. Its blanket interpretation
+of wh-relatives and embedded question words as `QuestionWord` was incorrect for
+compromise's conventions. Nineteen English expectations in those categories
+have now been corrected to `Prep`; the counts and conclusions below are not a
+current list of intentional failures. Remaining cases still require review.
 
 These lines keep the linguistically-correct tag where compromise v14.16.0 tags
 differently — each one fails `testSpec()` on exactly that word. The full list, with
@@ -214,7 +226,8 @@ compromise's actual output and the per-word diff for every line, is in
 To make the whole corpus pass the current tagger instead, the mechanical rewrite is:
 conditional `Condition` → `Conj`, the wh-words above → `Prep`, spatial preps → `Adj`,
 "no" → `Expr`, NP-"that" → `Det`, "here" → `Noun` — but the point of keeping them is
-that the corpus, not the tagger, is right on these.
+that expectations should be reviewed independently of tagger output. The wh-word
+cases demonstrate why documented package conventions must also be considered.
 
 ## Validating
 

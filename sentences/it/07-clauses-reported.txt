@@ -23,22 +23,22 @@ La donna che ho incontrato era simpatica. {Det,Noun,Det,Vb,Vb,Vb,Adj}
 La casa che hanno costruito è enorme. {Det,Noun,Det,Vb,Vb,Vb,Adj}
 La torta che hai fatto era deliziosa. {Det,Noun,Det,Vb,Vb,Vb,Adj}
 La canzone che lei ha cantato mi ha fatto piangere. {Det,Noun,Det,Noun,Vb,Vb,Noun,Vb,Vb,Vb}
-La ragazza la cui bici si è rotta ha pianto. {Det,Noun,Det,QuestionWord,Noun,Noun,Vb,Vb,Vb,Vb}
-L'autore il cui libro ha vinto ha tenuto una conferenza. {Det,Noun,Det,QuestionWord,Noun,Vb,Vb,Vb,Vb,Det,Noun}
-L'uomo la cui macchina è stata rubata ha chiamato la polizia. {Det,Noun,Det,QuestionWord,Noun,Vb,Vb,Vb,Vb,Vb,Det,Noun}
-Ho visitato la città dove lui è nato. {Vb,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
-Questo è il paese dove lei è cresciuta. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
-Abbiamo trovato un parco dove i bambini possono giocare. {Vb,Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
-Ricordo il giorno in cui ci siamo conosciuti. {Vb,Det,Date,Prep,QuestionWord,Noun,Vb,Vb}
-L'uomo che abita qui accanto è gentile. {Det,Noun,QuestionWord,Vb,Adv,Adv,Vb,Adj}
-La donna che ha chiamato ha lasciato un messaggio. {Det,Noun,QuestionWord,Vb,Vb,Vb,Vb,Det,Noun}
-Il ragazzo che ha vinto la gara ha sorriso. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun,Vb,Vb}
-Le persone che sono arrivate presto hanno trovato posto. {Det,Noun,QuestionWord,Vb,Vb,Adv,Vb,Vb,Noun}
-La ragazza che ha trovato il portafoglio lo ha restituito. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun,Noun,Vb,Vb}
-Il film che ha vinto il premio era lungo. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun,Vb,Adj}
-La strada che attraversa il fiume è stretta. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-La lettera che è arrivata oggi era di Tom. {Det,Noun,QuestionWord,Vb,Vb,Date,Vb,Prep,Noun}
-Tutti quelli che sono venuti si sono divertiti. {Noun,Det,QuestionWord,Vb,Vb,Noun,Vb,Vb}
+La ragazza la cui bici si è rotta ha pianto. {Det,Noun,Det,Pronoun,Noun,Noun,Vb,Vb,Vb,Vb}
+L'autore il cui libro ha vinto ha tenuto una conferenza. {Det,Noun,Det,Pronoun,Noun,Vb,Vb,Vb,Vb,Det,Noun}
+L'uomo la cui macchina è stata rubata ha chiamato la polizia. {Det,Noun,Det,Pronoun,Noun,Vb,Vb,Vb,Vb,Vb,Det,Noun}
+Ho visitato la città dove lui è nato. {Vb,Vb,Det,Noun,Adv,Noun,Vb,Vb}
+Questo è il paese dove lei è cresciuta. {Det,Vb,Det,Noun,Adv,Noun,Vb,Vb}
+Abbiamo trovato un parco dove i bambini possono giocare. {Vb,Vb,Det,Noun,Adv,Det,Noun,Vb,Vb}
+Ricordo il giorno in cui ci siamo conosciuti. {Vb,Det,Date,Prep,Pronoun,Noun,Vb,Vb}
+L'uomo che abita qui accanto è gentile. {Det,Noun,Conj,Vb,Adv,Adv,Vb,Adj}
+La donna che ha chiamato ha lasciato un messaggio. {Det,Noun,Conj,Vb,Vb,Vb,Vb,Det,Noun}
+Il ragazzo che ha vinto la gara ha sorriso. {Det,Noun,Conj,Vb,Vb,Det,Noun,Vb,Vb}
+Le persone che sono arrivate presto hanno trovato posto. {Det,Noun,Conj,Vb,Vb,Adv,Vb,Vb,Noun}
+La ragazza che ha trovato il portafoglio lo ha restituito. {Det,Noun,Conj,Vb,Vb,Det,Noun,Noun,Vb,Vb}
+Il film che ha vinto il premio era lungo. {Det,Noun,Conj,Vb,Vb,Det,Noun,Vb,Adj}
+La strada che attraversa il fiume è stretta. {Det,Noun,Conj,Vb,Det,Noun,Vb,Adj}
+La lettera che è arrivata oggi era di Tom. {Det,Noun,Conj,Vb,Vb,Date,Vb,Prep,Noun}
+Tutti quelli che sono venuti si sono divertiti. {Noun,Det,Conj,Vb,Vb,Noun,Vb,Vb}
 I vicini che abbiamo invitato sono arrivati per primi. {Det,Noun,Det,Vb,Vb,Vb,Vb,Prep,Val}
 Gli attrezzi che lui ha preso in prestito erano arrugginiti. {Det,Noun,Det,Noun,Vb,Vb,Prep,Noun,Vb,Adj}
 Lei ha sposato un uomo che tutti ammiravano. {Noun,Vb,Vb,Det,Noun,Det,Noun,Vb}
@@ -68,11 +68,11 @@ Supponiamo che il negozio sia aperto. {Vb,Conj,Det,Noun,Vb,Adj}
 Lei sente che la squadra può vincere. {Noun,Vb,Conj,Det,Noun,Vb,Vb}
 Scommetto che domani nevica. {Vb,Conj,Date,Vb}
 Dicono che il castello sia infestato. {Vb,Conj,Det,Noun,Vb,Adj}
-Mio fratello, che vive a Denver, è in visita. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Prep,Noun}
-La casa, che era vuota, sembrava fredda. {Det,Noun,QuestionWord,Vb,Adj,Vb,Adj}
-La sua macchina, che era nuova, si è guastata. {Det,Noun,Noun,QuestionWord,Vb,Adj,Noun,Vb,Vb}
-Il nostro insegnante, che parla quattro lingue, è famoso. {Det,Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
-Il ponte, che è stato costruito nel 1900, è ancora aperto. {Det,Noun,QuestionWord,Vb,Vb,Vb,Prep,Val,Vb,Adv,Adj}
+Mio fratello, che vive a Denver, è in visita. {Noun,Noun,Conj,Vb,Prep,Noun,Vb,Prep,Noun}
+La casa, che era vuota, sembrava fredda. {Det,Noun,Conj,Vb,Adj,Vb,Adj}
+La sua macchina, che era nuova, si è guastata. {Det,Noun,Noun,Conj,Vb,Adj,Noun,Vb,Vb}
+Il nostro insegnante, che parla quattro lingue, è famoso. {Det,Noun,Noun,Conj,Vb,Val,Noun,Vb,Adj}
+Il ponte, che è stato costruito nel 1900, è ancora aperto. {Det,Noun,Conj,Vb,Vb,Vb,Prep,Val,Vb,Adv,Adj}
 So che lei è occupata. {Vb,Conj,Noun,Vb,Adj}
 Sembra che lui abbia ragione. {Vb,Conj,Noun,Vb,Noun}
 Il problema è che siamo in ritardo. {Det,Noun,Vb,Conj,Vb,Prep,Noun}

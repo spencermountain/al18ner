@@ -11,13 +11,13 @@ export function readCorpus(language) {
   const sourceDirectory = language === 'en' ? 'sentences' : `sentences/${language}`
   const directory = new URL(`../${sourceDirectory}/`, import.meta.url)
   const files = readdirSync(directory).filter(file => file.endsWith('.txt')).sort()
-  if (!files.length) throw new Error(`No sentence files found for ${language}`)
+  if (files.length === 0) throw new Error(`No sentence files found for ${language}`)
   return files.map(file => {
     const source = `${sourceDirectory}/${file}`
     const sentences = readFileSync(new URL(file, directory), 'utf8').split(/\r?\n/)
       .map((line, index) => ({ spec: line.trim(), line: index + 1 }))
       .filter(({ spec }) => spec.length > 0)
-    if (!sentences.length) throw new Error(`${source}: no sentences found`)
+    if (sentences.length === 0) throw new Error(`${source}: no sentences found`)
     return { source, sentences }
   })
 }
@@ -45,7 +45,7 @@ export function checkSpec(nlp, spec) {
         return
       }
       const missing = expected.filter(tag => !term.tags.has(aliases[tag] || tag))
-      if (missing.length) {
+      if (missing.length > 0) {
         const word = term.implicit || term.text
         const actual = term.tagRank?.[0] || 'Untagged'
         differences.push(`'${word}' #${actual}!=#${missing.join('|#')}`)
@@ -54,7 +54,7 @@ export function checkSpec(nlp, spec) {
     if (terms.length !== slots.length) {
       differences.push(`expected ${slots.length} terms, got ${terms.length}`)
     }
-    if (!differences.length) differences.push('tags align, but the sentence pattern did not match')
+    if (differences.length === 0) differences.push('tags align, but the sentence pattern did not match')
   }
   return { passed: !failing.found, sentence, differences }
 }

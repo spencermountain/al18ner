@@ -29,16 +29,16 @@ O homem cujo carro foi roubado chamou a polícia. {Det,Noun,QuestionWord,Noun,Vb
 Eu visitei a cidade onde ele nasceu. {Noun,Vb,Det,Noun,QuestionWord,Noun,Vb}
 Essa é a cidade onde ela cresceu. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb}
 Nós encontramos um parque onde as crianças podem brincar. {Noun,Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
-Eu lembro do dia em que nos conhecemos. {Noun,Vb,Prep,Date,Prep,QuestionWord,Noun,Vb}
-O homem que mora ao lado é gentil. {Det,Noun,QuestionWord,Vb,Prep,Noun,Vb,Adj}
-A mulher que ligou deixou um recado. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun}
-O menino que ganhou a corrida sorriu. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb}
-As pessoas que chegaram cedo encontraram lugares. {Det,Noun,QuestionWord,Vb,Adv,Vb,Noun}
-A menina que encontrou a carteira a devolveu. {Det,Noun,QuestionWord,Vb,Det,Noun,Noun,Vb}
-O filme que ganhou o prêmio era longo. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-A estrada que cruza o rio é estreita. {Det,Noun,QuestionWord,Vb,Det,Noun,Vb,Adj}
-A carta que chegou hoje era do Tom. {Det,Noun,QuestionWord,Vb,Date,Vb,Prep,Noun}
-Todos que vieram se divertiram. {Noun,QuestionWord,Vb,Noun,Vb}
+Eu lembro do dia em que nos conhecemos. {Noun,Vb,Prep,Date,Prep,Conj,Noun,Vb}
+O homem que mora ao lado é gentil. {Det,Noun,Conj,Vb,Prep,Noun,Vb,Adj}
+A mulher que ligou deixou um recado. {Det,Noun,Conj,Vb,Vb,Det,Noun}
+O menino que ganhou a corrida sorriu. {Det,Noun,Conj,Vb,Det,Noun,Vb}
+As pessoas que chegaram cedo encontraram lugares. {Det,Noun,Conj,Vb,Adv,Vb,Noun}
+A menina que encontrou a carteira a devolveu. {Det,Noun,Conj,Vb,Det,Noun,Noun,Vb}
+O filme que ganhou o prêmio era longo. {Det,Noun,Conj,Vb,Det,Noun,Vb,Adj}
+A estrada que cruza o rio é estreita. {Det,Noun,Conj,Vb,Det,Noun,Vb,Adj}
+A carta que chegou hoje era do Tom. {Det,Noun,Conj,Vb,Date,Vb,Prep,Noun}
+Todos que vieram se divertiram. {Noun,Conj,Vb,Noun,Vb}
 Os vizinhos que nós convidamos chegaram primeiro. {Det,Noun,Det,Noun,Vb,Vb,Val}
 As ferramentas que ele pegou emprestadas estavam enferrujadas. {Det,Noun,Det,Noun,Vb,Vb,Vb,Adj}
 Ela se casou com um homem que todos admiravam. {Noun,Noun,Vb,Prep,Det,Noun,Det,Noun,Vb}
@@ -68,11 +68,11 @@ Nós supomos que a loja está aberta. {Noun,Vb,Conj,Det,Noun,Vb,Adj}
 Ela sente que o time pode ganhar. {Noun,Vb,Conj,Det,Noun,Vb,Vb}
 Eu aposto que vai nevar amanhã. {Noun,Vb,Conj,Vb,Vb,Date}
 Dizem que o castelo é assombrado. {Vb,Conj,Det,Noun,Vb,Adj}
-Meu irmão, que mora em Denver, está nos visitando. {Noun,Noun,QuestionWord,Vb,Prep,Noun,Vb,Noun,Vb}
-A casa, que estava vazia, parecia fria. {Det,Noun,QuestionWord,Vb,Adj,Vb,Adj}
-O carro dela, que era novo, quebrou. {Det,Noun,Noun,QuestionWord,Vb,Adj,Vb}
-Nosso professor, que fala quatro línguas, é famoso. {Noun,Noun,QuestionWord,Vb,Val,Noun,Vb,Adj}
-A ponte, que foi construída em 1900, ainda está aberta. {Det,Noun,QuestionWord,Vb,Vb,Prep,Val,Adv,Vb,Adj}
+Meu irmão, que mora em Denver, está nos visitando. {Noun,Noun,Conj,Vb,Prep,Noun,Vb,Noun,Vb}
+A casa, que estava vazia, parecia fria. {Det,Noun,Conj,Vb,Adj,Vb,Adj}
+O carro dela, que era novo, quebrou. {Det,Noun,Noun,Conj,Vb,Adj,Vb}
+Nosso professor, que fala quatro línguas, é famoso. {Noun,Noun,Conj,Vb,Val,Noun,Vb,Adj}
+A ponte, que foi construída em 1900, ainda está aberta. {Det,Noun,Conj,Vb,Vb,Prep,Val,Adv,Vb,Adj}
 Eu sei que ela está ocupada. {Noun,Vb,Conj,Noun,Vb,Adj}
 Parece que ele tem razão. {Vb,Conj,Noun,Vb,Noun}
 O problema é que nós estamos atrasados. {Det,Noun,Vb,Conj,Noun,Vb,Adj}

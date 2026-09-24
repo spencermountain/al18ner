@@ -29,7 +29,7 @@ Der Mann, dessen Auto gestohlen wurde, rief die Polizei. {Det,Noun,QuestionWord,
 Ich besuchte die Stadt, wo er geboren wurde. {Noun,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
 Das ist der Ort, wo sie aufgewachsen ist. {Det,Vb,Det,Noun,QuestionWord,Noun,Vb,Vb}
 Wir fanden einen Park, wo die Kinder spielen können. {Noun,Vb,Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
-Ich erinnere mich an den Tag, als wir uns trafen. {Noun,Vb,Noun,Prep,Det,Date,QuestionWord,Noun,Noun,Vb}
+Ich erinnere mich an den Tag, als wir uns trafen. {Noun,Vb,Noun,Prep,Det,Date,Conj,Noun,Noun,Vb}
 Der Mann, der nebenan wohnt, ist nett. {Det,Noun,QuestionWord,Adv,Vb,Vb,Adj}
 Die Frau, die anrief, hinterließ eine Nachricht. {Det,Noun,QuestionWord,Vb,Vb,Det,Noun}
 Der Junge, der das Rennen gewann, lächelte. {Det,Noun,QuestionWord,Det,Noun,Vb,Vb}
